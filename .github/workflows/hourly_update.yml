@@ -2,7 +2,7 @@ name: Hourly M3U Update
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每整點執行一次
+    - cron: '0 */1 * * *'  # 每整點執行一次
   workflow_dispatch:      # 允許你在 GitHub 介面點擊按鈕手動執行
   push:
     branches: [ main, master ] # 當你修改程式碼並推送到分支時觸發

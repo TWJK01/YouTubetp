@@ -9,7 +9,7 @@ def get_video_id(url):
 
 def convert():
     # 如果原始檔案在 GitHub 上，也可以改成從網址讀取
-    input_file = "live_list.txt" 
+    input_file = "https://github.com/TWJK01/YouTube/raw/refs/heads/main/live_list.txt" 
     output_file = "playlist.m3u"
     
     try:

@@ -1,0 +1,36 @@
+name: Hourly M3U Update
+
+on:
+  schedule:
+    # 這裡設定每小時的第 0 分鐘執行一次 (UTC 時間)
+    - cron: '0 * * * *'
+  push:
+    paths:
+      - 'live_list.txt' # 當您手動更新清單時也會立即觸發
+  workflow_dispatch: # 允許您在網頁上手動點擊執行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 賦予寫入權限以便推送檔案
+
+    steps:
+      - name: 檢出代碼
+        uses: actions/checkout@v4
+
+      - name: 設置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 執行轉換腳本
+        run: python update_m3u.py
+
+      - name: 提交並推送檔案
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add playlist.m3u
+          # 只有在檔案有變動時才 commit，避免報錯
+          git diff --quiet && git diff --staged --quiet || (git commit -m "自動更新縮圖與清單: $(date)" && git push)

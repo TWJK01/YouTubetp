@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 * * * *'
   push:
+    branches: [ main ]  # 確保你的主分支名稱是 main (也可能是 master)
     paths:
       - 'live_list.txt'
   workflow_dispatch:
@@ -15,20 +16,28 @@ jobs:
       contents: write
 
     steps:
-      - name: 檢出代碼
+      - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 取得完整歷史以利推播
 
-      - name: 設置 Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: 執行轉換
+      - name: Run script
         run: python update_m3u.py
 
-      - name: 提交並推送
+      - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-refresh thumbnails" && git push)
+          # 檢查是否有變動，有的話才提交
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto-update playlist: $(date)"
+            git push origin main
+          else
+            echo "沒有偵測到變動，跳過推送。"
+          fi

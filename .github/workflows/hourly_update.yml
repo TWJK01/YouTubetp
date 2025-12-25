@@ -2,41 +2,40 @@ name: Hourly M3U Update
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # 每整點執行一次
-  workflow_dispatch:      # 允許你在 GitHub 介面點擊按鈕手動執行
+    - cron: '0 * * * *'  # 核心設定：每小時執行一次
+  workflow_dispatch:      # 保留手動執行按鈕，方便測試
   push:
-    branches: [ main, master ] # 當你修改程式碼並推送到分支時觸發
+    branches: [ main, master ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write    # 賦予 Action 寫入檔案並推送的權限
+      contents: write    # 必須開啟，否則無法把產出的 playlist.m3u 推送到倉庫
 
     steps:
-      - name: Checkout Repository
+      - name: 檢出代碼
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: 設置 Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Install Requests Library
+      - name: 安裝必要套件
         run: pip install requests
 
-      - name: Run Converter
+      - name: 執行轉換
         run: python update_m3u.py
 
-      - name: Commit and Push Changes
+      - name: 提交並推送更新
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add playlist.m3u
-          # 檢查是否有變動，有的話才提交推送
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Auto-update playlist: $(date)"
+            git commit -m "Auto-update: $(date)"
             git push
           else
-            echo "沒有內容變動，跳過提交。"
+            echo "內容無變動，跳過更新。"
           fi

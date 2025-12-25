@@ -20,8 +20,7 @@ def convert():
     source_url = "https://github.com/TWJK01/YouTube/raw/refs/heads/main/live_list.txt"
     output_file = "playlist.m3u"
     
-    print(f"--- 開始執行轉換 ---")
-    print(f"正在抓取來源: {source_url}")
+    print("--- 開始執行轉換 ---")
     
     try:
         r = requests.get(source_url, timeout=30)
@@ -33,9 +32,9 @@ def convert():
         print(f"抓取發生錯誤: {e}")
         return
 
-    # 寫入 M3U 開頭與最後更新時間戳記
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    m3u_content = f"#EXTM3U\n# Last Update: {now}\n"
+    # 寫入 M3U 開頭
+    update_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    m3u_content = f"#EXTM3U\n# Last Update: {update_time}\n"
     
     current_group = "其他"
     count = 0
@@ -48,9 +47,31 @@ def convert():
         # 1. 處理分類行 (例如：台灣,#genre#)
         if ",#genre#" in line:
             current_group = line.split(",")[0].strip()
-            print(f"設定分類為: {current_group}")
             continue
             
-        # 2. 處理頻道行 (例如：【標題】描述,網址)
+        # 2. 處理頻道行 (例如：標題,網址)
         if "," in line and "http" in line:
-            #
+            parts = line.rsplit(",", 1)
+            if len(parts) == 2:
+                title = parts[0].strip()
+                url = parts[1].strip()
+                video_id = get_video_id(url)
+                
+                # 組裝 M3U 資訊
+                if video_id:
+                    logo = f"https://img.youtube.com/vi/{video_id}/maxresdefault.jpg"
+                    m3u_content += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{current_group}",{title}\n'
+                else:
+                    m3u_content += f'#EXTINF:-1 group-title="{current_group}",{title}\n'
+                
+                m3u_content += f"{url}\n"
+                count += 1
+
+    # 存檔
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write(m3u_content)
+    
+    print(f"轉換完成！成功處理 {count} 個頻道。")
+
+if __name__ == "__main__":
+    convert()

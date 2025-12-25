@@ -6,7 +6,7 @@ on:
   push:
     branches: [ main ]  # 確保你的主分支名稱是 main (也可能是 master)
     paths:
-      - 'live_list.txt'
+      - 'https://github.com/TWJK01/YouTube/raw/refs/heads/main/live_list.txt'
   workflow_dispatch:
 
 jobs:

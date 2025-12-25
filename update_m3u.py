@@ -2,6 +2,7 @@ import re
 import os
 
 def get_video_id(url):
+    # 提取 YouTube ID (支援 watch?v=, live/, shorts/, youtu.be/)
     pattern = r"(?:v=|live\/|embed\/|youtu\.be\/|shorts\/)([a-zA-Z0-9_-]{11})"
     match = re.search(pattern, url)
     return match.group(1) if match else None
@@ -10,49 +11,35 @@ def convert():
     input_file = "https://github.com/TWJK01/YouTube/raw/refs/heads/main/live_list.txt"
     output_file = "playlist.m3u"
     
-    # 檢查原始檔案是否存在
     if not os.path.exists(input_file):
-        print(f"錯誤：找不到 {input_file}，建立空檔案以防止 Action 報錯。")
-        with open(output_file, "w", encoding="utf-8") as f:
-            f.write("#EXTM3U\n")
+        print("錯誤：找不到 live_list.txt")
         return
 
     with open(input_file, "r", encoding="utf-8") as f:
-        lines = f.readlines()
+        content = f.read()
 
-    m3u_content = "#EXTM3U\n"
-    current_group = "未分類"
+    # 使用正則表達式解析 M3U 的每一組頻道
+    # 匹配 #EXTINF 和緊接著的下一行 URL
+    pattern = re.compile(r'(#EXTINF:[^\n]+group-title="([^"]+)"[^,]+,([^\n]+))\n(http[^\n]+)')
+    matches = pattern.findall(content)
+
+    new_m3u = "#EXTM3U\n"
     count = 0
 
-    for line in lines:
-        line = line.strip()
-        if not line or line.startswith("#"):
-            continue
-        
-        if ",#genre#" in line:
-            current_group = line.split(",")[0].strip()
-            continue
-            
-        if "," in line:
-            try:
-                parts = line.split(",", 1)
-                title = parts[0].strip()
-                url = parts[1].strip()
-                
-                video_id = get_video_id(url)
-                if video_id:
-                    logo = f"https://img.youtube.com/vi/{video_id}/maxresdefault.jpg"
-                    m3u_content += f'#EXTINF:-1 tvg-id="" tvg-name="{title}" tvg-logo="{logo}" group-title="{current_group}",{title}\n'
-                    m3u_content += f"{url}\n"
-                    count += 1
-            except Exception as e:
-                print(f"跳過行 {line}: {e}")
+    for original_info, group, name, url in matches:
+        video_id = get_video_id(url.strip())
+        if video_id:
+            # 統一生成 YouTube 高清縮圖網址
+            logo = f"https://img.youtube.com/vi/{video_id}/maxresdefault.jpg"
+            # 重新組合成標準格式
+            new_m3u += f'#EXTINF:-1 tvg-id="" tvg-name="{name.strip()}" tvg-logo="{logo}" group-title="{group.strip()}",{name.strip()}\n'
+            new_m3u += f"{url.strip()}\n"
+            count += 1
 
-    # 強制寫入檔案，即使 count 為 0
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write(m3u_content)
+        f.write(new_m3u)
     
-    print(f"轉換完成！共處理 {count} 個頻道。檔案已寫入 {output_file}")
+    print(f"轉換完成！已處理 {count} 個頻道，並更新縮圖網址。")
 
 if __name__ == "__main__":
     convert()

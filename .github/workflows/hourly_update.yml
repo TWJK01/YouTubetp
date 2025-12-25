@@ -2,12 +2,10 @@ name: Hourly M3U Update
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # 每小時執行一次
+  workflow_dispatch:      # 允許手動點擊按鈕執行
   push:
-    branches: [ main ]  # 確保你的主分支名稱是 main (也可能是 master)
-    paths:
-      - 'https://github.com/TWJK01/YouTube/raw/refs/heads/main/live_list.txt'
-  workflow_dispatch:
+    branches: [ main ]    # 當你修改此工作流檔案時也執行
 
 jobs:
   build:
@@ -16,28 +14,29 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
+      - name: 檢出代碼
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # 取得完整歷史以利推播
 
-      - name: Set up Python
+      - name: 設置 Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Run script
+      - name: 安裝必要套件
+        run: pip install requests
+
+      - name: 執行轉換腳本
         run: python update_m3u.py
 
-      - name: Commit and Push
+      - name: 提交並推送更新
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add playlist.m3u
-          # 檢查是否有變動，有的話才提交
+          # 只有在檔案有變動時才提交，避免噴錯
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Auto-update playlist: $(date)"
-            git push origin main
+            git push
           else
-            echo "沒有偵測到變動，跳過推送。"
+            echo "沒有內容變動，跳過提交。"
           fi

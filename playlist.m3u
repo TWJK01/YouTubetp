@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2025-12-26 07:19:04
+# Last Update: 2025-12-26 08:22:36
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=kzBW-wA-U1A
 https://www.youtube.com/watch?v=mCrUfHPte50
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台視新聞台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ard28bxQCQE/maxresdefault.jpg" group-title="台灣",【中視新聞】新庶民大頭家
+https://www.youtube.com/watch?v=Ard28bxQCQE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7jh1D1j9aYU/maxresdefault.jpg" group-title="台灣",【中視新聞】藍白彈劾賴總統立院上演表決大戰
 https://www.youtube.com/watch?v=7jh1D1j9aYU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】台湾
@@ -22,16 +24,20 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News Live
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBm4ZTk9Wn4/maxresdefault.jpg" group-title="台灣",【民視新聞網】陸委會例行記者會梁文傑回應時事議題民視快新聞
+https://www.youtube.com/watch?v=IBm4ZTk9Wn4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映法譬如水
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映大愛劇新何處是我家
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映大愛學漢醫
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映大愛劇新何處是我家
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Nvox7q5BSGk/maxresdefault.jpg" group-title="台灣",【鏡新聞】政院拍板立委赴中許可制陸委會例行記者會
+https://www.youtube.com/watch?v=Nvox7q5BSGk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VHEEQGMQ-w8/maxresdefault.jpg" group-title="台灣",【鏡新聞】藍白喊彈劾總統賴清德韓國瑜主持立法院會
 https://www.youtube.com/watch?v=VHEEQGMQ-w8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】鏡新聞線上看小時新聞台湾時間放送
@@ -40,10 +46,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】東森新聞小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rKlELTIrCcY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】部長洪申翰開講年勞動新制全解析
-https://www.youtube.com/watch?v=rKlELTIrCcY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6AGCyY1ghkY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】北門站突爆巨響男子失控敲車窗車廂爆奔逃潮暴力暗示謝龍介造勢場合亮槍威脅人民吃子彈王偊菁主持三立新聞台
-https://www.youtube.com/watch?v=6AGCyY1ghkY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/i-pY8FpR5GI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】國台辦竟稱宏泰台人走私陸委會記者會
+https://www.youtube.com/watch?v=i-pY8FpR5GI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】祝你健康呷百二告別疲勞營養師教你招最有效的新陳代謝提升術祝你健康
 https://www.youtube.com/watch?v=AjJIcpk8mXc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nvr3wUZhlIY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】話時代人物精彩不斷電話時代人物
@@ -52,8 +56,10 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYRcgdx4cA8/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】元旦勞動部新制上路洪申翰記者會說明中天新聞
-https://www.youtube.com/watch?v=dYRcgdx4cA8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M9vmagpLNnQ/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】修社維法仇恨言論要罰管制立委赴陸半戒嚴成型賴清德彈劾案表決通過新竹市藍白合確定禮讓高虹安簡至豪報新聞中天電視
+https://www.youtube.com/watch?v=M9vmagpLNnQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xmClVngxZW0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】政院拍板兩岸條例修正立委公務員赴陸採強制列管陸委會例行記者會中天新聞
+https://www.youtube.com/watch?v=xmClVngxZW0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8BllMgn69hY/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】藍白彈劾賴總統立院院會拍板投票時間中天新聞
 https://www.youtube.com/watch?v=8BllMgn69hY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8gcAwbwBq18/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】度中天新聞
@@ -76,7 +82,9 @@ https://www.youtube.com/watch?v=Ej3LQM_lTEw
 https://www.youtube.com/watch?v=w87VGpgd90U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6IquAgfvYmc/maxresdefault.jpg" group-title="台灣",【寰宇新聞】寰宇新聞小時線上台湾時間配信中
 https://www.youtube.com/watch?v=6IquAgfvYmc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sJHnbjirVIw/maxresdefault.jpg" group-title="台灣",【udn video】憲訴法五大法官憲判譴責案藍白人數優勢逕付二讀
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mtORwLsv1lo/maxresdefault.jpg" group-title="台灣",【udn video】政院修法限制立委公務員赴陸陸委會最新說明
+https://www.youtube.com/watch?v=mtORwLsv1lo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sJHnbjirVIw/maxresdefault.jpg" group-title="台灣",【udn video】憲訴法五大法官憲判譴責案藍白人數優勢逕付二讀下午繼續審查青年發展基本法
 https://www.youtube.com/watch?v=sJHnbjirVIw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9DCc7d6gEMY/maxresdefault.jpg" group-title="台灣",【CNEWS匯流新聞網】立法院第會期第次會議國民黨建請院會決議憲法法庭判憲訴法違憲
 https://www.youtube.com/watch?v=9DCc7d6gEMY
@@ -90,8 +98,6 @@ https://www.youtube.com/watch?v=1I2iq41Akmo
 https://www.youtube.com/watch?v=AEBeWMM1atA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7G62ua4RruQ/maxresdefault.jpg" group-title="台灣",【寰宇財經新聞】寰宇新聞財經台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=7G62ua4RruQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qw-MlxXgOIc/maxresdefault.jpg" group-title="台灣",【非凡電視】年勞工新制勞動部記者會
-https://www.youtube.com/watch?v=qw-MlxXgOIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eA6Aczd3FZM/maxresdefault.jpg" group-title="台灣",【非凡電視】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導
 https://www.youtube.com/watch?v=eA6Aczd3FZM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xLqt2p6Dowo/maxresdefault.jpg" group-title="台灣",【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導
@@ -294,8 +300,8 @@ https://www.youtube.com/watch?v=ATiJ3ihQuP8
 https://www.youtube.com/watch?v=E_E80UC2gek
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QHq7bxXccvE/maxresdefault.jpg" group-title="少兒",【碰碰狐 鯊魚寶寶】聖誕快樂鯊魚寶寶碰碰狐聖誕歌曲卡通動畫
 https://www.youtube.com/watch?v=QHq7bxXccvE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kwx5sEyjHf8/maxresdefault.jpg" group-title="少兒",【寶寶巴士】寶寶巴士
-https://www.youtube.com/watch?v=kwx5sEyjHf8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eO_AjLfm7BE/maxresdefault.jpg" group-title="少兒",【寶寶巴士】寶寶巴士
+https://www.youtube.com/watch?v=eO_AjLfm7BE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/g0Cics5mfa4/maxresdefault.jpg" group-title="少兒",【Miliki Family - 繁體中文 - 兒歌】米利基萌宝圣诞特别篇
 https://www.youtube.com/watch?v=g0Cics5mfa4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u74LMt_hqG8/maxresdefault.jpg" group-title="少兒",【貝樂虎兒歌-童謠歌曲】貝樂虎
@@ -306,8 +312,6 @@ https://www.youtube.com/watch?v=YDtNnMzKuVc
 https://www.youtube.com/watch?v=4Ir1-e3iXbU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sGncfMog_Fo/maxresdefault.jpg" group-title="少兒",【小猪佩奇】动画
 https://www.youtube.com/watch?v=sGncfMog_Fo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MnOx_1UnhTQ/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】🎶 Learn ABC with Apple 🍎 Colorful Alphabet & Fruit Songs for Kids and Toddlers!
-https://www.youtube.com/watch?v=MnOx_1UnhTQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Lasr_ARcHI/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】Giligilis ABC Party! Learn Letters & Fruits with Cute Banana, Berry & Colorful Friends
 https://www.youtube.com/watch?v=2Lasr_ARcHI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EorP0ZQxwBU/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】Colorful ABC Adventure with Cute Characters and a Bright Digital Learning Board Background
@@ -332,22 +336,18 @@ https://www.youtube.com/watch?v=Me0qdV9XQgQ
 https://www.youtube.com/watch?v=kcGmDpjdez4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G9p7Uf99QbM/maxresdefault.jpg" group-title="少兒",【神奇鸡仔】卡通動畫
 https://www.youtube.com/watch?v=G9p7Uf99QbM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IQbSkhYWC6A/maxresdefault.jpg" group-title="少兒",【朱妮托尼 - 动画儿歌】朱妮托尼童話故事
+https://www.youtube.com/watch?v=IQbSkhYWC6A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/adtIhQ_1HoI/maxresdefault.jpg" group-title="少兒",【朱妮托尼 - 动画儿歌】五彩缤纷颜色王国
 https://www.youtube.com/watch?v=adtIhQ_1HoI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PvHvJRMji7w/maxresdefault.jpg" group-title="少兒",【朱妮托尼 - 动画儿歌】朱妮托尼兒歌
 https://www.youtube.com/watch?v=PvHvJRMji7w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hCpriLTzoZA/maxresdefault.jpg" group-title="少兒",【朱妮托尼 - 动画儿歌】朱妮托尼童話故事
 https://www.youtube.com/watch?v=hCpriLTzoZA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pEVOpr49Wys/maxresdefault.jpg" group-title="少兒",【朱妮托尼 - 动画儿歌】朱妮托尼童話故事
-https://www.youtube.com/watch?v=pEVOpr49Wys
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvENQFYKDY4/maxresdefault.jpg" group-title="少兒",【艾瑪愛學習】誰是第一個聖誕老公公故事繪本睡前故事
 https://www.youtube.com/watch?v=xvENQFYKDY4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a5fKi2-2VkM/maxresdefault.jpg" group-title="少兒",【艾瑪愛學習】聖誕節的奇蹟寶寶故事繪本睡前故事
 https://www.youtube.com/watch?v=a5fKi2-2VkM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eMHQeddzBpc/maxresdefault.jpg" group-title="體育",【緯來體育台】中信盃台日高中棒球對抗賽日本北海道聯隊日本九州聯隊
-https://www.youtube.com/watch?v=eMHQeddzBpc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4nrh6AwIZFM/maxresdefault.jpg" group-title="體育",【getwin_sport】市新莊棒球場
-https://www.youtube.com/watch?v=4nrh6AwIZFM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JaGd4Yy_xjA/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=JaGd4Yy_xjA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UZYwoKfrgJQ/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch Party
@@ -412,22 +412,20 @@ https://www.youtube.com/watch?v=FVLNVecHzvI
 https://www.youtube.com/watch?v=3MOrgUjiigE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UWc_vMRGxDs/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Pop Radio - Hits 2025 Music - Top Songs 2025 New Popular Songs 2025 - Pop Music Playlist 2024
 https://www.youtube.com/watch?v=UWc_vMRGxDs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DKOy4orJqPc/maxresdefault.jpg" group-title="政論",【壹電視NEXT TV】荒槍走板謝龍介子彈上膛槍口對賴清德假球時程表彈劾總統空包彈藍白聯手挖走國庫兆摧毀財政卡死軍購未來帳戶掏空國家未來不審預算狂畫大餅
-https://www.youtube.com/watch?v=DKOy4orJqPc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f9P_slj4KvU/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】時間連続配信中新聞大白話少康戰情
 https://www.youtube.com/watch?v=f9P_slj4KvU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HKRbvOF4hiw/maxresdefault.jpg" group-title="政論",【民視讚夯】中山站驚見英文恐嚇紙條警追查張貼者身分切勿以身試法原要帶長槍季麟連台上裝彈夾稱手槍是陸戰隊員工廠所做
-https://www.youtube.com/watch?v=HKRbvOF4hiw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/W-dAbK5AQm4/maxresdefault.jpg" group-title="政論",【全球大視野】高市早苗參拜靖國神社中俄朝南韓痛批美民遭斬殺線移民中國美認已無力抗衡解放軍越南反水棄中蓋高鐵廠商不玩了全球大視野
+https://www.youtube.com/watch?v=W-dAbK5AQm4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v3cA95ZscAc/maxresdefault.jpg" group-title="政論",【94要客訴】國台辦竟稱宏泰台人走私陸委會記者會三立新聞網
+https://www.youtube.com/watch?v=v3cA95ZscAc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o_plAEc80WU/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】現正中大新聞大爆卦
-https://www.youtube.com/watch?v=o_plAEc80WU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X3HY9EUXrzY/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】藍白彈劾賴總統立院院會拍版投票時間中天新聞
 https://www.youtube.com/watch?v=X3HY9EUXrzY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RQ_TG4Cfb2M/maxresdefault.jpg" group-title="政論",【新聞大白話】新聞大白話
@@ -442,8 +440,6 @@ https://www.youtube.com/watch?v=gedMFxplyO4
 https://www.youtube.com/watch?v=d4ulKTqx4ec
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Tr_f6i8XTs/maxresdefault.jpg" group-title="政論",【品觀點】立法院黨團協商研商青年發展基本法草案等案
-https://www.youtube.com/watch?v=2Tr_f6i8XTs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iVtaNP5YNlA/maxresdefault.jpg" group-title="政論",【品觀點】立法院第會期第次會議國民黨建請院會決議憲法法庭判憲訴法違憲
 https://www.youtube.com/watch?v=iVtaNP5YNlA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gBcED3mKCMU/maxresdefault.jpg" group-title="政論",【金臨天下】財經新聞看盤不中斷時間黃斐瑜趙慶翔

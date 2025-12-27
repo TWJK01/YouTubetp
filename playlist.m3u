@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2025-12-27 15:15:05
+# Last Update: 2025-12-27 16:18:57
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MhSfRgNF-5I/maxresdefault.jpg" group-title="跨年",【小寬日常】最後幾天陪你過全時區跨年倒數馬拉松一起迎接
 https://www.youtube.com/watch?v=MhSfRgNF-5I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ngfNRbV6CIc/maxresdefault.jpg" group-title="跨年",【Suwah Music 瑞华唱片】新年歌瑞華群星馬到功成好運到新春歌曲不停唱新年到恭喜發財嘻嘻哈哈過新年大拜年向歌友們拜年瑞華唱片
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=HwBN5IwZwMQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=kzBW-wA-U1A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xsNcAZ_hPbw/maxresdefault.jpg" group-title="台灣",【台視新聞】發生有感地震各地震度最新情況
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xsNcAZ_hPbw/maxresdefault.jpg" group-title="台灣",【台視新聞】東部海域芮氏規模地震全台縣市有感最大震度級
 https://www.youtube.com/watch?v=xsNcAZ_hPbw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台視新聞台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
@@ -24,35 +24,43 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News Live
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OvoJLmzQ7BM/maxresdefault.jpg" group-title="台灣",【民視新聞網】深夜地震快訊民視快新聞
+https://www.youtube.com/watch?v=OvoJLmzQ7BM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映大愛全紀實
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映人文講堂
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映好戲成雙阿芬的幸福修練
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映青春愛讀書
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_mDs9-zqrh8/maxresdefault.jpg" group-title="台灣",【鏡新聞】全台發生有感地震鏡新聞特別報導
+https://www.youtube.com/watch?v=_mDs9-zqrh8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】鏡新聞線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/n8dcRmBNIM0/maxresdefault.jpg" group-title="台灣",【東森新聞】規模左右東北地區發生有感地震預估震度級以上
+https://www.youtube.com/watch?v=n8dcRmBNIM0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】東森新聞小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】東森新聞小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iwpKJxdrnyI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】深夜強震突襲北捷全線降速巡檢桃捷全線列車暫停三立新聞台
+https://www.youtube.com/watch?v=iwpKJxdrnyI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EAciqtYPoYE/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】深夜強震全台有感各地狀況一次看
+https://www.youtube.com/watch?v=EAciqtYPoYE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3ApiX9OLzeI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】週末不斷線精彩一次看李正皓主持三立新聞台
 https://www.youtube.com/watch?v=3ApiX9OLzeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】祝你健康呷百二告別疲勞營養師教你招最有效的新陳代謝提升術祝你健康
 https://www.youtube.com/watch?v=AjJIcpk8mXc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nvr3wUZhlIY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】話時代人物精彩不斷電話時代人物
 https://www.youtube.com/watch?v=nvr3wUZhlIY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞小時
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】地震芮氏規模三立新聞小時
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m9GKxjWKmDk/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】美軍調整喊和平暗搶中習助金將開炸逼川收斂周錫瑋蔡正元苑舉正重磅對談精彩完整全程中天電視網路論壇
-https://www.youtube.com/watch?v=m9GKxjWKmDk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UsvwOZZuQ-o/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】地震速報北部發生有感地震不斷更新中天新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UsvwOZZuQ-o/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】地震速報台灣東部海域發生芮氏規模地震北北基桃宜蘭震度級中天新聞
 https://www.youtube.com/watch?v=UsvwOZZuQ-o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U4VQ4RYMcSQ/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】賴清德電視專訪批在野擁抱習近平林俊憲民調交叉陳亭妃怒噴美國斬殺線中國鎖寫線歷史哥擂台中天電視
 https://www.youtube.com/watch?v=U4VQ4RYMcSQ
@@ -60,6 +68,12 @@ https://www.youtube.com/watch?v=U4VQ4RYMcSQ
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ob3f6j-VhCA/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】宜蘭強震全台震撼地震測報中心最新說明
+https://www.youtube.com/watch?v=ob3f6j-VhCA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s38hNNBDzxo/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】東部海域規模地震地震測報中心說明
+https://www.youtube.com/watch?v=s38hNNBDzxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8MRU9kGSOes/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】地震速報重點
+https://www.youtube.com/watch?v=8MRU9kGSOes
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5wCs-anKv1s/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】追雪必看冷氣團發威合歡山變身夢幻糖霜
 https://www.youtube.com/watch?v=5wCs-anKv1s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
@@ -96,6 +110,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z99Shwl6qVw/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞台灣宜蘭對開海域深夜發生級地震部分地區震感強烈港聞兩岸國際資訊
+https://www.youtube.com/watch?v=z99Shwl6qVw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】大陸尋奇跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -194,8 +210,6 @@ https://www.youtube.com/watch?v=HKDuzWlyGts
 https://www.youtube.com/watch?v=6lKL5znyZkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qBHJfe_PGYY/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
 https://www.youtube.com/watch?v=qBHJfe_PGYY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M6k_fTh04UI/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
-https://www.youtube.com/watch?v=M6k_fTh04UI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D9YBnpcd2RY/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】独播高清无静音版经典古装悬疑高分神剧原汁原味的大唐神探传奇梁冠华张子健钱雁秋黄金三角重聚熟悉的配方不可复制的经典狄仁杰智破奇案新增恋爱线
 https://www.youtube.com/watch?v=D9YBnpcd2RY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SliyGTrmORQ/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清修复未删减无静音版戏骨云集神仙打架陈宝国焦晃归亚蕾同台演绎教科级演技每个角色都有独特的魅力堪称必看经典
@@ -332,8 +346,6 @@ https://www.youtube.com/watch?v=xvENQFYKDY4
 https://www.youtube.com/watch?v=a5fKi2-2VkM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JaGd4Yy_xjA/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=JaGd4Yy_xjA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kGdDFsA0wWs/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟小狼狗瑞昱帝王蟹
-https://www.youtube.com/watch?v=kGdDFsA0wWs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UZYwoKfrgJQ/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch Party
 https://www.youtube.com/watch?v=UZYwoKfrgJQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE All BattleBots Vegas Events Fights!
@@ -404,8 +416,6 @@ https://www.youtube.com/watch?v=0fahKCf3USk
 https://www.youtube.com/watch?v=mrtXQf2ZV8s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q55iNcExnMo/maxresdefault.jpg" group-title="音樂",【孤心旋律】愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=Q55iNcExnMo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KHz8iKbEoWQ/maxresdefault.jpg" group-title="音樂",【孤心旋律】愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=KHz8iKbEoWQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/maxresdefault.jpg" group-title="音樂",【Cherry 葵】Nightcore Radio 24/7
 https://www.youtube.com/watch?v=tjne3WWB3kA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4FBW3mkdKOs/maxresdefault.jpg" group-title="音樂",【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日
@@ -516,26 +526,36 @@ https://www.youtube.com/watch?v=4VT3Zi3Xr2c
 https://www.youtube.com/watch?v=z8PzoHfHBf0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MjsI7PQrm4Y/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】優里米津玄師宇多田
 https://www.youtube.com/watch?v=MjsI7PQrm4Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ubsg5MKECHw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】東部海域規模地震地震測報中心說明
+https://www.youtube.com/watch?v=ubsg5MKECHw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f9P_slj4KvU/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】時間連続配信中新聞大白話少康戰情
 https://www.youtube.com/watch?v=f9P_slj4KvU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BAnErUuto94/maxresdefault.jpg" group-title="政論",【94要客訴】深夜強震把全台都搖醒宜蘭釣蝦場池水如驚濤駭浪釣客淡定看海如海嘯畫面瘋傳三立新聞網
+https://www.youtube.com/watch?v=BAnErUuto94
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z3XJOmlhb7E/maxresdefault.jpg" group-title="政論",【94要客訴】深夜強震全台有感各地狀況一次看三立新聞網
+https://www.youtube.com/watch?v=Z3XJOmlhb7E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DkiymvkFEpM/maxresdefault.jpg" group-title="政論",【新聞大白話】東部海域規模地震地震測報中心說明
+https://www.youtube.com/watch?v=DkiymvkFEpM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/maxresdefault.jpg" group-title="政論",【新聞大白話】時間配信
 https://www.youtube.com/watch?v=8o3rl1YgbmE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aYtqPMRqr-Y/maxresdefault.jpg" group-title="政論",【國民大會】東部海域規模地震地震測報中心說明
+https://www.youtube.com/watch?v=aYtqPMRqr-Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BT1SkuA8YCs/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現假國防真獨裁違憲震怒人民
 https://www.youtube.com/watch?v=BT1SkuA8YCs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rKcO4GPriDk/maxresdefault.jpg" group-title="政論",【新聞龍捲風】地震速報北部發生有感地震不斷更新新聞龍捲風
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rKcO4GPriDk/maxresdefault.jpg" group-title="政論",【新聞龍捲風】地震速報台灣東部海域發生芮氏規模地震北北基桃宜蘭震度級新聞龍捲風
 https://www.youtube.com/watch?v=rKcO4GPriDk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LB74KkkKK68/maxresdefault.jpg" group-title="政論",【少康戰情室】東部海域規模地震地震測報中心說明
+https://www.youtube.com/watch?v=LB74KkkKK68
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fqeI32JVRFU/maxresdefault.jpg" group-title="政論",【文茜的世界周報】文茜的世界周報
-https://www.youtube.com/watch?v=fqeI32JVRFU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gBcED3mKCMU/maxresdefault.jpg" group-title="政論",【金臨天下】財經新聞看盤不中斷時間黃斐瑜趙慶翔
 https://www.youtube.com/watch?v=gBcED3mKCMU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0siTFIU__tc/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上

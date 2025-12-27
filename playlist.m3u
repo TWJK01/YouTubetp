@@ -1,7 +1,9 @@
 #EXTM3U
-# Last Update: 2025-12-27 10:16:30
+# Last Update: 2025-12-27 10:33:05
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MhSfRgNF-5I/maxresdefault.jpg" group-title="跨年",【小寬日常】最後幾天陪你過全時區跨年倒數馬拉松一起迎接
 https://www.youtube.com/watch?v=MhSfRgNF-5I
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ngfNRbV6CIc/maxresdefault.jpg" group-title="跨年",【Suwah Music 瑞华唱片】新年歌瑞華群星馬到功成好運到新春歌曲不停唱新年到恭喜發財嘻嘻哈哈過新年大拜年向歌友們拜年瑞華唱片
+https://www.youtube.com/watch?v=ngfNRbV6CIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -34,7 +36,7 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映人文講堂
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映日日素
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映好戲成雙阿芬的幸福修練
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
@@ -46,6 +48,8 @@ https://www.youtube.com/watch?v=YUhQY4FoC8I
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】東森新聞小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hnYOna4DCAs/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】民進黨台南市長提名人政見會會前受訪
+https://www.youtube.com/watch?v=hnYOna4DCAs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s-0VXJLpA-M/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】鄭習會進度曝光賴清德嗆怎相信沒條件鄭麗文別惡意帶風向三立新聞台
 https://www.youtube.com/watch?v=s-0VXJLpA-M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3ApiX9OLzeI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】週末不斷線精彩一次看李正皓主持三立新聞台
@@ -548,12 +552,12 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=f9P_slj4KvU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YRHYxrYDhZY/maxresdefault.jpg" group-title="政論",【街頭麥克風】不再等待柯文哲黃國昌真的要戰了這段話說進全場支持者的心裡你聽全場的加油聲
-https://www.youtube.com/watch?v=YRHYxrYDhZY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s4673viYwqQ/maxresdefault.jpg" group-title="政論",【Taipei Live Cam】雙城論壇副市長林奕華先行主團訪梅奔中心等三行程全球大視野
 https://www.youtube.com/watch?v=s4673viYwqQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jC02TmWooM4/maxresdefault.jpg" group-title="政論",【94要客訴】民進黨台南市長提名人政見會會前受訪三立新聞網
+https://www.youtube.com/watch?v=jC02TmWooM4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RByX43kfhzo/maxresdefault.jpg" group-title="政論",【94要客訴】晚間新聞總整理三立新聞網
 https://www.youtube.com/watch?v=RByX43kfhzo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網

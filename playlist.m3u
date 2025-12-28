@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2025-12-28 14:15:23
+# Last Update: 2025-12-28 15:15:28
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Az3cl3BvuqY/maxresdefault.jpg" group-title="跨年",【小寬日常】跨年倒數陪你一起迎接全新的開始
 https://www.youtube.com/watch?v=Az3cl3BvuqY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MhSfRgNF-5I/maxresdefault.jpg" group-title="跨年",【小寬日常】最後幾天陪你過全時區跨年倒數馬拉松一起迎接
@@ -14,8 +14,6 @@ https://www.youtube.com/watch?v=HwBN5IwZwMQ
 https://www.youtube.com/watch?v=kzBW-wA-U1A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台視新聞台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QewAPqIAOIg/maxresdefault.jpg" group-title="台灣",【中視新聞】中視午間新聞線上看
-https://www.youtube.com/watch?v=QewAPqIAOIg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】台湾
@@ -30,7 +28,7 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映人文講堂
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映青春愛讀書
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】現正播映好戲成雙阿芬的幸福修練
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
@@ -50,6 +48,8 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ziu8rlknCuo/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】游盈隆被提名中選會主委換綠擋了提問找碴被鄭麗文罵無腦中天新聞
+https://www.youtube.com/watch?v=Ziu8rlknCuo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -126,6 +126,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ScvN0u3yKBA/maxresdefault.jpg" group-title="綜藝",【204檔案】昨晚太恐怖了
+https://www.youtube.com/watch?v=ScvN0u3yKBA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【Taipei Live Cam】不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】不間斷
@@ -328,8 +330,6 @@ https://www.youtube.com/watch?v=JaGd4Yy_xjA
 https://www.youtube.com/watch?v=uC-JaWMk0Ow
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tkFLgd78hrA/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟譪卡訓練空間
 https://www.youtube.com/watch?v=tkFLgd78hrA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QgYdfFTkDbA/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟神奇小寶
-https://www.youtube.com/watch?v=QgYdfFTkDbA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UZYwoKfrgJQ/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch Party
 https://www.youtube.com/watch?v=UZYwoKfrgJQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE All BattleBots Vegas Events Fights!
@@ -520,8 +520,6 @@ https://www.youtube.com/watch?v=f9P_slj4KvU
 https://www.youtube.com/watch?v=HiI-7_jeKxo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VUcITtX9yqg/maxresdefault.jpg" group-title="政論",【全球大視野】澤倫斯基抵達佛州會晤川普討論烏克蘭和平計畫全球大視野
 https://www.youtube.com/watch?v=VUcITtX9yqg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gbxG7zJARFw/maxresdefault.jpg" group-title="政論",【全球大視野】完整版全球大視野
-https://www.youtube.com/watch?v=gbxG7zJARFw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網

@@ -1,5 +1,11 @@
 #EXTM3U
-# Last Update: 2025-12-30 15:17:43
+# Last Update: 2025-12-30 16:21:39
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Az3cl3BvuqY/maxresdefault.jpg" group-title="跨年",【小寬日常】跨年倒數陪你一起迎接全新的開始
+https://www.youtube.com/watch?v=Az3cl3BvuqY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MhSfRgNF-5I/maxresdefault.jpg" group-title="跨年",【小寬日常】最後幾天陪你過全時區跨年倒數馬拉松一起迎接
+https://www.youtube.com/watch?v=MhSfRgNF-5I
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OFliVZoVFYQ/maxresdefault.jpg" group-title="跨年",【Suwah Music 瑞华唱片】新年歌瑞華群星馬到功成好運到新春歌曲不停唱新年到恭喜發財嘻嘻哈哈過新年大拜年向歌友們拜年瑞華唱片
+https://www.youtube.com/watch?v=OFliVZoVFYQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -20,9 +26,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇新何處是我家
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊在愛之外
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙阿芬的幸福修練
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊在愛之外
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -30,14 +36,10 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R3LpU0hJK2M/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】科技股回落行情熄火美股年終震盪
-https://www.youtube.com/watch?v=R3LpU0hJK2M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5nzO6zNU4yk/maxresdefault.jpg" group-title="台灣",【Focus全球新聞】科技股回落行情熄火美股年終震盪
-https://www.youtube.com/watch?v=5nzO6zNU4yk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/maxresdefault.jpg" group-title="台灣",【寰宇新聞】美國烏克蘭會談順利烏總統澤倫斯基成計畫有共識中國突啟動大規模軍演演訓範圍包圍台灣台
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w87VGpgd90U/maxresdefault.jpg" group-title="台灣",【寰宇新聞】台灣台小時台湾時間配信中
@@ -74,6 +76,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】東部戰區演習第二日多軍種聯合火力打擊沙特領導多國聯軍空襲也門香港跨年夜深圳灣口岸小時運作小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IGWSodhyofs/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=IGWSodhyofs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -466,20 +470,16 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=f9P_slj4KvU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xJQN9nA4b1M/maxresdefault.jpg" group-title="政論",【全球大視野】正義使命台海實彈射擊美日嚇壞美軍地面出擊委內瑞拉摧毀架毒梟飛機羅生門烏襲普丁官邸川普大怒中國表態完整版
-https://www.youtube.com/watch?v=xJQN9nA4b1M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/maxresdefault.jpg" group-title="政論",【新聞大白話】時間配信
 https://www.youtube.com/watch?v=8o3rl1YgbmE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ro9ocAwOyxM/maxresdefault.jpg" group-title="政論",【哏傳媒】為什麼我不能告曹興誠誣告鍾佳濱嗆只有傭兵打仗才看報酬每週二晚謝寒冰
+https://www.youtube.com/watch?v=ro9ocAwOyxM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tFs8y8QWT6g/maxresdefault.jpg" group-title="政論",【關鍵時刻】伊朗國家崩潰習近平糗了貨幣一文不值萬人抗議往領袖肖像丟炸彈
 https://www.youtube.com/watch?v=tFs8y8QWT6g
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iIZFVsvsTVE/maxresdefault.jpg" group-title="政論",【頭條開講】共軍對南北射擊枚火箭彈畫面曝光史上落點最接近台灣本島
-https://www.youtube.com/watch?v=iIZFVsvsTVE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aYETJx1xzGc/maxresdefault.jpg" group-title="政論",【金臨天下】科技股回落行情熄火美股年終震盪
-https://www.youtube.com/watch?v=aYETJx1xzGc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gBcED3mKCMU/maxresdefault.jpg" group-title="政論",【金臨天下】財經新聞看盤不中斷時間黃斐瑜趙慶翔
 https://www.youtube.com/watch?v=gBcED3mKCMU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0siTFIU__tc/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上

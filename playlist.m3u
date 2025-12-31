@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2025-12-31 02:53:57
+# Last Update: 2025-12-31 03:23:48
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6Ekqt2eQWaM/maxresdefault.jpg" group-title="跨年",【臺北市政府】【1900】臺北最High新年城
 https://www.youtube.com/watch?v=6Ekqt2eQWaM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6nV37uSsx1o/maxresdefault.jpg" group-title="跨年",【壹電視】【1900】「2026雄嗨趴」高雄跨年晚會
@@ -30,7 +30,9 @@ https://www.youtube.com/watch?v=fVdO_J2WSpQ
 https://www.youtube.com/watch?v=ETykNhwk8xs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5siQQu4YLYg/maxresdefault.jpg" group-title="跨年",【台視新聞】【2350】台北101低煙煙火+光雕秀致敬
 https://www.youtube.com/watch?v=5siQQu4YLYg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CVI2QpMRY7A/maxresdefault.jpg" group-title="跨年",【台視新聞】【2100】2026雪梨煙火秀,https://www.youtube.com/watch?v=yg3DWq9LMrg【台視新聞】【2026】閃耀新北「淡江大橋」13分14秒 跨河煙火迎2026
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yg3DWq9LMrg/maxresdefault.jpg" group-title="跨年",【台視新聞】【2100】2026雪梨煙火秀
+https://www.youtube.com/watch?v=yg3DWq9LMrg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CVI2QpMRY7A/maxresdefault.jpg" group-title="跨年",【台視新聞】【2026】閃耀新北「淡江大橋」13分14秒 跨河煙火迎2026
 https://www.youtube.com/watch?v=CVI2QpMRY7A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/apIF_-2liiM/maxresdefault.jpg" group-title="跨年",【台視新聞】【1900】紐西蘭奧克蘭
 https://www.youtube.com/watch?v=apIF_-2liiM
@@ -154,7 +156,7 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映仁心慧語
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映綠色幸福學
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
@@ -628,6 +630,8 @@ https://www.youtube.com/watch?v=0UOnH10P4oY
 https://www.youtube.com/watch?v=5Sbgtin9pWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/maxresdefault.jpg" group-title="政論",【新聞大白話】時間配信
 https://www.youtube.com/watch?v=8o3rl1YgbmE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wwxe-57t9Fo/maxresdefault.jpg" group-title="政論",【中時新聞網】三中案馬英九再度無罪馬辦反對用東廠手段迫害政治對手
+https://www.youtube.com/watch?v=wwxe-57t9Fo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TzR7aDQL9Ow/maxresdefault.jpg" group-title="政論",【中時新聞網】共軍正義使命圍台實彈演習國台辦記者會最新回應
 https://www.youtube.com/watch?v=TzR7aDQL9Ow
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZP93u6wcweM/maxresdefault.jpg" group-title="政論",【中時新聞網】無差別攻擊犯罪量刑檢討法務部長鄭銘謙備詢

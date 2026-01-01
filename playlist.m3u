@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-01 14:15:56
+# Last Update: 2026-01-01 15:17:02
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法譬如水
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇新何處是我家
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙阿芬的幸福修練
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
@@ -34,6 +34,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vFkZKZf3iMc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】蔡依林大巨蛋三場圓滿落幕粉絲敲碗加場
+https://www.youtube.com/watch?v=vFkZKZf3iMc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】祝你健康呷百二告別疲勞營養師教你招最有效的新陳代謝提升術祝你健康
 https://www.youtube.com/watch?v=AjJIcpk8mXc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nvr3wUZhlIY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】話時代人物精彩不斷電話時代人物
@@ -42,20 +44,14 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PP6o5_gmlLQ/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】賴清德轟彈劾浪費時間在野嗆罷免不浪費時間全球跨年煙火燈光接力川普萬元賣耶塑畫中天夜線中天新聞
-https://www.youtube.com/watch?v=PP6o5_gmlLQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hKMxsiSrjgY/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】再怎麼中立也不能扭曲史實吧中天電視
-https://www.youtube.com/watch?v=hKMxsiSrjgY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1oxJ6PF1qwA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】倫敦元旦花車大遊行名舞者特技演員歡樂掃街全球大視野
 https://www.youtube.com/watch?v=1oxJ6PF1qwA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PqxHtjbAKoQ/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】冷空氣一波比一波強烏克蘭要和平而非亡國
-https://www.youtube.com/watch?v=PqxHtjbAKoQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3vPkKMb2KEs/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】喜迎慶新年倫敦大街遊行登場
-https://www.youtube.com/watch?v=3vPkKMb2KEs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qTX9V02dk6M/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】羅馬歡慶元旦新年民眾遊行爭奇鬥豔
+https://www.youtube.com/watch?v=qTX9V02dk6M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -100,6 +96,8 @@ https://www.youtube.com/watch?v=fN9uYWCjQaw
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
 https://www.youtube.com/watch?v=KgcJZ_Is_h4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ARVYxRv9wH4/maxresdefault.jpg" group-title="綜藝",【三立娛樂星聞】蔡依林大巨蛋三場圓滿落幕粉絲敲碗加場
+https://www.youtube.com/watch?v=ARVYxRv9wH4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ADDSmXoPDY8/maxresdefault.jpg" group-title="綜藝",【中視經典綜藝】萬秀豬王小時馬拉松不間斷台湾番組
 https://www.youtube.com/watch?v=ADDSmXoPDY8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9gx5EIyHmsw/maxresdefault.jpg" group-title="綜藝",【綜藝一級棒】小時歡樂不停播
@@ -130,8 +128,10 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kPlIhP4MEsY/maxresdefault.jpg" group-title="綜藝",【TVBS娛樂頭條】喜迎慶新年倫敦大街遊行登場
-https://www.youtube.com/watch?v=kPlIhP4MEsY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KLTEnYhxR5o/maxresdefault.jpg" group-title="綜藝",【TVBS娛樂頭條】羅馬歡慶元旦新年民眾遊行爭奇鬥豔
+https://www.youtube.com/watch?v=KLTEnYhxR5o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WNMWXr1GsNo/maxresdefault.jpg" group-title="綜藝",【204檔案】繼續找祂
+https://www.youtube.com/watch?v=WNMWXr1GsNo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -480,20 +480,20 @@ https://www.youtube.com/watch?v=4VT3Zi3Xr2c
 https://www.youtube.com/watch?v=z8PzoHfHBf0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MjsI7PQrm4Y/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田
 https://www.youtube.com/watch?v=MjsI7PQrm4Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2_mcaBXAQ8c/maxresdefault.jpg" group-title="音樂",【MEET48 Global】未命名新途睡衣派对主题公演
-https://www.youtube.com/watch?v=2_mcaBXAQ8c
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fTvE5Pe8mUw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】喜迎慶新年倫敦大街遊行登場
-https://www.youtube.com/watch?v=fTvE5Pe8mUw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YsfSqInjOaA/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】羅馬歡慶元旦新年民眾遊行爭奇鬥豔
+https://www.youtube.com/watch?v=YsfSqInjOaA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f9P_slj4KvU/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情
 https://www.youtube.com/watch?v=f9P_slj4KvU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SYEFsETBLxk/maxresdefault.jpg" group-title="政論",【全球大視野】習近平賴清德元旦談話台海暗湧殲搭渦扇制霸闖領空就擊落委內瑞拉不警告普丁曝斬首名單澤倫斯基殘局完整版
+https://www.youtube.com/watch?v=SYEFsETBLxk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zRvvQc37QMY/maxresdefault.jpg" group-title="政論",【全球大視野】倫敦元旦花車大遊行名舞者特技演員歡樂掃街
 https://www.youtube.com/watch?v=zRvvQc37QMY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iR5Kcz1DtA0/maxresdefault.jpg" group-title="政論",【94要客訴】全球首款雷射防空系統以色列鐵束正式服役光速攔截低成本填補防空網台灣中科院也有同款雷射武器三立新聞網
-https://www.youtube.com/watch?v=iR5Kcz1DtA0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WbNHilgnmK4/maxresdefault.jpg" group-title="政論",【94要客訴】蔡依林大巨蛋三場圓滿落幕粉絲敲碗加場三立新聞網
+https://www.youtube.com/watch?v=WbNHilgnmK4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網

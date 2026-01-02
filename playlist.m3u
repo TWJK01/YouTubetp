@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-02 22:16:33
+# Last Update: 2026-01-02 23:15:51
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映生活地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映行動現場
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映證嚴上人說故事
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -34,6 +34,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KrCZ0cTFU64/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】兆國防預算五度封殺大陸軍演美國首度表態台美關稅談判結果年前公布擾民惹議換卡急轉彎孫怡琳劉又嘉報新聞中天電視
+https://www.youtube.com/watch?v=KrCZ0cTFU64
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -80,8 +82,6 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】元旦天小長假內地文旅市場明顯升溫瑞士酒吧火災致約死傷特朗普威脅要干涉伊朗騷亂事件小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a9HE5LmCkh8/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晨早新聞報道即時新聞港聞兩岸國際資訊
-https://www.youtube.com/watch?v=a9HE5LmCkh8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -482,8 +482,8 @@ https://www.youtube.com/watch?v=gBcED3mKCMU
 https://www.youtube.com/watch?v=0siTFIU__tc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Pr3D4mMrhvE/maxresdefault.jpg" group-title="購物",【玉麟網路電視台】線上
 https://www.youtube.com/watch?v=Pr3D4mMrhvE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/l5z8MDVbIUo/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
-https://www.youtube.com/watch?v=l5z8MDVbIUo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jmH5eLpl50A/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
+https://www.youtube.com/watch?v=jmH5eLpl50A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Sl26ZFvawuU/maxresdefault.jpg" group-title="購物",【三聖電視台】「三聖電視台」直播
 https://www.youtube.com/watch?v=Sl26ZFvawuU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HZTQ87Vq2IA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
@@ -506,26 +506,6 @@ https://www.youtube.com/watch?v=Z50JFuNgvB0
 https://www.youtube.com/watch?v=_Vlzn9qAHD4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u0NYyH3ZesE/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH60
 https://www.youtube.com/watch?v=u0NYyH3ZesE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Lj8OWF6nzcg/maxresdefault.jpg" group-title="國會",【國會頻道】國會頻道２
-https://www.youtube.com/watch?v=Lj8OWF6nzcg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IvAXtzx5cUI/maxresdefault.jpg" group-title="國會",【國會頻道】程序委員會
-https://www.youtube.com/watch?v=IvAXtzx5cUI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yUx5lB4mhZk/maxresdefault.jpg" group-title="國會",【國會頻道】黨團協商
-https://www.youtube.com/watch?v=yUx5lB4mhZk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DdUWlWZVOi8/maxresdefault.jpg" group-title="國會",【國會頻道】社會福利及衛生環境委員會
-https://www.youtube.com/watch?v=DdUWlWZVOi8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nkejc54RyDU/maxresdefault.jpg" group-title="國會",【國會頻道】經費稽核委員會
-https://www.youtube.com/watch?v=nkejc54RyDU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyHM5yvcLU4/maxresdefault.jpg" group-title="國會",【國會頻道】紀律委員會
-https://www.youtube.com/watch?v=KyHM5yvcLU4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Af0TFVbxvAQ/maxresdefault.jpg" group-title="國會",【國會頻道】外交及國防委員會
-https://www.youtube.com/watch?v=Af0TFVbxvAQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tDg3bJFYLzI/maxresdefault.jpg" group-title="國會",【國會頻道】立法院會議
-https://www.youtube.com/watch?v=tDg3bJFYLzI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xfikIGtkQeA/maxresdefault.jpg" group-title="國會",【國會頻道】經濟委員會
-https://www.youtube.com/watch?v=xfikIGtkQeA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cidl9JoRtGk/maxresdefault.jpg" group-title="國會",【國會頻道】財政委員會
-https://www.youtube.com/watch?v=Cidl9JoRtGk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gThC6n9F2Vw/maxresdefault.jpg" group-title="宗教",【淨土宗】網路電視台南無阿彌陀佛
 https://www.youtube.com/watch?v=gThC6n9F2Vw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ih-Kv8XPdcQ/maxresdefault.jpg" group-title="宗教",【中華傳統文化教育中心】世界電視台儒釋道教育與藝術文化的電視台

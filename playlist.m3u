@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-03 10:16:40
+# Last Update: 2026-01-03 11:13:30
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=HFw5jNXgynY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=kzBW-wA-U1A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9xnxCDpLCwM/maxresdefault.jpg" group-title="台灣",【台視新聞】晚間大頭條碰疑未注意前車國道車撞車成夾心餅傷
+https://www.youtube.com/watch?v=9xnxCDpLCwM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
@@ -28,9 +30,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人文講堂
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛夜安新聞
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙阿芬的幸福修練
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛夜安新聞
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -50,10 +52,10 @@ https://www.youtube.com/watch?v=AjJIcpk8mXc
 https://www.youtube.com/watch?v=nvr3wUZhlIY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞小時即時新聞國際氣象
 https://www.youtube.com/watch?v=QsGswQvRmtU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yReSg2YKoeA/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】蔡正元介文汲謝寒冰綠在兩岸玩火蔡正元炸了炸蕈狀雲美抓獲委內瑞拉總統新加坡大咖怒轟黃蠢材張雅婷辣晚報完整版中天新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yReSg2YKoeA/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】蔡正元介文汲謝寒冰綠在兩岸玩火蔡正元獻計炸蕈狀雲美抓獲委內瑞拉總統新加坡大咖怒轟黃蠢材張雅婷辣晚報完整版中天新聞
 https://www.youtube.com/watch?v=yReSg2YKoeA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/y4KMD4M0WDk/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】談兩岸人民關係條例修法賴清德吳思瑤赴北投參香中天新聞
-https://www.youtube.com/watch?v=y4KMD4M0WDk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7Ig084DvuIg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】圍台軍演吃席案管碧玲夫提油救火稱都不吃飯睡覺了川普空襲委內瑞拉總統夫妻被遣出境中天新聞
+https://www.youtube.com/watch?v=7Ig084DvuIg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D64uYrhsKCs/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】國際快訊委內瑞拉首都空襲警報徹夜大響加拉加斯驚傳多起巨爆川普發文馬杜洛及老婆已被美軍俘虜並遣送出境中天新聞
 https://www.youtube.com/watch?v=D64uYrhsKCs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -62,8 +64,6 @@ https://www.youtube.com/watch?v=MZhMxKNtOnA
 https://www.youtube.com/watch?v=vr3XyVCR4T0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZJ3NmYrLyVk/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】晚間整點新聞重點
 https://www.youtube.com/watch?v=ZJ3NmYrLyVk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/I7snAKNZbCI/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】瑞士酒吧大火死災後現場畫面
-https://www.youtube.com/watch?v=I7snAKNZbCI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m95MYzrZuas/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】強烈大陸冷氣團來襲瘋追雪各地鏡頭君直擊
 https://www.youtube.com/watch?v=m95MYzrZuas
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
@@ -78,8 +78,12 @@ https://www.youtube.com/watch?v=Ej3LQM_lTEw
 https://www.youtube.com/watch?v=w87VGpgd90U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6IquAgfvYmc/maxresdefault.jpg" group-title="台灣",【寰宇新聞】川普發動美軍斬首行動傳委國總統已被俘虜小時線上台湾時間配信中
 https://www.youtube.com/watch?v=6IquAgfvYmc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_TKztKia2hE/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人晚間新聞新唐人亞太台
+https://www.youtube.com/watch?v=_TKztKia2hE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人小時
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gQNUB0Lhukc/maxresdefault.jpg" group-title="台灣",【原視新聞網 TITV News】台東達仁基層醫療現空窗長者就醫受影響原住民族電視台
+https://www.youtube.com/watch?v=gQNUB0Lhukc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qhApzA9RSDo/maxresdefault.jpg" group-title="台灣",【三大一台】三大有線電視公司
 https://www.youtube.com/watch?v=qhApzA9RSDo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1I2iq41Akmo/maxresdefault.jpg" group-title="台灣",【東森財經股市】東森財經新聞小時線上台湾金融
@@ -106,8 +110,10 @@ https://www.youtube.com/watch?v=Tf3mktyg6bU
 https://www.youtube.com/watch?v=7j92Myu2wzg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f6Kq93wnaZ8/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】特朗普馬杜羅及其妻已被抓獲並帶離委特朗普據報下令空襲委內瑞拉首都多地爆炸委外交部譴責美國進行軍事侵略小时间鳳凰衛視
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】特朗普馬杜羅及其妻已被抓獲並帶離委委前內政部長在美軍事行動中身亡特朗普據報下令空襲委內瑞拉首都多地爆炸小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3JLj1t-uyq0/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞七點新聞報道即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=3JLj1t-uyq0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -152,6 +158,8 @@ https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 https://www.youtube.com/watch?v=EVATvtQHjyg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MAB36BzAXCU/maxresdefault.jpg" group-title="綜藝",【娱综星天地】檀健次秦霄賢王鶴棣三傻大鬧好六街爆笑圖鑑檀健次你好星期六綜藝娛樂搞笑王鶴棣秦霄賢
 https://www.youtube.com/watch?v=MAB36BzAXCU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OSpc2tG2kxY/maxresdefault.jpg" group-title="綜藝",【緯來新聞網】緯來新聞準時上桌最新娛樂熱搜一網打盡
+https://www.youtube.com/watch?v=OSpc2tG2kxY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rfSblpvy_rY/maxresdefault.jpg" group-title="影劇",【戲說台灣】妖精大集合動物都能變成精小時不間斷
 https://www.youtube.com/watch?v=rfSblpvy_rY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MlpGNrF88FI/maxresdefault.jpg" group-title="影劇",【台視時光機】挑戰你的極限精彩類戲劇一次看個夠
@@ -358,24 +366,24 @@ https://www.youtube.com/watch?v=JaGd4Yy_xjA
 https://www.youtube.com/watch?v=rEuqmm1Rclk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6OUsGJ_QMdA/maxresdefault.jpg" group-title="體育",【TPBL】例行賽新竹御嵿攻城獅中信特攻
 https://www.youtube.com/watch?v=6OUsGJ_QMdA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qF-MBpIsNGs/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟星期三益福不銹鋼材
-https://www.youtube.com/watch?v=qF-MBpIsNGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ieBN0sFJpRw/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟母鴨幫辣媽她老公那隊
 https://www.youtube.com/watch?v=ieBN0sFJpRw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8DLt6yH_r3g/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟母鴨幫捷昇企業空油壓
 https://www.youtube.com/watch?v=8DLt6yH_r3g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NF_j9JuTAow/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟愛樂優托嬰慧榮科技
 https://www.youtube.com/watch?v=NF_j9JuTAow
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OR8THf4ccEM/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】全癒運動按摩
-https://www.youtube.com/watch?v=OR8THf4ccEM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XR_L4oUmQPA/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】梅有難度春發製油有福餛飩
+https://www.youtube.com/watch?v=XR_L4oUmQPA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Wbm2hroOKs8/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】中原打鐵廠
+https://www.youtube.com/watch?v=Wbm2hroOKs8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iOJB8oif3SM/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】禾矅工程敬存工業蛋餅酥酥
 https://www.youtube.com/watch?v=iOJB8oif3SM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zziycAYEdwE/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】金帥理髮廳黃家料理市議員黃崇真
+https://www.youtube.com/watch?v=zziycAYEdwE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sJKk97SdJKQ/maxresdefault.jpg" group-title="體育",【TPVL 台灣職業排球聯盟】例行賽台鋼天鷹臺中連莊
 https://www.youtube.com/watch?v=sJKk97SdJKQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q20-lMW-Jus/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽球夢者廣欣藥局耕重健身
-https://www.youtube.com/watch?v=Q20-lMW-Jus
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X43f61ziOGw/maxresdefault.jpg" group-title="體育",【日本B聯盟】SHIGA LAKES vs
-https://www.youtube.com/watch?v=X43f61ziOGw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AxCAORjMSPY/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽
+https://www.youtube.com/watch?v=AxCAORjMSPY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UZYwoKfrgJQ/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=UZYwoKfrgJQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE All Batt
@@ -400,8 +408,6 @@ https://www.youtube.com/watch?v=8sWvaojkCmg
 https://www.youtube.com/watch?v=99rLT2xf8T8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=augOnkJkrHY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Y6EYg8xp8ho/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜愛就一個字若月亮沒來花海最偉大的作品王嘉爾周興哲林俊傑鄧紫棋不能不聽的首歌
-https://www.youtube.com/watch?v=Y6EYg8xp8ho
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9qOx0nSJYkk/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】熱榜上最火的首歌年大陸流行歌曲讓人停不下來的音樂跳楼机最後一頁這是你期盼的長大嗎最新抖音神曲
 https://www.youtube.com/watch?v=9qOx0nSJYkk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜一月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
@@ -476,6 +482,8 @@ https://www.youtube.com/watch?v=zjXupvypOmw
 https://www.youtube.com/watch?v=nHeXL2We4EE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FVLNVecHzvI/maxresdefault.jpg" group-title="音樂",【Too Music】Music Radio 1 P
 https://www.youtube.com/watch?v=FVLNVecHzvI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BbzscXBzHec/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Hits Radio 1 -
+https://www.youtube.com/watch?v=BbzscXBzHec
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3MOrgUjiigE/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Hits Radio 1 Li
 https://www.youtube.com/watch?v=3MOrgUjiigE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UWc_vMRGxDs/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Pop Radio - Hit
@@ -518,6 +526,10 @@ https://www.youtube.com/watch?v=4VT3Zi3Xr2c
 https://www.youtube.com/watch?v=z8PzoHfHBf0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MjsI7PQrm4Y/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田
 https://www.youtube.com/watch?v=MjsI7PQrm4Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lAGXbKKdyFU/maxresdefault.jpg" group-title="音樂",【MEET48 Global】没有我的世界第四十三场
+https://www.youtube.com/watch?v=lAGXbKKdyFU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ODwDZyzhkIo/maxresdefault.jpg" group-title="音樂",【MEET48 Global】声动星河专场公演匿声唱将专场公演
+https://www.youtube.com/watch?v=ODwDZyzhkIo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f9P_slj4KvU/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情
 https://www.youtube.com/watch?v=f9P_slj4KvU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
@@ -536,6 +548,8 @@ https://www.youtube.com/watch?v=HarWsyvLERc
 https://www.youtube.com/watch?v=8o3rl1YgbmE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/amufiCpP-9Y/maxresdefault.jpg" group-title="政論",【中時新聞網】川普下令空襲委內瑞拉首都遭轟炸最新畫面
 https://www.youtube.com/watch?v=amufiCpP-9Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kUHfxFQpd7M/maxresdefault.jpg" group-title="政論",【關鍵時刻】川普下令空襲委內瑞拉已抓獲馬杜洛
+https://www.youtube.com/watch?v=kUHfxFQpd7M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7bUIQnzHBTo/maxresdefault.jpg" group-title="政論",【頭條開講】國際快訊委內瑞拉首都空襲警報徹夜大響加拉加斯驚傳多起巨爆川普發文馬杜洛及老婆已被美軍俘虜並遣送出境
 https://www.youtube.com/watch?v=7bUIQnzHBTo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍

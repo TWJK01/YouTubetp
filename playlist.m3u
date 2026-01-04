@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-04 08:22:00
+# Last Update: 2026-01-04 09:15:57
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -16,15 +16,17 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EPiQG3dKVpg/maxresdefault.jpg" group-title="台灣",【民視新聞網】市長初選拚出線賴瑞隆真誠無畏之夜造勢民視快新聞
+https://www.youtube.com/watch?v=EPiQG3dKVpg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映慈濟的故事
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映青春愛讀書
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙阿芬的幸福修練
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -46,6 +48,8 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZPUN_IQzfk4/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】柯文哲一句重話提醒賴清德阿扁新節目突喊卡影武者誰億賞金超強內鬼背叛馬杜洛川普戰術恐成北京對台範本賴正鎧報新聞中天新聞
+https://www.youtube.com/watch?v=ZPUN_IQzfk4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OYcanqJ_7SA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】川普出手接管委內瑞拉馬杜洛被擒送抵美國紐約受審不斷更新中天新聞
 https://www.youtube.com/watch?v=OYcanqJ_7SA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -96,8 +100,6 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】特朗普美大型石油公司將進軍委內瑞拉李在明抵達北京開啟對華國事訪問拉美各國領導人譴責美襲擊委內瑞拉小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WLgHtj8hF7o/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞新聞報道即時新聞港聞兩岸國際資訊
-https://www.youtube.com/watch?v=WLgHtj8hF7o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -296,8 +298,8 @@ https://www.youtube.com/watch?v=u74LMt_hqG8
 https://www.youtube.com/watch?v=YDtNnMzKuVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4Ir1-e3iXbU/maxresdefault.jpg" group-title="少兒",【貝樂虎-兒歌童謠-卡通動畫-經典故事】貝樂虎醫生出動職業認知卡通動畫兒童游戲最新最火幼兒早教視頻
 https://www.youtube.com/watch?v=4Ir1-e3iXbU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C280KoltgmQ/maxresdefault.jpg" group-title="少兒",【小猪佩奇】最新视频粉红猪小妹动画
-https://www.youtube.com/watch?v=C280KoltgmQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vuPApOt82Ow/maxresdefault.jpg" group-title="少兒",【小猪佩奇】最新视频粉红猪小妹动画
+https://www.youtube.com/watch?v=vuPApOt82Ow
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Lasr_ARcHI/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】Giligilis ABC P
 https://www.youtube.com/watch?v=2Lasr_ARcHI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EorP0ZQxwBU/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】Colorful ABC Ad
@@ -334,26 +336,22 @@ https://www.youtube.com/watch?v=hCpriLTzoZA
 https://www.youtube.com/watch?v=GP7Nr2dlC3M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9ohsrhsFeOU/maxresdefault.jpg" group-title="體育",【getwin_sport】雲豹飛將台鋼天鷹鳳山體育館
 https://www.youtube.com/watch?v=9ohsrhsFeOU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZBVZpsYiCkQ/maxresdefault.jpg" group-title="體育",【智林體育台】就是棒城市交流賽丨循環賽丨臺中戰狼東橋社區
-https://www.youtube.com/watch?v=ZBVZpsYiCkQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zeJOGBv--sA/maxresdefault.jpg" group-title="體育",【HOP Sports】例行賽雲林美津濃屏東台電企業年甲級男女排球聯賽
-https://www.youtube.com/watch?v=zeJOGBv--sA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/41g7WOcx9cE/maxresdefault.jpg" group-title="體育",【HOP Sports】例行賽中纖臺北鯨華企業年甲級男女排球聯賽
+https://www.youtube.com/watch?v=41g7WOcx9cE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JaGd4Yy_xjA/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=JaGd4Yy_xjA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YFbBav7BQWk/maxresdefault.jpg" group-title="體育",【動滋Sports】LIVE》1/408:00
-https://www.youtube.com/watch?v=YFbBav7BQWk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0NVqz8uRlI/maxresdefault.jpg" group-title="體育",【GoHoops】名人堂來都來了
-https://www.youtube.com/watch?v=E0NVqz8uRlI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wjlxK9mo3xI/maxresdefault.jpg" group-title="體育",【GoHoops】一維菓菜行傳興米
 https://www.youtube.com/watch?v=wjlxK9mo3xI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-vtCpyW-2QQ/maxresdefault.jpg" group-title="體育",【TPBL】例行賽國王全家海神
-https://www.youtube.com/watch?v=-vtCpyW-2QQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RDvRdRE0h5w/maxresdefault.jpg" group-title="體育",【P.LEAGUE+】洋基工程臺北富邦勇士
+https://www.youtube.com/watch?v=RDvRdRE0h5w
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LwlR9a-M-3w/maxresdefault.jpg" group-title="體育",【TPBL】例行賽國王全家海神
+https://www.youtube.com/watch?v=LwlR9a-M-3w
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bpblrwl9dys/maxresdefault.jpg" group-title="體育",【TPBL】例行賽福爾摩沙夢想家中信特攻
+https://www.youtube.com/watch?v=Bpblrwl9dys
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/INc8k4B2CQU/maxresdefault.jpg" group-title="體育",【TPVL 台灣職業排球聯盟】例行賽台鋼天鷹雲豹飛將
 https://www.youtube.com/watch?v=INc8k4B2CQU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vIs_N4ldRJE/maxresdefault.jpg" group-title="體育",【籃海運動】青少年籃球聯盟
-https://www.youtube.com/watch?v=vIs_N4ldRJE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V5vIcdItgoU/maxresdefault.jpg" group-title="體育",【日本B聯盟】KAWASAKI BRAVE
-https://www.youtube.com/watch?v=V5vIcdItgoU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PbNZzV0qclI/maxresdefault.jpg" group-title="體育",【籃海運動】青少年籃球聯盟
+https://www.youtube.com/watch?v=PbNZzV0qclI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UZYwoKfrgJQ/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=UZYwoKfrgJQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE All Batt
@@ -504,8 +502,6 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=f9P_slj4KvU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eYfm3-M_xZk/maxresdefault.jpg" group-title="政論",【全球大視野】習改核武川任內制霸天下炸台海逼美搞定這些大事周錫瑋蔡正元黃介正重磅對談精彩完整全程中天電視網路論壇
-https://www.youtube.com/watch?v=eYfm3-M_xZk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bD-5afs2LFI/maxresdefault.jpg" group-title="政論",【全球大視野】川普出手接管委內瑞拉馬杜洛被擒送抵美國紐約受審不斷更新
 https://www.youtube.com/watch?v=bD-5afs2LFI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯

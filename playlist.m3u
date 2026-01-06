@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-06 14:18:57
+# Last Update: 2026-01-06 15:18:31
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法譬如水
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛年度劇展芳草碧連天
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙阿芬的幸福修練
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
@@ -42,8 +42,8 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NaxjjP_NYHs/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】空軍戰機驚險墜海飛官跳傘國防部急搜救民進黨提兩國條例撤案網酸沒膽台獨只會騙票中天夜線中天新聞
-https://www.youtube.com/watch?v=NaxjjP_NYHs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r4mBQddddc8/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美眾院共和黨閉門會議川普親臨點評時事王者開講中天新聞
+https://www.youtube.com/watch?v=r4mBQddddc8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZmG555RDe-0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】藍白度封殺兆軍購院版財劃法蔣萬安北市中小學營養午餐全免費民進黨再喊在野再擋總預算多項社福告吹中天新聞
 https://www.youtube.com/watch?v=ZmG555RDe-0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PlTCn6f3zrg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】花蓮夜訓驚險墜海飛行員跳傘軍方搜救中中天新聞
@@ -52,8 +52,6 @@ https://www.youtube.com/watch?v=PlTCn6f3zrg
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lmhmvZmHeEg/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】委內瑞拉總統府暗夜激烈槍戰哥倫比亞部署萬名部隊
-https://www.youtube.com/watch?v=lmhmvZmHeEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m95MYzrZuas/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】強烈大陸冷氣團來襲瘋追雪各地鏡頭君直擊
 https://www.youtube.com/watch?v=m95MYzrZuas
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
@@ -130,6 +128,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M8iD8Y5EarY/maxresdefault.jpg" group-title="綜藝",【204檔案】細思極恐
+https://www.youtube.com/watch?v=M8iD8Y5EarY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -188,8 +188,12 @@ https://www.youtube.com/watch?v=6CvUw2EAdG0
 https://www.youtube.com/watch?v=HKDuzWlyGts
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6lKL5znyZkc/maxresdefault.jpg" group-title="影劇",【GTV DRAMA English】惡作劇之吻馬拉松
 https://www.youtube.com/watch?v=6lKL5znyZkc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sS1GDACuho8/maxresdefault.jpg" group-title="影劇",【精选大剧】草根英雄传市井杂耍郎乱世逢信仰草根板凳的逆袭在风云变幻中扛起大义王宝强
-https://www.youtube.com/watch?v=sS1GDACuho8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rfPo489MFfI/maxresdefault.jpg" group-title="影劇",【精选大剧】暗战以身为饵智擒毒王跨境毒网藏暗处警徽闪耀破阴霾
+https://www.youtube.com/watch?v=rfPo489MFfI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ndi5TEh-Mdk/maxresdefault.jpg" group-title="影劇",【精选大剧】暗战以身为饵智擒毒王跨境毒网藏暗处警徽闪耀破阴霾
+https://www.youtube.com/watch?v=Ndi5TEh-Mdk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Xsvb5vdUdgk/maxresdefault.jpg" group-title="影劇",【精选大剧】暗战以身为饵智擒毒王跨境毒网藏暗处警徽闪耀破阴霾
+https://www.youtube.com/watch?v=Xsvb5vdUdgk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1rmYqHZcXME/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
 https://www.youtube.com/watch?v=1rmYqHZcXME
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gCGC21-URwA/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清修复未删减无静音版戏骨云集神仙打架陈宝国焦晃归亚蕾同台演绎教科级演技每个角色都有独特的魅力堪称必看经典
@@ -466,10 +470,12 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0HNIjn13ZS0/maxresdefault.jpg" group-title="政論",【全球大視野】美眾院共和黨閉門會議川普親臨點評時事王者開講
+https://www.youtube.com/watch?v=0HNIjn13ZS0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PIgGTN_jpnk/maxresdefault.jpg" group-title="政論",【全球大視野】委內瑞拉搜內鬼抗擊美軍入侵李在明訪華送重禮歷史正義戰略雙射高市早苗小時美以聯攻鐵拳行動曝光伊朗電磁獸啟動完整版
+https://www.youtube.com/watch?v=PIgGTN_jpnk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/x2NdjCJCvSw/maxresdefault.jpg" group-title="政論",【94要客訴】馬杜洛被抓瑞士凍結資產中俄在委內瑞拉將蒸發兆藍白喊譴責川普卻不審總預算億救命錢難動支撐不到一個月陳玉珍遭爆喬中華電信人事
-https://www.youtube.com/watch?v=x2NdjCJCvSw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
@@ -478,16 +484,14 @@ https://www.youtube.com/watch?v=HarWsyvLERc
 https://www.youtube.com/watch?v=8o3rl1YgbmE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q6aq20dSnGI/maxresdefault.jpg" group-title="政論",【哏傳媒】談天說地論台灣
 https://www.youtube.com/watch?v=Q6aq20dSnGI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sqb7fORUr8c/maxresdefault.jpg" group-title="政論",【57爆新聞】五角指數爆高又要出事川普追緝馬杜洛金鑰再開殺徐俊相
-https://www.youtube.com/watch?v=sqb7fORUr8c
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CMqI0oa1OiM/maxresdefault.jpg" group-title="政論",【關鍵時刻】派盧比歐當總督殖民委國西半球之王川普擁有自己的石油帝國
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CMqI0oa1OiM/maxresdefault.jpg" group-title="政論",【關鍵時刻】馬杜洛被捕前與中特使歡樂片曝光習沒能力又沒決心百年變局告終
 https://www.youtube.com/watch?v=CMqI0oa1OiM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aSgoizVlWKQ/maxresdefault.jpg" group-title="政論",【新聞龍捲風】花蓮夜訓驚險墜海飛行員跳傘軍方搜救中
 https://www.youtube.com/watch?v=aSgoizVlWKQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PEEmsSYU3E4/maxresdefault.jpg" group-title="政論",【頭條開講】美眾院共和黨閉門會議川普親臨點評時事王者開講
+https://www.youtube.com/watch?v=PEEmsSYU3E4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jg6dM3K9T8s/maxresdefault.jpg" group-title="政論",【觀點】'26.01.06
-https://www.youtube.com/watch?v=Jg6dM3K9T8s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gBcED3mKCMU/maxresdefault.jpg" group-title="政論",【金臨天下】財經新聞看盤不中斷時間黃斐瑜趙慶翔
 https://www.youtube.com/watch?v=gBcED3mKCMU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0siTFIU__tc/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上

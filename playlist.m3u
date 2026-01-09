@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-09 22:17:02
+# Last Update: 2026-01-09 23:16:36
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映生活地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映行動現場
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映證嚴上人說故事
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -44,6 +44,8 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mzUfq6fXJcY/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】不再無字天書國防部機密標示新制預言賴輔選著重縣市郭正亮選情會非常激烈黃蘇貞蓉孫怡琳報新聞中天電視
+https://www.youtube.com/watch?v=mzUfq6fXJcY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -90,8 +92,6 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】特朗普將掌管委內瑞拉石油產業中國外交部深化中委務實合作意願不會改變俄軍用榛樹導彈打擊烏克蘭小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nEVLd9Z-i2g/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晨早新聞報道即時新聞港聞兩岸國際資訊
-https://www.youtube.com/watch?v=nEVLd9Z-i2g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -332,6 +332,8 @@ https://www.youtube.com/watch?v=BZIw9t2X52E
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FHB47F3wWEM/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
+https://www.youtube.com/watch?v=FHB47F3wWEM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BYNWUMC2Np4/maxresdefault.jpg" group-title="音樂",【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=BYNWUMC2Np4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LlDa4PpVh0M/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音一月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
@@ -344,8 +346,6 @@ https://www.youtube.com/watch?v=8sWvaojkCmg
 https://www.youtube.com/watch?v=99rLT2xf8T8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=augOnkJkrHY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xn4d-NyZUYo/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜一月超好聽的中文歌單愛就一個字總會有人最偉大的作品如果可以孤勇者趙乃吉說愛我卻離開我鄧紫棋
-https://www.youtube.com/watch?v=xn4d-NyZUYo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9qOx0nSJYkk/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】熱榜上最火的首歌年大陸流行歌曲讓人停不下來的音樂跳楼机最後一頁這是你期盼的長大嗎最新抖音神曲
 https://www.youtube.com/watch?v=9qOx0nSJYkk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜一月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
@@ -356,6 +356,8 @@ https://www.youtube.com/watch?v=PoNKmT9ns-Y
 https://www.youtube.com/watch?v=PWt0X2ioW8E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IsEhtbPZr4Q/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜愛就一個字若月亮没来花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋一月新歌
 https://www.youtube.com/watch?v=IsEhtbPZr4Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z5Rt2KNRX7g/maxresdefault.jpg" group-title="音樂",【孤心旋律】年一月最新歌曲華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋一月強檔新曲
+https://www.youtube.com/watch?v=z5Rt2KNRX7g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mCBZf8zXnbg/maxresdefault.jpg" group-title="音樂",【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=mCBZf8zXnbg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fzkK3lO9ZYI/maxresdefault.jpg" group-title="音樂",【孤心旋律】一月抖音神曲大集合抖音熱門歌曲跳楼机在加納共和國離婚最後一頁氣象站台座位如果愛忘了故事还长過星辰大海
@@ -482,36 +484,6 @@ https://www.youtube.com/watch?v=8o3rl1YgbmE
 https://www.youtube.com/watch?v=_LVTMyXBTTI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gBcED3mKCMU/maxresdefault.jpg" group-title="政論",【金臨天下】財經新聞看盤不中斷時間黃斐瑜趙慶翔
 https://www.youtube.com/watch?v=gBcED3mKCMU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0siTFIU__tc/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
-https://www.youtube.com/watch?v=0siTFIU__tc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Pr3D4mMrhvE/maxresdefault.jpg" group-title="購物",【玉麟網路電視台】線上
-https://www.youtube.com/watch?v=Pr3D4mMrhvE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5yEATlsQ2vc/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
-https://www.youtube.com/watch?v=5yEATlsQ2vc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Sl26ZFvawuU/maxresdefault.jpg" group-title="購物",【三聖電視台】「三聖電視台」直播
-https://www.youtube.com/watch?v=Sl26ZFvawuU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HZTQ87Vq2IA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
-https://www.youtube.com/watch?v=HZTQ87Vq2IA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4K76Q5uWKiY/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播
-https://www.youtube.com/watch?v=4K76Q5uWKiY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UZW-uj83JHk/maxresdefault.jpg" group-title="購物",【桐瑛台南電視臺】「桐瑛台南電視臺」直播
-https://www.youtube.com/watch?v=UZW-uj83JHk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_pZQ1Lk0xMA/maxresdefault.jpg" group-title="購物",【momo購物一台】購物一台頻道小時線上
-https://www.youtube.com/watch?v=_pZQ1Lk0xMA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xbNWkUyxQGM/maxresdefault.jpg" group-title="購物",【momo購物二台】購物二台頻道小時線上
-https://www.youtube.com/watch?v=xbNWkUyxQGM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lEXITHxcagI/maxresdefault.jpg" group-title="購物",【ViVa TV美好家庭購物】美好購物台線上看
-https://www.youtube.com/watch?v=lEXITHxcagI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7IyxOiGMLgw/maxresdefault.jpg" group-title="購物",【ViVa TV美好家庭購物】美好購物台線上看
-https://www.youtube.com/watch?v=7IyxOiGMLgw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ViJ3XiN6Q3M/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH47
-https://www.youtube.com/watch?v=ViJ3XiN6Q3M
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z50JFuNgvB0/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH46
-https://www.youtube.com/watch?v=Z50JFuNgvB0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Vlzn9qAHD4/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH34
-https://www.youtube.com/watch?v=_Vlzn9qAHD4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u0NYyH3ZesE/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH60
-https://www.youtube.com/watch?v=u0NYyH3ZesE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Lj8OWF6nzcg/maxresdefault.jpg" group-title="國會",【國會頻道】國會頻道２
 https://www.youtube.com/watch?v=Lj8OWF6nzcg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IvAXtzx5cUI/maxresdefault.jpg" group-title="國會",【國會頻道】程序委員會

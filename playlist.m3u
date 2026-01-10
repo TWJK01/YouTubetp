@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-10 14:15:21
+# Last Update: 2026-01-10 15:15:40
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映風月同天
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛全紀實
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙大大與太太
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
@@ -44,6 +44,8 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NwxHutLyimE/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】川飄了挑戰中俄演啥大戲東亞沒招美再打他台待宰周錫瑋蔡正元揭仲重磅對談精彩完整全程中天電視網路論壇
+https://www.youtube.com/watch?v=NwxHutLyimE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lfSiM917x9w/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】歷史哥擂台中天電視
 https://www.youtube.com/watch?v=lfSiM917x9w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -126,8 +128,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dH_w_qWs5Oc/maxresdefault.jpg" group-title="綜藝",【超級夜總會】袁小迪再次挑戰芭蕾舞民雄麗小花直接傻眼刺槍術演練變成現場大亂鬥播出
-https://www.youtube.com/watch?v=dH_w_qWs5Oc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zy9dIC8t_Qs/maxresdefault.jpg" group-title="綜藝",【204檔案】檔案沒縮圖但是很恐怖
+https://www.youtube.com/watch?v=zy9dIC8t_Qs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -322,16 +324,6 @@ https://www.youtube.com/watch?v=IQbSkhYWC6A
 https://www.youtube.com/watch?v=adtIhQ_1HoI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pw_sDfYTqPU/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】代嫁冤家到命运同心异能少女婚约逆袭通灵之旅圆满收官通灵妃第二季
 https://www.youtube.com/watch?v=pw_sDfYTqPU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JaGd4Yy_xjA/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
-https://www.youtube.com/watch?v=JaGd4Yy_xjA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UZYwoKfrgJQ/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
-https://www.youtube.com/watch?v=UZYwoKfrgJQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE All Batt
-https://www.youtube.com/watch?v=5CHCbBj-Vjg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6FLK_Xf-EkU/maxresdefault.jpg" group-title="體育",【WWE】Best of Wrestle
-https://www.youtube.com/watch?v=6FLK_Xf-EkU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BZIw9t2X52E/maxresdefault.jpg" group-title="體育",【WWE Vault】WWE Attitude Er
-https://www.youtube.com/watch?v=BZIw9t2X52E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q8hw5oKCDp4/maxresdefault.jpg" group-title="音樂",【周杰倫】音樂時光機
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
@@ -466,20 +458,12 @@ https://www.youtube.com/watch?v=4VT3Zi3Xr2c
 https://www.youtube.com/watch?v=z8PzoHfHBf0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MjsI7PQrm4Y/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田
 https://www.youtube.com/watch?v=MjsI7PQrm4Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8NabGQWV5KY/maxresdefault.jpg" group-title="音樂",【MEET48 Global】没有我的世界第四十四场
-https://www.youtube.com/watch?v=8NabGQWV5KY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2OKo5gp5Jkw/maxresdefault.jpg" group-title="音樂",【MEET48 Global】韩家乐平安喜乐年度剧场公演
-https://www.youtube.com/watch?v=2OKo5gp5Jkw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OMBBgQkppvo/maxresdefault.jpg" group-title="政論",【全球大視野】伊朗示威釀死哈米尼絕不退讓美軍急飛中東川普闖禍城暴亂市長反水美強吞格陵蘭遭拒中俄被堵完整版
-https://www.youtube.com/watch?v=OMBBgQkppvo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RP8UvCKnoBA/maxresdefault.jpg" group-title="政論",【94要客訴】美軍分鐘活捉馬杜洛關鍵飛機最神秘無人機現身直升機掩護三角洲部隊美擬增購契努克直升機三立新聞網
-https://www.youtube.com/watch?v=RP8UvCKnoBA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網

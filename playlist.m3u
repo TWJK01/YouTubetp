@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-12 15:21:30
+# Last Update: 2026-01-12 16:22:30
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛年度劇展芳草碧連天
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊在愛之外
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙大大與太太
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊在愛之外
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -40,8 +40,6 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-9TxsLSnfO8/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】傳賴清德點名卓榮泰千億軍購沒到苗博雅曝僅案延宕嗆提不出清單就別造謠館長被起訴喊冤要賴清德出庭總統被告才要出庭中天電視
-https://www.youtube.com/watch?v=-9TxsLSnfO8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -88,6 +86,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】特朗普接管格陵蘭是為防止中俄控制北極中國外交部美謀取私利別拿他國當藉口王毅訪非釋放中非戰略對表信號小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b1rf5ik8qak/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=b1rf5ik8qak
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -466,8 +466,6 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MPHNONQ3qOs/maxresdefault.jpg" group-title="政論",【全球大視野】伊朗鎮壓恐逾千人亡川普動武倒數聲波武器現身白宮背書南天門成真航母升空照進現實完整版
-https://www.youtube.com/watch?v=MPHNONQ3qOs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網
@@ -476,8 +474,6 @@ https://www.youtube.com/watch?v=JIKHI-lnWmw
 https://www.youtube.com/watch?v=HarWsyvLERc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/maxresdefault.jpg" group-title="政論",【新聞大白話】時間配信
 https://www.youtube.com/watch?v=8o3rl1YgbmE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ll5tpm3ZQbY/maxresdefault.jpg" group-title="政論",【關鍵時刻】習近平全力切割伊朗惹火普丁王毅訪索馬利亞緊急放鳥戰狼怕了
-https://www.youtube.com/watch?v=ll5tpm3ZQbY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0siTFIU__tc/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
@@ -558,12 +554,12 @@ https://www.youtube.com/watch?v=dVkQNH3IfME
 https://www.youtube.com/watch?v=BXvMi6rGrc8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7wX-bH0KCCg/maxresdefault.jpg" group-title="教育",【龍騰高中聲】學測數學近年全解析小時不下線陪你撐到學測那天
 https://www.youtube.com/watch?v=7wX-bH0KCCg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vYOLs8e_jDw/maxresdefault.jpg" group-title="教育",【ABC Learning English】Learn English T
+https://www.youtube.com/watch?v=vYOLs8e_jDw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ASYIVRWCVJw/maxresdefault.jpg" group-title="教育",【ABC Learning English】English Convers
 https://www.youtube.com/watch?v=ASYIVRWCVJw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c8HCTQX_9G4/maxresdefault.jpg" group-title="教育",【ABC Learning English】English Convers
 https://www.youtube.com/watch?v=c8HCTQX_9G4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PTtqASP6hGQ/maxresdefault.jpg" group-title="教育",【ABC Learning English】Learn English T
-https://www.youtube.com/watch?v=PTtqASP6hGQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vuTY4FDAbpA/maxresdefault.jpg" group-title="教育",【ABC Learning English】24 Hours Englis
 https://www.youtube.com/watch?v=vuTY4FDAbpA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1DIdH6WWxWs/maxresdefault.jpg" group-title="教育",【學習粵語】Speak Cantonese
@@ -608,10 +604,6 @@ https://www.youtube.com/watch?v=dfROjpM0hqM
 https://www.youtube.com/watch?v=y7F7VxWyfFM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZZXGuOVl-I/maxresdefault.jpg" group-title="教育",【學習波斯語】Speak Persian 2
 https://www.youtube.com/watch?v=MZZXGuOVl-I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RwESfbNevQk/maxresdefault.jpg" group-title="風景",【TW Live Cam】淡江大橋淡江大橋跨年煙火
-https://www.youtube.com/watch?v=RwESfbNevQk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NilOYhriA4I/maxresdefault.jpg" group-title="風景",【和平島公園即時影像】和平島公園
-https://www.youtube.com/watch?v=NilOYhriA4I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/215ahZ_0rTg/maxresdefault.jpg" group-title="風景",【台北】Maokong Zhinan
 https://www.youtube.com/watch?v=215ahZ_0rTg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/34h_Cy_n0Ok/maxresdefault.jpg" group-title="風景",【台北】Jiantanshan Wei

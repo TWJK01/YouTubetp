@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-13 19:17:26
+# Last Update: 2026-01-13 20:20:11
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映生活地球村
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映生活地球村
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -80,8 +80,6 @@ https://www.youtube.com/watch?v=YBgQRpZqeug
 https://www.youtube.com/watch?v=HSImh9Pz_44
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Tf3mktyg6bU/maxresdefault.jpg" group-title="台灣",【AI主播倪珍Nikki 播新聞】主播倪珍小時氣象
 https://www.youtube.com/watch?v=Tf3mktyg6bU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8yMWXEyFozg/maxresdefault.jpg" group-title="台灣",【BNE TV - 新西兰中文国际频道】连坐特朗普对与伊朗贸易国家加税俄大规模打击乌军工设施英研发新型导弹援乌中欧电动车争端关税或取消终结者既视感聊天机器人将接入五角大楼系统伊朗硬刚美国让你永生难忘我爱纽西兰
-https://www.youtube.com/watch?v=8yMWXEyFozg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7j92Myu2wzg/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
 https://www.youtube.com/watch?v=7j92Myu2wzg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f6Kq93wnaZ8/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
@@ -318,8 +316,6 @@ https://www.youtube.com/watch?v=gj-3EL_DR3M
 https://www.youtube.com/watch?v=IQbSkhYWC6A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JaGd4Yy_xjA/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=JaGd4Yy_xjA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pJYF4jPYpFg/maxresdefault.jpg" group-title="體育",【MotoGP】Prima Pramac Ya
-https://www.youtube.com/watch?v=pJYF4jPYpFg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE All Batt
 https://www.youtube.com/watch?v=5CHCbBj-Vjg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6FLK_Xf-EkU/maxresdefault.jpg" group-title="體育",【WWE】Best of Wrestle
@@ -342,6 +338,8 @@ https://www.youtube.com/watch?v=8sWvaojkCmg
 https://www.youtube.com/watch?v=99rLT2xf8T8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=augOnkJkrHY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JRpKiWTMyDM/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年一月最新歌曲最新華語單曲排行榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
+https://www.youtube.com/watch?v=JRpKiWTMyDM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9qOx0nSJYkk/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】熱榜上最火的首歌年大陸流行歌曲讓人停不下來的音樂跳楼机最後一頁這是你期盼的長大嗎最新抖音神曲
 https://www.youtube.com/watch?v=9qOx0nSJYkk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜一月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋

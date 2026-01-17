@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-17 03:19:18
+# Last Update: 2026-01-17 04:29:11
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -8,8 +8,12 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=kzBW-wA-U1A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uRcC1X1ea3M/maxresdefault.jpg" group-title="台灣",【台視新聞】午間大頭條疑搶快左轉與直行車碰撞衝騎樓釀傷
+https://www.youtube.com/watch?v=uRcC1X1ea3M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qWZMIMEwYI8/maxresdefault.jpg" group-title="台灣",【中視新聞】中視午間新聞線上看
+https://www.youtube.com/watch?v=qWZMIMEwYI8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -18,17 +22,17 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ftiuySAtHOI/maxresdefault.jpg" group-title="台灣",【民視新聞網】寒冬送暖做公益蘇巧慧出席衣童幸福微笑慈善活動民視快新聞
-https://www.youtube.com/watch?v=ftiuySAtHOI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pEKqaqo3hOc/maxresdefault.jpg" group-title="台灣",【民視新聞網】學測登場網路分享考生求救英文蔡英文喊話相信自己旅館整修頂樓遮雨棚鋼板吊上六樓高未做防護川普讚伊朗取消多人絞刑美伊情勢暫緩
+https://www.youtube.com/watch?v=pEKqaqo3hOc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映慈濟的故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛午安新聞
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛午安新聞
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -36,6 +40,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2G9P71upEqk/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】對答案了學測首日數試題解析這裡看
+https://www.youtube.com/watch?v=2G9P71upEqk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/onOM29Q4WlE/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】週末不斷線精彩一次看李正皓主持三立新聞台
 https://www.youtube.com/watch?v=onOM29Q4WlE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sjkukcgOJWI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】台塑重大工安意外林園廠遭令局部停工三立新聞台
@@ -50,6 +56,8 @@ https://www.youtube.com/watch?v=QsGswQvRmtU
 https://www.youtube.com/watch?v=hGJkDZDchYI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xIVPvcXP7x4/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】台美關稅政府信保貓膩鄭麗君參選機會升陳佩琪控賴清德犯一罪川普搶格陵蘭出大招孫怡琳洪淑芬報新聞中天電視
 https://www.youtube.com/watch?v=xIVPvcXP7x4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TD_wHVpBImo/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中國怎接招川普亂局川普把全球秩序當玩具習近平看準空窗擴大布局網路論壇
+https://www.youtube.com/watch?v=TD_wHVpBImo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AOmjmIlr5EQ/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】彰化國際賽車節國內外頂尖車手同場競技中天新聞
 https://www.youtube.com/watch?v=AOmjmIlr5EQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BiCZWPI9cRA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】藍營台中市長協調未果楊瓊瓔連跑梧棲大甲后里勤拜票中天新聞
@@ -66,10 +74,10 @@ https://www.youtube.com/watch?v=vr3XyVCR4T0
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8NiKqmjtpmA/maxresdefault.jpg" group-title="台灣",【寰宇新聞】台灣台小時台湾時間配信中
+https://www.youtube.com/watch?v=8NiKqmjtpmA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/maxresdefault.jpg" group-title="台灣",【寰宇新聞】川普擴張美國意圖鮮明盟友敵國一律威脅伊朗血腥鎮壓哀鴻遍野遺體遍布畫面曝光台
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w87VGpgd90U/maxresdefault.jpg" group-title="台灣",【寰宇新聞】台灣台小時台湾時間配信中
-https://www.youtube.com/watch?v=w87VGpgd90U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6IquAgfvYmc/maxresdefault.jpg" group-title="台灣",【寰宇新聞】小時線上台湾時間配信中
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人小時
@@ -106,6 +114,8 @@ https://www.youtube.com/watch?v=fN9uYWCjQaw
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
 https://www.youtube.com/watch?v=KgcJZ_Is_h4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OMGp2i6cN1M/maxresdefault.jpg" group-title="綜藝",【三立娛樂星聞】安妞韓娛午報韓國娛樂消息快速送到你手上
+https://www.youtube.com/watch?v=OMGp2i6cN1M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ADDSmXoPDY8/maxresdefault.jpg" group-title="綜藝",【中視經典綜藝】萬秀豬王小時馬拉松不間斷台湾番組
 https://www.youtube.com/watch?v=ADDSmXoPDY8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9gx5EIyHmsw/maxresdefault.jpg" group-title="綜藝",【綜藝一級棒】小時歡樂不停播
@@ -144,102 +154,6 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rfSblpvy_rY/maxresdefault.jpg" group-title="影劇",【戲說台灣】妖精大集合動物都能變成精小時不間斷
-https://www.youtube.com/watch?v=rfSblpvy_rY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nt6SoW6D5i8/maxresdefault.jpg" group-title="影劇",【台視時光機】經典勵志流氓教授精彩故事不間斷
-https://www.youtube.com/watch?v=nt6SoW6D5i8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MlpGNrF88FI/maxresdefault.jpg" group-title="影劇",【台視時光機】挑戰你的極限精彩類戲劇一次看個夠
-https://www.youtube.com/watch?v=MlpGNrF88FI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fH2POwXR-xw/maxresdefault.jpg" group-title="影劇",【台視時光機】神機妙算劉伯溫全集馬拉松再現神威
-https://www.youtube.com/watch?v=fH2POwXR-xw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Me6zMjJdzhk/maxresdefault.jpg" group-title="影劇",【中視經典戲劇】現在開始看光陰的故事小時不斷電
-https://www.youtube.com/watch?v=Me6zMjJdzhk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_AKIOe2Sh_g/maxresdefault.jpg" group-title="影劇",【華視戲劇頻道】全劇小時不斷電一起跟包公辦案
-https://www.youtube.com/watch?v=_AKIOe2Sh_g
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7PrYe8ykEjY/maxresdefault.jpg" group-title="影劇",【華視戲劇頻道】小時不斷電一起追劇來辦案
-https://www.youtube.com/watch?v=7PrYe8ykEjY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NyrdWXddfR4/maxresdefault.jpg" group-title="影劇",【民視戲劇館】台灣奇案民視戲劇馬拉松
-https://www.youtube.com/watch?v=NyrdWXddfR4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TXKWbIPgD_8/maxresdefault.jpg" group-title="影劇",【民視戲劇館】廉政英雄民視戲劇馬拉松
-https://www.youtube.com/watch?v=TXKWbIPgD_8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qJMFuMRLee4/maxresdefault.jpg" group-title="影劇",【民視戲劇館】新玫瑰瞳鈴眼民視戲劇馬拉松
-https://www.youtube.com/watch?v=qJMFuMRLee4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6CQZxYpW9q4/maxresdefault.jpg" group-title="影劇",【民視戲劇館】我的老師叫小賀民視戲劇馬拉松
-https://www.youtube.com/watch?v=6CQZxYpW9q4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rTcTVZBZtYs/maxresdefault.jpg" group-title="影劇",【民視戲劇館】藍色水玲瓏民視戲劇馬拉松
-https://www.youtube.com/watch?v=rTcTVZBZtYs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/032kEdR9Lic/maxresdefault.jpg" group-title="影劇",【民視戲劇館】新兵日記特戰英雄高清修復版民視戲劇馬拉松
-https://www.youtube.com/watch?v=032kEdR9Lic
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yzdKYRUCdxQ/maxresdefault.jpg" group-title="影劇",【四季線上4gTV】重現阿叔前世與忘不了的情人馬拉松經典劇王識賢李興文李李仁張鳳書韓瑜四季線上
-https://www.youtube.com/watch?v=yzdKYRUCdxQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Nfwr1WBXt9I/maxresdefault.jpg" group-title="影劇",【四季線上4gTV】飛上天馬拉松經典劇江宏恩黃少祺賈靜雯張鳳書黃維德四季線上
-https://www.youtube.com/watch?v=Nfwr1WBXt9I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DFqBPb7EW5g/maxresdefault.jpg" group-title="影劇",【四季線上4gTV】豬哥亮回來了豬哥亮豬哥秀馬拉松四季線上
-https://www.youtube.com/watch?v=DFqBPb7EW5g
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GjXBXz5dl6E/maxresdefault.jpg" group-title="影劇",【四季線上4gTV】經典長壽劇不斷電鬥嘴鼓馬拉松卓勝利李王羅潘麗麗沛小嵐四季線上
-https://www.youtube.com/watch?v=GjXBXz5dl6E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FuRbrw9lliI/maxresdefault.jpg" group-title="影劇",【三立電視 SET TV】永遠不忘為家付出的一念心台灣好戲不間斷三立電視
-https://www.youtube.com/watch?v=FuRbrw9lliI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PEK0rwBXl2M/maxresdefault.jpg" group-title="影劇",【三立電視 SET TV】毒婦郭佳佳的愛恨情仇比潘茵茵更瘋的角色世間男女情關難過八點檔影后們集結了
-https://www.youtube.com/watch?v=PEK0rwBXl2M
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fsykZDGND_o/maxresdefault.jpg" group-title="影劇",【三立電視 SET TV】漁村阿爸苦撐一生只為孩子活得好如今只想完成一個願望台灣好戲不間斷三立電視廖峻應采靈黃文星吳申梅
-https://www.youtube.com/watch?v=fsykZDGND_o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zZviZGp9NmA/maxresdefault.jpg" group-title="影劇",【三立電視 SET TV】洗嘞哈囉連體嬰姊妹墜入愛河她們該如何談戀愛呢集不間斷中三立電視
-https://www.youtube.com/watch?v=zZviZGp9NmA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LywmGVSqUxg/maxresdefault.jpg" group-title="影劇",【三立電視 SET TV】甘安捏高清版本小時不間斷台灣吵架第一品牌出爐懷念金句挖哩企系三立電視
-https://www.youtube.com/watch?v=LywmGVSqUxg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ih93UlH3Q_k/maxresdefault.jpg" group-title="影劇",【三立華劇 SET Drama】愛情魔髮師魔法師開播年在我心裡最愛的就是你不間斷明道曾之喬王少偉祝釩剛黃玉榮
-https://www.youtube.com/watch?v=ih93UlH3Q_k
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6CvUw2EAdG0/maxresdefault.jpg" group-title="影劇",【三立華劇 SET Drama】浮士德的微笑一起來看戲劇男神張立昂與劉奕兒化身趙以霆及雷芯語不間斷張立昂劉奕兒陽詠存邵翔洪詩
-https://www.youtube.com/watch?v=6CvUw2EAdG0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HKDuzWlyGts/maxresdefault.jpg" group-title="影劇",【終極系列】馬拉松
-https://www.youtube.com/watch?v=HKDuzWlyGts
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c-fwyrflKAU/maxresdefault.jpg" group-title="影劇",【GTV DRAMA English】花樣少年少女馬拉松吳尊汪東城
-https://www.youtube.com/watch?v=c-fwyrflKAU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6lKL5znyZkc/maxresdefault.jpg" group-title="影劇",【GTV DRAMA English】惡作劇之吻馬拉松
-https://www.youtube.com/watch?v=6lKL5znyZkc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rgJHHHwBk7U/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
-https://www.youtube.com/watch?v=rgJHHHwBk7U
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gCGC21-URwA/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清修复未删减无静音版戏骨云集神仙打架陈宝国焦晃归亚蕾同台演绎教科级演技每个角色都有独特的魅力堪称必看经典
-https://www.youtube.com/watch?v=gCGC21-URwA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mcFmt2w5B_c/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
-https://www.youtube.com/watch?v=mcFmt2w5B_c
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D9YBnpcd2RY/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】独播高清无静音版经典古装悬疑高分神剧原汁原味的大唐神探传奇梁冠华张子健钱雁秋黄金三角重聚熟悉的配方不可复制的经典狄仁杰智破奇案新增恋爱线
-https://www.youtube.com/watch?v=D9YBnpcd2RY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rMa46lKUni0/maxresdefault.jpg" group-title="影劇",【华录百納熱播劇場】马拉松品味红学致敬经典高清不卡一镜到底沉浸体验百纳热播剧场
-https://www.youtube.com/watch?v=rMa46lKUni0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wmcBjs9ZFkc/maxresdefault.jpg" group-title="影劇",【CCTV电视剧】大圣归来经典再现版西游记带你感受原版魅力西游记
-https://www.youtube.com/watch?v=wmcBjs9ZFkc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bsNhTZXu6wg/maxresdefault.jpg" group-title="影劇",【CCTV电视剧】马拉松康熙王朝千古一帝康熙帝的传奇一生
-https://www.youtube.com/watch?v=bsNhTZXu6wg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WOcqjDpeX4w/maxresdefault.jpg" group-title="影劇",【CCTV电视剧】马拉松红楼梦致敬经典岁月激流中的潜心之作
-https://www.youtube.com/watch?v=WOcqjDpeX4w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gFWrFns27CI/maxresdefault.jpg" group-title="影劇",【CCTV电视剧】马拉松雍正王朝九子夺嫡皇家的权谋之术
-https://www.youtube.com/watch?v=gFWrFns27CI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Pp4zaahCN24/maxresdefault.jpg" group-title="影劇",【CCTV电视剧】二十年弹指一挥间小郭祝你自由马拉松武林外传另类喜剧戏说江湖
-https://www.youtube.com/watch?v=Pp4zaahCN24
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1hv5TEYJ0pc/maxresdefault.jpg" group-title="影劇",【CCTV电视剧】马拉松三国英雄集结权谋与忠义的较量三国演义带你领略英雄传奇
-https://www.youtube.com/watch?v=1hv5TEYJ0pc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jzblmiOtUnQ/maxresdefault.jpg" group-title="影劇",【老广一起睇】小时大院房客家第季经典第集连播粤语经典电视剧
-https://www.youtube.com/watch?v=jzblmiOtUnQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c7buWqVaY5U/maxresdefault.jpg" group-title="影劇",【China Zone 古裝劇場】漢宮美人心計絕色女間諜愛上庶子皇帝傳奇皇后的逆襲人生林心如楊冪王麗坤羅晉馮紹峰
-https://www.youtube.com/watch?v=c7buWqVaY5U
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1axJqsNivk/maxresdefault.jpg" group-title="影劇",【China Zone 剧乐部】雍正王朝一口气看过瘾清朝最牛的皇帝老四雍正逆风翻盘的一生唐国强焦晃
-https://www.youtube.com/watch?v=V1axJqsNivk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/i_djNFnesTE/maxresdefault.jpg" group-title="影劇",【China Zone 剧乐部】琅琊榜全集陪伴看梅长苏搅弄京城风云主演胡歌王凯吴磊刘涛靳东剧乐部
-https://www.youtube.com/watch?v=i_djNFnesTE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Zd3Rc0mgTuE/maxresdefault.jpg" group-title="影劇",【China Zone 流金岁月】西遊記齊天大聖孫悟空降妖除魔師徒四人歷經九九八十一難修得正果流金岁月
-https://www.youtube.com/watch?v=Zd3Rc0mgTuE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OzQXnJA2ioA/maxresdefault.jpg" group-title="影劇",【China Zone梦想剧场】温暖的弦超長張翰張鈞甯糾葛半生甜蜜歸來
-https://www.youtube.com/watch?v=OzQXnJA2ioA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QtcqlBlQXNM/maxresdefault.jpg" group-title="影劇",【乐视视频官方频道】甄嬛传小时可持续马拉松循环
-https://www.youtube.com/watch?v=QtcqlBlQXNM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2dzOsB9pekU/maxresdefault.jpg" group-title="影劇",【乐视视频官方频道】芈月传小时全集循环
-https://www.youtube.com/watch?v=2dzOsB9pekU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/j18U2kylB34/maxresdefault.jpg" group-title="影劇",【正午阳光官方频道】赵丽颖冯绍峰上演古代宅门爱恋大戏知否知否应是绿肥红瘦
-https://www.youtube.com/watch?v=j18U2kylB34
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lKwt7zdAqaQ/maxresdefault.jpg" group-title="影劇",【正午阳光官方频道】巷亲相爱感受邻里温情家好月圆承载两代人的成长小巷人家
-https://www.youtube.com/watch?v=lKwt7zdAqaQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rXVuWlXmZYI/maxresdefault.jpg" group-title="少兒",【Muse木棉花】無職轉生～到了異世界就拿出真本事
 https://www.youtube.com/watch?v=rXVuWlXmZYI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2nRXMkPV4DY/maxresdefault.jpg" group-title="少兒",【Muse木棉花】Lycoris Recoil 莉可麗絲
@@ -334,10 +248,8 @@ https://www.youtube.com/watch?v=CalBZIu3zIM
 https://www.youtube.com/watch?v=IQbSkhYWC6A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v0dzrEzBScY/maxresdefault.jpg" group-title="體育",【緯來體育台】明尼蘇達灰狼休士頓火箭賽季看緯來
 https://www.youtube.com/watch?v=v0dzrEzBScY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U8K4Ch098_U/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】鴻揚鋁材
-https://www.youtube.com/watch?v=U8K4Ch098_U
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lPidY6m7BSk/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽龍華資網
-https://www.youtube.com/watch?v=lPidY6m7BSk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7hHeF38aOCQ/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】春發製油有福餛飩
+https://www.youtube.com/watch?v=7hHeF38aOCQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE All Batt
 https://www.youtube.com/watch?v=5CHCbBj-Vjg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SmTOogFsMHs/maxresdefault.jpg" group-title="體育",【WWE】Best of Royal R
@@ -360,6 +272,8 @@ https://www.youtube.com/watch?v=8sWvaojkCmg
 https://www.youtube.com/watch?v=99rLT2xf8T8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=augOnkJkrHY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jgFGMzedpaE/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】一月強檔新曲華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋年一月最新歌曲
+https://www.youtube.com/watch?v=jgFGMzedpaE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9qOx0nSJYkk/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】熱榜上最火的首歌年大陸流行歌曲讓人停不下來的音樂跳楼机最後一頁這是你期盼的長大嗎最新抖音神曲
 https://www.youtube.com/watch?v=9qOx0nSJYkk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜一月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
@@ -476,10 +390,10 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RewCl_ExzjY/maxresdefault.jpg" group-title="政論",【全球大視野】甘肅高原玫瑰保鮮技巧大揭祕可遠銷俄羅斯吉爾吉斯等海外市場
-https://www.youtube.com/watch?v=RewCl_ExzjY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2TDM_Q6ur4w/maxresdefault.jpg" group-title="政論",【94要客訴】對答案了學測首日數試題解析這裡看三立新聞網
+https://www.youtube.com/watch?v=2TDM_Q6ur4w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/S7FaTb0W0Hg/maxresdefault.jpg" group-title="政論",【94要客訴】台塑工安意外林園廠遭令局部停工三立新聞網
 https://www.youtube.com/watch?v=S7FaTb0W0Hg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網
@@ -624,6 +538,8 @@ https://www.youtube.com/watch?v=dfROjpM0hqM
 https://www.youtube.com/watch?v=y7F7VxWyfFM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZZXGuOVl-I/maxresdefault.jpg" group-title="教育",【學習波斯語】Speak Persian 2
 https://www.youtube.com/watch?v=MZZXGuOVl-I
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nGz8w9drcDs/maxresdefault.jpg" group-title="風景",【和平島公園即時影像】和平島公園
+https://www.youtube.com/watch?v=nGz8w9drcDs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/215ahZ_0rTg/maxresdefault.jpg" group-title="風景",【台北】Maokong Zhinan
 https://www.youtube.com/watch?v=215ahZ_0rTg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/34h_Cy_n0Ok/maxresdefault.jpg" group-title="風景",【台北】Jiantanshan Wei
@@ -682,6 +598,8 @@ https://www.youtube.com/watch?v=mMG7v_fET5A
 https://www.youtube.com/watch?v=8-xSAfWwh10
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UgoT-QTbYvo/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角外澳沙灘
 https://www.youtube.com/watch?v=UgoT-QTbYvo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYRcNwvJR5g/maxresdefault.jpg" group-title="風景",【野柳即時影像】野柳地質公園
+https://www.youtube.com/watch?v=dYRcNwvJR5g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3JzbzXqusDg/maxresdefault.jpg" group-title="風景",【桃園】巴陵馬崙砲台觀景平台
 https://www.youtube.com/watch?v=3JzbzXqusDg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/44JArbF682k/maxresdefault.jpg" group-title="風景",【桃園】許厝港濕地

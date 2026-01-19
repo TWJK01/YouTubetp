@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-19 13:32:35
+# Last Update: 2026-01-19 13:41:56
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,10 +26,8 @@ https://www.youtube.com/watch?v=quwqlazU-c8
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映樂事美聲錄
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映樂事美聲錄
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法譬如水
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gj24aGaUnbc/maxresdefault.jpg" group-title="台灣",【鏡新聞】川獨家還原羅生門國防機密被追回昌稱自己發現返回有話鏡來講
-https://www.youtube.com/watch?v=gj24aGaUnbc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/p3tgbrWO2vw/maxresdefault.jpg" group-title="台灣",【東森新聞】東森世界日報蘆洲蔥油餅夫妻遭逆子殺害歲涉案啃老男落網北北基大雨特報冷氣團夜襲北東部周四前防雨內蒙古包鋼廠爆炸蕈狀雲衝天釀死失聯
@@ -50,8 +48,6 @@ https://www.youtube.com/watch?v=hGJkDZDchYI
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iA7XMRs3eS0/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】飄浮氣球破了變殺機台南女童吸入氦氣昏迷黑唇西門雅香火鍋火警濃煙竄整棟人嗆傷救災斷電戶
-https://www.youtube.com/watch?v=iA7XMRs3eS0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -196,6 +192,10 @@ https://www.youtube.com/watch?v=6lKL5znyZkc
 https://www.youtube.com/watch?v=grMspiqQwQA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uPLdwjHlf58/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
 https://www.youtube.com/watch?v=uPLdwjHlf58
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v6ZRGiFH5aE/maxresdefault.jpg" group-title="影劇",【精选大剧】侠客恩仇录大结局家恨凝霜寒剑刃国仇叠浪涌江湖
+https://www.youtube.com/watch?v=v6ZRGiFH5aE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UzTB4iEax3g/maxresdefault.jpg" group-title="影劇",【精选大剧】侠客恩仇录家恨凝霜寒剑刃国仇叠浪涌江湖
+https://www.youtube.com/watch?v=UzTB4iEax3g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rgJHHHwBk7U/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
 https://www.youtube.com/watch?v=rgJHHHwBk7U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gCGC21-URwA/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清修复未删减无静音版戏骨云集神仙打架陈宝国焦晃归亚蕾同台演绎教科级演技每个角色都有独特的魅力堪称必看经典

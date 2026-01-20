@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-20 16:33:02
+# Last Update: 2026-01-20 17:25:17
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊純美時光
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊純美時光
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -88,8 +88,6 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】特朗普以關稅威脅馬克龍加入和平委員會何立峰達沃斯將會晤全球企業高管李在明要求徹查無人機入朝小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KuK6iJEoYcE/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
-https://www.youtube.com/watch?v=KuK6iJEoYcE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -124,8 +122,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1b-IAzioNWk/maxresdefault.jpg" group-title="綜藝",【204檔案】祂真的不會噹
-https://www.youtube.com/watch?v=1b-IAzioNWk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】來自社會記者第一手的報導深入剖析犯罪者的內心世界探索每個刑事案件背後的故事資深記者老帶你揭露台灣社會重案祕辛
 https://www.youtube.com/watch?v=TiOU3qHCqXk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -486,34 +482,6 @@ https://www.youtube.com/watch?v=8o3rl1YgbmE
 https://www.youtube.com/watch?v=I8XTiCFRFy8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
-https://www.youtube.com/watch?v=IBcS_0eEndI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dpWi5mk-uxs/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
-https://www.youtube.com/watch?v=dpWi5mk-uxs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Sl26ZFvawuU/maxresdefault.jpg" group-title="購物",【三聖電視台】「三聖電視台」直播
-https://www.youtube.com/watch?v=Sl26ZFvawuU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HZTQ87Vq2IA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
-https://www.youtube.com/watch?v=HZTQ87Vq2IA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1ZRLv4BUMcM/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播
-https://www.youtube.com/watch?v=1ZRLv4BUMcM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UZW-uj83JHk/maxresdefault.jpg" group-title="購物",【桐瑛台南電視臺】「桐瑛台南電視臺」直播
-https://www.youtube.com/watch?v=UZW-uj83JHk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_pZQ1Lk0xMA/maxresdefault.jpg" group-title="購物",【momo購物一台】購物一台頻道小時線上
-https://www.youtube.com/watch?v=_pZQ1Lk0xMA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xbNWkUyxQGM/maxresdefault.jpg" group-title="購物",【momo購物二台】購物二台頻道小時線上
-https://www.youtube.com/watch?v=xbNWkUyxQGM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lEXITHxcagI/maxresdefault.jpg" group-title="購物",【ViVa TV美好家庭購物】美好購物台線上看
-https://www.youtube.com/watch?v=lEXITHxcagI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7IyxOiGMLgw/maxresdefault.jpg" group-title="購物",【ViVa TV美好家庭購物】美好購物台線上看
-https://www.youtube.com/watch?v=7IyxOiGMLgw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ViJ3XiN6Q3M/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH47
-https://www.youtube.com/watch?v=ViJ3XiN6Q3M
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z50JFuNgvB0/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH46
-https://www.youtube.com/watch?v=Z50JFuNgvB0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Vlzn9qAHD4/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH34
-https://www.youtube.com/watch?v=_Vlzn9qAHD4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u0NYyH3ZesE/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH60
-https://www.youtube.com/watch?v=u0NYyH3ZesE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Lj8OWF6nzcg/maxresdefault.jpg" group-title="國會",【國會頻道】國會頻道２
 https://www.youtube.com/watch?v=Lj8OWF6nzcg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IvAXtzx5cUI/maxresdefault.jpg" group-title="國會",【國會頻道】程序委員會

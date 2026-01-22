@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-22 13:42:50
+# Last Update: 2026-01-22 14:26:09
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,14 +24,12 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映青春進行曲
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙大大與太太
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法譬如水
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E9Kj383HFEI/maxresdefault.jpg" group-title="台灣",【東森新聞】東森世界日報詹能傑入火場喪命半生奉獻救災雲翠普悠瑪皆有他身影蘆洲啃老男狠砍刀蔥油餅夫妻出血性休克致死縣市低溫特報苗栗以北非常寒冷
-https://www.youtube.com/watch?v=E9Kj383HFEI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
@@ -46,6 +44,12 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_MLC7bzKCA/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】達沃斯成美歐決裂現場川普演講丹麥不滿走人送美兆擋軍公教百億喊自由非免費遭嗆中天夜線中天新聞
+https://www.youtube.com/watch?v=m_MLC7bzKCA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
+https://www.youtube.com/watch?v=MZhMxKNtOnA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6OsxdXprYMM/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】寒兩波冷空氣接力來台成民眾低估退休族月花萬
+https://www.youtube.com/watch?v=6OsxdXprYMM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -192,6 +196,8 @@ https://www.youtube.com/watch?v=yVQev0EqoQ8
 https://www.youtube.com/watch?v=grMspiqQwQA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uPLdwjHlf58/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
 https://www.youtube.com/watch?v=uPLdwjHlf58
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_w-2gbdO-NY/maxresdefault.jpg" group-title="影劇",【精选大剧】梁山好汉大结局梁山好汉除暴安良吴京曹骏
+https://www.youtube.com/watch?v=_w-2gbdO-NY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a103CsSzbSs/maxresdefault.jpg" group-title="影劇",【精选大剧】梁山好汉梁山好汉除暴安良吴京曹骏
 https://www.youtube.com/watch?v=a103CsSzbSs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rVzoiZjnKQA/maxresdefault.jpg" group-title="影劇",【精选大剧】梁山好汉梁山好汉除暴安良吴京曹骏
@@ -476,10 +482,10 @@ https://www.youtube.com/watch?v=l-QtMvX9YZQ
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VtPUzUan3m4/maxresdefault.jpg" group-title="政論",【民視讚夯】點名賴卓辯論昌畢業聲量焦慮嗆辯贏換白票挺把軍購當兒戲
-https://www.youtube.com/watch?v=VtPUzUan3m4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Yk5Z9JUsW7c/maxresdefault.jpg" group-title="政論",【94要客訴】黃國昌吵鬧要找賴清德辯論未來要回中國紫雲黃氏尋根國民黨提名台中竹縣宜蘭喬不攏中國課徵台灣農產高關稅宏都拉斯蝦農要求重新和台灣建交
+https://www.youtube.com/watch?v=Yk5Z9JUsW7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
@@ -488,10 +494,8 @@ https://www.youtube.com/watch?v=HarWsyvLERc
 https://www.youtube.com/watch?v=8o3rl1YgbmE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DFP17FmDbU4/maxresdefault.jpg" group-title="政論",【57爆新聞】林俊憲避不見面難破冰四分五裂謝龍介網路民調大勝陳亭妃徐俊相
 https://www.youtube.com/watch?v=DFP17FmDbU4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aae03ckWUAU/maxresdefault.jpg" group-title="政論",【頭條開講】川普戰鬥民族威脅全球中國我來了芬蘭英國急赴中達沃斯的西方大叛逃伊朗升空核戰來了完整版
-https://www.youtube.com/watch?v=aae03ckWUAU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/L8wlJDqrrhs/maxresdefault.jpg" group-title="政論",【少康戰情室】挺憲派逼宮陳亭妃拒簽協議爆內戰綠派系鬥爭謝龍介勝選方程式
-https://www.youtube.com/watch?v=L8wlJDqrrhs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LntepdlQarw/maxresdefault.jpg" group-title="政論",【關鍵時刻】中國版杜拜變死區陸媒達沃斯問貝森特斬殺線外宣變大翻車
+https://www.youtube.com/watch?v=LntepdlQarw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1o6JfVyR5fk/maxresdefault.jpg" group-title="政論",【品觀點】立法院衛環委員會繼續審查身心障礙者權益保障法修正草案

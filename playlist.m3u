@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-23 16:24:35
+# Last Update: 2026-01-23 17:23:17
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映人文講堂
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人文講堂
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛迷你劇場美好心境界
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -34,6 +34,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4DVr2H-pzFE/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】立院監視器畫面揪疑點黃國昌手上資料右手換左手有蹊蹺連發谷立言演講圖卡衝著藍白而來再擋軍購華府直接點名了許貴雅主持三立新聞台
+https://www.youtube.com/watch?v=4DVr2H-pzFE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】祝你健康呷百二告別疲勞營養師教你招最有效的新陳代謝提升術祝你健康
 https://www.youtube.com/watch?v=AjJIcpk8mXc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nvr3wUZhlIY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】話時代人物精彩不斷電話時代人物
@@ -88,8 +90,6 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】美俄烏代表於阿聯酋進行首次三方會談特朗普被批在達沃斯放棄領導全球中國商務部願打造中英經貿關係新增長點小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2xz31zHibPw/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
-https://www.youtube.com/watch?v=2xz31zHibPw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -126,8 +126,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qw8NwZMGiT0/maxresdefault.jpg" group-title="綜藝",【204檔案】檔案尋找新聞裡的深山野壇
-https://www.youtube.com/watch?v=qw8NwZMGiT0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】來自社會記者第一手的報導深入剖析犯罪者的內心世界探索每個刑事案件背後的故事資深記者老帶你揭露台灣社會重案祕辛
 https://www.youtube.com/watch?v=TiOU3qHCqXk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -222,14 +220,10 @@ https://www.youtube.com/watch?v=2JnyatvIlv8
 https://www.youtube.com/watch?v=jzblmiOtUnQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xnxJYL4hxhk/maxresdefault.jpg" group-title="影劇",【GC影視】神探狄人傑懸疑馬拉松陪你一起破案
 https://www.youtube.com/watch?v=xnxJYL4hxhk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9V3eePC_VVg/maxresdefault.jpg" group-title="影劇",【China Zone 古裝劇場】陸貞傳奇趙麗穎首部大女主角爽劇從卑微宮女最終成為一人之下萬人之上的女宰相趙麗穎宫斗
-https://www.youtube.com/watch?v=9V3eePC_VVg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1axJqsNivk/maxresdefault.jpg" group-title="影劇",【China Zone 剧乐部】雍正王朝一口气看过瘾清朝最牛的皇帝老四雍正逆风翻盘的一生唐国强焦晃
 https://www.youtube.com/watch?v=V1axJqsNivk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/i_djNFnesTE/maxresdefault.jpg" group-title="影劇",【China Zone 剧乐部】琅琊榜全集陪伴看梅长苏搅弄京城风云主演胡歌王凯吴磊刘涛靳东剧乐部
 https://www.youtube.com/watch?v=i_djNFnesTE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Zd3Rc0mgTuE/maxresdefault.jpg" group-title="影劇",【China Zone 流金岁月】西遊記齊天大聖孫悟空降妖除魔師徒四人歷經九九八十一難修得正果流金岁月
-https://www.youtube.com/watch?v=Zd3Rc0mgTuE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QtcqlBlQXNM/maxresdefault.jpg" group-title="影劇",【乐视视频官方频道】甄嬛传小时可持续马拉松循环
 https://www.youtube.com/watch?v=QtcqlBlQXNM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2dzOsB9pekU/maxresdefault.jpg" group-title="影劇",【乐视视频官方频道】芈月传小时全集循环

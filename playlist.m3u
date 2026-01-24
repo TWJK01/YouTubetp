@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-23 23:17:15
+# Last Update: 2026-01-24 01:18:19
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -10,6 +10,12 @@ https://www.youtube.com/watch?v=LzOTY4mZG00
 https://www.youtube.com/watch?v=kzBW-wA-U1A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s0_y7z3R_os/maxresdefault.jpg" group-title="台灣",【中視新聞】邀蔣萬安為民眾黨站台許甫寒冬送暖最新回應
+https://www.youtube.com/watch?v=s0_y7z3R_os
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G7ixBZ3-vbU/maxresdefault.jpg" group-title="台灣",【中視新聞】滿志剛擬參選市議員罷吳四騎士合體掃街拜票
+https://www.youtube.com/watch?v=G7ixBZ3-vbU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3EpY-XjmNxQ/maxresdefault.jpg" group-title="台灣",【中視新聞】霍諾德爬延期了證實因天候狀況
+https://www.youtube.com/watch?v=3EpY-XjmNxQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -18,22 +24,32 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XUc6K9W5yy4/maxresdefault.jpg" group-title="台灣",【民視新聞網】拚戰走透透蘇巧慧偕議員泰山公有市場掃街拜年超越黨派服務所有市民民視快新聞
+https://www.youtube.com/watch?v=XUc6K9W5yy4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tvVaBo6cppk/maxresdefault.jpg" group-title="台灣",【民視新聞網】最新天候不佳宣布霍諾德攀延期現場直擊民視快新聞
+https://www.youtube.com/watch?v=tvVaBo6cppk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙大大與太太
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映靜心瑜伽
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tUw6-OJ5trY/maxresdefault.jpg" group-title="台灣",【東森新聞】霍諾德攀登改至周日上午因持續降雨外牆濕滑延期霍諾德將攀登
+https://www.youtube.com/watch?v=tUw6-OJ5trY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DZ5PjO2xM6o/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】週末不斷線精彩一次看李正皓主持三立新聞台
+https://www.youtube.com/watch?v=DZ5PjO2xM6o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TNLw7FFNliE/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】霍諾德徒手攀臨時喊卡遇雨緊急延期至明天天公不作美宣布安全考量活動延期三立新聞台
+https://www.youtube.com/watch?v=TNLw7FFNliE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】祝你健康呷百二告別疲勞營養師教你招最有效的新陳代謝提升術祝你健康
 https://www.youtube.com/watch?v=AjJIcpk8mXc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nvr3wUZhlIY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】話時代人物精彩不斷電話時代人物
@@ -42,12 +58,20 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/njRRtCi8DWY/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】綠北市長人選陷困局郭正亮賴恐逼這人當犧牲打北捷行動電源禁令走回頭路捷中捷不跟進孫怡琳畢倩涵報新聞中天新聞
-https://www.youtube.com/watch?v=njRRtCi8DWY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2fpYBhqMR8g/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】進北捷勿用行動電源擾民霍諾德攀延期挑戰解密擋軍費總預算賴國情報告三立採訪車撞銀行交保限境畢倩涵孫怡琳報新聞中天電視
+https://www.youtube.com/watch?v=2fpYBhqMR8g
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/veN6apwNPq8/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】邀藍母雞蔣萬安站台許甫慶城公園寒冬送暖最新回應中天新聞
+https://www.youtube.com/watch?v=veN6apwNPq8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bzVtCdC0uXE/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】最新消息因雨勢不斷天候不佳霍諾德挑戰攀爬延期中天新聞
+https://www.youtube.com/watch?v=bzVtCdC0uXE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kJwrHGZspqg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】罷吳騎士團合體掃街拜票滿志剛爭取松山信義支持中天新聞
+https://www.youtube.com/watch?v=kJwrHGZspqg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sEzwfoE_IGY/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】天候不佳延期艾力克斯霍諾德原訂挑戰赤手獨攀小時攻頂臨時取消
+https://www.youtube.com/watch?v=sEzwfoE_IGY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -60,6 +84,8 @@ https://www.youtube.com/watch?v=w87VGpgd90U
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/maxresdefault.jpg" group-title="台灣",【寰宇全視界】寰宇新聞台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=5SH3FDMyMzg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wi6G5iJ9Q6I/maxresdefault.jpg" group-title="台灣",【udn video】美國傳奇攀岩家霍諾德挑戰徒手攀登記者全程現場直擊
+https://www.youtube.com/watch?v=wi6G5iJ9Q6I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人小時
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qhApzA9RSDo/maxresdefault.jpg" group-title="台灣",【三大一台】三大有線電視公司
@@ -90,6 +116,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】美俄烏代表於阿聯酋進行首次三方會談特朗普被批在達沃斯放棄領導全球中國商務部願打造中英經貿關係新增長點小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MSdwusJtgco/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】新聞報道
+https://www.youtube.com/watch?v=MSdwusJtgco
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -324,6 +352,14 @@ https://www.youtube.com/watch?v=ypW8FEMBCu0
 https://www.youtube.com/watch?v=Rvojt7L0h9I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_vv9BFMWXqk/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】战魔道夺至宝驰骋星海再回天南韩立实力暴增凡人修仙传合集
 https://www.youtube.com/watch?v=_vv9BFMWXqk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iFT2Q_aOrJQ/maxresdefault.jpg" group-title="體育",【動滋Sports】LIVE》1/2408:00
+https://www.youtube.com/watch?v=iFT2Q_aOrJQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-8iFXJuN7g8/maxresdefault.jpg" group-title="體育",【動滋Sports】LIVE》1/2408:00
+https://www.youtube.com/watch?v=-8iFXJuN7g8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/03x-Au43PhU/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟合勤集團
+https://www.youtube.com/watch?v=03x-Au43PhU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MphRDWm7O2U/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】慶陞工業買睦選貨
+https://www.youtube.com/watch?v=MphRDWm7O2U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE All Batt
 https://www.youtube.com/watch?v=5CHCbBj-Vjg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SmTOogFsMHs/maxresdefault.jpg" group-title="體育",【WWE】Best of Royal R
@@ -332,8 +368,6 @@ https://www.youtube.com/watch?v=SmTOogFsMHs
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D3etwgMfsyU/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=D3etwgMfsyU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BYNWUMC2Np4/maxresdefault.jpg" group-title="音樂",【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=BYNWUMC2Np4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LlDa4PpVh0M/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音一月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
@@ -356,8 +390,6 @@ https://www.youtube.com/watch?v=PoNKmT9ns-Y
 https://www.youtube.com/watch?v=PWt0X2ioW8E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IsEhtbPZr4Q/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜愛就一個字若月亮没来花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋一月新歌
 https://www.youtube.com/watch?v=IsEhtbPZr4Q
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/y3BQIwsfSns/maxresdefault.jpg" group-title="音樂",【孤心旋律】一月新歌精選首必聽歌曲不能不聽的首歌治癒深度睡眠與放鬆無廣告音樂娛樂學習工作混音流行歌曲閱讀音樂工作音樂
-https://www.youtube.com/watch?v=y3BQIwsfSns
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vkerBhOrBiA/maxresdefault.jpg" group-title="音樂",【孤心旋律】一月新歌華語單曲排行週榜首一月必聽流行金曲愛就一個字總會有人門沒鎖周杰倫王嘉爾周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=vkerBhOrBiA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s7yUxzmaoaU/maxresdefault.jpg" group-title="音樂",【孤心旋律】一月新歌華語單曲排行週榜首一月必聽流行金曲愛就一個字總會有人門沒鎖周杰倫王嘉爾周興哲林俊傑鄧紫棋
@@ -470,12 +502,24 @@ https://www.youtube.com/watch?v=WAUECPu9EOw
 https://www.youtube.com/watch?v=HiI-7_jeKxo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TFIsemzcvCU/maxresdefault.jpg" group-title="政論",【94要客訴】突下雨霍諾德攀延期改明天賈永婕字洩真實心聲三立新聞網
+https://www.youtube.com/watch?v=TFIsemzcvCU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/maxresdefault.jpg" group-title="政論",【新聞大白話】時間配信
 https://www.youtube.com/watch?v=8o3rl1YgbmE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YKmzraIqSW0/maxresdefault.jpg" group-title="政論",【中時新聞網】邀蔣萬安為民眾黨站台許甫寒冬送暖最新回應
+https://www.youtube.com/watch?v=YKmzraIqSW0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tR21O3SJL4E/maxresdefault.jpg" group-title="政論",【中時新聞網】滿志剛擬參選市議員罷吳四騎士合體掃街拜票
+https://www.youtube.com/watch?v=tR21O3SJL4E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jSD2BSzVtsg/maxresdefault.jpg" group-title="政論",【中時新聞網】霍諾德爬延期了證實因天候狀況
+https://www.youtube.com/watch?v=jSD2BSzVtsg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X-rZ_8g316U/maxresdefault.jpg" group-title="政論",【中時新聞網】直擊霍諾德徒手攀無掛繩創紀錄過程全球緊盯
+https://www.youtube.com/watch?v=X-rZ_8g316U
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-3BfA4YHv-E/maxresdefault.jpg" group-title="政論",【新聞龍捲風】最新消息因雨勢不斷天候不佳霍諾德挑戰攀爬延期
+https://www.youtube.com/watch?v=-3BfA4YHv-E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
@@ -616,6 +660,8 @@ https://www.youtube.com/watch?v=YtBnDXRyxL4
 https://www.youtube.com/watch?v=8-xSAfWwh10
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UgoT-QTbYvo/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角外澳沙灘
 https://www.youtube.com/watch?v=UgoT-QTbYvo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XqwJl3Mgzyo/maxresdefault.jpg" group-title="風景",【野柳即時影像】野柳地質公園
+https://www.youtube.com/watch?v=XqwJl3Mgzyo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3JzbzXqusDg/maxresdefault.jpg" group-title="風景",【桃園】巴陵馬崙砲台觀景平台
 https://www.youtube.com/watch?v=3JzbzXqusDg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/44JArbF682k/maxresdefault.jpg" group-title="風景",【桃園】許厝港濕地

@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-24 23:15:45
+# Last Update: 2026-01-25 01:28:06
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -8,32 +8,52 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=kzBW-wA-U1A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/izmU-falLFw/maxresdefault.jpg" group-title="台灣",【台視新聞】霍諾德徒手攀登挑戰小時攻頂
+https://www.youtube.com/watch?v=izmU-falLFw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vJIN6jD043c/maxresdefault.jpg" group-title="台灣",【中視新聞】徒手攀現場畫面直擊
+https://www.youtube.com/watch?v=vJIN6jD043c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
 https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/S6KsJr0MiNE/maxresdefault.jpg" group-title="台灣",【華視新聞】全球關注霍諾德徒手攀
+https://www.youtube.com/watch?v=S6KsJr0MiNE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/meHTKm4XBS8/maxresdefault.jpg" group-title="台灣",【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YdgFT8VvOyQ/maxresdefault.jpg" group-title="台灣",【民視新聞網】陳怡君首掃街聯合陳佩琪發放春聯金元寶民視快新聞
+https://www.youtube.com/watch?v=YdgFT8VvOyQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/99i2PMyMi6c/maxresdefault.jpg" group-title="台灣",【民視新聞網】傳奇攀岩家霍諾德挑戰徒手攀最新現場直擊民視快新聞
+https://www.youtube.com/watch?v=99i2PMyMi6c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛全紀實
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙大大與太太
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映映照人生
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映草根菩提
 https://www.youtube.com/watch?v=MIqUplvSRWA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TMoe-kg-kro/maxresdefault.jpg" group-title="台灣",【鏡新聞】赤手獨攀傳奇攀岩手無防護措施挑戰分鐘登頂
+https://www.youtube.com/watch?v=TMoe-kg-kro
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_VsdbHcacpg/maxresdefault.jpg" group-title="台灣",【東森新聞】全紀錄霍諾德徒手攀年經驗當底氣用專業挑戰不可能的任務
+https://www.youtube.com/watch?v=_VsdbHcacpg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/roM9YWKbZ3I/maxresdefault.jpg" group-title="台灣",【東森新聞】霍諾德等年終於圓夢徒手攀挑戰極限我年的攀登經驗就是安全網
+https://www.youtube.com/watch?v=roM9YWKbZ3I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VlYYyW2Zzik/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】真的見證歷史霍諾德徒手獨攀粉絲應援引頸屏息
+https://www.youtube.com/watch?v=VlYYyW2Zzik
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BBxmLpGK9X8/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】霍諾德徒手攀爬外媒點名真正惡夢段這裡開始才是地獄早安新聞總整理三立新聞網
+https://www.youtube.com/watch?v=BBxmLpGK9X8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DZ5PjO2xM6o/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】週末不斷線精彩一次看李正皓主持三立新聞台
 https://www.youtube.com/watch?v=DZ5PjO2xM6o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】祝你健康呷百二告別疲勞營養師教你招最有效的新陳代謝提升術祝你健康
@@ -44,14 +64,24 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外小時台灣新聞
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ed9nY4jwJSY/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】霍諾德攀攻頂最新鄭麗君拒戰市長民進黨剩一人選美國明州移民官轟平民掀抗議潮川普再嗆加拿大賴正鎧林佩潔報新聞中天新聞
+https://www.youtube.com/watch?v=ed9nY4jwJSY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OF85sitM5EI/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】好運馬上來徐巧芯信義區發春聯紅包袋中天新聞
+https://www.youtube.com/watch?v=OF85sitM5EI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/P6AR5tzUMXs/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】掉下去就會徒手攀爬全程直擊霍諾德無繩索玩命豪賭中天新聞
+https://www.youtube.com/watch?v=P6AR5tzUMXs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hKuzEByy1AM/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】霍諾德徒手爬四大看點首次挑戰摩天大樓即時壓力
+https://www.youtube.com/watch?v=hKuzEByy1AM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a1Bzg1YzbSw/maxresdefault.jpg" group-title="台灣",【Focus全球新聞】生死極限赤手獨攀小時攻頂
+https://www.youtube.com/watch?v=a1Bzg1YzbSw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/maxresdefault.jpg" group-title="台灣",【寰宇新聞】川普槓北約竟提阿富汗狂批盟軍惹毛英國人民幣兌美元中間價破升值動能浮現台
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w87VGpgd90U/maxresdefault.jpg" group-title="台灣",【寰宇新聞】台灣台小時台湾時間配信中
@@ -60,6 +90,8 @@ https://www.youtube.com/watch?v=w87VGpgd90U
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/maxresdefault.jpg" group-title="台灣",【寰宇全視界】寰宇新聞台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=5SH3FDMyMzg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vzthkg2ti2Q/maxresdefault.jpg" group-title="台灣",【udn video】昨攀爬因雨延期美國傳奇攀岩家霍諾德今挑戰徒手攀登全程現場直擊
+https://www.youtube.com/watch?v=Vzthkg2ti2Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人小時
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qhApzA9RSDo/maxresdefault.jpg" group-title="台灣",【三大一台】三大有線電視公司
@@ -70,6 +102,8 @@ https://www.youtube.com/watch?v=1I2iq41Akmo
 https://www.youtube.com/watch?v=AEBeWMM1atA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7G62ua4RruQ/maxresdefault.jpg" group-title="台灣",【寰宇財經新聞】寰宇新聞財經台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=7G62ua4RruQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qCMnWSyF_Uw/maxresdefault.jpg" group-title="台灣",【非凡電視】霍諾德徒手攀登挑戰小時攻頂
+https://www.youtube.com/watch?v=qCMnWSyF_Uw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eA6Aczd3FZM/maxresdefault.jpg" group-title="台灣",【非凡電視】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導
 https://www.youtube.com/watch?v=eA6Aczd3FZM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xLqt2p6Dowo/maxresdefault.jpg" group-title="台灣",【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導
@@ -90,6 +124,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】美俄烏代表於阿聯酋進行首次三方會談特朗普被批在達沃斯放棄領導全球中國商務部願打造中英經貿關係新增長點小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1Gu-2wFv4v4/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞新聞報道即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=1Gu-2wFv4v4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -318,6 +354,18 @@ https://www.youtube.com/watch?v=ypW8FEMBCu0
 https://www.youtube.com/watch?v=Rvojt7L0h9I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JaGd4Yy_xjA/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=JaGd4Yy_xjA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oj5tDdbNxQ4/maxresdefault.jpg" group-title="體育",【動滋Sports】LIVE》1/2508:00
+https://www.youtube.com/watch?v=oj5tDdbNxQ4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZCFDpZ9d3qE/maxresdefault.jpg" group-title="體育",【動滋Sports】LIVE》1/2508:00
+https://www.youtube.com/watch?v=ZCFDpZ9d3qE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gdoXz6B7wis/maxresdefault.jpg" group-title="體育",【GoHoops】20260125 shoot
+https://www.youtube.com/watch?v=gdoXz6B7wis
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pKVSvO2iMo0/maxresdefault.jpg" group-title="體育",【GoHoops】喝不贏就裝醉馬蓋先
+https://www.youtube.com/watch?v=pKVSvO2iMo0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Zm1AocY5lSk/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟立捷應用材料
+https://www.youtube.com/watch?v=Zm1AocY5lSk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/F1OwMOegviM/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟沃皮斯潮流新竹病貓
+https://www.youtube.com/watch?v=F1OwMOegviM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE All Batt
 https://www.youtube.com/watch?v=5CHCbBj-Vjg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SmTOogFsMHs/maxresdefault.jpg" group-title="體育",【WWE】Best of Royal R
@@ -338,8 +386,6 @@ https://www.youtube.com/watch?v=8sWvaojkCmg
 https://www.youtube.com/watch?v=99rLT2xf8T8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=augOnkJkrHY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CiMHL1NFyD0/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】一月強檔新曲華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋年一月最新歌曲
-https://www.youtube.com/watch?v=CiMHL1NFyD0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qQH2PTuQYZ0/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
 https://www.youtube.com/watch?v=qQH2PTuQYZ0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜一月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
@@ -362,6 +408,8 @@ https://www.youtube.com/watch?v=2KnheMYXGDs
 https://www.youtube.com/watch?v=M2rcgp4ADYs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eGkDnmeI4t8/maxresdefault.jpg" group-title="音樂",【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=eGkDnmeI4t8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/79wUFbcMspY/maxresdefault.jpg" group-title="音樂",【KKBOX 华语新歌周榜】那些年我们听过的情歌你还记得吗蔡依林周杰伦王菲林俊杰五月天年代至年代的华语流行经典唤起你心中的青春记忆一起回到那个属于磁带和的年代我好嗎不曾回來過
+https://www.youtube.com/watch?v=79wUFbcMspY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rcgM2sbHweI/maxresdefault.jpg" group-title="音樂",【水月琴音】無損音質熱門中文歌精選必聽流行歌曲古風音樂
 https://www.youtube.com/watch?v=rcgM2sbHweI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/maxresdefault.jpg" group-title="音樂",【Cherry 葵】Nightcore Radio
@@ -454,26 +502,50 @@ https://www.youtube.com/watch?v=4VT3Zi3Xr2c
 https://www.youtube.com/watch?v=z8PzoHfHBf0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MjsI7PQrm4Y/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田
 https://www.youtube.com/watch?v=MjsI7PQrm4Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GpWYJefoJLM/maxresdefault.jpg" group-title="政論",【壹電視NEXT TV】徒手攀岩大師艾力克斯霍諾德無防護攀爬大樓
+https://www.youtube.com/watch?v=GpWYJefoJLM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vnZyP4zn5EY/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】生死極限赤手獨攀小時攻頂
+https://www.youtube.com/watch?v=vnZyP4zn5EY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/B0blJRfejd0/maxresdefault.jpg" group-title="政論",【全球大視野】掉下去就會徒手攀爬全程直擊霍諾德無繩索玩命豪賭
+https://www.youtube.com/watch?v=B0blJRfejd0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XG8WKGaAg7I/maxresdefault.jpg" group-title="政論",【全球大視野】週內第起再擊斃抗議者美國明尼蘇達州爆怒火
+https://www.youtube.com/watch?v=XG8WKGaAg7I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JxXMClserKY/maxresdefault.jpg" group-title="政論",【94要客訴】真的見證歷史霍諾德徒手獨攀粉絲應援引頸屏息三立新聞網
+https://www.youtube.com/watch?v=JxXMClserKY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3VUtTgV4g3A/maxresdefault.jpg" group-title="政論",【94要客訴】霍諾德徒手攀今登場全球賭盤成預測小時內攻頂三立新聞網
+https://www.youtube.com/watch?v=3VUtTgV4g3A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/maxresdefault.jpg" group-title="政論",【新聞大白話】時間配信
 https://www.youtube.com/watch?v=8o3rl1YgbmE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-T3tw59hEwA/maxresdefault.jpg" group-title="政論",【中時新聞網】徒手攀現場畫面直擊
+https://www.youtube.com/watch?v=-T3tw59hEwA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fnTDprij8Vc/maxresdefault.jpg" group-title="政論",【中時新聞網】真的要爬了霍諾德徒手攀爬直擊民眾搶看見證歷史
+https://www.youtube.com/watch?v=fnTDprij8Vc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Lxhht_4y20k/maxresdefault.jpg" group-title="政論",【中天深喉嚨】掉下去就會徒手攀爬全程直擊霍諾德無繩索玩命豪賭
+https://www.youtube.com/watch?v=Lxhht_4y20k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6UL1t81TznA/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現共諜圍剿雙標萊爾龜縮卸責
 https://www.youtube.com/watch?v=6UL1t81TznA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9jhTbyTAe8w/maxresdefault.jpg" group-title="政論",【新聞龍捲風】掉下去就會徒手攀爬全程直擊霍諾德無繩索玩命豪賭
+https://www.youtube.com/watch?v=9jhTbyTAe8w
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CZtWy3Kjetk/maxresdefault.jpg" group-title="政論",【頭條開講】掉下去就會徒手攀爬全程直擊霍諾德無繩索玩命豪賭
+https://www.youtube.com/watch?v=CZtWy3Kjetk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GCMJN-jqjxU/maxresdefault.jpg" group-title="政論",【頭條開講】週內第起再擊斃抗議者美國明尼蘇達州爆怒火
+https://www.youtube.com/watch?v=GCMJN-jqjxU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=IBcS_0eEndI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4i6cWf0p6Mo/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
-https://www.youtube.com/watch?v=4i6cWf0p6Mo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Y-p9g9HmVN8/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
+https://www.youtube.com/watch?v=Y-p9g9HmVN8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Sl26ZFvawuU/maxresdefault.jpg" group-title="購物",【三聖電視台】「三聖電視台」直播
 https://www.youtube.com/watch?v=Sl26ZFvawuU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HZTQ87Vq2IA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播

@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-28 15:28:10
+# Last Update: 2026-01-28 16:30:54
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙路長情更長
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊純美時光
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛年度劇展芳草碧連天
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊純美時光
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -88,6 +88,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】英國首相斯塔默抵達北京伊朗外長未與美特使接觸未提談判請求俄外交部遭美扣押郵輪上兩名俄船員獲釋小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0PeF8wrXQeg/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=0PeF8wrXQeg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -468,8 +470,6 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GcrYVoP1qbc/maxresdefault.jpg" group-title="政論",【全球大視野】洗臉川普沙特怒斷美軍後路直告伊朗尼帕疫情武漢病毒所推口服藥全球轟動馬尼拉灣對峙護衛艦貼近菲律賓海岸完整版
-https://www.youtube.com/watch?v=GcrYVoP1qbc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
@@ -478,8 +478,6 @@ https://www.youtube.com/watch?v=JIKHI-lnWmw
 https://www.youtube.com/watch?v=HarWsyvLERc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/maxresdefault.jpg" group-title="政論",【新聞大白話】時間配信
 https://www.youtube.com/watch?v=8o3rl1YgbmE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LjcFdMQsdFc/maxresdefault.jpg" group-title="政論",【關鍵時刻】備戰解放軍被看破手腳老美喚醒二戰傳奇飛虎隊授權先斬後奏
-https://www.youtube.com/watch?v=LjcFdMQsdFc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
@@ -556,14 +554,6 @@ https://www.youtube.com/watch?v=timOrsX8NjM
 https://www.youtube.com/watch?v=dVkQNH3IfME
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BXvMi6rGrc8/maxresdefault.jpg" group-title="宗教",【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會
 https://www.youtube.com/watch?v=BXvMi6rGrc8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4ayHSRrvWjs/maxresdefault.jpg" group-title="教育",【ABC Learning English】English Convers
-https://www.youtube.com/watch?v=4ayHSRrvWjs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vYOLs8e_jDw/maxresdefault.jpg" group-title="教育",【ABC Learning English】Learn English T
-https://www.youtube.com/watch?v=vYOLs8e_jDw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ASYIVRWCVJw/maxresdefault.jpg" group-title="教育",【ABC Learning English】English Convers
-https://www.youtube.com/watch?v=ASYIVRWCVJw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vuTY4FDAbpA/maxresdefault.jpg" group-title="教育",【ABC Learning English】24 Hours Englis
-https://www.youtube.com/watch?v=vuTY4FDAbpA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/215ahZ_0rTg/maxresdefault.jpg" group-title="風景",【台北】Maokong Zhinan
 https://www.youtube.com/watch?v=215ahZ_0rTg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/34h_Cy_n0Ok/maxresdefault.jpg" group-title="風景",【台北】Jiantanshan Wei
@@ -746,8 +736,6 @@ https://www.youtube.com/watch?v=9uRumsWvvfE
 https://www.youtube.com/watch?v=sqWrdNNAlrA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nFd4550YnEQ/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳進安宮天上聖母寶石珊瑚媽祖大門媽祖文化江夏路第三漁港跨海大橋遊覽車香客紀錄自動巡航
 https://www.youtube.com/watch?v=nFd4550YnEQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_n9ExFHa3AY/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳進安宮天上聖母寶石珊瑚媽祖大殿媽祖文化遠端參拜
-https://www.youtube.com/watch?v=_n9ExFHa3AY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IHpSqQ5UylQ/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳內埤仔海邊情人灣烏岩角
 https://www.youtube.com/watch?v=IHpSqQ5UylQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_u7baK7ct2M/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳南天宮第一漁港媽祖文化

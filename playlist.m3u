@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-01 15:20:10
+# Last Update: 2026-02-01 16:23:31
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙路長情更長
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊純美時光
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映青春愛讀書
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊純美時光
 https://www.youtube.com/watch?v=MIqUplvSRWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -40,8 +40,6 @@ https://www.youtube.com/watch?v=AjJIcpk8mXc
 https://www.youtube.com/watch?v=nvr3wUZhlIY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】台灣新聞三立新聞國際焦點地震氣象民生議題台湾
 https://www.youtube.com/watch?v=QsGswQvRmtU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iueUcy2EQNc/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】睽違九年國共論壇多數非國民黨員國共交流踩到綠痛點民進黨轟統戰李鴻源預言民進黨兩張神主牌都會倒中天新聞網路論壇
-https://www.youtube.com/watch?v=iueUcy2EQNc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r4OiOIdZihQ/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】川普下通牒美媒爆最快週日攻擊斬首伊朗高層中東局勢一觸即發不斷更新中天新聞
 https://www.youtube.com/watch?v=r4OiOIdZihQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -90,6 +88,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】美在中東部署包括航母在內至少艘軍艦澤連斯基邀請普京到基輔談判中國對威士忌酒實施進口暫定稅率小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b-cs4y9l-js/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=b-cs4y9l-js
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -482,16 +482,12 @@ https://www.youtube.com/watch?v=8o3rl1YgbmE
 https://www.youtube.com/watch?v=GCjtKoYocnk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a2QW8oUmrDg/maxresdefault.jpg" group-title="政論",【董事長開講】小時不斷電一起收看吳董觀點
 https://www.youtube.com/watch?v=a2QW8oUmrDg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/B9UNDFTkDmU/maxresdefault.jpg" group-title="政論",【關鍵時刻】美國伊朗談判中一言不合就開轟川普下最後通牒看看會發生什麼事吧
-https://www.youtube.com/watch?v=B9UNDFTkDmU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iK8Hu3LBuZY/maxresdefault.jpg" group-title="政論",【郭正亮頻道】小時不斷電為您呈現喪事喜辦自嗨關稅軍購攤牌
 https://www.youtube.com/watch?v=iK8Hu3LBuZY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/du8bEs_0oP4/maxresdefault.jpg" group-title="政論",【頭條開講】川普下通牒美媒爆最快週日攻擊斬首伊朗高層中東局勢一觸即發不斷更新
 https://www.youtube.com/watch?v=du8bEs_0oP4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/COndhhainIU/maxresdefault.jpg" group-title="政論",【文茜的世界周報】| TVBS文茜的世界周報 T
-https://www.youtube.com/watch?v=COndhhainIU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=IBcS_0eEndI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BjGEQyDPF0Y/maxresdefault.jpg" group-title="購物",【玉麟網路電視台】線上

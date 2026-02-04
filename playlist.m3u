@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-04 19:36:07
+# Last Update: 2026-02-04 20:28:47
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映映照人生
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映映照人生
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -82,8 +82,6 @@ https://www.youtube.com/watch?v=YBgQRpZqeug
 https://www.youtube.com/watch?v=HSImh9Pz_44
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Tf3mktyg6bU/maxresdefault.jpg" group-title="台灣",【AI主播倪珍Nikki 播新聞】主播倪珍小時氣象
 https://www.youtube.com/watch?v=Tf3mktyg6bU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NbapFgt2e9s/maxresdefault.jpg" group-title="台灣",【BNE TV - 新西兰中文国际频道】主动出击习近平与普京特朗普通话美俄核军控条约到期高市自卫队入宪东部沿海阵地导弹全时竖立欧盟和美挑战稀土美载人登月又折了我爱纽西兰
-https://www.youtube.com/watch?v=NbapFgt2e9s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7j92Myu2wzg/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
 https://www.youtube.com/watch?v=7j92Myu2wzg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f6Kq93wnaZ8/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
@@ -320,8 +318,6 @@ https://www.youtube.com/watch?v=0XOp7-PsAA4
 https://www.youtube.com/watch?v=mCOate_sArY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/A7BsxiTFlYE/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】一朝社畜变猫咪百日喵生开启看她如何重启人生为喵人生
 https://www.youtube.com/watch?v=A7BsxiTFlYE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FGsoTJoL6eY/maxresdefault.jpg" group-title="體育",【緯來體育台】2026.02.04│LIVE
-https://www.youtube.com/watch?v=FGsoTJoL6eY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G6ERanEbzEE/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE The BEST
@@ -348,6 +344,8 @@ https://www.youtube.com/watch?v=99rLT2xf8T8
 https://www.youtube.com/watch?v=fx9UIfXzKVw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=augOnkJkrHY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cfwzyQbjkHU/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】二月熱門歌曲最火華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋
+https://www.youtube.com/watch?v=cfwzyQbjkHU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qQH2PTuQYZ0/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
 https://www.youtube.com/watch?v=qQH2PTuQYZ0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜一月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
@@ -596,8 +594,6 @@ https://www.youtube.com/watch?v=W8ej2Cxwesw
 https://www.youtube.com/watch?v=LyYmkJaZXck
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TPL5XRCnDLE/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角鼻頭服務區
 https://www.youtube.com/watch?v=TPL5XRCnDLE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EMYlURMkEuc/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角福隆海水浴場
-https://www.youtube.com/watch?v=EMYlURMkEuc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8-xSAfWwh10/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角龍洞灣觀景台
 https://www.youtube.com/watch?v=8-xSAfWwh10
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UgoT-QTbYvo/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角外澳沙灘

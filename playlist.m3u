@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-06 23:21:08
+# Last Update: 2026-02-07 01:41:56
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -10,6 +10,12 @@ https://www.youtube.com/watch?v=LzOTY4mZG00
 https://www.youtube.com/watch?v=kzBW-wA-U1A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rPgChUcHgAo/maxresdefault.jpg" group-title="台灣",【中視新聞】苦苓憂民進黨輸掉柯志恩市場發春聯最新
+https://www.youtube.com/watch?v=rPgChUcHgAo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0aUEjlyuc7E/maxresdefault.jpg" group-title="台灣",【中視新聞】拚松山信義議員選戰許甫公寓市場發春聯小物
+https://www.youtube.com/watch?v=0aUEjlyuc7E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qmZbXZUdPpM/maxresdefault.jpg" group-title="台灣",【中視新聞】民調決定藍營台中市長參選人楊瓊瓔大坑拜票最新回應
+https://www.youtube.com/watch?v=qmZbXZUdPpM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -18,22 +24,28 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5JZVzArOXDk/maxresdefault.jpg" group-title="台灣",【民視新聞網】拚初選爭連任林亮君合體吳思瑤太平市場掃街拜年民視快新聞
+https://www.youtube.com/watch?v=5JZVzArOXDk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映靜心瑜伽
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙路長情更長
 https://www.youtube.com/watch?v=QDxRJP-wfeI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WtOk8ryYAEE/maxresdefault.jpg" group-title="台灣",【鏡新聞】林亮君參戰民進黨初選赴太平市場掃街拚選戰
+https://www.youtube.com/watch?v=WtOk8ryYAEE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lsSmlT8qaqI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】寒流確定襲台週末全台急凍低溫恐下探度最冷時段曝三立新聞台
+https://www.youtube.com/watch?v=lsSmlT8qaqI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】祝你健康呷百二每天喝黑咖啡竟洗腎醫揭致命一習慣變毒素炸彈健怡可樂竟是解毒救星洪永祥譚敦慈祝你健康
 https://www.youtube.com/watch?v=AjJIcpk8mXc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nvr3wUZhlIY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】台灣棒球奇蹟背後蘇巧慧龍男揭秘冠軍之路催淚內幕夫妻同台暢談真心話賈永婕接董座內幕曝光賈永婕揭密秒答應接掌的真相精彩不斷電話時代人物
@@ -42,14 +54,20 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】台灣新聞三立新聞國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgViL9af8l4/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】美下軍購通牒發價書有效期至台美關稅月中簽署寒流今強勢入侵孫怡琳劉又嘉報新聞中天新聞
-https://www.youtube.com/watch?v=KgViL9af8l4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_U5g0T_9Wyg/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】國民黨初選對決新竹縣民調曝光豆腐媽媽替身重傷米蘭冬季奧運開幕美下軍購通牒寒流來襲劉又嘉孫怡琳報新聞中天新聞
+https://www.youtube.com/watch?v=_U5g0T_9Wyg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BJVIKuoZCKk/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】苦苓憂民進黨要小心丟掉柯志恩市場發春聯最新回應中天新聞
+https://www.youtube.com/watch?v=BJVIKuoZCKk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ySyOhfCbmBI/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】拚松山信義議員選舉許甫公寓市場發春聯中天新聞
+https://www.youtube.com/watch?v=ySyOhfCbmBI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MoxH5MnJQTg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】台中市長提名協議曝光楊瓊瓔大坑步道懇託最新回應中天新聞
+https://www.youtube.com/watch?v=MoxH5MnJQTg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7ozO4qHTGN0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】最強寒流要來了全台急凍寒流級降溫一次降度中天新聞
 https://www.youtube.com/watch?v=7ozO4qHTGN0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
-https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DN00R9-N4e8/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】市場掃街啟動黃國昌偕陳世軒發春聯
+https://www.youtube.com/watch?v=DN00R9-N4e8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -62,6 +80,8 @@ https://www.youtube.com/watch?v=w87VGpgd90U
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/maxresdefault.jpg" group-title="台灣",【寰宇全視界】寰宇新聞台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=5SH3FDMyMzg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4BeMedUJv9c/maxresdefault.jpg" group-title="台灣",【udn video】黃國昌萬眾同欣新年快樂掃市場啟動
+https://www.youtube.com/watch?v=4BeMedUJv9c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人小時
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qhApzA9RSDo/maxresdefault.jpg" group-title="台灣",【三大一台】三大有線電視公司
@@ -92,6 +112,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】中國伊朗副外長會面談伊朗局勢及核問題美俄同意恢復高級別軍事對話加拿大駐格陵蘭島領事館揭幕小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/myqjeqW040A/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞新聞報道即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=myqjeqW040A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -320,6 +342,26 @@ https://www.youtube.com/watch?v=0XOp7-PsAA4
 https://www.youtube.com/watch?v=mCOate_sArY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/A7BsxiTFlYE/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】一朝社畜变猫咪百日喵生开启看她如何重启人生为喵人生
 https://www.youtube.com/watch?v=A7BsxiTFlYE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Zb8ihqIXSG0/maxresdefault.jpg" group-title="體育",【公視體育】第二屆臺灣美式躲避球錦標賽上午場
+https://www.youtube.com/watch?v=Zb8ihqIXSG0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2aN2iejJo58/maxresdefault.jpg" group-title="體育",【博斯體育台】港都老四川盃全國青少棒錦標賽四強賽
+https://www.youtube.com/watch?v=2aN2iejJo58
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X0ccIUnweTc/maxresdefault.jpg" group-title="體育",【HOP Sports】第二屆臺灣美式躲避球錦標賽上午
+https://www.youtube.com/watch?v=X0ccIUnweTc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KRdF2k3h2M4/maxresdefault.jpg" group-title="體育",【動滋Sports】LIVE》2/709:00
+https://www.youtube.com/watch?v=KRdF2k3h2M4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K2SzviNyXg8/maxresdefault.jpg" group-title="體育",【動滋Sports】LIVE》2/708:30
+https://www.youtube.com/watch?v=K2SzviNyXg8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MEAapaStDCs/maxresdefault.jpg" group-title="體育",【動滋Sports】】LIVE》2/707:30
+https://www.youtube.com/watch?v=MEAapaStDCs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylSSXxryJL0/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟
+https://www.youtube.com/watch?v=ylSSXxryJL0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/g7b0q1HnOq8/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟老男孩
+https://www.youtube.com/watch?v=g7b0q1HnOq8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ELSt5FaBibc/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】籃球聯盟籃球聯盟正在
+https://www.youtube.com/watch?v=ELSt5FaBibc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vmYA_uoLu1g/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽分數多的贏林口籃委會
+https://www.youtube.com/watch?v=vmYA_uoLu1g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G6ERanEbzEE/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE The BEST
@@ -332,8 +374,6 @@ https://www.youtube.com/watch?v=90_71FSq4SY
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7bi1fpAJW54/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=7bi1fpAJW54
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BYNWUMC2Np4/maxresdefault.jpg" group-title="音樂",【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=BYNWUMC2Np4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LlDa4PpVh0M/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
@@ -454,12 +494,24 @@ https://www.youtube.com/watch?v=WAUECPu9EOw
 https://www.youtube.com/watch?v=HiI-7_jeKxo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z4-YGBZQu8w/maxresdefault.jpg" group-title="政論",【94要客訴】寒流南下後天最冷體感最低剩度公尺山區有望降雪三立新聞網
+https://www.youtube.com/watch?v=z4-YGBZQu8w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MkY2Ksz6ePU/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】苦苓憂民進黨要小心丟掉柯志恩市場發春聯最新回應中天電視
+https://www.youtube.com/watch?v=MkY2Ksz6ePU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/maxresdefault.jpg" group-title="政論",【新聞大白話】時間配信
 https://www.youtube.com/watch?v=8o3rl1YgbmE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/73boFThduog/maxresdefault.jpg" group-title="政論",【中時新聞網】苦苓憂民進黨輸掉柯志恩市場發春聯最新
+https://www.youtube.com/watch?v=73boFThduog
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/19zkeJgQacg/maxresdefault.jpg" group-title="政論",【中時新聞網】拚松山信義議員選戰許甫公寓市場發春聯小物
+https://www.youtube.com/watch?v=19zkeJgQacg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C7_kdaO9QwM/maxresdefault.jpg" group-title="政論",【中時新聞網】民調決定藍營台中市長參選人楊瓊瓔大坑拜票最新回應
+https://www.youtube.com/watch?v=C7_kdaO9QwM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o4qrhHCoZRI/maxresdefault.jpg" group-title="政論",【中天深喉嚨】台中市長提名協議曝光楊瓊瓔大坑步道懇託最新回應中天新聞
+https://www.youtube.com/watch?v=o4qrhHCoZRI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z0qkJmh9URQ/maxresdefault.jpg" group-title="政論",【新聞龍捲風】最強寒流要來了全台急凍寒流級降溫一次降度中天新聞
 https://www.youtube.com/watch?v=z0qkJmh9URQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍
@@ -536,259 +588,3 @@ https://www.youtube.com/watch?v=4ayHSRrvWjs
 https://www.youtube.com/watch?v=ASYIVRWCVJw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vuTY4FDAbpA/maxresdefault.jpg" group-title="教育",【ABC Learning English】24 Hours Englis
 https://www.youtube.com/watch?v=vuTY4FDAbpA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/215ahZ_0rTg/maxresdefault.jpg" group-title="風景",【台北】Maokong Zhinan
-https://www.youtube.com/watch?v=215ahZ_0rTg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/34h_Cy_n0Ok/maxresdefault.jpg" group-title="風景",【台北】Jiantanshan Wei
-https://www.youtube.com/watch?v=34h_Cy_n0Ok
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uvwfYzwY8tg/maxresdefault.jpg" group-title="風景",【台北】Bishan Temple |
-https://www.youtube.com/watch?v=uvwfYzwY8tg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fP4ecxfsJos/maxresdefault.jpg" group-title="風景",【台北】Dajia Riverside
-https://www.youtube.com/watch?v=fP4ecxfsJos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ndo_8RuefH4/maxresdefault.jpg" group-title="風景",【台北】Taipei Dadaoche
-https://www.youtube.com/watch?v=Ndo_8RuefH4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z_fY1pj1VBw/maxresdefault.jpg" group-title="風景",【台北】Overlooking Tai
-https://www.youtube.com/watch?v=z_fY1pj1VBw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IdYxm1UdBJg/maxresdefault.jpg" group-title="風景",【陽明山國家公園】擎天崗全景看見台灣擎天崗
-https://www.youtube.com/watch?v=IdYxm1UdBJg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/d9KuXrPCWYU/maxresdefault.jpg" group-title="風景",【陽明山國家公園】二子坪停車場
-https://www.youtube.com/watch?v=d9KuXrPCWYU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yF2LAyOvq0Q/maxresdefault.jpg" group-title="風景",【陽明山國家公園】擎天崗草原
-https://www.youtube.com/watch?v=yF2LAyOvq0Q
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kKD-ZBLs8-4/maxresdefault.jpg" group-title="風景",【陽明山國家公園】小油坑停車場
-https://www.youtube.com/watch?v=kKD-ZBLs8-4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GB64WeZZQPQ/maxresdefault.jpg" group-title="風景",【陽明山國家公園】冷水坑停車場
-https://www.youtube.com/watch?v=GB64WeZZQPQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6ghffcNt3Nw/maxresdefault.jpg" group-title="風景",【陽明山國家公園】大屯自然公園
-https://www.youtube.com/watch?v=6ghffcNt3Nw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RttyIGHbN_w/maxresdefault.jpg" group-title="風景",【陽明山國家公園】陽明書屋遠眺盆地
-https://www.youtube.com/watch?v=RttyIGHbN_w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PvJr2efA6n0/maxresdefault.jpg" group-title="風景",【陽明山國家公園】遠眺七星山
-https://www.youtube.com/watch?v=PvJr2efA6n0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EcasEHk64WE/maxresdefault.jpg" group-title="風景",【大新店有線電視】市碧潭
-https://www.youtube.com/watch?v=EcasEHk64WE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/di-4DCblWq4/maxresdefault.jpg" group-title="風景",【新北】八里左岸觀光
-https://www.youtube.com/watch?v=di-4DCblWq4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HirBQsQEUeA/maxresdefault.jpg" group-title="風景",【新北】十分瀑布公園觀光
-https://www.youtube.com/watch?v=HirBQsQEUeA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XSD5ptYisw8/maxresdefault.jpg" group-title="風景",【新北】九份觀光
-https://www.youtube.com/watch?v=XSD5ptYisw8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xxMRjVwCQ3o/maxresdefault.jpg" group-title="風景",【新北】烘爐地觀光
-https://www.youtube.com/watch?v=xxMRjVwCQ3o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xwAWSh35uuw/maxresdefault.jpg" group-title="風景",【新北】淡水漁人碼頭觀光
-https://www.youtube.com/watch?v=xwAWSh35uuw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9rcEL_yWMk4/maxresdefault.jpg" group-title="風景",【紅樹林有線電視】市淡水區景點淡水渡船頭淡水河夕陽觀音山港淡水老街河岸淡水渡船乗場
-https://www.youtube.com/watch?v=9rcEL_yWMk4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yn_8QwCWsyI/maxresdefault.jpg" group-title="風景",【紅樹林有線電視】市淡水區即時路況車流淡水竹圍雙向紅樹林往水源街二段與淡金路口
-https://www.youtube.com/watch?v=yn_8QwCWsyI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zR3iNGfXaV8/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角福隆海水浴場
-https://www.youtube.com/watch?v=zR3iNGfXaV8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_SMYptT3pD4/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角舊草嶺自行車隧道
-https://www.youtube.com/watch?v=_SMYptT3pD4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/W8ej2Cxwesw/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角永鎮海濱公園
-https://www.youtube.com/watch?v=W8ej2Cxwesw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LyYmkJaZXck/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角馬崗哨所
-https://www.youtube.com/watch?v=LyYmkJaZXck
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TPL5XRCnDLE/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角鼻頭服務區
-https://www.youtube.com/watch?v=TPL5XRCnDLE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8-xSAfWwh10/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角龍洞灣觀景台
-https://www.youtube.com/watch?v=8-xSAfWwh10
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UgoT-QTbYvo/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角外澳沙灘
-https://www.youtube.com/watch?v=UgoT-QTbYvo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3JzbzXqusDg/maxresdefault.jpg" group-title="風景",【桃園】巴陵馬崙砲台觀景平台
-https://www.youtube.com/watch?v=3JzbzXqusDg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/44JArbF682k/maxresdefault.jpg" group-title="風景",【桃園】許厝港濕地
-https://www.youtube.com/watch?v=44JArbF682k
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PJWye36lEj4/maxresdefault.jpg" group-title="風景",【桃園】小烏來寰宇平台
-https://www.youtube.com/watch?v=PJWye36lEj4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0D6QgDOdI6c/maxresdefault.jpg" group-title="風景",【桃園】國際機場凱悅酒店動態資訊頻道
-https://www.youtube.com/watch?v=0D6QgDOdI6c
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/68GFgzQxrXs/maxresdefault.jpg" group-title="風景",【桃園】國際機場國際機場凱悅酒店
-https://www.youtube.com/watch?v=68GFgzQxrXs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BxMeMnX6Qqw/maxresdefault.jpg" group-title="風景",【桃園】國際機場大古山
-https://www.youtube.com/watch?v=BxMeMnX6Qqw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nV-DKquUjFs/maxresdefault.jpg" group-title="風景",【桃園】巴陵大橋
-https://www.youtube.com/watch?v=nV-DKquUjFs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EUOp2LchPQM/maxresdefault.jpg" group-title="風景",【桃園】Amuping Ginger
-https://www.youtube.com/watch?v=EUOp2LchPQM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pSQ0e-ZTZ5g/maxresdefault.jpg" group-title="風景",【桃園】Cihu Memorial S
-https://www.youtube.com/watch?v=pSQ0e-ZTZ5g
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GUCaVR88ZFU/maxresdefault.jpg" group-title="風景",【桃園】石門水庫
-https://www.youtube.com/watch?v=GUCaVR88ZFU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aGOFDlySzoQ/maxresdefault.jpg" group-title="風景",【雪霸國家公園 Shei-Pa National Park】雪霸國家公園武陵遊憩區小時
-https://www.youtube.com/watch?v=aGOFDlySzoQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2KDE860OW_A/maxresdefault.jpg" group-title="風景",【雪霸國家公園 Shei-Pa National Park】雪霸國家公園雪見遊憩區小時
-https://www.youtube.com/watch?v=2KDE860OW_A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VgmWVBUsfGo/maxresdefault.jpg" group-title="風景",【雪霸國家公園 Shei-Pa National Park】雪霸國家公園汶水遊客中心小時
-https://www.youtube.com/watch?v=VgmWVBUsfGo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Isp6RQiuxNo/maxresdefault.jpg" group-title="風景",【雪霸國家公園 Shei-Pa National Park】雪霸國家公園觀霧遊憩區小時
-https://www.youtube.com/watch?v=Isp6RQiuxNo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/83pg9jfnbVE/maxresdefault.jpg" group-title="風景",【交通部觀光署-參山風管處】梨山賓館梨山
-https://www.youtube.com/watch?v=83pg9jfnbVE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7N13M7lnISI/maxresdefault.jpg" group-title="風景",【交通部觀光署-參山風管處】櫻緣丘桜園丘
-https://www.youtube.com/watch?v=7N13M7lnISI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/necK5njfEuE/maxresdefault.jpg" group-title="風景",【交通部觀光署-參山風管處】攬勝樓攬勝樓
-https://www.youtube.com/watch?v=necK5njfEuE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vTDmOvNLm1w/maxresdefault.jpg" group-title="風景",【交通部觀光署-參山風管處】虎山巖金針花全景看見台灣
-https://www.youtube.com/watch?v=vTDmOvNLm1w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/L9y1pwGktQg/maxresdefault.jpg" group-title="風景",【交通部觀光署-參山風管處】峨眉湖黃花風鈴木細茅埔吊橋峨眉湖多功能廣場彌勒大佛黃花風鈴木即時花況即時花況
-https://www.youtube.com/watch?v=L9y1pwGktQg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RaTbGYKMUtk/maxresdefault.jpg" group-title="風景",【交通部觀光署-參山風管處】彰化平原夕陽美景彰化夜景
-https://www.youtube.com/watch?v=RaTbGYKMUtk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AE1wiaqDZjw/maxresdefault.jpg" group-title="風景",【交通部觀光署-參山風管處】峨眉湖彌勒大佛大埔水庫
-https://www.youtube.com/watch?v=AE1wiaqDZjw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZayKvJKDPWc/maxresdefault.jpg" group-title="風景",【交通部觀光署-參山風管處】德基水庫梨山佳陽沖積扇
-https://www.youtube.com/watch?v=ZayKvJKDPWc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lhXXhDyjFtI/maxresdefault.jpg" group-title="風景",【大玩台中-臺中觀光旅遊局】Taichung Wang G
-https://www.youtube.com/watch?v=lhXXhDyjFtI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fjhg3gAnMFg/maxresdefault.jpg" group-title="風景",【大玩台中-臺中觀光旅遊局】Taichung Gaomei
-https://www.youtube.com/watch?v=fjhg3gAnMFg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2lVMTs_Fj0M/maxresdefault.jpg" group-title="風景",【台灣即時影像監視器】合歡山武嶺亭武嶺合歡山武嶺亭
-https://www.youtube.com/watch?v=2lVMTs_Fj0M
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BiBNiJAW3dY/maxresdefault.jpg" group-title="風景",【台灣即時影像監視器】合歡山武嶺附近區域合歡山昆陽停車場合歡山遊客服務中心仁愛鄉小風口合歡山管理站
-https://www.youtube.com/watch?v=BiBNiJAW3dY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yyQ4XhU-LWM/maxresdefault.jpg" group-title="風景",【Amos YANG】台灣彰化溪湖即時天氣影像乙巳年溪湖鎮祈安清醮大典
-https://www.youtube.com/watch?v=yyQ4XhU-LWM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KBgrrTdsOfY/maxresdefault.jpg" group-title="風景",【Amos YANG】台灣彰化溪湖即時天氣影像
-https://www.youtube.com/watch?v=KBgrrTdsOfY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K25ISlukXxg/maxresdefault.jpg" group-title="風景",【Amos YANG】台灣彰化溪湖東面即時天氣影像
-https://www.youtube.com/watch?v=K25ISlukXxg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/woENxW8O050/maxresdefault.jpg" group-title="風景",【Amos YANG】台灣彰化溪湖西面即時天氣影像
-https://www.youtube.com/watch?v=woENxW8O050
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zID3n2uSauU/maxresdefault.jpg" group-title="風景",【國家森林遊樂區即時影像】太平山國家森林遊樂區景觀平台
-https://www.youtube.com/watch?v=zID3n2uSauU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8ndOpLxiBLg/maxresdefault.jpg" group-title="風景",【國家森林遊樂區即時影像】太平山國家森林遊樂區蹦蹦車站
-https://www.youtube.com/watch?v=8ndOpLxiBLg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9bvE_IISEtM/maxresdefault.jpg" group-title="風景",【國家森林遊樂區即時影像】阿里山國家森林遊樂區林業鐵路
-https://www.youtube.com/watch?v=9bvE_IISEtM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QU-A4DovlKc/maxresdefault.jpg" group-title="風景",【國家森林遊樂區即時影像】東眼山國家森林遊樂區
-https://www.youtube.com/watch?v=QU-A4DovlKc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/turRcGhPnT4/maxresdefault.jpg" group-title="風景",【國家森林遊樂區即時影像】阿里山國家森林遊樂區小笠原平台觀日出
-https://www.youtube.com/watch?v=turRcGhPnT4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1rjWJXUopEw/maxresdefault.jpg" group-title="風景",【國家森林遊樂區即時影像】八仙山國家森林遊樂區
-https://www.youtube.com/watch?v=1rjWJXUopEw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MkoGY1n-Dew/maxresdefault.jpg" group-title="風景",【國家森林遊樂區即時影像】滿月圓國家森林遊樂區
-https://www.youtube.com/watch?v=MkoGY1n-Dew
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lX2MYEFomK0/maxresdefault.jpg" group-title="風景",【國家森林遊樂區即時影像】內洞國家森林遊樂區
-https://www.youtube.com/watch?v=lX2MYEFomK0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wRleP2_WaPc/maxresdefault.jpg" group-title="風景",【國家森林遊樂區即時影像】墾丁國家森林遊樂區觀海樓
-https://www.youtube.com/watch?v=wRleP2_WaPc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/B6eki-0-w0g/maxresdefault.jpg" group-title="風景",【阿里山】奮起湖
-https://www.youtube.com/watch?v=B6eki-0-w0g
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/j2L_559nCjc/maxresdefault.jpg" group-title="風景",【阿里山】二延平
-https://www.youtube.com/watch?v=j2L_559nCjc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dY2cRNr5Buw/maxresdefault.jpg" group-title="風景",【阿里山】Taiping Suspens
-https://www.youtube.com/watch?v=dY2cRNr5Buw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zDt8FBPozZQ/maxresdefault.jpg" group-title="風景",【阿里山】Lijia Informati
-https://www.youtube.com/watch?v=zDt8FBPozZQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/agEzlv9n9Eg/maxresdefault.jpg" group-title="風景",【阿里山】Sheng-Li Farm i
-https://www.youtube.com/watch?v=agEzlv9n9Eg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hMYs60qtkK8/maxresdefault.jpg" group-title="風景",【阿里山】Highway 18 Love
-https://www.youtube.com/watch?v=hMYs60qtkK8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8KnqJBf_dow/maxresdefault.jpg" group-title="風景",【阿里山】National Scenic
-https://www.youtube.com/watch?v=8KnqJBf_dow
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5KJe2gCTngA/maxresdefault.jpg" group-title="風景",【內政部國家公園署台江國家公園管理處】台江國家公園線上七股賞鳥亭黑琵影像
-https://www.youtube.com/watch?v=5KJe2gCTngA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FES0gWTFUHQ/maxresdefault.jpg" group-title="風景",【內政部國家公園署台江國家公園管理處】台江國家公園線上北汕尾水鳥生態保護區影像
-https://www.youtube.com/watch?v=FES0gWTFUHQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_bhhlczO_lg/maxresdefault.jpg" group-title="風景",【高雄】壽山動物園狐獴展區寿山動物園展示場
-https://www.youtube.com/watch?v=_bhhlczO_lg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BnPoNatG-HE/maxresdefault.jpg" group-title="風景",【高雄】蓮池潭
-https://www.youtube.com/watch?v=BnPoNatG-HE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ka7FV0sCvxQ/maxresdefault.jpg" group-title="風景",【高雄】旗津海水浴場
-https://www.youtube.com/watch?v=ka7FV0sCvxQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C03Itx8iSC0/maxresdefault.jpg" group-title="風景",【高雄】壽山情人觀景台
-https://www.youtube.com/watch?v=C03Itx8iSC0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZVS_1NG36LE/maxresdefault.jpg" group-title="風景",【茂林國家風景區】禮納里遊客中心
-https://www.youtube.com/watch?v=ZVS_1NG36LE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1pEeAYM0C_w/maxresdefault.jpg" group-title="風景",【茂林國家風景區】桃花心木步道
-https://www.youtube.com/watch?v=1pEeAYM0C_w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iW2P7TM9SaY/maxresdefault.jpg" group-title="風景",【茂林國家風景區】屏東平原眺景
-https://www.youtube.com/watch?v=iW2P7TM9SaY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1IMPS7Ew_c0/maxresdefault.jpg" group-title="風景",【茂林國家風景區】諦願寺六龜眺景
-https://www.youtube.com/watch?v=1IMPS7Ew_c0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X4feE60jy88/maxresdefault.jpg" group-title="風景",【茂林國家風景區】彩虹山大佛
-https://www.youtube.com/watch?v=X4feE60jy88
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/A9TWsoAuvqE/maxresdefault.jpg" group-title="風景",【ktnpworld】船帆石沙灘
-https://www.youtube.com/watch?v=A9TWsoAuvqE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cv5DlaucKxY/maxresdefault.jpg" group-title="風景",【ktnpworld】船帆石
-https://www.youtube.com/watch?v=Cv5DlaucKxY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/l1BUJtoMfXE/maxresdefault.jpg" group-title="風景",【ktnpworld】墾丁大灣
-https://www.youtube.com/watch?v=l1BUJtoMfXE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WtPbAgNVgiY/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳進安宮天上聖母寶石珊瑚媽祖大殿媽祖文化遠端參拜
-https://www.youtube.com/watch?v=WtPbAgNVgiY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9uRumsWvvfE/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳第二漁港漁村生活
-https://www.youtube.com/watch?v=9uRumsWvvfE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sqWrdNNAlrA/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳第三漁港漁村生活
-https://www.youtube.com/watch?v=sqWrdNNAlrA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nFd4550YnEQ/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳進安宮天上聖母寶石珊瑚媽祖大門媽祖文化江夏路第三漁港跨海大橋遊覽車香客紀錄自動巡航
-https://www.youtube.com/watch?v=nFd4550YnEQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IHpSqQ5UylQ/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳內埤仔海邊情人灣烏岩角
-https://www.youtube.com/watch?v=IHpSqQ5UylQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_u7baK7ct2M/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳南天宮第一漁港媽祖文化
-https://www.youtube.com/watch?v=_u7baK7ct2M
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ofNycC6kaNY/maxresdefault.jpg" group-title="風景",【花蓮縣政府觀光處七星潭風景區】七星潭賞星廣場
-https://www.youtube.com/watch?v=ofNycC6kaNY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a8nJQr5rBGs/maxresdefault.jpg" group-title="風景",【東部海岸】綠島柴口
-https://www.youtube.com/watch?v=a8nJQr5rBGs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pLdBc8PvZko/maxresdefault.jpg" group-title="風景",【東部海岸】Fanchuanbi Gras
-https://www.youtube.com/watch?v=pLdBc8PvZko
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mXnigLvIL0Q/maxresdefault.jpg" group-title="風景",【東部海岸】Shitiping | Eas
-https://www.youtube.com/watch?v=mXnigLvIL0Q
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JnD8Rk3o0BM/maxresdefault.jpg" group-title="風景",【東部海岸】Changhong Bridg
-https://www.youtube.com/watch?v=JnD8Rk3o0BM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JkoXcXI04Qk/maxresdefault.jpg" group-title="風景",【東部海岸】Dashshibi Hill
-https://www.youtube.com/watch?v=JkoXcXI04Qk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AKl3F6cAY2Q/maxresdefault.jpg" group-title="風景",【東部海岸】Jialulan Recrea
-https://www.youtube.com/watch?v=AKl3F6cAY2Q
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JhQuR77AR7U/maxresdefault.jpg" group-title="風景",【東部海岸】Torik Visitor C
-https://www.youtube.com/watch?v=JhQuR77AR7U
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dQ7Sd6PGLdA/maxresdefault.jpg" group-title="風景",【東部海岸】三仙台
-https://www.youtube.com/watch?v=dQ7Sd6PGLdA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZdqHgQwvZOw/maxresdefault.jpg" group-title="風景",【東部海岸】Jinzun | Explor
-https://www.youtube.com/watch?v=ZdqHgQwvZOw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wTHhv7M0vCI/maxresdefault.jpg" group-title="風景",【東部海岸】Taitung Green I
-https://www.youtube.com/watch?v=wTHhv7M0vCI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BUJJaW0vkJs/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】台東鯉魚山
-https://www.youtube.com/watch?v=BUJJaW0vkJs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LSkq-wHMxQY/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】台東南橫埡口
-https://www.youtube.com/watch?v=LSkq-wHMxQY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6kUEK3LVrro/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】台東池上天堂路
-https://www.youtube.com/watch?v=6kUEK3LVrro
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9QqBz3kNHis/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】台東金崙大橋
-https://www.youtube.com/watch?v=9QqBz3kNHis
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TY4qQElcUrA/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】台東華源曙光觀景台
-https://www.youtube.com/watch?v=TY4qQElcUrA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D945F_dauls/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】台東富岡漁港
-https://www.youtube.com/watch?v=D945F_dauls
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VqS_Y8ZCj6M/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】台東杉原灣
-https://www.youtube.com/watch?v=VqS_Y8ZCj6M
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Rsq95SQ26bY/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】台東富山
-https://www.youtube.com/watch?v=Rsq95SQ26bY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q3KJt-SZc2s/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】Taitung Jinzun
-https://www.youtube.com/watch?v=q3KJt-SZc2s
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UCG1aXVO8H8/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】Duoliang Train
-https://www.youtube.com/watch?v=UCG1aXVO8H8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aaKOV4qkDHw/maxresdefault.jpg" group-title="風景",【ervnsa】Hualien Liyu La
-https://www.youtube.com/watch?v=aaKOV4qkDHw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5GTFLN9gZrc/maxresdefault.jpg" group-title="風景",【ervnsa】赤科山花東縱谷
-https://www.youtube.com/watch?v=5GTFLN9gZrc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rvc1klNIgQc/maxresdefault.jpg" group-title="風景",【ervnsa】鹿野高台花東縱谷
-https://www.youtube.com/watch?v=rvc1klNIgQc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DliL9uMtPrI/maxresdefault.jpg" group-title="風景",【ervnsa】六十石山花東縱谷
-https://www.youtube.com/watch?v=DliL9uMtPrI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8TYEeSaSGJM/maxresdefault.jpg" group-title="風景",【交通部觀光署澎湖國家風景區管理處】七美南滬港碼頭
-https://www.youtube.com/watch?v=8TYEeSaSGJM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WKKsky9i8ug/maxresdefault.jpg" group-title="風景",【交通部觀光署澎湖國家風景區管理處】內垵風景區
-https://www.youtube.com/watch?v=WKKsky9i8ug
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zgPJbQzlQmw/maxresdefault.jpg" group-title="風景",【交通部觀光署澎湖國家風景區管理處】北寮奎壁山摩西分海
-https://www.youtube.com/watch?v=zgPJbQzlQmw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oPZoY2mKrFE/maxresdefault.jpg" group-title="風景",【交通部觀光署澎湖國家風景區管理處】澎湖菓葉觀日樓
-https://www.youtube.com/watch?v=oPZoY2mKrFE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M4EJtf_iP8s/maxresdefault.jpg" group-title="風景",【樂遊金門】Kinmen Qilin Mo
-https://www.youtube.com/watch?v=M4EJtf_iP8s
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-srNHTE-Nf0/maxresdefault.jpg" group-title="風景",【樂遊金門】金門高地
-https://www.youtube.com/watch?v=-srNHTE-Nf0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uh_yNAE01w8/maxresdefault.jpg" group-title="風景",【樂遊金門】Jiangong Islet
-https://www.youtube.com/watch?v=uh_yNAE01w8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0JpPVzxCxJM/maxresdefault.jpg" group-title="風景",【馬祖國家風景區】南竿鐵堡
-https://www.youtube.com/watch?v=0JpPVzxCxJM

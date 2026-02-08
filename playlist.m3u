@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-08 14:23:58
+# Last Update: 2026-02-08 15:21:55
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,29 +24,35 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人文講堂
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映青春愛讀書
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙路長情更長
 https://www.youtube.com/watch?v=QDxRJP-wfeI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U6_KFH0jNuo/maxresdefault.jpg" group-title="台灣",【鏡新聞】高市早苗壓倒性大勝日本眾議院選舉特別報導
+https://www.youtube.com/watch?v=U6_KFH0jNuo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qvXhx90YSCo/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】高市早苗勝利自民維新聯盟確定拿下三分之二席次是安倍政權的自民公明聯盟以來首次高市早苗氏圧勝与党衆院分確保三立新聞特派前進日本國際辯論社特別報導
+https://www.youtube.com/watch?v=qvXhx90YSCo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GZfD-KFuDGs/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】週末不斷線精彩一次看李正皓主持三立新聞台
 https://www.youtube.com/watch?v=GZfD-KFuDGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】祝你健康呷百二每天喝黑咖啡竟洗腎醫揭致命一習慣變毒素炸彈健怡可樂竟是解毒救星洪永祥譚敦慈祝你健康
 https://www.youtube.com/watch?v=AjJIcpk8mXc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nvr3wUZhlIY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】台灣棒球奇蹟背後蘇巧慧龍男揭秘冠軍之路催淚內幕夫妻同台暢談真心話賈永婕接董座內幕曝光賈永婕揭密秒答應接掌的真相精彩不斷電話時代人物
 https://www.youtube.com/watch?v=nvr3wUZhlIY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】高市早苗贏了執政聯盟眾院席次確定過半三立新聞國際焦點地震氣象民生議題台湾
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】高市早苗勝利自民維新聯盟確定拿下席次三立新聞國際焦點地震氣象民生議題台湾
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】台灣新聞三立新聞國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HpXhd9uBj_0/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】韓國瑜挺鞭刑遏止詐騙賴將黃金交叉了藍反感度近成中天新聞
+https://www.youtube.com/watch?v=HpXhd9uBj_0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sqshR9Uy13I/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】此波寒流正值最冷時刻北部平地探度太平山下冰霰中天新聞
 https://www.youtube.com/watch?v=sqshR9Uy13I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PyRKWjBYun4/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】日本戰後最短選舉結果深夜出爐牽動台海政治盤算一次看劉又嘉主播中天新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PyRKWjBYun4/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】日媒出口民調顯示自民黨大勝高市早苗內閣暫不改組討論限期年食品消費稅歸零劉又嘉主播中天新聞
 https://www.youtube.com/watch?v=PyRKWjBYun4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
@@ -144,8 +150,6 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/04GSGhkLkmY/maxresdefault.jpg" group-title="綜藝",【原視 TITV+】南島語言和文化由菲律賓傳至台灣見識南島主持劉益昌貝若桑甦給那笛米分享人廖秀娟潘俞翔
-https://www.youtube.com/watch?v=04GSGhkLkmY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rfSblpvy_rY/maxresdefault.jpg" group-title="影劇",【戲說台灣】妖精大集合動物都能變成精小時不間斷
 https://www.youtube.com/watch?v=rfSblpvy_rY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2z1QW5OptRE/maxresdefault.jpg" group-title="影劇",【台視時光機】感動再現星星知我心星星的故鄉經典不間斷
@@ -330,8 +334,6 @@ https://www.youtube.com/watch?v=A7BsxiTFlYE
 https://www.youtube.com/watch?v=JaGd4Yy_xjA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Fnku5vj_13U/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟群聯電子灌籃前先泡奶
 https://www.youtube.com/watch?v=Fnku5vj_13U
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EseVd1MEtVo/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽秋葵皇翔
-https://www.youtube.com/watch?v=EseVd1MEtVo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G6ERanEbzEE/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE The BEST
@@ -462,15 +464,11 @@ https://www.youtube.com/watch?v=z8PzoHfHBf0
 https://www.youtube.com/watch?v=MjsI7PQrm4Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AHhIDph0fXA/maxresdefault.jpg" group-title="音樂",【MEET48 Global】春晚特别公演
 https://www.youtube.com/watch?v=AHhIDph0fXA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UBWUxauuaTQ/maxresdefault.jpg" group-title="音樂",【MEET48 Global】马上放假全团联合公演
-https://www.youtube.com/watch?v=UBWUxauuaTQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UAyDhKe_04Y/maxresdefault.jpg" group-title="政論",【全球大視野】高市踩紅線遭抨擊日圓危機普丁狠招川普拋棄澤倫中俄力挺伊朗東風劍指美國本土震驚美軍
-https://www.youtube.com/watch?v=UAyDhKe_04Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7Qq3kxv3S60/maxresdefault.jpg" group-title="政論",【全球大視野】日本戰後最短選舉結果深夜出爐牽動台海政治盤算一次看劉又嘉主播
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7Qq3kxv3S60/maxresdefault.jpg" group-title="政論",【全球大視野】日媒出口民調顯示自民黨大勝高市早苗內閣暫不改組討論限期年食品消費稅歸零劉又嘉主播
 https://www.youtube.com/watch?v=7Qq3kxv3S60
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
@@ -488,7 +486,7 @@ https://www.youtube.com/watch?v=hG6-kmH3ma8
 https://www.youtube.com/watch?v=uVme--1tRzE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tckctBPSctQ/maxresdefault.jpg" group-title="政論",【新聞龍捲風】此波寒流正值最冷時刻北部平地探度太平山下冰霰
 https://www.youtube.com/watch?v=tckctBPSctQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sLuMYl7dz00/maxresdefault.jpg" group-title="政論",【頭條開講】日本戰後最短選舉結果深夜出爐牽動台海政治盤算一次看劉又嘉主播
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sLuMYl7dz00/maxresdefault.jpg" group-title="政論",【頭條開講】日媒出口民調顯示自民黨大勝高市早苗內閣暫不改組討論限期年食品消費稅歸零劉又嘉主播
 https://www.youtube.com/watch?v=sLuMYl7dz00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/maxresdefault.jpg" group-title="政論",【少康戰情室】精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI

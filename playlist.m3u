@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-07 23:25:26
+# Last Update: 2026-02-08 02:07:58
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -10,8 +10,10 @@ https://www.youtube.com/watch?v=LzOTY4mZG00
 https://www.youtube.com/watch?v=kzBW-wA-U1A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
-https://www.youtube.com/watch?v=baDV1O5EBP0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NMW-_0fAXjQ/maxresdefault.jpg" group-title="台灣",【中視新聞】籲團結當蘇清泉後盾鄭麗文赴屏東站台發春聯
+https://www.youtube.com/watch?v=NMW-_0fAXjQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aH-0Mb1xWmg/maxresdefault.jpg" group-title="台灣",【中視新聞】盧秀燕台中市長提名月底民調太晚了楊瓊瓔今赴市場拜票
+https://www.youtube.com/watch?v=aH-0Mb1xWmg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/meHTKm4XBS8/maxresdefault.jpg" group-title="台灣",【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站
@@ -24,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映人間菩提
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映青春愛讀書
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -34,6 +36,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-EQvUegBgGE/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】不只台灣矢板明夫曝大援軍助選高市早苗勝券在握三立新聞台
+https://www.youtube.com/watch?v=-EQvUegBgGE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GZfD-KFuDGs/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】週末不斷線精彩一次看李正皓主持三立新聞台
 https://www.youtube.com/watch?v=GZfD-KFuDGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】祝你健康呷百二每天喝黑咖啡竟洗腎醫揭致命一習慣變毒素炸彈健怡可樂竟是解毒救星洪永祥譚敦慈祝你健康
@@ -44,8 +48,16 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】台灣新聞三立新聞國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xYab74AqcJY/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】美擬推億美元對台軍售日眾院改選牽動亞太局勢例通報瘦瘦針爆不良反應爭議全台湧現交屋糾紛多林佩潔賴正鎧報新聞中天新聞
-https://www.youtube.com/watch?v=xYab74AqcJY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YxkwBtV5QAM/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】日本泰國國會大選關鍵軍售淪美中籌碼反對台灣有利世紀血案影射史明兇手林義雄仍不知文總抵制李千娜賴麗櫻林佩潔報新聞中天新聞
+https://www.youtube.com/watch?v=YxkwBtV5QAM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xBD8H9Sng2k/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】鄭麗文拉抬蘇清泉人氣屏東市場發春聯最新中天新聞
+https://www.youtube.com/watch?v=xBD8H9Sng2k
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/O89qKCznFHw/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】盧喊月底才決定人選太慢了楊瓊瓔市場拜票最新回應中天新聞
+https://www.youtube.com/watch?v=O89qKCznFHw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c7d55GILWhI/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】陪何元楷掃市場拜票王鴻薇送包粽祝福中天新聞
+https://www.youtube.com/watch?v=c7d55GILWhI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Xr6r9l1Xh94/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】連兩天南下新竹力挺柯陪邱臣遠揮毫春聯最新中天新聞
+https://www.youtube.com/watch?v=Xr6r9l1Xh94
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pw2x1tCDCC4/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】日本大選投票現場高市早苗背水一戰豪賭自民黨興衰在此一舉中天電視
 https://www.youtube.com/watch?v=pw2x1tCDCC4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9xzROsDIuD4/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】寒流報到全台溼冷高海拔地區有望降雪中天電視
@@ -320,8 +332,22 @@ https://www.youtube.com/watch?v=0XOp7-PsAA4
 https://www.youtube.com/watch?v=mCOate_sArY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/A7BsxiTFlYE/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】一朝社畜变猫咪百日喵生开启看她如何重启人生为喵人生
 https://www.youtube.com/watch?v=A7BsxiTFlYE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CQuDklPwLlg/maxresdefault.jpg" group-title="體育",【公視體育】第二屆臺灣美式躲避球錦標賽上午場
+https://www.youtube.com/watch?v=CQuDklPwLlg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/glSNAyi7C_E/maxresdefault.jpg" group-title="體育",【HOP Sports】第二屆臺灣美式躲避球錦標賽上午
+https://www.youtube.com/watch?v=glSNAyi7C_E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JaGd4Yy_xjA/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=JaGd4Yy_xjA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MpczAboQ3-w/maxresdefault.jpg" group-title="體育",【動滋Sports】LIVE》2/809:00
+https://www.youtube.com/watch?v=MpczAboQ3-w
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3VOZLudLAAM/maxresdefault.jpg" group-title="體育",【動滋Sports】】LIVE》2/808:00
+https://www.youtube.com/watch?v=3VOZLudLAAM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SK9HgZTW1xU/maxresdefault.jpg" group-title="體育",【GoHoops】巴萊哇
+https://www.youtube.com/watch?v=SK9HgZTW1xU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C-R26b_c01A/maxresdefault.jpg" group-title="體育",【GoHoops】士林國小
+https://www.youtube.com/watch?v=C-R26b_c01A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0qKKKiP6Ir0/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟武陵幫竹北火影
+https://www.youtube.com/watch?v=0qKKKiP6Ir0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G6ERanEbzEE/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE The BEST
@@ -334,8 +360,6 @@ https://www.youtube.com/watch?v=90_71FSq4SY
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kbKhN0JXIIc/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=kbKhN0JXIIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BYNWUMC2Np4/maxresdefault.jpg" group-title="音樂",【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=BYNWUMC2Np4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LlDa4PpVh0M/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
@@ -460,12 +484,24 @@ https://www.youtube.com/watch?v=HiI-7_jeKxo
 https://www.youtube.com/watch?v=_vDbO-aiDlg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uA3Ez3cYJSg/maxresdefault.jpg" group-title="政論",【94要客訴】高市早苗政治豪賭結果今揭曉日本眾議院大選三立新聞完整直擊三立新聞網
+https://www.youtube.com/watch?v=uA3Ez3cYJSg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yiGoyYyc36c/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】鄭麗文拉抬蘇清泉人氣屏東市場發春聯最新
+https://www.youtube.com/watch?v=yiGoyYyc36c
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2hVuH0xkN2s/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】連兩天南下新竹力挺柯陪邱臣遠揮毫春聯最新
+https://www.youtube.com/watch?v=2hVuH0xkN2s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/maxresdefault.jpg" group-title="政論",【新聞大白話】時間配信
 https://www.youtube.com/watch?v=8o3rl1YgbmE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cBaTbmMphuQ/maxresdefault.jpg" group-title="政論",【中時新聞網】籲團結當蘇清泉後盾鄭麗文赴屏東站台發春聯
+https://www.youtube.com/watch?v=cBaTbmMphuQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zX8x4dIyvTo/maxresdefault.jpg" group-title="政論",【中時新聞網】盧秀燕台中市長提名月底民調太晚了楊瓊瓔今赴市場拜票
+https://www.youtube.com/watch?v=zX8x4dIyvTo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kmG5CISSUwg/maxresdefault.jpg" group-title="政論",【中天深喉嚨】鄭麗文拉抬蘇清泉人氣屏東市場發春聯最新
+https://www.youtube.com/watch?v=kmG5CISSUwg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aXOMI_DCCM4/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現綠無視中國崛起去中難擋兩岸交流
 https://www.youtube.com/watch?v=aXOMI_DCCM4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/x5zJtkWac2s/maxresdefault.jpg" group-title="政論",【新聞龍捲風】寒流報到全台溼冷高海拔地區有望降雪
@@ -480,8 +516,6 @@ https://www.youtube.com/watch?v=IBcS_0eEndI
 https://www.youtube.com/watch?v=BjGEQyDPF0Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_eqEVatnjvY/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
 https://www.youtube.com/watch?v=_eqEVatnjvY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Sl26ZFvawuU/maxresdefault.jpg" group-title="購物",【三聖電視台】「三聖電視台」直播
-https://www.youtube.com/watch?v=Sl26ZFvawuU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HZTQ87Vq2IA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
 https://www.youtube.com/watch?v=HZTQ87Vq2IA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QL6isKzRSwY/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播

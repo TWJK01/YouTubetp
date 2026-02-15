@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-15 05:53:05
+# Last Update: 2026-02-15 06:44:57
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -8,12 +8,8 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=kzBW-wA-U1A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G4YeBG5azgc/maxresdefault.jpg" group-title="台灣",【台視新聞】整點大頭條士林公車引擎室冒煙司機緊急停車滅火
-https://www.youtube.com/watch?v=G4YeBG5azgc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vMWHPLHwWeI/maxresdefault.jpg" group-title="台灣",【中視新聞】中視午間新聞線上看
-https://www.youtube.com/watch?v=vMWHPLHwWeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -22,8 +18,6 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZLZ1z8DRpcE/maxresdefault.jpg" group-title="台灣",【民視新聞網】直擊小貨車瓦斯桶滾落路面後方駕駛冒冷汗工廠倉庫驚傳火警火舌濃煙竄天過年心情鬱悶板橋醉漢手持菜刀逛大街遭警壓制強制送醫
-https://www.youtube.com/watch?v=ZLZ1z8DRpcE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rp1te7k6BQM/maxresdefault.jpg" group-title="台灣",【公視】一字千金春節馬拉松挑戰最燒腦的文字競賽
@@ -32,20 +26,16 @@ https://www.youtube.com/watch?v=rp1te7k6BQM
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映好戲成雙路長情更長
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙路長情更長
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GL3CUiP2ZHE/maxresdefault.jpg" group-title="台灣",【東森新聞】東森午安新聞抓到嫌犯了宜蘭包裹炸彈案疑似投資糾紛誇張廟會煙火炸向人群部貨車遍地開花北捷翁持傘揮動勾把手引恐慌乘客嚇逃離
-https://www.youtube.com/watch?v=GL3CUiP2ZHE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2VTVrG0CjLw/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】今熱飆除夕午後變天這地濕冷連天過年天連假天氣曝三立新聞台
-https://www.youtube.com/watch?v=2VTVrG0CjLw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BwLj4rpo7I0/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】週末不斷線精彩一次看李正皓主持三立新聞台
 https://www.youtube.com/watch?v=BwLj4rpo7I0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】年菜熱量大屠殺營養師教你餐盤攻略過年爽吃不長肉初五回歸不腫臉初一到初五別拿命換過年心肌梗塞發作率飆升倍醫飯後這動作最危險祝你健康
@@ -56,8 +46,6 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】台灣新聞三立新聞國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z0r97GpccSw/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】卓內閣改組柯總召再鬥賴清德溫體牛漲價王毅嗆台灣有事台美協議未爆彈台積電再投美千億高金辦公室主任交保林佩潔報新聞中天新聞
-https://www.youtube.com/watch?v=z0r97GpccSw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zNQqNIHTcgU/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】粉紅風暴來襲山櫻花綻放美不勝收好天氣只到今天除夕要變天了以北降溫降雨中天新聞
 https://www.youtube.com/watch?v=zNQqNIHTcgU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X9u-hf0IbJk/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】冰雪運動陪你過好年中天新聞
@@ -392,6 +380,12 @@ https://www.youtube.com/watch?v=RtfBsAXEE90
 https://www.youtube.com/watch?v=Uis8NHKOKho
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JaGd4Yy_xjA/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=JaGd4Yy_xjA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w6SvPaERzqA/maxresdefault.jpg" group-title="體育",【TPBL】例行賽新竹御嵿攻城獅國王
+https://www.youtube.com/watch?v=w6SvPaERzqA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3Tu0IytACl4/maxresdefault.jpg" group-title="體育",【日本B聯盟】FIGHTING EAGLES
+https://www.youtube.com/watch?v=3Tu0IytACl4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WX4b9zTGO8E/maxresdefault.jpg" group-title="體育",【日本B聯盟】GUNMA CRANE THU
+https://www.youtube.com/watch?v=WX4b9zTGO8E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QgvlLY20iYQ/maxresdefault.jpg" group-title="體育",【日本B聯盟】SHIGA LAKES vs
 https://www.youtube.com/watch?v=QgvlLY20iYQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3TCvdf8IJr8/maxresdefault.jpg" group-title="體育",【GAORA SPORTS】第回日本決勝女子位決定戦日橋本総業
@@ -414,6 +408,8 @@ https://www.youtube.com/watch?v=s_2wdvlVQrk
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jiuTrKM9S6k/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
+https://www.youtube.com/watch?v=jiuTrKM9S6k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BYNWUMC2Np4/maxresdefault.jpg" group-title="音樂",【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=BYNWUMC2Np4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LlDa4PpVh0M/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
@@ -532,12 +528,12 @@ https://www.youtube.com/watch?v=HiI-7_jeKxo
 https://www.youtube.com/watch?v=zV2aX81FXig
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b-U-3ck3q-s/maxresdefault.jpg" group-title="政論",【94要客訴】財神送禮到小港大樂透億一注獨得彩券行驚訝鳴炮嗨超開心三立新聞網
-https://www.youtube.com/watch?v=b-U-3ck3q-s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CECOz-Jy740/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】馬年新春特集蔡正元柯文哲飯局大談會客菜郭正亮怕了立院孫燕姿遭玩初選賴瑞隆勝南陳亭妃出線有這陰謀
+https://www.youtube.com/watch?v=CECOz-Jy740
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AgT1kv-yeWs/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現抗中橫掃日台司法雙標介選
 https://www.youtube.com/watch?v=AgT1kv-yeWs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ApDBmBe1RE8/maxresdefault.jpg" group-title="政論",【郭正亮頻道】小時不斷電為您呈現抗中橫掃日台司法雙標介選

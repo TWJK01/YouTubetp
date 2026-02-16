@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-16 22:22:39
+# Last Update: 2026-02-16 23:25:08
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UXvKfzLMNCQ/maxresdefault.jpg" group-title="台灣",【民視新聞網】總統賴清德初一走春艋舺龍山寺參香發放福袋民視快新聞
+https://www.youtube.com/watch?v=UXvKfzLMNCQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rp1te7k6BQM/maxresdefault.jpg" group-title="台灣",【公視】一字千金春節馬拉松挑戰最燒腦的文字競賽
@@ -26,9 +28,9 @@ https://www.youtube.com/watch?v=rp1te7k6BQM
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映衲履足跡
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映風月同天分秒版
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映高僧傳
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映人間菩提
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -44,6 +46,10 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】台灣新聞三立新聞國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mrEsiNQpDCc/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】國運籤出爐預測馬年運勢開廟門搶頭香險滑天公爐韓國瑜承諾優先審國防預算國道今起南向車流大賴正鎧報新聞中天新聞
+https://www.youtube.com/watch?v=mrEsiNQpDCc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1EnXseu9CsA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】初一走春拜廟祈求馬年元辰光彩中天新聞
+https://www.youtube.com/watch?v=1EnXseu9CsA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -90,8 +96,6 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】外國領導人國際組織負責人祝賀馬年新春港特首逛花市買年花向市民拜年伊朗外長屈服於威脅不在談判選項中小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gWCOp25byaM/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晨早新聞報道即時新聞港聞兩岸國際資訊
-https://www.youtube.com/watch?v=gWCOp25byaM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -152,6 +156,8 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nZucBweUU24/maxresdefault.jpg" group-title="綜藝",【靈異錯別字】初一走春拜廟祈求馬年元辰光彩
+https://www.youtube.com/watch?v=nZucBweUU24
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ewoFNkzM8kQ/maxresdefault.jpg" group-title="綜藝",【STR Network】曾博恩有趣的演講三重標準新春馬拉松
 https://www.youtube.com/watch?v=ewoFNkzM8kQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qqv279uadCA/maxresdefault.jpg" group-title="綜藝",【STR Network】里唯陪你過新年新春馬拉松
@@ -392,8 +398,6 @@ https://www.youtube.com/watch?v=99rLT2xf8T8
 https://www.youtube.com/watch?v=fx9UIfXzKVw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=augOnkJkrHY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/P6Zn5987Hx0/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】二月熱門歌曲最火華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=P6Zn5987Hx0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜二月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=qrWp7zOrWAg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PoNKmT9ns-Y/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
@@ -410,6 +414,8 @@ https://www.youtube.com/watch?v=JcjAZeeB0sg
 https://www.youtube.com/watch?v=2KnheMYXGDs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eGkDnmeI4t8/maxresdefault.jpg" group-title="音樂",【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=eGkDnmeI4t8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lFS8E53B49k/maxresdefault.jpg" group-title="音樂",【KKBOX 华语新歌周榜】那些年我们听过的情歌你还记得吗蔡依林周杰伦王菲林俊杰五月天年代至年代的华语流行经典唤起你心中的青春记忆一起回到那个属于磁带和的年代我好嗎不曾回來過
+https://www.youtube.com/watch?v=lFS8E53B49k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/maxresdefault.jpg" group-title="音樂",【Cherry 葵】Nightcore Radio
 https://www.youtube.com/watch?v=tjne3WWB3kA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4FBW3mkdKOs/maxresdefault.jpg" group-title="音樂",【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日

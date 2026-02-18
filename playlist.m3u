@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-17 23:24:20
+# Last Update: 2026-02-18 01:51:05
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -8,8 +8,12 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=kzBW-wA-U1A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/d9KnOemMiqg/maxresdefault.jpg" group-title="台灣",【台視新聞】蕭美琴蘇巧慧新店太平宮參拜發福袋
+https://www.youtube.com/watch?v=d9KnOemMiqg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1Xd5tr6tQaQ/maxresdefault.jpg" group-title="台灣",【中視新聞】初二宮廟參香發福袋賴清德南下屏東精明寶宮
+https://www.youtube.com/watch?v=1Xd5tr6tQaQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -18,6 +22,8 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fps-HRBJPF0/maxresdefault.jpg" group-title="台灣",【民視新聞網】蕭美琴赴新店太平宮參拜祈福發福袋直擊民視快新聞
+https://www.youtube.com/watch?v=fps-HRBJPF0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rp1te7k6BQM/maxresdefault.jpg" group-title="台灣",【公視】一字千金春節馬拉松挑戰最燒腦的文字競賽
@@ -28,22 +34,42 @@ https://www.youtube.com/watch?v=quwqlazU-c8
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映衲履足跡
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映高僧傳
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛醫生館
 https://www.youtube.com/watch?v=QDxRJP-wfeI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EdVnY_Un1L4/maxresdefault.jpg" group-title="台灣",【鏡新聞】蕭美琴蘇巧慧赴新店太平宮參拜發福袋
+https://www.youtube.com/watch?v=EdVnY_Un1L4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HoPJvLMYKpg/maxresdefault.jpg" group-title="台灣",【鏡新聞】總統賴清德赴屏東精明寶宮參香發福袋
+https://www.youtube.com/watch?v=HoPJvLMYKpg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bwgjbeiuMbk/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】年初二蕭美琴合體蘇巧慧新店發福袋
+https://www.youtube.com/watch?v=bwgjbeiuMbk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7vqYDaMaKb0/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】陳光復跌倒昏迷榮總救治最新情況
+https://www.youtube.com/watch?v=7vqYDaMaKb0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jfo-1x4IFGs/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】大年初二迎國道南下車潮最高峰路段連塞小時最新地雷區出爐三立新聞台
+https://www.youtube.com/watch?v=Jfo-1x4IFGs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UCqK195xjCs/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】年初二賴清德台南屏東參香發放福袋
+https://www.youtube.com/watch?v=UCqK195xjCs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】年菜熱量大屠殺營養師教你餐盤攻略過年爽吃不長肉初五回歸不腫臉初一到初五別拿命換過年心肌梗塞發作率飆升倍醫飯後這動作最危險祝你健康
 https://www.youtube.com/watch?v=AjJIcpk8mXc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nvr3wUZhlIY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】超扯超扯超扯吊車大王胡漢龑的內心話專訪賈永婕接董座內幕曝光賈永婕揭密秒答應接掌的真相精彩不斷電話時代人物
 https://www.youtube.com/watch?v=nvr3wUZhlIY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞國際焦點地震氣象民生議題台湾
 https://www.youtube.com/watch?v=QsGswQvRmtU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】台灣新聞三立新聞國際焦點地震氣象政經動態台湾
-https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wEKxPxembaU/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】人氣韓援大洗牌誰能擠進職棒窄門中天新聞
+https://www.youtube.com/watch?v=wEKxPxembaU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4GFOWfITc88/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】大年初二馬祥厚運侯友宜蘆洲湧蓮寺參拜祈福中天新聞
+https://www.youtube.com/watch?v=4GFOWfITc88
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fwc5YZhE8vA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】大年初二南下屏東參香賴清德精明寶宮發紅包最新中天新聞
+https://www.youtube.com/watch?v=fwc5YZhE8vA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3am72lVGAeU/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】今馬熊讚大年初二宮廟走春蔣萬安慈諴宮參拜祈福中天新聞
+https://www.youtube.com/watch?v=3am72lVGAeU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0Is7yKVFPi4/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】機器人陪你過好年中天新聞
+https://www.youtube.com/watch?v=0Is7yKVFPi4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -90,8 +116,6 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】馬年邁步港特首大年初一向市民拜年美國國務卿魯比奧祝賀農曆新年特朗普稱將間接參與美伊日內瓦談判小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bo54IbCfpws/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晨早新聞報道即時新聞港聞兩岸國際資訊
-https://www.youtube.com/watch?v=bo54IbCfpws
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -370,6 +394,8 @@ https://www.youtube.com/watch?v=r0dNTdYIvmE
 https://www.youtube.com/watch?v=JaGd4Yy_xjA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iRzhfwGipNM/maxresdefault.jpg" group-title="體育",【TPBL】歷屆精彩賽事再看一次馬拉松小時不間斷
 https://www.youtube.com/watch?v=iRzhfwGipNM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vdq-vmCoI90/maxresdefault.jpg" group-title="體育",【GAORA SPORTS】朝北海道日本春季
+https://www.youtube.com/watch?v=Vdq-vmCoI90
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G6ERanEbzEE/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE The BEST
@@ -410,6 +436,8 @@ https://www.youtube.com/watch?v=JcjAZeeB0sg
 https://www.youtube.com/watch?v=2KnheMYXGDs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eGkDnmeI4t8/maxresdefault.jpg" group-title="音樂",【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=eGkDnmeI4t8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LS_YI8NKfss/maxresdefault.jpg" group-title="音樂",【KKBOX 华语新歌周榜】那些年我们听过的情歌你还记得吗蔡依林周杰伦王菲林俊杰五月天年代至年代的华语流行经典唤起你心中的青春记忆一起回到那个属于磁带和的年代我好嗎不曾回來過
+https://www.youtube.com/watch?v=LS_YI8NKfss
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/maxresdefault.jpg" group-title="音樂",【Cherry 葵】Nightcore Radio
 https://www.youtube.com/watch?v=tjne3WWB3kA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4FBW3mkdKOs/maxresdefault.jpg" group-title="音樂",【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日
@@ -496,12 +524,26 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IiKzk-npZMI/maxresdefault.jpg" group-title="政論",【全球大視野】機器人陪你過好年
+https://www.youtube.com/watch?v=IiKzk-npZMI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2ZVgTT8zKVo/maxresdefault.jpg" group-title="政論",【94要客訴】年初二蕭美琴合體蘇巧慧新店發福袋三立新聞網
+https://www.youtube.com/watch?v=2ZVgTT8zKVo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XOjYWBMsudQ/maxresdefault.jpg" group-title="政論",【94要客訴】陳光復跌倒昏迷榮總救治最新情況三立新聞網
+https://www.youtube.com/watch?v=XOjYWBMsudQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PGW6R_Qmz9g/maxresdefault.jpg" group-title="政論",【94要客訴】春節天氣陰晴不定初二地跌破度下週又一波東北季風三立新聞網
+https://www.youtube.com/watch?v=PGW6R_Qmz9g
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wInYzbKh-2Y/maxresdefault.jpg" group-title="政論",【94要客訴】年初二賴清德台南屏東參香發放福袋三立新聞網
+https://www.youtube.com/watch?v=wInYzbKh-2Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oJDD1rPhZXc/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】今馬熊讚大年初二宮廟走春蔣萬安慈諴宮參拜祈福
+https://www.youtube.com/watch?v=oJDD1rPhZXc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UQLX03AytZE/maxresdefault.jpg" group-title="政論",【中時新聞網】初二宮廟參香發福袋賴清德南下屏東精明寶宮
+https://www.youtube.com/watch?v=UQLX03AytZE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JhcIFLI3NW4/maxresdefault.jpg" group-title="政論",【哏傳媒】假國防真獨裁違憲震怒人民過年期間每晚十二點播出
 https://www.youtube.com/watch?v=JhcIFLI3NW4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_oKeq-rMYpQ/maxresdefault.jpg" group-title="政論",【哏傳媒】看主播陪您過新年

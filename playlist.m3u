@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-19 12:55:44
+# Last Update: 2026-02-19 14:07:28
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=rp1te7k6BQM
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇同學早安
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映好戲成雙在光裏的人
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛劇同學早安
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙在光裏的人
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -36,8 +36,6 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R2MseDxUUyg/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】彩券開獎
-https://www.youtube.com/watch?v=R2MseDxUUyg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】年菜熱量大屠殺營養師教你餐盤攻略過年爽吃不長肉初五回歸不腫臉初一到初五別拿命換過年心肌梗塞發作率飆升倍醫飯後這動作最危險祝你健康
 https://www.youtube.com/watch?v=AjJIcpk8mXc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nvr3wUZhlIY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】超扯超扯超扯吊車大王胡漢龑的內心話專訪賈永婕接董座內幕曝光賈永婕揭密秒答應接掌的真相精彩不斷電話時代人物
@@ -46,10 +44,14 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】台灣新聞三立新聞國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xVrC2MeGZ10/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】南韓法院裁定內亂罪成立尹錫悅一審被判無期徒刑春節腹瀉近千人成諾羅醫示警開工後診所恐爆滿中天夜線中天新聞
+https://www.youtube.com/watch?v=xVrC2MeGZ10
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/swX-tWy6Oso/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】美軍最快本周末可攻伊朗東瀛戰神年歷史劃下句點
+https://www.youtube.com/watch?v=swX-tWy6Oso
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -152,8 +154,6 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RUmoqTxmH7Y/maxresdefault.jpg" group-title="綜藝",【靈異錯別字】過年發生的嘉義双死命案台灣軍艦鬼故事家裡多了一個人
-https://www.youtube.com/watch?v=RUmoqTxmH7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ewoFNkzM8kQ/maxresdefault.jpg" group-title="綜藝",【STR Network】曾博恩有趣的演講三重標準新春馬拉松
 https://www.youtube.com/watch?v=ewoFNkzM8kQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qqv279uadCA/maxresdefault.jpg" group-title="綜藝",【STR Network】里唯陪你過新年新春馬拉松
@@ -234,8 +234,6 @@ https://www.youtube.com/watch?v=G9atmkXY-wA
 https://www.youtube.com/watch?v=uPLdwjHlf58
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ie0rjlgRGv8/maxresdefault.jpg" group-title="影劇",【精选大剧】灭毒石兆琪刘德华雷霆出击大案血战金三角侦破连环凶案将幕后黑手绳之以法
 https://www.youtube.com/watch?v=Ie0rjlgRGv8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6Rl3xdcEK70/maxresdefault.jpg" group-title="影劇",【精选大剧】灭毒石兆琪刘德华雷霆出击大案血战金三角侦破连环凶案将幕后黑手绳之以法
-https://www.youtube.com/watch?v=6Rl3xdcEK70
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lASZ1KO9H9Q/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
 https://www.youtube.com/watch?v=lASZ1KO9H9Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zRH6GECwhI4/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
@@ -380,6 +378,8 @@ https://www.youtube.com/watch?v=iRzhfwGipNM
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G6ERanEbzEE/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE The BEST
 https://www.youtube.com/watch?v=G6ERanEbzEE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dasw4XB45Wc/maxresdefault.jpg" group-title="體育",【WWE】Best of AJ Styl
+https://www.youtube.com/watch?v=Dasw4XB45Wc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/O2HAO_sOxDs/maxresdefault.jpg" group-title="體育",【WWE】Best of Finn Bá
 https://www.youtube.com/watch?v=O2HAO_sOxDs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PDfidwrtTc8/maxresdefault.jpg" group-title="體育",【WWE Vault】WWE Vault Watch
@@ -504,26 +504,20 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eqVgxkiphd4/maxresdefault.jpg" group-title="政論",【民視讚夯】Live直播2026.02.1
-https://www.youtube.com/watch?v=eqVgxkiphd4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CxQI3vmZAWs/maxresdefault.jpg" group-title="政論",【全球大視野】美國總統川普將在華盛頓舉行他的首次和平委員會峰會將被證明是歷史上最重要的國際機構中天新聞
+https://www.youtube.com/watch?v=CxQI3vmZAWs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2iEnWcBDnYo/maxresdefault.jpg" group-title="政論",【94要客訴】彩券開獎三立新聞網
-https://www.youtube.com/watch?v=2iEnWcBDnYo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SJJSaZwf0jw/maxresdefault.jpg" group-title="政論",【94要客訴】神秘公尺無人潛艇引話題龍德造船黑鯨黑潮仿烏克蘭夜襲俄艦無人艇國防展特輯三立新聞網
+https://www.youtube.com/watch?v=SJJSaZwf0jw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_oKeq-rMYpQ/maxresdefault.jpg" group-title="政論",【哏傳媒】看主播陪您過新年
 https://www.youtube.com/watch?v=_oKeq-rMYpQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lJDPEZ974Vc/maxresdefault.jpg" group-title="政論",【郭正亮頻道】年度回顧賴獨裁綁架全民過年期間中午十二點播出
-https://www.youtube.com/watch?v=lJDPEZ974Vc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UqgVD6uCXds/maxresdefault.jpg" group-title="政論",【頭條開講】超級選舉年巴西魯拉強槓川普拉美永不為奴川普唐羅主義重大挫敗
-https://www.youtube.com/watch?v=UqgVD6uCXds
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/S8cHA-61qqM/maxresdefault.jpg" group-title="政論",【萬事通事務所】初三赤狗鬼怪亂鬥網路酸民側翼與流量密碼的真相郭鬼鬼
-https://www.youtube.com/watch?v=S8cHA-61qqM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4yiGPgdg7nQ/maxresdefault.jpg" group-title="政論",【金臨天下】財經鈔能力新春財富爆發不間斷
-https://www.youtube.com/watch?v=4yiGPgdg7nQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rb_o2783bLI/maxresdefault.jpg" group-title="政論",【頭條開講】美國總統川普將在華盛頓舉行他的首次和平委員會峰會將被證明是歷史上最重要的國際機構
+https://www.youtube.com/watch?v=rb_o2783bLI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cwbqimYAriY/maxresdefault.jpg" group-title="政論",【金臨天下】開紅盤必看財經專家大集結教你馬年精準佈局賺大錢
 https://www.youtube.com/watch?v=cwbqimYAriY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上

@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-21 14:22:17
+# Last Update: 2026-02-21 15:20:42
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=rp1te7k6BQM
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映好戲成雙在光裏的人
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛全紀實
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙在光裏的人
 https://www.youtube.com/watch?v=QDxRJP-wfeI
@@ -46,6 +46,8 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】川普宣布全球加徵關稅再嗆台灣偷晶片台灣新聞三立新聞國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/g0CW7QztYWc/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】基建狂魔川也佩服秘辛在布局下個十年賺錢要看這周錫瑋蔡正元苑舉正重磅對談精彩完整全程網路論壇
+https://www.youtube.com/watch?v=g0CW7QztYWc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8O70V-OXzgE/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】賴清德遭吐一身川普對等關稅遭判違法歷史哥擂台中天新聞
 https://www.youtube.com/watch?v=8O70V-OXzgE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0x7_rPJRjaI/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】春節連假收假國道疏運情形地雷路段報你知中天新聞
@@ -54,8 +56,6 @@ https://www.youtube.com/watch?v=0x7_rPJRjaI
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1nQPiovfyDE/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】最高法院擋關稅川普反手加徵政院條款最惠國待遇衝擊有限
-https://www.youtube.com/watch?v=1nQPiovfyDE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -142,14 +142,14 @@ https://www.youtube.com/watch?v=KwCP7ufKCYc
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vLoH_6L58AE/maxresdefault.jpg" group-title="綜藝",【204檔案】馬年來財
+https://www.youtube.com/watch?v=vLoH_6L58AE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】來自資深社會記者第一手報導富少百刀剁雙親跨海追殺美小三剖析犯罪者的內心世界探索案件背後的故事揭露台灣社會重案祕辛
 https://www.youtube.com/watch?v=TiOU3qHCqXk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/t8sVuOIxjn0/maxresdefault.jpg" group-title="綜藝",【為民也有約】馬拉松重播
 https://www.youtube.com/watch?v=t8sVuOIxjn0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fHfP8oY-OuQ/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】春節限定馬拉松一馬當先迎新春炤和陪您過新年
 https://www.youtube.com/watch?v=fHfP8oY-OuQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MdI03p0wbHw/maxresdefault.jpg" group-title="綜藝",【超級夜總會】全球巨星陳孟賢生無可戀眼神死崩潰吶喊錢真難賺播出
-https://www.youtube.com/watch?v=MdI03p0wbHw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mvGETqkVpJA/maxresdefault.jpg" group-title="綜藝",【TVBS女人我最大】女人我最大春節特企變美馬上有感
 https://www.youtube.com/watch?v=mvGETqkVpJA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G7Z_quUTQNY/maxresdefault.jpg" group-title="綜藝",【娛樂星動線】最正啦啦隊點點名戀愛視角無限放送這能免費看嗎
@@ -162,6 +162,8 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hS1jcKvZK7w/maxresdefault.jpg" group-title="綜藝",【Taste The World】7 BEST Vietname
+https://www.youtube.com/watch?v=hS1jcKvZK7w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ewoFNkzM8kQ/maxresdefault.jpg" group-title="綜藝",【STR Network】曾博恩有趣的演講三重標準新春馬拉松
 https://www.youtube.com/watch?v=ewoFNkzM8kQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qqv279uadCA/maxresdefault.jpg" group-title="綜藝",【STR Network】里唯陪你過新年新春馬拉松
@@ -242,8 +244,6 @@ https://www.youtube.com/watch?v=lA0MwNlNT1Q
 https://www.youtube.com/watch?v=G9atmkXY-wA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uPLdwjHlf58/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
 https://www.youtube.com/watch?v=uPLdwjHlf58
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0K2z4nHIceY/maxresdefault.jpg" group-title="影劇",【精选大剧】哪吒传奇闹海屠龙惊三界持缨踏碎凌霄天哪吒剔骨还父割肉还母以莲重生逆命封神
-https://www.youtube.com/watch?v=0K2z4nHIceY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lASZ1KO9H9Q/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
 https://www.youtube.com/watch?v=lASZ1KO9H9Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zRH6GECwhI4/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
@@ -510,12 +510,8 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e-aq6N14HTs/maxresdefault.jpg" group-title="政論",【全球大視野】高市攪屎棍中國千漁船列陣海上長城鎖日美俄核戰失控習定調核裁軍不談下餃子美軍慌潛艇神話破滅完整版
-https://www.youtube.com/watch?v=e-aq6N14HTs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jCAfj_gv4Uk/maxresdefault.jpg" group-title="政論",【94要客訴】機砲部隊將換裝國軍防空新戰力轉型三立新聞網
-https://www.youtube.com/watch?v=jCAfj_gv4Uk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網

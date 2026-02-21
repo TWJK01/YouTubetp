@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-21 09:25:55
+# Last Update: 2026-02-21 10:20:46
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jI1SYVZFtEg/maxresdefault.jpg" group-title="台灣",【民視新聞網】南僑集團發重訊創辦人陳飛龍辭世享耆壽歲收假車潮湧現雪隧北上回堵公里國五塞成停車場中客團搭車遊俄墜公尺深冰湖僅人幸運生還
+https://www.youtube.com/watch?v=jI1SYVZFtEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rp1te7k6BQM/maxresdefault.jpg" group-title="台灣",【公視】一字千金春節馬拉松挑戰最燒腦的文字競賽
@@ -26,12 +28,14 @@ https://www.youtube.com/watch?v=rp1te7k6BQM
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映草根菩提
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人文講堂
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙在光裏的人
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BcoJxDB_AN0/maxresdefault.jpg" group-title="台灣",【東森新聞】東森晚安新聞初五開工日傳槍響北市醫美診所負責人中彈送醫男持槍朝醫美董事長轟槍流彈傷診所員工基隆廟口元羹麵僅塊魷魚其他業者忘記放料
+https://www.youtube.com/watch?v=BcoJxDB_AN0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
@@ -48,18 +52,18 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】川普宣布全球加徵關稅再嗆台灣偷晶片台灣新聞三立新聞國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eRP4gGrKz0s/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】對等關稅違法川普再出這招藍營籲政府爭取與美重談判醫美診所開工團拜慘遭開槍春雨將到下週變天鋒面一波波劉又嘉報新聞中天新聞
-https://www.youtube.com/watch?v=eRP4gGrKz0s
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6y0D7idRrLs/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】蔡正元栗正傑嚴震生川普大挫敗蔡正元爆下場美伊恐戰天大量美軍撤離中國穿插辱美澳菲艦何橞瑢辣晚報完整版中天新聞
+https://www.youtube.com/watch?v=6y0D7idRrLs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0x7_rPJRjaI/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】春節連假收假國道疏運情形地雷路段報你知中天新聞
 https://www.youtube.com/watch?v=0x7_rPJRjaI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TC8fKNMyUEg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】籲台美關稅協議應收回趙少康立院誰通過就告誰中天新聞
-https://www.youtube.com/watch?v=TC8fKNMyUEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r3x3vBbdeYo/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】神奇動物陪你過好年中天新聞
 https://www.youtube.com/watch?v=r3x3vBbdeYo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aCNGVlPF-28/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】晚間整點新聞重點
+https://www.youtube.com/watch?v=aCNGVlPF-28
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -518,10 +522,6 @@ https://www.youtube.com/watch?v=NBMzjh8-OMA
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/p5i4e64_eNQ/maxresdefault.jpg" group-title="政論",【新聞大白話】駿馬奔騰開盛世初五特報
-https://www.youtube.com/watch?v=p5i4e64_eNQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/twCuhZZ8sJ4/maxresdefault.jpg" group-title="政論",【中天深喉嚨】籲台美關稅協議應收回趙少康立院誰通過就告誰
-https://www.youtube.com/watch?v=twCuhZZ8sJ4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_oKeq-rMYpQ/maxresdefault.jpg" group-title="政論",【哏傳媒】看主播陪您過新年
 https://www.youtube.com/watch?v=_oKeq-rMYpQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CtWBYjFMgBg/maxresdefault.jpg" group-title="政論",【郭正亮頻道】共諜圍剿雙標萊爾龜縮卸責過年期間中午十二點播出

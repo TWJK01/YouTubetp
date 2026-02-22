@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-22 15:20:08
+# Last Update: 2026-02-22 16:24:04
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=rp1te7k6BQM
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映青春愛讀書
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊水返腳的春天
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙在光裏的人
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊水返腳的春天
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -46,8 +46,6 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】快訊川普海湖莊園遭闖入歹徒當場被擊斃台灣新聞三立新聞國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X3vrNUDsEFU/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】衝康蔡英文賴清德不挺光電衝擊總統大選民間特偵組
-https://www.youtube.com/watch?v=X3vrNUDsEFU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -92,6 +90,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】特朗普給予伊朗最後期限到天伊朗與俄羅斯海上演習結束英國前王子安德魯因涉愛潑斯坦醜聞被捕小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/i0Yb3jja8Ds/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=i0Yb3jja8Ds
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -118,8 +118,6 @@ https://www.youtube.com/watch?v=lh8ItZQkg4Q
 https://www.youtube.com/watch?v=i5k8_KiI2Gk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uehKhWmttVE/maxresdefault.jpg" group-title="綜藝",【綜藝玩很大】憲哥坤達小鬼把不可能變可能讓我們找出那無法被超越的感動小時不間斷
 https://www.youtube.com/watch?v=uehKhWmttVE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xAy9o8uGjso/maxresdefault.jpg" group-title="綜藝",【11點熱吵店】馬年不打烊笑鬧迎新春年度荒謬特輯點熱吵店一起陪你熱鬧過好年
-https://www.youtube.com/watch?v=xAy9o8uGjso
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m58hzaOCnmQ/maxresdefault.jpg" group-title="綜藝",【飢餓遊戲】會員限定峮峮點閱人氣榜孫協志王仁甫許孟哲蔡黃汝吳函峮馬拉松
 https://www.youtube.com/watch?v=m58hzaOCnmQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dKCewm0l1nM/maxresdefault.jpg" group-title="綜藝",【飢餓遊戲】一次播到飽孫協志王仁甫許孟哲蔡黃汝峮峮小時不斷電
@@ -144,8 +142,6 @@ https://www.youtube.com/watch?v=TiOU3qHCqXk
 https://www.youtube.com/watch?v=t8sVuOIxjn0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fHfP8oY-OuQ/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】春節限定馬拉松一馬當先迎新春炤和陪您過新年
 https://www.youtube.com/watch?v=fHfP8oY-OuQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mvGETqkVpJA/maxresdefault.jpg" group-title="綜藝",【TVBS女人我最大】女人我最大春節特企變美馬上有感
-https://www.youtube.com/watch?v=mvGETqkVpJA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G7Z_quUTQNY/maxresdefault.jpg" group-title="綜藝",【娛樂星動線】最正啦啦隊點點名戀愛視角無限放送這能免費看嗎
 https://www.youtube.com/watch?v=G7Z_quUTQNY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -156,16 +152,6 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ewoFNkzM8kQ/maxresdefault.jpg" group-title="綜藝",【STR Network】曾博恩有趣的演講三重標準新春馬拉松
-https://www.youtube.com/watch?v=ewoFNkzM8kQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qqv279uadCA/maxresdefault.jpg" group-title="綜藝",【STR Network】里唯陪你過新年新春馬拉松
-https://www.youtube.com/watch?v=qqv279uadCA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_-3wmqY_F5s/maxresdefault.jpg" group-title="綜藝",【STR Network】喬瑟夫經典影片新春馬拉松
-https://www.youtube.com/watch?v=_-3wmqY_F5s
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0IxS0KMq1Rc/maxresdefault.jpg" group-title="綜藝",【STR Network】狗屎寫手新春馬拉松
-https://www.youtube.com/watch?v=0IxS0KMq1Rc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tnjBId9yhaY/maxresdefault.jpg" group-title="綜藝",【STR Network】怡岑專場愛是騰空的魔幻要到你想逃新春馬拉松
-https://www.youtube.com/watch?v=tnjBId9yhaY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JPJFLo9r1gA/maxresdefault.jpg" group-title="影劇",【戲說台灣】馬年馬尼通通來過年配戲說紅包領不完小時不間斷
 https://www.youtube.com/watch?v=JPJFLo9r1gA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/odQOO4j594c/maxresdefault.jpg" group-title="影劇",【台視時光機】回憶殺一秒回到青春時代這些老歌你還記得嗎
@@ -502,22 +488,12 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZQ4e_Rt7pi4/maxresdefault.jpg" group-title="政論",【全球大視野】英國影藝學院電影獎眾星走紅毯現場
-https://www.youtube.com/watch?v=ZQ4e_Rt7pi4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_oKeq-rMYpQ/maxresdefault.jpg" group-title="政論",【哏傳媒】看主播陪您過新年
-https://www.youtube.com/watch?v=_oKeq-rMYpQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BjNcI9hO_I8/maxresdefault.jpg" group-title="政論",【郭正亮頻道】綠無視中國崛起去中難擋兩岸交流過年期間中午十二點播出
-https://www.youtube.com/watch?v=BjNcI9hO_I8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Tt0_MrByoFY/maxresdefault.jpg" group-title="政論",【文茜的世界周報】| TVBS文茜的世界周報 T
-https://www.youtube.com/watch?v=Tt0_MrByoFY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cwbqimYAriY/maxresdefault.jpg" group-title="政論",【金臨天下】開紅盤必看財經專家大集結教你馬年精準佈局賺大錢
-https://www.youtube.com/watch?v=cwbqimYAriY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=IBcS_0eEndI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Rz0xXkp-Ehk/maxresdefault.jpg" group-title="購物",【玉麟網路電視台】線上

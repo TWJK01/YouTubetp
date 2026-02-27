@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-27 13:57:00
+# Last Update: 2026-02-27 14:38:27
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映無量義經偈頌
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛學漢醫
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映立德路號
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙我在你心裡
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -40,12 +40,14 @@ https://www.youtube.com/watch?v=AjJIcpk8mXc
 https://www.youtube.com/watch?v=nvr3wUZhlIY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞國際焦點地震氣象台湾
 https://www.youtube.com/watch?v=QsGswQvRmtU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3dL0eW1Xzi4/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】扯醫師竟要求每分鐘設吸菸區吳欣岱在想什麼今天晚上九點半李明璇線上中天電視
-https://www.youtube.com/watch?v=3dL0eW1Xzi4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EIHvvUK0Mrs/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】燈節這裡是上海遭嗆劉世芳爆外甥賺大陸錢美智庫拋無人機護台爆美軍購底線億中天夜線中天新聞
+https://www.youtube.com/watch?v=EIHvvUK0Mrs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pgUHxiOETgw/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】抗川普關稅德總理避險訪中史上最強寶可夢慶週年
+https://www.youtube.com/watch?v=pgUHxiOETgw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -124,6 +126,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hckDoxIsnME/maxresdefault.jpg" group-title="綜藝",【204檔案】精準
+https://www.youtube.com/watch?v=hckDoxIsnME
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】來自資深社會記者第一手報導富少百刀剁雙親跨海追殺美小三剖析犯罪者的內心世界探索案件背後的故事揭露台灣社會重案祕辛
 https://www.youtube.com/watch?v=TiOU3qHCqXk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -134,6 +138,10 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/avor-OOKowM/maxresdefault.jpg" group-title="綜藝",【原視 TITV+】百年之路第二季山裡還有家砂卡礑林道
+https://www.youtube.com/watch?v=avor-OOKowM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6QXwgwLt4EU/maxresdefault.jpg" group-title="綜藝",【下面一位】慶祝萬訂閱瓜哥大撒幣啦手機門票通通送面粉們快集結
+https://www.youtube.com/watch?v=6QXwgwLt4EU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JPJFLo9r1gA/maxresdefault.jpg" group-title="影劇",【戲說台灣】馬年馬尼通通來過年配戲說紅包領不完小時不間斷
 https://www.youtube.com/watch?v=JPJFLo9r1gA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gzJiMu3OKpo/maxresdefault.jpg" group-title="影劇",【台視時光機】綜藝黃金年代年龍兄虎弟完整珍藏版
@@ -452,20 +460,14 @@ https://www.youtube.com/watch?v=HiI-7_jeKxo
 https://www.youtube.com/watch?v=upYTDM3i9S4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1mF1gO_IqAY/maxresdefault.jpg" group-title="政論",【94要客訴】中國建造毫米艦炮軍艦疑為攻台時壓制岸防據點李正皓滿清末年思維越大越好黃創夏一開炮後座力船會搖不停三立新聞網
-https://www.youtube.com/watch?v=1mF1gO_IqAY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kyu2atfncDw/maxresdefault.jpg" group-title="政論",【哏傳媒】扯醫師竟要求每分鐘設吸菸區吳欣岱在想什麼今天晚上九點半李明璇線上
-https://www.youtube.com/watch?v=kyu2atfncDw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
+https://www.youtube.com/watch?v=HarWsyvLERc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D1X1-lulZps/maxresdefault.jpg" group-title="政論",【哏傳媒】談天說地論台灣
 https://www.youtube.com/watch?v=D1X1-lulZps
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xjAcE-238Xc/maxresdefault.jpg" group-title="政論",【頭條開講】全球大戰爆發卡尼中等連線抗川普中國致贈春節大禮包馬年第一戰來的突然中國傻眼莫迪父母說震驚全球外交圈完整版
-https://www.youtube.com/watch?v=xjAcE-238Xc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WfhUGhh6hzc/maxresdefault.jpg" group-title="政論",【頭條開講】快訊巴基斯坦對阿富汗宣戰雙方邊境互轟喀布爾現場直擊
 https://www.youtube.com/watch?v=WfhUGhh6hzc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TFCiJsbpMZo/maxresdefault.jpg" group-title="政論",【少康戰情室】希拉蕊點名川普才該作證轟被強迫作證轉移川普內外交迫焦點
-https://www.youtube.com/watch?v=TFCiJsbpMZo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oDvJvi0M2NU/maxresdefault.jpg" group-title="政論",【觀點】'26.02.27
 https://www.youtube.com/watch?v=oDvJvi0M2NU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上

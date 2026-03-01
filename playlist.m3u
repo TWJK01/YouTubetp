@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-01 08:25:30
+# Last Update: 2026-03-01 09:25:08
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -12,8 +12,6 @@ https://www.youtube.com/watch?v=kzBW-wA-U1A
 https://www.youtube.com/watch?v=mGuWe13KdKg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a_eaWz93oho/maxresdefault.jpg" group-title="台灣",【中視新聞】劉世芳被爆疑收紅錢卓榮泰嘉義中正大學最新回應
-https://www.youtube.com/watch?v=a_eaWz93oho
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -30,9 +28,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映草根菩提
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映青春愛讀書
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙我在你心裡
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -40,7 +38,7 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MwjAYfQCATg/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】川普證實哈米尼死了以色列官員爆遺體在廢墟中被找到成功防禦伊朗數百次反擊美軍中央司令部尚未傳出美軍傷亡
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MwjAYfQCATg/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】巴基斯坦反美暴動怒砸大使館鎮暴部隊催淚彈激戰
 https://www.youtube.com/watch?v=MwjAYfQCATg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NWKY-kRdgG8/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】週末不斷線精彩一次看李正皓主持三立新聞台
 https://www.youtube.com/watch?v=NWKY-kRdgG8
@@ -52,16 +50,14 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】遭美國以色列轟炸伊朗回擊了三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WQp1und5YXI/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】劉世芳爆收紅錢風波卓揆嘉義中正大學最新回應中天新聞
-https://www.youtube.com/watch?v=WQp1und5YXI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Sb1M32dlcO0/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】伊朗嗆史上大報復川普回應了狙殺哈米尼精準定位他提供美以攻伊台灣油氣供應狀況曝陸官媒不排除戰火三可怕後果劉又嘉報新聞中天新聞
+https://www.youtube.com/watch?v=Sb1M32dlcO0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/h9GRYtLhUyM/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美以成功斬首哈米尼已身亡斬首行動史詩盛怒對伊轟炸將持續周不斷更新中天新聞
 https://www.youtube.com/watch?v=h9GRYtLhUyM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4PLo0ZGlVZI/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】冬日遊樂園閉幕超人力霸王合體道別
-https://www.youtube.com/watch?v=4PLo0ZGlVZI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -110,8 +106,6 @@ https://www.youtube.com/watch?v=f6Kq93wnaZ8
 https://www.youtube.com/watch?v=L1e5fRcICdY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】伊媒伊朗導彈擊中以軍總參謀部伊朗媒體伊朗最高領袖哈梅內伊遇害特朗普美伊核談判破裂是行動主要動因小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LY6A-VwgiMw/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞新聞報道即時新聞港聞兩岸國際資訊
-https://www.youtube.com/watch?v=LY6A-VwgiMw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -148,8 +142,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wtz5IgLvXhg/maxresdefault.jpg" group-title="綜藝",【TVBS娛樂頭條】冬日遊樂園閉幕超人力霸王合體道別
-https://www.youtube.com/watch?v=wtz5IgLvXhg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】來自資深社會記者第一手報導富少百刀剁雙親跨海追殺美小三剖析犯罪者的內心世界探索案件背後的故事揭露台灣社會重案祕辛
 https://www.youtube.com/watch?v=TiOU3qHCqXk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tKearHdogl0/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】美以史詩戰果伊朗證實最高領袖哈米尼身亡伊朗哈米尼身亡百姓興奮尖叫學生我愛川普
@@ -314,8 +306,8 @@ https://www.youtube.com/watch?v=u74LMt_hqG8
 https://www.youtube.com/watch?v=YDtNnMzKuVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4Ir1-e3iXbU/maxresdefault.jpg" group-title="少兒",【貝樂虎-兒歌童謠-卡通動畫-經典故事】貝樂虎醫生出動職業認知卡通動畫兒童游戲最新最火幼兒早教視頻
 https://www.youtube.com/watch?v=4Ir1-e3iXbU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sDTsf1WZh04/maxresdefault.jpg" group-title="少兒",【小猪佩奇】最新视频粉红猪小妹动画
-https://www.youtube.com/watch?v=sDTsf1WZh04
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2YK_gURwZ2U/maxresdefault.jpg" group-title="少兒",【小猪佩奇】最新视频粉红猪小妹动画
+https://www.youtube.com/watch?v=2YK_gURwZ2U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Lasr_ARcHI/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】Giligilis ABC P
 https://www.youtube.com/watch?v=2Lasr_ARcHI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EorP0ZQxwBU/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】Colorful ABC Ad
@@ -350,24 +342,16 @@ https://www.youtube.com/watch?v=9Pj9bCAubb0
 https://www.youtube.com/watch?v=7lKkaQnWios
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/27Ho2GhN_AY/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】逆行凡间修为归零看云帝如何再起风云重整世界仙帝归来
 https://www.youtube.com/watch?v=27Ho2GhN_AY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r2W7uVHl-Ek/maxresdefault.jpg" group-title="體育",【緯來體育台】臺北伊斯特台鋼天鷹
-https://www.youtube.com/watch?v=r2W7uVHl-Ek
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Pr1frP7EO58/maxresdefault.jpg" group-title="體育",【公視體育】年市羽球社區聯誼賽下午場
-https://www.youtube.com/watch?v=Pr1frP7EO58
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sc4Qcr1i8ZQ/maxresdefault.jpg" group-title="體育",【getwin_sport】伊斯特台鋼天鷹鳳山體育館
-https://www.youtube.com/watch?v=sc4Qcr1i8ZQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0VND-5oro5c/maxresdefault.jpg" group-title="體育",【智林體育台】臺中城市盃福爾摩沙跆拳道公開賽丨第一場地丨月日賽程
 https://www.youtube.com/watch?v=0VND-5oro5c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z31TC2JVlh4/maxresdefault.jpg" group-title="體育",【HOP Sports】例行賽台電義力營造企業年甲級男女排球聯賽
 https://www.youtube.com/watch?v=Z31TC2JVlh4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JaGd4Yy_xjA/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=JaGd4Yy_xjA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4tEqlYtRG3Y/maxresdefault.jpg" group-title="體育",【GoHoops】一維菓菜行
-https://www.youtube.com/watch?v=4tEqlYtRG3Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DMoXMq812Mk/maxresdefault.jpg" group-title="體育",【TPVL 台灣職業排球聯盟】例行賽台鋼天鷹臺北伊斯特
-https://www.youtube.com/watch?v=DMoXMq812Mk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E5Sb7qtzTf0/maxresdefault.jpg" group-title="體育",【籃海運動】青少年籃球聯盟
-https://www.youtube.com/watch?v=E5Sb7qtzTf0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q3NGH1Zh-Hw/maxresdefault.jpg" group-title="體育",【GoHoops】清大男籃清大男籃大專盃公開組臺中科大
+https://www.youtube.com/watch?v=q3NGH1Zh-Hw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TQHk1qHgFFA/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽皇翔
+https://www.youtube.com/watch?v=TQHk1qHgFFA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Ji8vj_Jm9w/maxresdefault.jpg" group-title="體育",【WWE Vault】WWE Vault Watch
@@ -376,14 +360,120 @@ https://www.youtube.com/watch?v=_Ji8vj_Jm9w
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sSDR1YVk4hM/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】冬日遊樂園閉幕超人力霸王合體道別
-https://www.youtube.com/watch?v=sSDR1YVk4hM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YSWHtk1_UKQ/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
+https://www.youtube.com/watch?v=YSWHtk1_UKQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WlqXiPuwWtM/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
+https://www.youtube.com/watch?v=WlqXiPuwWtM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BYNWUMC2Np4/maxresdefault.jpg" group-title="音樂",【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
+https://www.youtube.com/watch?v=BYNWUMC2Np4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/99rLT2xf8T8/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
+https://www.youtube.com/watch?v=99rLT2xf8T8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fx9UIfXzKVw/maxresdefault.jpg" group-title="音樂",【心动 Radio】最孤單的夜裡有你留下的聲音超好聽中文原創情歌夜晚放鬆閱讀學習助眠
+https://www.youtube.com/watch?v=fx9UIfXzKVw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
+https://www.youtube.com/watch?v=augOnkJkrHY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜二月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
+https://www.youtube.com/watch?v=qrWp7zOrWAg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PoNKmT9ns-Y/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
+https://www.youtube.com/watch?v=PoNKmT9ns-Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PWt0X2ioW8E/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】抖音神曲抖音歌曲若月亮沒來王宇宙向思思總會有人可能是風太大了吧承桓我會等年最洗腦的旋律都在這裡
+https://www.youtube.com/watch?v=PWt0X2ioW8E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IsEhtbPZr4Q/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜愛就一個字若月亮没来花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋二月新歌
+https://www.youtube.com/watch?v=IsEhtbPZr4Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_-ajwBq1NwM/maxresdefault.jpg" group-title="音樂",【孤心旋律】華語單曲排行週榜愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
+https://www.youtube.com/watch?v=_-ajwBq1NwM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2KnheMYXGDs/maxresdefault.jpg" group-title="音樂",【孤心旋律】華語單曲排行週榜一月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
+https://www.youtube.com/watch?v=2KnheMYXGDs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eGkDnmeI4t8/maxresdefault.jpg" group-title="音樂",【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
+https://www.youtube.com/watch?v=eGkDnmeI4t8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/maxresdefault.jpg" group-title="音樂",【Cherry 葵】Nightcore Radio
+https://www.youtube.com/watch?v=tjne3WWB3kA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4FBW3mkdKOs/maxresdefault.jpg" group-title="音樂",【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日
+https://www.youtube.com/watch?v=4FBW3mkdKOs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Xj190dMvco/maxresdefault.jpg" group-title="音樂",【FOR FUN RADIO TIME Music channel】音樂不間斷讀書工作專屬音樂陪你每一天
+https://www.youtube.com/watch?v=_Xj190dMvco
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IkmLXvBfVv0/maxresdefault.jpg" group-title="音樂",【The Good Life Radio x Sensual Musique】Deep House Radi
+https://www.youtube.com/watch?v=IkmLXvBfVv0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m52ynxt1mOo/maxresdefault.jpg" group-title="音樂",【The Good Life Radio x Sensual Musique】Chill Out Music
+https://www.youtube.com/watch?v=m52ynxt1mOo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9UMxZofMNbA/maxresdefault.jpg" group-title="音樂",【The Good Life Radio x Sensual Musique】Chillout Lounge
+https://www.youtube.com/watch?v=9UMxZofMNbA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/36YnV9STBqc/maxresdefault.jpg" group-title="音樂",【The Good Life Radio x Sensual Musique】The Good Life R
+https://www.youtube.com/watch?v=36YnV9STBqc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/njqkg8o4C84/maxresdefault.jpg" group-title="音樂",【Rock FM】Rock 90s ⚡  Bes
+https://www.youtube.com/watch?v=njqkg8o4C84
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Sn6nqruOB8/maxresdefault.jpg" group-title="音樂",【Rock FM】Pop Rock ⚡  Bes
+https://www.youtube.com/watch?v=2Sn6nqruOB8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VbTYnJshTas/maxresdefault.jpg" group-title="音樂",【Rock FM】Rock 2000s ⚡  B
+https://www.youtube.com/watch?v=VbTYnJshTas
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Nt27aBceerI/maxresdefault.jpg" group-title="音樂",【Rock FM】Rock Classics ⚡
+https://www.youtube.com/watch?v=Nt27aBceerI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0C4kZlNrhbI/maxresdefault.jpg" group-title="音樂",【Radio Mix】Radio 2000s Hit
+https://www.youtube.com/watch?v=0C4kZlNrhbI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ukyd5pBfJjM/maxresdefault.jpg" group-title="音樂",【Radio Mix】Radio 90s Mix
+https://www.youtube.com/watch?v=Ukyd5pBfJjM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WnCfvAMM9eY/maxresdefault.jpg" group-title="音樂",【Radio Mix】Radio 70s 80s M
+https://www.youtube.com/watch?v=WnCfvAMM9eY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b-bK2Vn3D38/maxresdefault.jpg" group-title="音樂",【Radio Mix】Best Radio 1 PO
+https://www.youtube.com/watch?v=b-bK2Vn3D38
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/x-JC7sJJUW8/maxresdefault.jpg" group-title="音樂",【Radio Mix】Radio POP Mix 2
+https://www.youtube.com/watch?v=x-JC7sJJUW8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hXyRD5vbKpo/maxresdefault.jpg" group-title="音樂",【Radio Mix】Dance Radio Mix
+https://www.youtube.com/watch?v=hXyRD5vbKpo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YDuz4mAtyf4/maxresdefault.jpg" group-title="音樂",【Too Music】The Good Time R
+https://www.youtube.com/watch?v=YDuz4mAtyf4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m2BnK_hf2qg/maxresdefault.jpg" group-title="音樂",【Too Music】Music Radio Mix
+https://www.youtube.com/watch?v=m2BnK_hf2qg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9hylBusqpX8/maxresdefault.jpg" group-title="音樂",【Too Music】Music Radio Ret
+https://www.youtube.com/watch?v=9hylBusqpX8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zjXupvypOmw/maxresdefault.jpg" group-title="音樂",【Too Music】Music Radio Pop
+https://www.youtube.com/watch?v=zjXupvypOmw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nHeXL2We4EE/maxresdefault.jpg" group-title="音樂",【Too Music】Today's Top Hit
+https://www.youtube.com/watch?v=nHeXL2We4EE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FVLNVecHzvI/maxresdefault.jpg" group-title="音樂",【Too Music】Music Radio 1 P
+https://www.youtube.com/watch?v=FVLNVecHzvI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3MOrgUjiigE/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Hits Radio 1 Li
+https://www.youtube.com/watch?v=3MOrgUjiigE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UWc_vMRGxDs/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Pop Radio - Hit
+https://www.youtube.com/watch?v=UWc_vMRGxDs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r7eFY9YYTdE/maxresdefault.jpg" group-title="音樂",【Dark City Sounds】Hottest Hip Hop
+https://www.youtube.com/watch?v=r7eFY9YYTdE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6NycjnIej58/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
+https://www.youtube.com/watch?v=6NycjnIej58
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tTpGBsq_jUo/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
+https://www.youtube.com/watch?v=tTpGBsq_jUo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_rH7Zy0saGE/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
+https://www.youtube.com/watch?v=_rH7Zy0saGE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vbV3xPZOK4w/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】邦楽年最新曲癒感動名曲集優里米津玄師
+https://www.youtube.com/watch?v=vbV3xPZOK4w
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o-tyIqtgYw8/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
+https://www.youtube.com/watch?v=o-tyIqtgYw8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U6Tzp6GDpUk/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
+https://www.youtube.com/watch?v=U6Tzp6GDpUk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/B1CU7VFNqvI/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
+https://www.youtube.com/watch?v=B1CU7VFNqvI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pH0yWSjMox8/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】心響邦楽癒曲優里米津玄師
+https://www.youtube.com/watch?v=pH0yWSjMox8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eL43EJy7TLs/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
+https://www.youtube.com/watch?v=eL43EJy7TLs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/59Tmi2HIAms/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲音楽最新最新曲邦楽最人気若者音楽邦楽最新
+https://www.youtube.com/watch?v=59Tmi2HIAms
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dQ7Avm5vZUI/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】有名曲邦楽日本最高歌優里米津玄師宇多田
+https://www.youtube.com/watch?v=dQ7Avm5vZUI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ns3kv2cHzh0/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】人気曲有名曲邦楽優里米津玄師宇多田
+https://www.youtube.com/watch?v=ns3kv2cHzh0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4VT3Zi3Xr2c/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】邦楽今聴神曲集宇多田他
+https://www.youtube.com/watch?v=4VT3Zi3Xr2c
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z8PzoHfHBf0/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】邦楽話題神曲宇多田他
+https://www.youtube.com/watch?v=z8PzoHfHBf0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MjsI7PQrm4Y/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田
+https://www.youtube.com/watch?v=MjsI7PQrm4Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q14z8cjz9k8/maxresdefault.jpg" group-title="音樂",【MEET48 Global】天大的在等你新春联合公演
+https://www.youtube.com/watch?v=q14z8cjz9k8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/N-JppY_JPsI/maxresdefault.jpg" group-title="政論",【全球大視野】美動武中控資兩強必翻川沒牌習滿配台海上桌周錫瑋蔡正元黃介正重磅對談精彩完整全程中天電視
-https://www.youtube.com/watch?v=N-JppY_JPsI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DVDU8-abYtc/maxresdefault.jpg" group-title="政論",【全球大視野】美以成功斬首哈米尼已身亡斬首行動史詩盛怒對伊轟炸將持續周不斷更新
 https://www.youtube.com/watch?v=DVDU8-abYtc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
@@ -396,8 +486,6 @@ https://www.youtube.com/watch?v=JIKHI-lnWmw
 https://www.youtube.com/watch?v=HarWsyvLERc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dKhaa8-R2sE/maxresdefault.jpg" group-title="政論",【新聞大白話】特報
 https://www.youtube.com/watch?v=dKhaa8-R2sE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kcLAj_0OG0c/maxresdefault.jpg" group-title="政論",【中時新聞網】劉世芳被爆疑收紅錢卓榮泰嘉義中正大學最新回應
-https://www.youtube.com/watch?v=kcLAj_0OG0c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uly12P8Ghxg/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現台美協議翻車關稅軍購雙壓
 https://www.youtube.com/watch?v=uly12P8Ghxg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0T7KWHibttw/maxresdefault.jpg" group-title="政論",【57爆新聞】美以史詩戰果伊朗證實最高領袖哈米尼身亡伊朗哈米尼身亡百姓興奮尖叫學生我愛川普

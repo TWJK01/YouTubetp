@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-01 01:54:56
+# Last Update: 2026-03-01 04:19:49
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -8,10 +8,12 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=kzBW-wA-U1A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sZQl45OVhkc/maxresdefault.jpg" group-title="台灣",【台視新聞】午間大頭條史詩怒火行動美以空襲伊朗哈米尼證實喪命
+https://www.youtube.com/watch?v=sZQl45OVhkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/27f0UzeW8kc/maxresdefault.jpg" group-title="台灣",【中視新聞】戰力傳承女力接力王鴻薇力挺楊智伃
-https://www.youtube.com/watch?v=27f0UzeW8kc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bVGYPJuBwHg/maxresdefault.jpg" group-title="台灣",【中視新聞】中視午間新聞線上看
+https://www.youtube.com/watch?v=bVGYPJuBwHg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/W0PybfZ7MDg/maxresdefault.jpg" group-title="台灣",【中視新聞】美國以色列聯手空襲伊朗川普證實伊哈米尼被斬首
 https://www.youtube.com/watch?v=W0PybfZ7MDg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
@@ -22,23 +24,27 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PLdC0xr5J_4/maxresdefault.jpg" group-title="台灣",【民視新聞網】美史詩怒火空襲伊朗最高領袖哈米尼身亡藍軍購條例金額喬不攏鬧內鬨傳黨團槓上黨中央蘇巧慧第八支政績影片曝光民眾黨一日北高違停將開罰
+https://www.youtube.com/watch?v=PLdC0xr5J_4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映衲履足跡
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛午安新聞
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映真善美故事館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛午安新聞
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BPnAGXItqp0/maxresdefault.jpg" group-title="台灣",【東森新聞】東森午安新聞伊朗國家媒體證實哈米尼已在空襲中身亡中東戰火桃機今取消航班業者恢復時間未定我餘名國人僑民在中東均安外交部暫無撤僑
+https://www.youtube.com/watch?v=BPnAGXItqp0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wNz75OmyRdg/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】美以發動空襲火攻伊朗外媒爆伊朗國防部長陸軍總司令遭炸死三立新聞台
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wNz75OmyRdg/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】快訊伊朗官媒證實最高領袖哈米尼確認已遇害美以發動空襲火攻伊朗外媒爆伊朗國防部長陸軍總司令遭炸死三立新聞台
 https://www.youtube.com/watch?v=wNz75OmyRdg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MwjAYfQCATg/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】川普證實哈米尼死了以色列官員爆遺體在廢墟中被找到成功防禦伊朗數百次反擊美軍中央司令部尚未傳出美軍傷亡
 https://www.youtube.com/watch?v=MwjAYfQCATg
@@ -52,11 +58,9 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】遭美國以色列轟炸伊朗回擊了三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eGnbc6XUVC0/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】川普證實擊斃伊朗最高領袖逃不過情報網住所驚悚照曝戰機呼嘯德黑蘭湧逃難潮施壓伊朗遏制大陸解析內幕畢倩涵林佩潔報新聞中天新聞
-https://www.youtube.com/watch?v=eGnbc6XUVC0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TEu5ATWbtkE/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】戰力傳承女力接棒王鴻薇力挺楊智伃中天新聞
-https://www.youtube.com/watch?v=TEu5ATWbtkE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Wsb74qXa-6s/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美以聯手轟伊以全境緊急狀態中東國美軍基地遭報復伊陸軍總司令身亡哈米尼動向不明不斷更新中天新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Sb7xQhx48h8/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】哈米尼身亡伊朗大報復川普聯合以色列算計川習會被空襲炸毀中國軍武殘酷現實吳宗憲陳琬惠怎麼談畢倩涵林佩潔報新聞中天新聞
+https://www.youtube.com/watch?v=Sb7xQhx48h8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Wsb74qXa-6s/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美以聯手轟伊以全境緊急狀態中東國美軍基地遭報復伊最高領袖哈米尼身亡不斷更新中天新聞
 https://www.youtube.com/watch?v=Wsb74qXa-6s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
@@ -66,7 +70,7 @@ https://www.youtube.com/watch?v=vr3XyVCR4T0
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q4RKwgT6_fQ/maxresdefault.jpg" group-title="台灣",【寰宇新聞】美以突襲發動轟炸川普稱成功斬首哈米尼伊朗高層安然無恙
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q4RKwgT6_fQ/maxresdefault.jpg" group-title="台灣",【寰宇新聞】川普成功斬首哈米尼德黑蘭權力陷真空伊朗將發動大規模反擊
 https://www.youtube.com/watch?v=Q4RKwgT6_fQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/maxresdefault.jpg" group-title="台灣",【寰宇新聞】以色列對伊朗發動先制打擊川普緊急影片確認美國參與目標毀滅伊朗政權台
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
@@ -74,12 +78,14 @@ https://www.youtube.com/watch?v=Ej3LQM_lTEw
 https://www.youtube.com/watch?v=w87VGpgd90U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6IquAgfvYmc/maxresdefault.jpg" group-title="台灣",【寰宇新聞】小時線上台湾時間配信中
 https://www.youtube.com/watch?v=6IquAgfvYmc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CtK9lPfO56M/maxresdefault.jpg" group-title="台灣",【寰宇全視界】美以突襲發動轟炸川普稱成功斬首哈米尼伊朗高層安然無恙
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CtK9lPfO56M/maxresdefault.jpg" group-title="台灣",【寰宇全視界】川普成功斬首哈米尼德黑蘭權力陷真空伊朗將發動大規模反擊
 https://www.youtube.com/watch?v=CtK9lPfO56M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/maxresdefault.jpg" group-title="台灣",【寰宇全視界】寰宇新聞台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=5SH3FDMyMzg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人小時
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mIuIdh0Yoo/maxresdefault.jpg" group-title="台灣",【原視新聞網 TITV News】原青陣升狼煙議題聚焦社會理解定位原住民族電視台
+https://www.youtube.com/watch?v=2mIuIdh0Yoo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qhApzA9RSDo/maxresdefault.jpg" group-title="台灣",【三大一台】三大有線電視公司
 https://www.youtube.com/watch?v=qhApzA9RSDo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1I2iq41Akmo/maxresdefault.jpg" group-title="台灣",【東森財經股市】東森財經新聞小時線上台湾金融
@@ -106,14 +112,18 @@ https://www.youtube.com/watch?v=Tf3mktyg6bU
 https://www.youtube.com/watch?v=7j92Myu2wzg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f6Kq93wnaZ8/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】伊朗打擊目標是中東所有美軍基地特朗普美國開始在伊朗實施重大作戰行動以色列和美國發射的巡航導彈飛往伊朗小时间鳳凰衛視
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/L1e5fRcICdY/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】伊朗最高領袖哈梅内伊確認身亡以總理打擊行動目標是推翻伊朗政權伊朗報復性反擊衝突會否失控特邀李兴剛蔣曉峰點評鳳凰衛視伊朗美國以色列
+https://www.youtube.com/watch?v=L1e5fRcICdY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】伊朗媒體伊朗最高領袖哈梅內伊遇害特朗普美伊核談判破裂是行動主要動因伊朗將持續對敵人實施打擊小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X-mHUuT6kBs/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞新聞報道伊朗受襲特朗普指哈梅內伊已死亡伊朗否認官媒證實其女兒孫喪生有民眾上街慶祝哈梅內伊死訊末代王儲籲軍人倒戈伊朗報復多個美軍基地
-https://www.youtube.com/watch?v=X-mHUuT6kBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4qVZH90kC7I/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞午間香港新聞即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=4qVZH90kC7I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
 https://www.youtube.com/watch?v=In_HXlgUt8w
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xdSK-eKT01U/maxresdefault.jpg" group-title="綜藝",【三立娛樂星聞】安妞韓娛午報韓國娛樂消息快速送到你手上
+https://www.youtube.com/watch?v=xdSK-eKT01U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ADDSmXoPDY8/maxresdefault.jpg" group-title="綜藝",【中視經典綜藝】萬秀豬王小時馬拉松不間斷台湾番組
 https://www.youtube.com/watch?v=ADDSmXoPDY8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9gx5EIyHmsw/maxresdefault.jpg" group-title="綜藝",【綜藝一級棒】小時歡樂不停播
@@ -148,8 +158,10 @@ https://www.youtube.com/watch?v=cimbpAZUjzw
 https://www.youtube.com/watch?v=k0uJVhYX12Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】來自資深社會記者第一手報導富少百刀剁雙親跨海追殺美小三剖析犯罪者的內心世界探索案件背後的故事揭露台灣社會重案祕辛
 https://www.youtube.com/watch?v=TiOU3qHCqXk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Y2V0f8os6V8/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】美以聯手空襲川普喊話伊朗人民接管政府伊最高領袖哈米尼在哪以媒體恐已喪命
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Y2V0f8os6V8/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】伊朗國家媒體證實哈米尼已在空襲中身亡美以向伊朗開戰中方譴責武力加劇仇恨
 https://www.youtube.com/watch?v=Y2V0f8os6V8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xPrbsPcE9Ek/maxresdefault.jpg" group-title="綜藝",【超級夜總會】李子森謝金晶比杰即興饒舌大對決金曲被玩壞超洗腦
+https://www.youtube.com/watch?v=xPrbsPcE9Ek
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -158,6 +170,8 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7G1_LZvXnVc/maxresdefault.jpg" group-title="綜藝",【緯來新聞網】緯來新聞準時上桌最新娛樂熱搜一網打盡
+https://www.youtube.com/watch?v=7G1_LZvXnVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JPJFLo9r1gA/maxresdefault.jpg" group-title="影劇",【戲說台灣】馬年馬尼通通來過年配戲說紅包領不完小時不間斷
 https://www.youtube.com/watch?v=JPJFLo9r1gA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gzJiMu3OKpo/maxresdefault.jpg" group-title="影劇",【台視時光機】綜藝黃金年代年龍兄虎弟完整珍藏版
@@ -300,6 +314,8 @@ https://www.youtube.com/watch?v=oPntQYFGwgY
 https://www.youtube.com/watch?v=WifCXwU_RzM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ATiJ3ihQuP8/maxresdefault.jpg" group-title="少兒",【寶貝多米-兒歌童謠-卡通動畫-經典故事】恐龍唱唱跳跳派對趣味兒歌和互動遊戲童謠寶貝多米
 https://www.youtube.com/watch?v=ATiJ3ihQuP8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/t6jcotUI_FQ/maxresdefault.jpg" group-title="少兒",【瑪莎與熊】熊貓對決企鵝
+https://www.youtube.com/watch?v=t6jcotUI_FQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f9jeDFHtOG8/maxresdefault.jpg" group-title="少兒",【碰碰狐 鯊魚寶寶】新年快樂鯊魚寶寶碰碰狐人氣歌曲卡通動畫
 https://www.youtube.com/watch?v=f9jeDFHtOG8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u74LMt_hqG8/maxresdefault.jpg" group-title="少兒",【貝樂虎兒歌-童謠歌曲】貝樂虎兒童熱門童謠不間斷歡樂小時小毛驢更多兒歌兒歌童謠卡通動畫貝樂虎
@@ -344,20 +360,18 @@ https://www.youtube.com/watch?v=9Pj9bCAubb0
 https://www.youtube.com/watch?v=7lKkaQnWios
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/27Ho2GhN_AY/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】逆行凡间修为归零看云帝如何再起风云重整世界仙帝归来
 https://www.youtube.com/watch?v=27Ho2GhN_AY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GjbNsOJQyZQ/maxresdefault.jpg" group-title="體育",【公視體育】年市羽球社區聯誼賽上午場
-https://www.youtube.com/watch?v=GjbNsOJQyZQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nfnCLSaz8xo/maxresdefault.jpg" group-title="體育",【HOP Sports】年市羽球社區聯誼賽上午
-https://www.youtube.com/watch?v=nfnCLSaz8xo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JaGd4Yy_xjA/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=JaGd4Yy_xjA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/W8grKmOWNJo/maxresdefault.jpg" group-title="體育",【GoHoops】20260301 shoot
-https://www.youtube.com/watch?v=W8grKmOWNJo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w4NmeFOmln0/maxresdefault.jpg" group-title="體育",【GoHoops】百司奇假日籃球邀請賽宜霖國際生物科技有限公司冠名贊助宜蘭縣當舖職業工會鐵木部落廚房
-https://www.youtube.com/watch?v=w4NmeFOmln0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KQTsHugHu_0/maxresdefault.jpg" group-title="體育",【GoHoops】莓來你家我行我素
-https://www.youtube.com/watch?v=KQTsHugHu_0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gU_-ZGkliyg/maxresdefault.jpg" group-title="體育",【GoHoops】20260301 shoot
+https://www.youtube.com/watch?v=gU_-ZGkliyg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/W9u0kIK8zRI/maxresdefault.jpg" group-title="體育",【GoHoops】20260301 HGBA 1
+https://www.youtube.com/watch?v=W9u0kIK8zRI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f9uSwmgAaSE/maxresdefault.jpg" group-title="體育",【MotoGP】Tuk-Tuk Challen
+https://www.youtube.com/watch?v=f9uSwmgAaSE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zBNhmXH5ae8/maxresdefault.jpg" group-title="體育",【WWE】FULL EPISODE: L
+https://www.youtube.com/watch?v=zBNhmXH5ae8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Ji8vj_Jm9w/maxresdefault.jpg" group-title="體育",【WWE Vault】WWE Vault Watch
 https://www.youtube.com/watch?v=_Ji8vj_Jm9w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q8hw5oKCDp4/maxresdefault.jpg" group-title="音樂",【周杰倫】音樂時光機
@@ -390,14 +404,12 @@ https://www.youtube.com/watch?v=_-ajwBq1NwM
 https://www.youtube.com/watch?v=2KnheMYXGDs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eGkDnmeI4t8/maxresdefault.jpg" group-title="音樂",【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=eGkDnmeI4t8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Uj40s912Csc/maxresdefault.jpg" group-title="音樂",【KKBOX 华语新歌周榜】那些年我们听过的情歌你还记得吗蔡依林周杰伦王菲林俊杰五月天年代至年代的华语流行经典唤起你心中的青春记忆一起回到那个属于磁带和的年代我好嗎不曾回來過
-https://www.youtube.com/watch?v=Uj40s912Csc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/maxresdefault.jpg" group-title="音樂",【Cherry 葵】Nightcore Radio
 https://www.youtube.com/watch?v=tjne3WWB3kA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4FBW3mkdKOs/maxresdefault.jpg" group-title="音樂",【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日
 https://www.youtube.com/watch?v=4FBW3mkdKOs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IomlsrbTFsQ/maxresdefault.jpg" group-title="音樂",【FOR FUN RADIO TIME Music channel】音樂不間斷讀書工作專屬音樂陪你每一天
-https://www.youtube.com/watch?v=IomlsrbTFsQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Xj190dMvco/maxresdefault.jpg" group-title="音樂",【FOR FUN RADIO TIME Music channel】音樂不間斷讀書工作專屬音樂陪你每一天
+https://www.youtube.com/watch?v=_Xj190dMvco
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IkmLXvBfVv0/maxresdefault.jpg" group-title="音樂",【The Good Life Radio x Sensual Musique】Deep House Radi
 https://www.youtube.com/watch?v=IkmLXvBfVv0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m52ynxt1mOo/maxresdefault.jpg" group-title="音樂",【The Good Life Radio x Sensual Musique】Chill Out Music
@@ -476,7 +488,7 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lEIu4OPLo-4/maxresdefault.jpg" group-title="政論",【全球大視野】美以聯手轟伊以全境緊急狀態中東國美軍基地遭報復伊陸軍總司令身亡哈米尼動向不明不斷更新
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lEIu4OPLo-4/maxresdefault.jpg" group-title="政論",【全球大視野】美以聯手轟伊以全境緊急狀態中東國美軍基地遭報復伊最高領袖哈米尼身亡不斷更新
 https://www.youtube.com/watch?v=lEIu4OPLo-4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
@@ -486,15 +498,13 @@ https://www.youtube.com/watch?v=p6pdEFWGix0
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pmwLnAAtuys/maxresdefault.jpg" group-title="政論",【中時新聞網】戰力傳承女力接力王鴻薇力挺楊智伃
-https://www.youtube.com/watch?v=pmwLnAAtuys
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fHGSB9v2xd4/maxresdefault.jpg" group-title="政論",【中時新聞網】美國以色列聯手空襲伊朗川普證實伊哈米尼被斬首
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fHGSB9v2xd4/maxresdefault.jpg" group-title="政論",【中時新聞網】美國以色列聯手空襲伊朗伊朗官媒證實哈米尼遇害
 https://www.youtube.com/watch?v=fHGSB9v2xd4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uly12P8Ghxg/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現台美協議翻車關稅軍購雙壓
 https://www.youtube.com/watch?v=uly12P8Ghxg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CCoaOPojACE/maxresdefault.jpg" group-title="政論",【57爆新聞】美以聯手空襲川普喊話伊朗人民接管政府伊最高領袖哈米尼在哪以媒體恐已喪命
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CCoaOPojACE/maxresdefault.jpg" group-title="政論",【57爆新聞】伊朗國家媒體證實哈米尼已在空襲中身亡美以向伊朗開戰中方譴責武力加劇仇恨
 https://www.youtube.com/watch?v=CCoaOPojACE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eL4izB2TD6I/maxresdefault.jpg" group-title="政論",【頭條開講】美以聯手轟伊以全境緊急狀態中東國美軍基地遭報復伊陸軍總司令身亡哈米尼動向不明不斷更新
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eL4izB2TD6I/maxresdefault.jpg" group-title="政論",【頭條開講】美以聯手轟伊以全境緊急狀態中東國美軍基地遭報復伊最高領袖哈米尼身亡不斷更新
 https://www.youtube.com/watch?v=eL4izB2TD6I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=IBcS_0eEndI

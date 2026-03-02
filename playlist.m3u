@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-02 13:57:27
+# Last Update: 2026-03-02 14:42:59
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映無量義經偈頌
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛學漢醫
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映樂事美聲錄
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙我在你心裡
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -42,15 +42,21 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/n8rpnw1zAqg/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】荷姆茲海峽遭伊朗封鎖架遭伊拉克誤擊杜拜機場遭無人機襲擊帆船飯店疑起火撤旅客中天夜線中天新聞
+https://www.youtube.com/watch?v=n8rpnw1zAqg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yvV_kZUgDtc/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】陸方表示撤僑台胞證可證記外交部轟政治操弄國人注意風險藍版軍購推懲罰條款民進黨寫入罰則恐害軍購卡死白宮下令擱置億對台軍售中天電視
+https://www.youtube.com/watch?v=yvV_kZUgDtc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U9vCN05C9Ps/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】真主黨參戰為哈米尼復仇以黎互轟伊朗封鎖荷姆茲海峽上百艘油貨輪停擺中天新聞
 https://www.youtube.com/watch?v=U9vCN05C9Ps
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ftnu0Lbo0W4/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】伊朗公布滿山谷無人機恫嚇真主黨攪局以色列轟黎巴嫩
+https://www.youtube.com/watch?v=Ftnu0Lbo0W4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q4RKwgT6_fQ/maxresdefault.jpg" group-title="台灣",【寰宇新聞】川普成功斬首哈米尼德黑蘭權力陷真空伊朗將發動大規模反擊
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q4RKwgT6_fQ/maxresdefault.jpg" group-title="台灣",【寰宇新聞】伊朗大規模反擊挺美全挨轟以色列有美國撐腰只怕中東局勢不夠亂
 https://www.youtube.com/watch?v=Q4RKwgT6_fQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/maxresdefault.jpg" group-title="台灣",【寰宇新聞】以色列對伊朗發動先制打擊川普緊急影片確認美國參與目標毀滅伊朗政權台
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
@@ -58,7 +64,7 @@ https://www.youtube.com/watch?v=Ej3LQM_lTEw
 https://www.youtube.com/watch?v=w87VGpgd90U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6IquAgfvYmc/maxresdefault.jpg" group-title="台灣",【寰宇新聞】小時線上台湾時間配信中
 https://www.youtube.com/watch?v=6IquAgfvYmc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CtK9lPfO56M/maxresdefault.jpg" group-title="台灣",【寰宇全視界】川普成功斬首哈米尼德黑蘭權力陷真空伊朗將發動大規模反擊
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CtK9lPfO56M/maxresdefault.jpg" group-title="台灣",【寰宇全視界】伊朗大規模反擊挺美全挨轟以色列有美國撐腰只怕中東局勢不夠亂
 https://www.youtube.com/watch?v=CtK9lPfO56M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/maxresdefault.jpg" group-title="台灣",【寰宇全視界】寰宇新聞台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=5SH3FDMyMzg
@@ -128,6 +134,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1msBmmrs4Q/maxresdefault.jpg" group-title="綜藝",【204檔案】精準
+https://www.youtube.com/watch?v=V1msBmmrs4Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】來自資深社會記者第一手報導富少百刀剁雙親跨海追殺美小三剖析犯罪者的內心世界探索案件背後的故事揭露台灣社會重案祕辛
 https://www.youtube.com/watch?v=TiOU3qHCqXk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wEjMO_Sw-0s/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】伊朗年統治告終加速全球權力變化美中會面前川普暴力清習側
@@ -140,6 +148,8 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7A0yZ_LVCPA/maxresdefault.jpg" group-title="綜藝",【公共電視-我們的島】放映室公視我們的島第集播出
+https://www.youtube.com/watch?v=7A0yZ_LVCPA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JPJFLo9r1gA/maxresdefault.jpg" group-title="影劇",【戲說台灣】馬年馬尼通通來過年配戲說紅包領不完小時不間斷
 https://www.youtube.com/watch?v=JPJFLo9r1gA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gzJiMu3OKpo/maxresdefault.jpg" group-title="影劇",【台視時光機】綜藝黃金年代年龍兄虎弟完整珍藏版
@@ -468,12 +478,8 @@ https://www.youtube.com/watch?v=JIKHI-lnWmw
 https://www.youtube.com/watch?v=HarWsyvLERc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Fw-T-nqzPas/maxresdefault.jpg" group-title="政論",【57爆新聞】美炸毀伊朗革命衛隊總部精準控管會議改早成功獵殺哈米尼徐俊相
 https://www.youtube.com/watch?v=Fw-T-nqzPas
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OT5g6M8Ar2Q/maxresdefault.jpg" group-title="政論",【頭條開講】中國人被炸死川普幹的被擊落美國不認習川會還有必要談猶大之盾被擊穿伊朗玉石俱焚之戰完整版
-https://www.youtube.com/watch?v=OT5g6M8Ar2Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RSjDdzMRkU/maxresdefault.jpg" group-title="政論",【頭條開講】真主黨參戰為哈米尼復仇以黎互轟伊朗封鎖荷姆茲海峽上百艘油貨輪停擺
 https://www.youtube.com/watch?v=-RSjDdzMRkU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eCeHAEAYnVU/maxresdefault.jpg" group-title="政論",【少康戰情室】川普續打伊朗周報仇到底美軍陣亡恐有更多犧牲
-https://www.youtube.com/watch?v=eCeHAEAYnVU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TMjUNWnNYmE/maxresdefault.jpg" group-title="政論",【金臨天下】財經網路新聞小時台湾世界中時間配信中
 https://www.youtube.com/watch?v=TMjUNWnNYmE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上

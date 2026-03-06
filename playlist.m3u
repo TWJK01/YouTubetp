@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-06 15:32:52
+# Last Update: 2026-03-06 16:34:48
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇同學早安
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人文講堂
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙我在你心裡
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映人文講堂
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -34,8 +34,8 @@ https://www.youtube.com/watch?v=V1p33hqPrUk
 https://www.youtube.com/watch?v=E0zhe2gkXBs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9aTVmUC3A4Q/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美伊打多久伊朗無人機母艦遭美軍轟炸畫面曝光川普下令剷除伊朗飛彈製造能力五角大廈急籌軍費補彈藥庫存不斷更新專家解析中天新聞
-https://www.youtube.com/watch?v=9aTVmUC3A4Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tVJkCsHO28o/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】伊朗摧毀美億美元薩德雷達最新影像曝約旦基地遭炸拒接受哈米尼之子接最高領袖川普必須親自參與領袖選舉過程不斷更新中天新聞
+https://www.youtube.com/watch?v=tVJkCsHO28o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -84,6 +84,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】美軍擊中伊朗無人機航母爆炸起火科威特遇襲美軍指揮中心遭伊朗監視中方中國經濟為動盪世界提供穩定性小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YIm9skoXEYM/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=YIm9skoXEYM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -124,8 +126,8 @@ https://www.youtube.com/watch?v=k0uJVhYX12Y
 https://www.youtube.com/watch?v=24U9n3-hI84
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】來自資深社會記者第一手報導富少百刀剁雙親跨海追殺美小三剖析犯罪者的內心世界探索案件背後的故事揭露台灣社會重案祕辛
 https://www.youtube.com/watch?v=TiOU3qHCqXk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iR7dNafXDsY/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】伊朗戰事竟是針對中國三管齊下滅國軍演川普使出圍台戰術反殺北京
-https://www.youtube.com/watch?v=iR7dNafXDsY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SK2jj6FHRMw/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】川普天無情斬首美軍示範打擊狂虐伊朗戳破大內宣中國龜縮不敢出兵寶傑點兵劉寶傑
+https://www.youtube.com/watch?v=SK2jj6FHRMw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -444,20 +446,16 @@ https://www.youtube.com/watch?v=dNoTEFp9MqQ
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/A3whqed4l80/maxresdefault.jpg" group-title="政論",【全球大視野】把航母打跑伊軍砲擊命中林肯號第架墜毀薩德雷達遭炸毀焦黑名美軍喪生川普承認伊朗反擊遠超預期完整版
-https://www.youtube.com/watch?v=A3whqed4l80
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iaPbGL6xKwc/maxresdefault.jpg" group-title="政論",【全球大視野】伊打多久伊朗無人機母艦遭美軍轟炸畫面曝光川普下令剷除伊朗飛彈製造能力五角大廈急籌軍費補彈藥庫存不斷更新專家解析中天新聞
-https://www.youtube.com/watch?v=iaPbGL6xKwc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5GRPkAlntJk/maxresdefault.jpg" group-title="政論",【全球大視野】伊朗摧毀美億美元薩德雷達最新影像曝約旦基地遭炸拒接受哈米尼之子接最高領袖川普必須親自參與領袖選舉過程
+https://www.youtube.com/watch?v=5GRPkAlntJk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w_W79AQuxy0/maxresdefault.jpg" group-title="政論",【哏傳媒】談天說地論台灣
-https://www.youtube.com/watch?v=w_W79AQuxy0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UwWswL3MnrE/maxresdefault.jpg" group-title="政論",【頭條開講】美伊打多久伊朗無人機母艦遭美軍轟炸畫面曝光川普下令剷除伊朗飛彈製造能力五角大廈急籌軍費補彈藥庫存不斷更新專家解析中天新聞
-https://www.youtube.com/watch?v=UwWswL3MnrE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4S_Pv_sFfRc/maxresdefault.jpg" group-title="政論",【頭條開講】伊朗摧毀美億美元薩德雷達最新影像曝約旦基地遭炸拒接受哈米尼之子接最高領袖川普必須親自參與領袖選舉過程不斷更新
+https://www.youtube.com/watch?v=4S_Pv_sFfRc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/osPM85hnWPg/maxresdefault.jpg" group-title="政論",【金臨天下】伊朗戰事推升油價美股週五開盤最新
 https://www.youtube.com/watch?v=osPM85hnWPg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TMjUNWnNYmE/maxresdefault.jpg" group-title="政論",【金臨天下】財經網路新聞小時台湾世界中時間配信中財經財經鈔能力

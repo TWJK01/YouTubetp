@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-06 23:23:22
+# Last Update: 2026-03-07 01:29:01
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=kzBW-wA-U1A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HXcniyTBH_o/maxresdefault.jpg" group-title="台灣",【中視新聞】孫大千談的過去現在未來郭正亮談中美交易新變局
+https://www.youtube.com/watch?v=HXcniyTBH_o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -22,10 +24,12 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映靜心瑜伽
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙我在你心裡
 https://www.youtube.com/watch?v=QDxRJP-wfeI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/73rPlCqY77Q/maxresdefault.jpg" group-title="台灣",【鏡新聞】馬郁雯拚初選最後衝刺富民路市場掃街拜票
+https://www.youtube.com/watch?v=73rPlCqY77Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
@@ -34,8 +38,10 @@ https://www.youtube.com/watch?v=V1p33hqPrUk
 https://www.youtube.com/watch?v=E0zhe2gkXBs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_4RRpjgq7jo/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】美伊戰爭川普開嗆要伊朗無條件投降經典賽台日戰扣倒今戰捷克還能晉級孫怡琳劉又嘉報新聞中天新聞
-https://www.youtube.com/watch?v=_4RRpjgq7jo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LG9rU-v5IhY/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】四月台灣斷氣危機剉咧等官員脫口核四馬英九停的扯立院表決戰綠委集體翹班綠油油鬆動討厭民進黨擴張劉又嘉孫怡琳報新聞中天新聞
+https://www.youtube.com/watch?v=LG9rU-v5IhY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Eam9b3_4a5Q/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】孫大千談的過去現在未來郭正亮談全球變局中美交易中天新聞
+https://www.youtube.com/watch?v=Eam9b3_4a5Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tVJkCsHO28o/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】伊朗摧毀美億美元薩德雷達最新影像曝約旦基地遭炸拒接受哈米尼之子接最高領袖川普必須親自參與領袖選舉過程不斷更新中天新聞
 https://www.youtube.com/watch?v=tVJkCsHO28o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -84,6 +90,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】美軍擊中伊朗無人機航母爆炸起火科威特遇襲美軍指揮中心遭伊朗監視中方中國經濟為動盪世界提供穩定性小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NhOai2AszCY/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】新聞報道
+https://www.youtube.com/watch?v=NhOai2AszCY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -320,6 +328,18 @@ https://www.youtube.com/watch?v=gdgTjZWfbdo
 https://www.youtube.com/watch?v=Opob9s8bpCM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uVa_2VP_QuU/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】异像现神魔临秦牧及延康众人逆天前行踏出一条新生之路牧神记
 https://www.youtube.com/watch?v=uVa_2VP_QuU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aCHzRx2CVL0/maxresdefault.jpg" group-title="體育",【庫泊運動賽事】第九屆玉山盃三人制全國槌球錦標賽月日
+https://www.youtube.com/watch?v=aCHzRx2CVL0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EOVO6Utlq2g/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟維多利亞教育合勤集團
+https://www.youtube.com/watch?v=EOVO6Utlq2g
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/46DPVQ2vJqs/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟炭烤吐司星期三
+https://www.youtube.com/watch?v=46DPVQ2vJqs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rHXtXwn0opg/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】駿鵬汽車
+https://www.youtube.com/watch?v=rHXtXwn0opg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pyRip4u94tM/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽比奇堡德撲王拿靠肝鐵少年
+https://www.youtube.com/watch?v=pyRip4u94tM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yn-LFipzVdM/maxresdefault.jpg" group-title="體育",【Body Sports  名衍行銷運動頻道】女生組決賽雲縣建國積穗
+https://www.youtube.com/watch?v=yn-LFipzVdM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dv-pmT25qZc/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -332,8 +352,6 @@ https://www.youtube.com/watch?v=j8qBDzVCCro
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CYEdnOvbntI/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=CYEdnOvbntI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YSWHtk1_UKQ/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=YSWHtk1_UKQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WlqXiPuwWtM/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
@@ -364,8 +382,6 @@ https://www.youtube.com/watch?v=AnrRt4xiUBQ
 https://www.youtube.com/watch?v=2KnheMYXGDs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eGkDnmeI4t8/maxresdefault.jpg" group-title="音樂",【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=eGkDnmeI4t8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kUMwwHr1nlM/maxresdefault.jpg" group-title="音樂",【KKBOX 华语新歌周榜】那些年我们听过的情歌你还记得吗蔡依林周杰伦王菲林俊杰五月天年代至年代的华语流行经典唤起你心中的青春记忆一起回到那个属于磁带和的年代我好嗎不曾回來過
-https://www.youtube.com/watch?v=kUMwwHr1nlM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yTaRNzU-12A/maxresdefault.jpg" group-title="音樂",【水月琴音】無損音質熱門中文歌精選必聽流行歌曲古風音樂
 https://www.youtube.com/watch?v=yTaRNzU-12A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/maxresdefault.jpg" group-title="音樂",【Cherry 葵】Nightcore Radio
@@ -452,6 +468,10 @@ https://www.youtube.com/watch?v=0UOnH10P4oY
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dIox3gyHcSM/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】孫大千談的過去現在未來郭正亮談全球變局中美交易
+https://www.youtube.com/watch?v=dIox3gyHcSM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wGLgvTFnF90/maxresdefault.jpg" group-title="政論",【中時新聞網】孫大千談的過去現在未來郭正亮談中美交易新變局
+https://www.youtube.com/watch?v=wGLgvTFnF90
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4S_Pv_sFfRc/maxresdefault.jpg" group-title="政論",【頭條開講】伊朗摧毀美億美元薩德雷達最新影像曝約旦基地遭炸拒接受哈米尼之子接最高領袖川普必須親自參與領袖選舉過程不斷更新
 https://www.youtube.com/watch?v=4S_Pv_sFfRc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TMjUNWnNYmE/maxresdefault.jpg" group-title="政論",【金臨天下】財經網路新聞小時台湾世界中時間配信中財經財經鈔能力

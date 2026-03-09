@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-09 12:53:10
+# Last Update: 2026-03-09 14:03:25
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -22,34 +22,28 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇同學早安
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映無量義經偈頌
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛劇同學早安
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映樂事美聲錄
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qvDsWfxOoPo/maxresdefault.jpg" group-title="台灣",【鏡新聞】卓榮泰赴日觀戰中國副外長致電日大使抗議日冷回一句網讚爆軍購案進深水區綠加強國防委員會戰力藍還在看傅崐萁面子勉強接受有話鏡來講
-https://www.youtube.com/watch?v=qvDsWfxOoPo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NAItt3VwDto/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】彩券開獎
-https://www.youtube.com/watch?v=NAItt3VwDto
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1ujDxJBeYrg/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】經典賽韓國澳洲台灣晉級最後希望今晚我們都是一日韓國球迷命運掌握在韓國手中主播鄧崴球評許維智
-https://www.youtube.com/watch?v=1ujDxJBeYrg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FFQHi4XNsAE/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美伊戰爭給習的啟示紐時硬實力為王吳子嘉中天新聞
-https://www.youtube.com/watch?v=FFQHi4XNsAE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8hfcjmHiDsU/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】全台集氣中華隊前進邁阿密這劇本南韓贏澳洲比數以上中天新聞
-https://www.youtube.com/watch?v=8hfcjmHiDsU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a065vYsYrqk/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】盧秀燕訪美天為國發聲李四川訪議會如誓師政府喊高油價恐成常態台天然氣成靠進口電也漲中天夜線中天新聞
+https://www.youtube.com/watch?v=a065vYsYrqk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UW0kSZTq1UI/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】不對美國妥協伊朗選出哈米尼之子為新領袖伊朗戰爭何時停川普美以一起決定中天新聞
 https://www.youtube.com/watch?v=UW0kSZTq1UI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DWefi8ZrnqU/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】油停產荷姆茲海峽近癱瘓伊朗打到何時停川普親揭終點
+https://www.youtube.com/watch?v=DWefi8ZrnqU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -130,8 +124,8 @@ https://www.youtube.com/watch?v=cimbpAZUjzw
 https://www.youtube.com/watch?v=k0uJVhYX12Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】來自資深社會記者第一手報導富少百刀剁雙親跨海追殺美小三剖析犯罪者的內心世界探索案件背後的故事揭露台灣社會重案祕辛
 https://www.youtube.com/watch?v=TiOU3qHCqXk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-OwjzMLC2J8/maxresdefault.jpg" group-title="綜藝",【型男大主廚】卓小美小隊堅持使用神秘語言溝通一盤番茄炒蛋就把半條命耗掉了城哥手燙嘴燙到翩翩起舞林雨宣王琄
-https://www.youtube.com/watch?v=-OwjzMLC2J8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tMbPdyjmGyc/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】無懼谷底連敗延長賽壓力擊垮韓國隊台灣棒球的贏球世代來了
+https://www.youtube.com/watch?v=tMbPdyjmGyc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -140,6 +134,8 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X5ubIkwkm44/maxresdefault.jpg" group-title="綜藝",【公共電視-我們的島】放映室公視我們的島第集播出
+https://www.youtube.com/watch?v=X5ubIkwkm44
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JPJFLo9r1gA/maxresdefault.jpg" group-title="影劇",【戲說台灣】元宵快樂吃湯圓配戲說小時不間斷
 https://www.youtube.com/watch?v=JPJFLo9r1gA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gzJiMu3OKpo/maxresdefault.jpg" group-title="影劇",【台視時光機】綜藝黃金年代年龍兄虎弟完整珍藏版
@@ -326,18 +322,12 @@ https://www.youtube.com/watch?v=BLjnJsXQW3k
 https://www.youtube.com/watch?v=gdgTjZWfbdo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rg2CseFKyAU/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】摆摊少年觉醒最强系统拉满从底层一路冲到巅峰开局地摊卖大力
 https://www.youtube.com/watch?v=rg2CseFKyAU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rqdkb03LW9I/maxresdefault.jpg" group-title="體育",【緯來體育台】韓國澳洲鎖定緯來
-https://www.youtube.com/watch?v=rqdkb03LW9I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7aoh-2QcNrU/maxresdefault.jpg" group-title="體育",【緯來體育台】2026.03.09│LIVE
-https://www.youtube.com/watch?v=7aoh-2QcNrU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dv-pmT25qZc/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
 https://www.youtube.com/watch?v=Dv-pmT25qZc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MNYTzo36wko/maxresdefault.jpg" group-title="體育",【WWE】Best of Randy O
 https://www.youtube.com/watch?v=MNYTzo36wko
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/j8qBDzVCCro/maxresdefault.jpg" group-title="體育",【WWE Vault】Best of The Att
-https://www.youtube.com/watch?v=j8qBDzVCCro
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q8hw5oKCDp4/maxresdefault.jpg" group-title="音樂",【周杰倫】音樂時光機
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
@@ -362,6 +352,8 @@ https://www.youtube.com/watch?v=qrWp7zOrWAg
 https://www.youtube.com/watch?v=PoNKmT9ns-Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PWt0X2ioW8E/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】抖音神曲抖音歌曲若月亮沒來王宇宙向思思總會有人可能是風太大了吧承桓我會等年最洗腦的旋律都在這裡
 https://www.youtube.com/watch?v=PWt0X2ioW8E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jp3DIqx0IXo/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
+https://www.youtube.com/watch?v=jp3DIqx0IXo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/P2WdJEiyI_E/maxresdefault.jpg" group-title="音樂",【孤心旋律】三月新歌華語單曲排行週榜愛就一個字若月亮沒來花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋周杰倫抖音最最最火
 https://www.youtube.com/watch?v=P2WdJEiyI_E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oxeoNyVvYLg/maxresdefault.jpg" group-title="音樂",【孤心旋律】年月最新熱門單曲華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋二月新歌
@@ -458,28 +450,14 @@ https://www.youtube.com/watch?v=WAUECPu9EOw
 https://www.youtube.com/watch?v=HiI-7_jeKxo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZeNh9b74WGI/maxresdefault.jpg" group-title="政論",【全球大視野】不對美國妥協伊朗選出哈米尼之子為新領袖伊朗戰爭何時停川普美以一起決定
 https://www.youtube.com/watch?v=ZeNh9b74WGI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CXHWc9HEg34/maxresdefault.jpg" group-title="政論",【民視讚夯】美以炸伊朗儲油槽全城陷黑雨斬斷資源伊朗海水淡化廠被轟惹到小斯巴達阿聯重金軍備曝喊假的伊總統才道歉又轟鄰國
-https://www.youtube.com/watch?v=CXHWc9HEg34
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NsoYXFOXfq4/maxresdefault.jpg" group-title="政論",【94要客訴】彩券開獎三立新聞網
-https://www.youtube.com/watch?v=NsoYXFOXfq4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/t_eIWo9vv6U/maxresdefault.jpg" group-title="政論",【94要客訴】經典賽韓國澳洲台灣晉級最後希望今晚我們都是一日韓國球迷命運掌握在韓國手中主播鄧崴球評許維智
-https://www.youtube.com/watch?v=t_eIWo9vv6U
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w0kbyzujcHo/maxresdefault.jpg" group-title="政論",【94要客訴】感動台灣隊經典賽首次打敗南韓陳傑憲帶傷跑回致勝分佛光山法會點名應援台灣隊卓揆赴日觀賽政治意義非凡藍白搞不清狀況亂罵美伊戰火引爆油價飆台積電跌近百元
+https://www.youtube.com/watch?v=w0kbyzujcHo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6eYCaYQ1MBs/maxresdefault.jpg" group-title="政論",【哏傳媒】戰爭危機擴大綠營荒腔走板
-https://www.youtube.com/watch?v=6eYCaYQ1MBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5OnaU6A54gE/maxresdefault.jpg" group-title="政論",【董事長開講】天天戰新竹縣市彰化縣卓榮泰踩進東京巨蛋紐時伊朗戰爭給習近平的教訓硬實力為王吳子嘉
-https://www.youtube.com/watch?v=5OnaU6A54gE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R9vJANRvwVQ/maxresdefault.jpg" group-title="政論",【57爆新聞】中東戰火恐打到月川普擬派特種部隊深入伊朗本土欲奪失蹤高濃縮鈾足以造枚核彈
-https://www.youtube.com/watch?v=R9vJANRvwVQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z7RhoWPchz4/maxresdefault.jpg" group-title="政論",【郭正亮頻道】戰爭危機擴大綠營荒腔走板
-https://www.youtube.com/watch?v=Z7RhoWPchz4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3-Lw7iq08T4/maxresdefault.jpg" group-title="政論",【頭條開講】川普波灣被圍毆風向劇變中東嗆不投資美國了中國意外收穫美以逼的全球資金重返香港星國完整版
-https://www.youtube.com/watch?v=3-Lw7iq08T4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HzJCYBqOwzA/maxresdefault.jpg" group-title="政論",【頭條開講】不對美國妥協伊朗選出哈米尼之子為新領袖伊朗戰爭何時停川普美以一起決定
 https://www.youtube.com/watch?v=HzJCYBqOwzA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0di06bcUCY/maxresdefault.jpg" group-title="政論",【少康戰情室】美增兵伊朗第支航母打擊群加入美轟炸機降落英基地擴大戰爭

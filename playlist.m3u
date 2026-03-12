@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-12 05:47:29
+# Last Update: 2026-03-12 06:48:16
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -8,10 +8,8 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=kzBW-wA-U1A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qnUVDNuaRzw/maxresdefault.jpg" group-title="台灣",【中視新聞】零軍購換取共軍不擾台立法院黨團協商先行簽約
-https://www.youtube.com/watch?v=qnUVDNuaRzw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jgwhzqyreok/maxresdefault.jpg" group-title="台灣",【中視新聞】中視午間新聞線上看
-https://www.youtube.com/watch?v=jgwhzqyreok
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u1OKbrjhYn8/maxresdefault.jpg" group-title="台灣",【中視新聞】三星若真罷工天記憶體缺貨將雪上加霜股價大噴的時刻將來臨鄭瑞宗分析師股市達人
+https://www.youtube.com/watch?v=u1OKbrjhYn8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -20,46 +18,36 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2vg9j509a54/maxresdefault.jpg" group-title="台灣",【民視新聞網】美項軍購發價書到期藍不排審一早考察松指部白安排黨團協商民視快新聞
-https://www.youtube.com/watch?v=2vg9j509a54
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0juZYHCjKZQ/maxresdefault.jpg" group-title="台灣",【民視新聞網】守護兒少林心如三度代言家扶用愛包圍公益活動民視快新聞
-https://www.youtube.com/watch?v=0juZYHCjKZQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DUJjoBseOCs/maxresdefault.jpg" group-title="台灣",【民視新聞網】瑞芳台線嚴重車禍曳引車連環撞釀死傷扯台鐵副站長蹺班闖平交道肇逃公共危險罪送辦龍捲風冰雹侵襲美國芝加哥小鎮幾乎全毀至少死
-https://www.youtube.com/watch?v=DUJjoBseOCs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1oLQe_SUZT4/maxresdefault.jpg" group-title="台灣",【民視新聞網】呂瀅瀅被爆意圖勒索王世堅一同現身闢謠民視快新聞
+https://www.youtube.com/watch?v=1oLQe_SUZT4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sR91k5MdhYQ/maxresdefault.jpg" group-title="台灣",【民視新聞網】代言人楊謹華登場宣布新身分挑戰主持民視快新聞
+https://www.youtube.com/watch?v=sR91k5MdhYQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映高僧傳
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛全紀實
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙天下第一招
 https://www.youtube.com/watch?v=QDxRJP-wfeI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yTENC-hhCGA/maxresdefault.jpg" group-title="台灣",【鏡新聞】不審軍購卻排考察松指部藍委馬戲演不停門票中共付卓揆密見高市謝長廷話有玄機川昌周末對壘來賓差很多張峻選花蓮扳傅拚整合中選會關鍵投票將定李貞秀生死大選鏡來講
+https://www.youtube.com/watch?v=yTENC-hhCGA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4SQnBj3kVaE/maxresdefault.jpg" group-title="台灣",【東森新聞】東森午安新聞共機清零天破功偵獲架次共機擾台停戰條件伊朗總統承認伊權利支付賠償國際保證稱伊朗快沒目標可打川普戰爭將很快結束
-https://www.youtube.com/watch?v=4SQnBj3kVaE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u1qBgYPllHw/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】緊咬卓榮泰包機馬文君安排考察松指部徐巧芯帶隊放水朝野協商李貞秀資格韓國瑜裁定應予尊重王偊菁主持三立新聞台
+https://www.youtube.com/watch?v=u1qBgYPllHw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YuCr6PbYASk/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】項軍購快到期朝野協商授權先跟美國簽發價書
 https://www.youtube.com/watch?v=YuCr6PbYASk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bNuuR5xzqNE/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】周曉涵卸內衣女神身分亮麗登場曝凍齡秘方
-https://www.youtube.com/watch?v=bNuuR5xzqNE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vrtJLGSzBYk/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】挑戰強烈冷氣團低溫恐探個位數一路冷到這天三立新聞台
-https://www.youtube.com/watch?v=vrtJLGSzBYk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞國際焦點地震氣象台湾
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dIQtahGm6Qk/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】伊朗砲轟荷莫茲海峽油輪川普算錯石油危機無人機恐襲加州美國調查台灣入列李四川團隊曝藍白邁深水區洪淑芬張雅婷報新聞中天新聞
-https://www.youtube.com/watch?v=dIQtahGm6Qk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aHecu8TVGC0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】川普中東戰局失算中了納坦雅胡計謀伊朗聖戰回擊油價飆漲兩會王毅說重話
-https://www.youtube.com/watch?v=aHecu8TVGC0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nMuSoD9-71c/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美三項軍購發價書到期立法院黨團協商先行簽約中天新聞
-https://www.youtube.com/watch?v=nMuSoD9-71c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5fKnR1s6pRQ/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中東戰事升溫美以連兩日猛烈攻擊伊朗出動最強飛彈最大規模反擊鎖定美軍中天電視
 https://www.youtube.com/watch?v=5fKnR1s6pRQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7y6Ow15wupw/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】松指部可包機國防委員會親自考察中天新聞
@@ -68,16 +56,10 @@ https://www.youtube.com/watch?v=7y6Ow15wupw
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/y1z32uBn1ho/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】日韓名廚鄭智善川越達也跨海大戰開火開伙台味實境秀挑戰藝人求生欲
-https://www.youtube.com/watch?v=y1z32uBn1ho
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6R1cpEzr1T0/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】午間整點新聞重點
-https://www.youtube.com/watch?v=6R1cpEzr1T0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nVbzT1SXzrc/maxresdefault.jpg" group-title="台灣",【寰宇新聞】台股震盪光通訊仍是主流但風險未減資金錢進買好股錢進大亨高碩亨分析師
-https://www.youtube.com/watch?v=nVbzT1SXzrc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/maxresdefault.jpg" group-title="台灣",【寰宇新聞】以色列稱戰爭進下一階段川普欲參與伊朗領袖遴選台
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w87VGpgd90U/maxresdefault.jpg" group-title="台灣",【寰宇新聞】台灣台小時台湾時間配信中
@@ -86,10 +68,8 @@ https://www.youtube.com/watch?v=w87VGpgd90U
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/maxresdefault.jpg" group-title="台灣",【寰宇全視界】寰宇新聞台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=5SH3FDMyMzg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KVocj6_P_Oc/maxresdefault.jpg" group-title="台灣",【udn video】三項軍購快到期民眾黨召集朝野黨團協商
-https://www.youtube.com/watch?v=KVocj6_P_Oc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2-7IAxCOua8/maxresdefault.jpg" group-title="台灣",【CNEWS匯流新聞網】立法院朝野黨團協商授權政院先行與美方簽署發價書公決案
-https://www.youtube.com/watch?v=2-7IAxCOua8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c73zdJVczeA/maxresdefault.jpg" group-title="台灣",【CNEWS匯流新聞網】立法院朝野黨團協商正告賴總統與卓院長停止不公布不副署不執行之行徑
+https://www.youtube.com/watch?v=c73zdJVczeA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人小時
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qhApzA9RSDo/maxresdefault.jpg" group-title="台灣",【三大一台】三大有線電視公司
@@ -118,14 +98,12 @@ https://www.youtube.com/watch?v=Tf3mktyg6bU
 https://www.youtube.com/watch?v=7j92Myu2wzg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f6Kq93wnaZ8/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】特朗普將重點關注霍爾木茲海峽局勢伊朗明確美以及其盟友船隻石油為合法打擊目標特朗普油價跌幅將比想像大小时间鳳凰衛視
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】十四屆全國人大四次會議舉行閉幕會伊朗官員新任最高領袖腿部等多處受傷中朝國際旅客列車今起雙向開行小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
 https://www.youtube.com/watch?v=In_HXlgUt8w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TXZd-QwoNUE/maxresdefault.jpg" group-title="綜藝",【三立娛樂星聞】周曉涵卸內衣女神身分亮麗登場曝凍齡秘方
-https://www.youtube.com/watch?v=TXZd-QwoNUE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/S4mFT3MiORc/maxresdefault.jpg" group-title="綜藝",【中視經典綜藝】歡喜玉玲龍阮是可愛的女紅妝超爆笑馬拉松
 https://www.youtube.com/watch?v=S4mFT3MiORc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ADDSmXoPDY8/maxresdefault.jpg" group-title="綜藝",【中視經典綜藝】萬秀豬王小時馬拉松不間斷台湾番組
@@ -156,8 +134,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5-40HvPaFL0/maxresdefault.jpg" group-title="綜藝",【TVBS娛樂頭條】日韓名廚鄭智善川越達也跨海大戰開火開伙台味實境秀挑戰藝人求生欲
-https://www.youtube.com/watch?v=5-40HvPaFL0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】來自資深社會記者第一手報導富少百刀剁雙親跨海追殺美小三剖析犯罪者的內心世界探索案件背後的故事揭露台灣社會重案祕辛
 https://www.youtube.com/watch?v=TiOU3qHCqXk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xChcgXPk5jg/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】美以加大打擊伊防長遭炸亡國葬誓言復仇
@@ -374,6 +350,8 @@ https://www.youtube.com/watch?v=1NLFq3rQ_-A
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HkJL7_WefXw/maxresdefault.jpg" group-title="音樂",【4kTQ-music】首超好聽的流行歌曲無廣告流行歌曲抖音歌曲三月承桓我會等向思思總會有人張齊山這是你期盼的長大嗎買辣椒也用券
+https://www.youtube.com/watch?v=HkJL7_WefXw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YSWHtk1_UKQ/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=YSWHtk1_UKQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WlqXiPuwWtM/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
@@ -482,42 +460,34 @@ https://www.youtube.com/watch?v=jlzHCIZ5Xko
 https://www.youtube.com/watch?v=-ig3OSXNiDY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jg58I7d6Azg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=Jg58I7d6Azg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/plUu-Yi-6DQ/maxresdefault.jpg" group-title="政論",【壹電視NEXT TV】韓國瑜背書職權李貞秀滿血復活統戰秀秀姊自爆共產黨照顧父母無視成民意挺軍購馬文君考察松指部拖延戰遭降維打擊伊朗嗆炸輝達謝典霖點名柯昌選彰化
+https://www.youtube.com/watch?v=plUu-Yi-6DQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m1qDyW2eMys/maxresdefault.jpg" group-title="政論",【全球大視野】中東戰事升溫美以連兩日猛烈攻擊伊朗出動最強飛彈最大規模反擊鎖定美軍
 https://www.youtube.com/watch?v=m1qDyW2eMys
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6tmiOOSt4dM/maxresdefault.jpg" group-title="政論",【民視讚夯】本末倒置軍購案還未審馬文君安排考察松指部卓揆看球遭猛攻謝長廷拿不出證據又不願付代價伊朗戰將很快結束川普我想結束時就會結束
+https://www.youtube.com/watch?v=6tmiOOSt4dM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pYsugDmNu-M/maxresdefault.jpg" group-title="政論",【94要客訴】項軍購快到期朝野協商授權先跟美國簽發價書三立新聞網
 https://www.youtube.com/watch?v=pYsugDmNu-M
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wXLulsQn8Hc/maxresdefault.jpg" group-title="政論",【94要客訴】周曉涵卸內衣女神身分亮麗登場曝凍齡秘方三立新聞網
-https://www.youtube.com/watch?v=wXLulsQn8Hc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eBhLsiqr--w/maxresdefault.jpg" group-title="政論",【94要客訴】車站再被恐嚇炸彈攻擊他點名賴清德拭目以待警方掌握發文者身分積極偵辦中三立新聞網
-https://www.youtube.com/watch?v=eBhLsiqr--w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sOzTagJBd6Y/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】美三項軍購發價書到期立法院黨團協商先行簽約中天新聞
-https://www.youtube.com/watch?v=sOzTagJBd6Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3MGE0R76P24/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】松指部可包機國防委員會親自考察中天新聞
-https://www.youtube.com/watch?v=3MGE0R76P24
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ueSM-rPxrBE/maxresdefault.jpg" group-title="政論",【中時新聞網】零軍購換取共軍不擾台立法院黨團協商先行簽約
-https://www.youtube.com/watch?v=ueSM-rPxrBE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xnqHzTMw9KU/maxresdefault.jpg" group-title="政論",【中天深喉嚨】美三項軍購發價書到期立法院黨團協商先行簽約中天新聞
-https://www.youtube.com/watch?v=xnqHzTMw9KU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gSawRIa1pKc/maxresdefault.jpg" group-title="政論",【中天深喉嚨】松指部可包機國防委員會親自考察中天新聞
-https://www.youtube.com/watch?v=gSawRIa1pKc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OROTI3WeRpc/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】現正中
+https://www.youtube.com/watch?v=OROTI3WeRpc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/raqwHEytaaM/maxresdefault.jpg" group-title="政論",【新聞大白話】全球開播
+https://www.youtube.com/watch?v=raqwHEytaaM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8yfBGnkF5eo/maxresdefault.jpg" group-title="政論",【57爆新聞】美以加大打擊伊防長遭炸亡國葬誓言復仇
 https://www.youtube.com/watch?v=8yfBGnkF5eo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JsQsYFBMs0I/maxresdefault.jpg" group-title="政論",【頭條開講】中東戰事升溫美以連兩日猛烈攻擊伊朗出動最強飛彈最大規模反擊鎖定美軍
 https://www.youtube.com/watch?v=JsQsYFBMs0I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ttYdxZ2ny54/maxresdefault.jpg" group-title="政論",【品觀點】立法院朝野黨團協商授權政院先行與美方簽署發價書公決案
-https://www.youtube.com/watch?v=ttYdxZ2ny54
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Uf1iovs4FNc/maxresdefault.jpg" group-title="政論",【52新聞聚樂部 】葉元之
-https://www.youtube.com/watch?v=Uf1iovs4FNc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oenhyxTM9oU/maxresdefault.jpg" group-title="政論",【品觀點】立法院朝野黨團協商正告賴總統與卓院長停止不公布不副署不執行之行徑
+https://www.youtube.com/watch?v=oenhyxTM9oU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=IBcS_0eEndI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bL953SqCdgc/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場

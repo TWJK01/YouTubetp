@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-14 15:23:24
+# Last Update: 2026-03-14 16:25:08
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛全紀實
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人文講堂
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙天下第一招
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映青春愛讀書
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -36,12 +36,8 @@ https://www.youtube.com/watch?v=E0zhe2gkXBs
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KVJNKrciALM/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】美想跑以不准川有活路見習前狂放風陸會陪演周錫瑋蔡正元苑舉正重磅對談精彩完整全程中天電視
-https://www.youtube.com/watch?v=KVJNKrciALM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tF4hXJXZ5t0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】賴嗆國民政府來台日本殖民更差卓榮泰包機案燒不完收據醫出全網炸鍋歷史哥擂台中天電視
-https://www.youtube.com/watch?v=tF4hXJXZ5t0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BElNpDRQqMQ/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美轟哈格島川普警告不排除打擊石油設施美懸賞逾億尋高層情報鎖定伊最高領袖等人專家解析不斷更新中天電視
-https://www.youtube.com/watch?v=BElNpDRQqMQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dJpO8oErogs/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美駐伊拉克巴格達大使館遭伊朗飛彈襲擊美軍增派陸戰隊員赴中東狂炸伊朗個目標不斷更新中天電視
+https://www.youtube.com/watch?v=dJpO8oErogs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -88,6 +84,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】伊朗襲擊美軍林肯號致其失去作戰能力撤走伊拉克民兵武裝擊落美軍加油機美否認德黑蘭集會附近發生爆炸小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u2bEuOujKZg/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=u2bEuOujKZg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -108,8 +106,6 @@ https://www.youtube.com/watch?v=-pWsVsulIFU
 https://www.youtube.com/watch?v=0ePhPlTJbGo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OhA_G0s9pqw/maxresdefault.jpg" group-title="綜藝",【華視綜藝頻道】現代嘉慶君不間斷馬拉松豬哥亮陳亞蘭呂雪鳳
 https://www.youtube.com/watch?v=OhA_G0s9pqw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vnr53BNoLcg/maxresdefault.jpg" group-title="綜藝",【綜藝大熱門】猜歌王不間斷猜不停讓你第一集看到最新集數不間斷吳宗憲陳漢典生配信
-https://www.youtube.com/watch?v=Vnr53BNoLcg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uehKhWmttVE/maxresdefault.jpg" group-title="綜藝",【綜藝玩很大】憲哥坤達小鬼把不可能變可能讓我們找出那無法被超越的感動小時不間斷
 https://www.youtube.com/watch?v=uehKhWmttVE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dKCewm0l1nM/maxresdefault.jpg" group-title="綜藝",【飢餓遊戲】一次播到飽孫協志王仁甫許孟哲蔡黃汝峮峮小時不斷電
@@ -446,8 +442,8 @@ https://www.youtube.com/watch?v=Jg58I7d6Azg
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EYCGqiKR498/maxresdefault.jpg" group-title="政論",【全球大視野】美轟哈格島川普警告不排除打擊石油設施美懸賞逾億尋高層情報鎖定伊最高領袖等人專家解析不斷更新
-https://www.youtube.com/watch?v=EYCGqiKR498
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/emEwDCLyJB0/maxresdefault.jpg" group-title="政論",【全球大視野】美駐伊拉克巴格達大使館遭伊朗飛彈襲擊美軍增派陸戰隊員赴中東狂炸伊朗個目標不斷更新
+https://www.youtube.com/watch?v=emEwDCLyJB0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
@@ -458,10 +454,8 @@ https://www.youtube.com/watch?v=HarWsyvLERc
 https://www.youtube.com/watch?v=te0npiU80x0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lX89CDipUM8/maxresdefault.jpg" group-title="政論",【57爆新聞】中東局勢升溫杜拜又遇襲美軍擬強化部署
 https://www.youtube.com/watch?v=lX89CDipUM8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1CsFniPmk7s/maxresdefault.jpg" group-title="政論",【頭條開講】美轟哈格島川普警告不排除打擊石油設施美懸賞逾億尋高層情報鎖定伊最高領袖等人專家解析不斷更新
-https://www.youtube.com/watch?v=1CsFniPmk7s
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3XIyH8VKcy0/maxresdefault.jpg" group-title="政論",【文茜的世界周報】| TVBS文茜的世界周報 T
-https://www.youtube.com/watch?v=3XIyH8VKcy0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XhdgbOqJZ_s/maxresdefault.jpg" group-title="政論",【頭條開講】美駐伊拉克巴格達大使館遭伊朗飛彈襲擊美軍增派陸戰隊員赴中東狂炸伊朗個目標不斷更新
+https://www.youtube.com/watch?v=XhdgbOqJZ_s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=IBcS_0eEndI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nuA1dv6ylFM/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場

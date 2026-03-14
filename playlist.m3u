@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-14 14:24:20
+# Last Update: 2026-03-14 15:23:24
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映志為人醫守護愛
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛全紀實
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙天下第一招
 https://www.youtube.com/watch?v=QDxRJP-wfeI
@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=E0zhe2gkXBs
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KVJNKrciALM/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】美想跑以不准川有活路見習前狂放風陸會陪演周錫瑋蔡正元苑舉正重磅對談精彩完整全程中天電視
+https://www.youtube.com/watch?v=KVJNKrciALM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tF4hXJXZ5t0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】賴嗆國民政府來台日本殖民更差卓榮泰包機案燒不完收據醫出全網炸鍋歷史哥擂台中天電視
 https://www.youtube.com/watch?v=tF4hXJXZ5t0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BElNpDRQqMQ/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美轟哈格島川普警告不排除打擊石油設施美懸賞逾億尋高層情報鎖定伊最高領袖等人專家解析不斷更新中天電視
@@ -44,8 +46,6 @@ https://www.youtube.com/watch?v=BElNpDRQqMQ
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/59RmY0Iiot0/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】川普毀石油要塞哈格島伊朗飛彈疑反炸美大使館
-https://www.youtube.com/watch?v=59RmY0Iiot0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -126,8 +126,6 @@ https://www.youtube.com/watch?v=k0uJVhYX12Y
 https://www.youtube.com/watch?v=TiOU3qHCqXk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0WDqLbaQnUM/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】中東局勢升溫杜拜又遇襲美軍擬強化部署
 https://www.youtube.com/watch?v=0WDqLbaQnUM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lK6DekBitPw/maxresdefault.jpg" group-title="綜藝",【超級夜總會】賴慧如對阿嬤的真情告白讓楊繡惠破防淚崩播出
-https://www.youtube.com/watch?v=lK6DekBitPw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -320,8 +318,6 @@ https://www.youtube.com/watch?v=ss1R0fPdHTk
 https://www.youtube.com/watch?v=BLjnJsXQW3k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JNIjoUMW-ew/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】摆摊少年觉醒最强系统拉满从底层一路冲到巅峰开局地摊卖大力
 https://www.youtube.com/watch?v=JNIjoUMW-ew
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sFqksCNjJU0/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟恐怖鴿子
-https://www.youtube.com/watch?v=sFqksCNjJU0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dv-pmT25qZc/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -354,8 +350,6 @@ https://www.youtube.com/watch?v=T-q_NSfYb6A
 https://www.youtube.com/watch?v=qSXLiy5wS-Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜二月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=qrWp7zOrWAg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dbVaO9wT8LE/maxresdefault.jpg" group-title="音樂",【孤心旋律】年三月最新歌曲華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋二月強檔新曲
-https://www.youtube.com/watch?v=dbVaO9wT8LE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NVeBgBf3IuE/maxresdefault.jpg" group-title="音樂",【孤心旋律】年月最新熱門單曲華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋三月新歌
 https://www.youtube.com/watch?v=NVeBgBf3IuE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xOdHG-doxuc/maxresdefault.jpg" group-title="音樂",【孤心旋律】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋行进新歌
@@ -452,14 +446,10 @@ https://www.youtube.com/watch?v=Jg58I7d6Azg
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bo0Cb0mEPjg/maxresdefault.jpg" group-title="政論",【全球大視野】伊朗高層全出動打臉美防長精準打擊美駐伊拉克使館沙特加油機墜毀枚重彈炸以美軍空襲哈爾克島完整版
-https://www.youtube.com/watch?v=bo0Cb0mEPjg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EYCGqiKR498/maxresdefault.jpg" group-title="政論",【全球大視野】美轟哈格島川普警告不排除打擊石油設施美懸賞逾億尋高層情報鎖定伊最高領袖等人專家解析不斷更新
 https://www.youtube.com/watch?v=EYCGqiKR498
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5Fd7-v58mrs/maxresdefault.jpg" group-title="政論",【94要客訴】中東戰火延燒輝達微軟伊朗警告將摧毀全球經濟準備面對美元桶油價美軍下世代打擊能力再進化升級三叉戟火控系統核潛艦可載枚飛彈
-https://www.youtube.com/watch?v=5Fd7-v58mrs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="政論",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網

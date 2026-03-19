@@ -1,13 +1,17 @@
 #EXTM3U
-# Last Update: 2026-03-19 07:43:55
+# Last Update: 2026-03-19 08:37:00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
 https://www.youtube.com/watch?v=KyT4qSK8lJo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LzOTY4mZG00/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】台灣天氣即時監測
 https://www.youtube.com/watch?v=LzOTY4mZG00
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PfaA2szXkrw/maxresdefault.jpg" group-title="台灣",【中視新聞】最新一期廉政專刊出爐韓國瑜接見芬蘭訪問團
-https://www.youtube.com/watch?v=PfaA2szXkrw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0EZhvbihpLw/maxresdefault.jpg" group-title="台灣",【台視新聞】賴清德主持全社會防衛韌性委員會議
+https://www.youtube.com/watch?v=0EZhvbihpLw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_VjPy9ZsDt8/maxresdefault.jpg" group-title="台灣",【中視新聞】中科院勁蜂無人機模擬作戰賴清德主持防衛韌性委員會
+https://www.youtube.com/watch?v=_VjPy9ZsDt8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Utcgk64oENA/maxresdefault.jpg" group-title="台灣",【中視新聞】新庶民大頭家
+https://www.youtube.com/watch?v=Utcgk64oENA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -16,32 +20,42 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/As8RhQt3zcU/maxresdefault.jpg" group-title="台灣",【民視新聞網】財政部國有財產署召開例行記者會時事回應民視快新聞
+https://www.youtube.com/watch?v=As8RhQt3zcU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映無量義經偈頌
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇夢醒時刻
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映高僧傳
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛劇夢醒時刻
 https://www.youtube.com/watch?v=QDxRJP-wfeI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uNW03wro31s/maxresdefault.jpg" group-title="台灣",【鏡新聞】總統賴清德主持全社會防衛韌性委員會議
+https://www.youtube.com/watch?v=uNW03wro31s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZQplygvKkRU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】主播陪你聊新聞
-https://www.youtube.com/watch?v=ZQplygvKkRU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3dzl_P8BUGw/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】合作協議簽訂藍白合一路順風暗潮洶湧路線之爭白熱化盧秀燕前進華府談軍購對撞鄭麗文王偊菁主持三立新聞台
-https://www.youtube.com/watch?v=3dzl_P8BUGw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SeKX3omGMqw/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】賴清德主持全社會防衛韌性委員會會議
+https://www.youtube.com/watch?v=SeKX3omGMqw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6XUzIns0Wyk/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】改變台灣的兩顆子彈年大選前夕究竟發生了什麼事歷史回顧
 https://www.youtube.com/watch?v=6XUzIns0Wyk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】主播互動播新聞三立新聞國際焦點地震氣象台湾
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞國際焦點地震氣象台湾
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vaE33WKAljg/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】入境卡改南韓反制傷害林佳龍稱有效果給最後期限指李貞秀非立委邱垂正拒質詢盧秀燕在美談軍購與鄭唱反調賴正鎧黃韵筑報新聞中天新聞
+https://www.youtube.com/watch?v=vaE33WKAljg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BxQxmw4mSZc/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】認定李貞秀非立委拒備詢陸委會例行記者會
+https://www.youtube.com/watch?v=BxQxmw4mSZc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6hDsWu4h1Wo/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】用無人機打造台海地獄賴清德主持防衛韌性委員會中天新聞
+https://www.youtube.com/watch?v=6hDsWu4h1Wo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6jojv_ZuGDw/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】兩顆子彈謎團呂秀蓮苦等真相年美伊打到九月川習會延期牽動台美軍售李貞秀遭綠冷暴力賴總統談主權卻戀殖大新聞大爆卦
+https://www.youtube.com/watch?v=6jojv_ZuGDw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ivu-_wrnmWY/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】伊朗飛彈攻擊卡達全球最大天然氣樞紐遭殃伊朗為國安高官復仇射集豎彈狂轟以色列專家解析不斷更新中天電視
 https://www.youtube.com/watch?v=ivu-_wrnmWY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -64,6 +78,8 @@ https://www.youtube.com/watch?v=w87VGpgd90U
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/maxresdefault.jpg" group-title="台灣",【寰宇全視界】寰宇新聞台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=5SH3FDMyMzg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sYAQmO1h4Xw/maxresdefault.jpg" group-title="台灣",【udn video】賴清德總統主持全社會防衛韌性委員會第次委員會議
+https://www.youtube.com/watch?v=sYAQmO1h4Xw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人小時
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qhApzA9RSDo/maxresdefault.jpg" group-title="台灣",【三大一台】三大有線電視公司
@@ -74,6 +90,8 @@ https://www.youtube.com/watch?v=1I2iq41Akmo
 https://www.youtube.com/watch?v=AEBeWMM1atA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eWj66MbDx1U/maxresdefault.jpg" group-title="台灣",【寰宇財經新聞】寰宇新聞財經台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=eWj66MbDx1U
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GIG3hZp6Yxc/maxresdefault.jpg" group-title="台灣",【非凡電視】總統賴清德主持全社會防衛韌性委員會議
+https://www.youtube.com/watch?v=GIG3hZp6Yxc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eA6Aczd3FZM/maxresdefault.jpg" group-title="台灣",【非凡電視】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導
 https://www.youtube.com/watch?v=eA6Aczd3FZM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xLqt2p6Dowo/maxresdefault.jpg" group-title="台灣",【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導
@@ -94,6 +112,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】日首相訪美特朗普期望日本軍援伊朗誓報復攻擊油氣設施沙特卡塔爾遭襲法國重申拒絕參與霍爾木茲海峽護航小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvfHPeKX-_8/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞新聞報道即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=xvfHPeKX-_8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -446,32 +466,28 @@ https://www.youtube.com/watch?v=jlzHCIZ5Xko
 https://www.youtube.com/watch?v=-ig3OSXNiDY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jg58I7d6Azg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=Jg58I7d6Azg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ryVTvRAWMVU/maxresdefault.jpg" group-title="政論",【壹電視NEXT TV】藍白合官宣鄭麗文黃國昌永結同心瞞柯文哲私奔點協議防翻桌柯專訪連發狂踩剎車京案判決倒數阿北嫌保金高沒貪污不行繼續選小英帶頭拚綠選將集結
-https://www.youtube.com/watch?v=ryVTvRAWMVU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sqLOvS6Frfo/maxresdefault.jpg" group-title="政論",【全球大視野】以色列再斬首伊朗情報部長小哈米尼揚言清算血債新導彈開轟納坦炸氣田美以分裂加劇高市先遞投名狀滑跪訪美
+https://www.youtube.com/watch?v=sqLOvS6Frfo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UK7WOUKlkj0/maxresdefault.jpg" group-title="政論",【全球大視野】伊朗飛彈攻擊卡達全球最大天然氣樞紐遭殃伊朗為國安高官復仇射集豎彈狂轟以色列專家解析不斷更新
 https://www.youtube.com/watch?v=UK7WOUKlkj0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tWqJq0HiGI8/maxresdefault.jpg" group-title="政論",【民視讚夯】鄭麗君沒選舉經驗對上高民調蔣萬安吳子嘉預言難翻盤護航李貞秀幫中配遮風擋雨國台辦急跳腳民眾黨關心有無人才中評關注求生存以時間換空間
-https://www.youtube.com/watch?v=tWqJq0HiGI8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vWdpbuZGdJE/maxresdefault.jpg" group-title="政論",【94要客訴】主播陪你聊新聞三立新聞網
-https://www.youtube.com/watch?v=vWdpbuZGdJE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OtwMzo40XX0/maxresdefault.jpg" group-title="政論",【94要客訴】賴清德主持全社會防衛韌性委員會會議三立新聞網
+https://www.youtube.com/watch?v=OtwMzo40XX0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lBZt32Pmv1s/maxresdefault.jpg" group-title="政論",【94要客訴】改變台灣的兩顆子彈年大選前夕究竟發生了什麼事歷史回顧三立新聞網
 https://www.youtube.com/watch?v=lBZt32Pmv1s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/h450E4ZkvIg/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】現正中
-https://www.youtube.com/watch?v=h450E4ZkvIg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MKEEvVN5Znw/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】兩顆子彈謎團呂秀蓮苦等真相年美伊打到九月川習會延期牽動台美軍售李貞秀遭綠冷暴力賴總統談主權卻戀殖中天新聞
+https://www.youtube.com/watch?v=MKEEvVN5Znw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Iyt0HeHeAnU/maxresdefault.jpg" group-title="政論",【新聞大白話】🔴LIVE：2026.03.1
 https://www.youtube.com/watch?v=Iyt0HeHeAnU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/drTYAB67cA8/maxresdefault.jpg" group-title="政論",【中時新聞網】最新一期廉政專刊出爐韓國瑜接見芬蘭訪問團
-https://www.youtube.com/watch?v=drTYAB67cA8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yRmAHMWMGP8/maxresdefault.jpg" group-title="政論",【中時新聞網】旺旺中時預防醫學春養時光講座
-https://www.youtube.com/watch?v=yRmAHMWMGP8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9yEa03Gu6u8/maxresdefault.jpg" group-title="政論",【中時新聞網】中科院勁蜂無人機模擬作戰賴清德主持防衛韌性委員會
+https://www.youtube.com/watch?v=9yEa03Gu6u8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/teS2haHRmFA/maxresdefault.jpg" group-title="政論",【57爆新聞】伊朗飛彈襲卡達全球最大液化天然氣廠遇襲伊軍警告能源設施遭轟將點燃敵方設施進行猛烈反擊
 https://www.youtube.com/watch?v=teS2haHRmFA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XOnd-RqbO6I/maxresdefault.jpg" group-title="政論",【頭條開講】伊朗飛彈攻擊卡達全球最大天然氣樞紐遭殃伊朗為國安高官復仇射集豎彈狂轟以色列專家解析不斷更新
@@ -838,6 +854,8 @@ https://www.youtube.com/watch?v=5GTFLN9gZrc
 https://www.youtube.com/watch?v=rvc1klNIgQc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DliL9uMtPrI/maxresdefault.jpg" group-title="風景",【ervnsa】六十石山花東縱谷
 https://www.youtube.com/watch?v=DliL9uMtPrI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hLn8pWugVQQ/maxresdefault.jpg" group-title="風景",【交通部觀光署澎湖國家風景區管理處】北寮風景區
+https://www.youtube.com/watch?v=hLn8pWugVQQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ovP4K3CC2Lk/maxresdefault.jpg" group-title="風景",【交通部觀光署澎湖國家風景區管理處】南海遊客中心浮動碼頭
 https://www.youtube.com/watch?v=ovP4K3CC2Lk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/321BB9aIbXQ/maxresdefault.jpg" group-title="風景",【交通部觀光署澎湖國家風景區管理處】七美南滬港碼頭

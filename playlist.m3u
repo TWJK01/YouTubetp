@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-20 15:38:31
+# Last Update: 2026-03-20 16:37:40
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇夢醒時刻
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛迷你劇場如果還有明天
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙天下第一招
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛迷你劇場如果還有明天
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=E0zhe2gkXBs
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nfigqCq60nY/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】物價回不去了胡賽挺伊朗放話封鎖曼德海峽全球海運輸告急國際油價將飆破每桶美元專家解析中天新聞
+https://www.youtube.com/watch?v=nfigqCq60nY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -108,12 +110,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/g1ddYPL4SgU/maxresdefault.jpg" group-title="綜藝",【204檔案】探靈百年古宅裡究竟發生了什麼
-https://www.youtube.com/watch?v=g1ddYPL4SgU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】驚悚插瓶女大生駭人姦煮女房客孝子黑化奪父命道士謀財弒父妻麥當勞連環爆炸高鐵的致命恐嚇剖析犯罪者的內心世界揭露可怖的離奇情節探索案件隱藏的真相
 https://www.youtube.com/watch?v=TiOU3qHCqXk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Shdk6NUKGZI/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】川普攤開中國走私網算總帳美超微高層涉吹風機除膠銷中輝達晶片
-https://www.youtube.com/watch?v=Shdk6NUKGZI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -430,18 +428,14 @@ https://www.youtube.com/watch?v=Jg58I7d6Azg
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quVh70fraFc/maxresdefault.jpg" group-title="政論",【全球大視野】伊朗擊中戰機美媒曝架軍機戰損飛彈雨夜襲火車站成廢墟以色列鐵穹崩回歸中國粉絲鈔能力霸屏首爾完整版
-https://www.youtube.com/watch?v=quVh70fraFc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/okibHA-WzrI/maxresdefault.jpg" group-title="政論",【全球大視野】美日峰會川普談襲伊朗提珍珠港開玩笑伊朗宣稱擊落戰機還附影片佐證不斷更新專家解析中天電視
-https://www.youtube.com/watch?v=okibHA-WzrI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UryfAhVutD0/maxresdefault.jpg" group-title="政論",【全球大視野】物價回不去了胡賽挺伊朗放話封鎖曼德海峽全球海運輸告急國際油價將飆破每桶美元專家解析
+https://www.youtube.com/watch?v=UryfAhVutD0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/maxresdefault.jpg" group-title="政論",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CdWiDncoPfY/maxresdefault.jpg" group-title="政論",【哏傳媒】談天說地論台灣
-https://www.youtube.com/watch?v=CdWiDncoPfY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0JDfzdFw4AU/maxresdefault.jpg" group-title="政論",【頭條開講】美日峰會川普談襲伊朗提珍珠港開玩笑伊朗宣稱擊落戰機還附影片佐證不斷更新專家解析中天電視
-https://www.youtube.com/watch?v=0JDfzdFw4AU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BkdugoIFOrE/maxresdefault.jpg" group-title="政論",【頭條開講】物價回不去了胡賽挺伊朗放話封鎖曼德海峽全球海運輸告急國際油價將飆破每桶美元專家解析
+https://www.youtube.com/watch?v=BkdugoIFOrE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cvTOL-PGqEg/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=cvTOL-PGqEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ui9lt5HPc9k/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場

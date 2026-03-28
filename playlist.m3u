@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-28 06:53:06
+# Last Update: 2026-03-28 07:41:19
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Igx1maeYTIg/maxresdefault.jpg" group-title="台灣",【中視新聞】藍竹縣長初選投票日黨部開票最新現場
+https://www.youtube.com/watch?v=Igx1maeYTIg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GK0W9F3tSfM/maxresdefault.jpg" group-title="台灣",【中視新聞】京華城案一審重判蔡壁如蘇偉碩談檢方理解失準
 https://www.youtube.com/watch?v=GK0W9F3tSfM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
@@ -18,8 +20,6 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zhvpJ5TzbkY/maxresdefault.jpg" group-title="台灣",【民視新聞網】柯震東王柏傑等人出席原創奇幻民俗動作影集乩身記者會民視快新聞
-https://www.youtube.com/watch?v=zhvpJ5TzbkY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
@@ -28,9 +28,9 @@ https://www.youtube.com/watch?v=quwqlazU-c8
 https://www.youtube.com/watch?v=TEuS2CVwWoo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛迷你劇場如果還有明天
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映證嚴上人說故事
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙愛的微光
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映科學
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -50,16 +50,12 @@ https://www.youtube.com/watch?v=hGJkDZDchYI
 https://www.youtube.com/watch?v=igdYh66g2Eo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5IuC8caOX6U/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】京華城案都市計畫容積法制爭議蔡壁如蘇偉碩談檢方理解失準中天新聞
 https://www.youtube.com/watch?v=5IuC8caOX6U
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sz0KO8LkYvI/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】海大揚帆一甲子健走陳亭妃王世堅同台出席中天新聞
-https://www.youtube.com/watch?v=sz0KO8LkYvI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Diaaw_lVpQM/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美以空襲核設施伊反擊以及鄰國美軍基地布希號航母赴中東罕見三航艦齊聚中天新聞
 https://www.youtube.com/watch?v=Diaaw_lVpQM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dfZ4QP57blY/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】最帥遊行紳裝走路福士蒼汰領軍走紅毯
-https://www.youtube.com/watch?v=dfZ4QP57blY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -326,32 +322,34 @@ https://www.youtube.com/watch?v=l08yAdhzHbA
 https://www.youtube.com/watch?v=J1ppAJ-NoFI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Mu6rcTo-90A/maxresdefault.jpg" group-title="體育",【getwin_sport】臺北伊斯特台鋼天鷹鳳山體育館
 https://www.youtube.com/watch?v=Mu6rcTo-90A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6l0ZdZ5sQv8/maxresdefault.jpg" group-title="體育",【庫泊運動賽事】年全國明輝盃木球錦標賽月日六
-https://www.youtube.com/watch?v=6l0ZdZ5sQv8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wclH52XZiDk/maxresdefault.jpg" group-title="體育",【庫泊運動賽事】學年第屆全國橄欖球錦標賽月日六
 https://www.youtube.com/watch?v=wclH52XZiDk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hONXbe_9jNo/maxresdefault.jpg" group-title="體育",【HOP Sports】舞王世界公開賽國內積分排名賽
 https://www.youtube.com/watch?v=hONXbe_9jNo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r0TLT5pweJM/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=r0TLT5pweJM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NNj-GeWWsC4/maxresdefault.jpg" group-title="體育",【GoHoops】數媒盃統一數網黑武士陽獅集團母獅
+https://www.youtube.com/watch?v=NNj-GeWWsC4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-9qPQnVaK7I/maxresdefault.jpg" group-title="體育",【GoHoops】清大男籃臺灣海大清大男籃大專盃一般組
+https://www.youtube.com/watch?v=-9qPQnVaK7I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/y5g1z3gjg4w/maxresdefault.jpg" group-title="體育",【TPBL】例行賽中信特攻新竹御嵿攻城獅
 https://www.youtube.com/watch?v=y5g1z3gjg4w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OwcMGxFNOa4/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟恐怖鴿子
-https://www.youtube.com/watch?v=OwcMGxFNOa4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iJFuLozIFKk/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟隅六個圈
-https://www.youtube.com/watch?v=iJFuLozIFKk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V5wkKxH-nhw/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟中大幫昇玖國際不動產
+https://www.youtube.com/watch?v=V5wkKxH-nhw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Y6P9mSEXrfU/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟
+https://www.youtube.com/watch?v=Y6P9mSEXrfU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yd2R1xilnRs/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟宸新復健科診所肌力與體能工作室
 https://www.youtube.com/watch?v=yd2R1xilnRs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xnYkR0pnXpU/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟八石虎渡溪東慶茶行
 https://www.youtube.com/watch?v=xnYkR0pnXpU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/N3yUB7Ulxbs/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】青山手搖逢霖翊芳工程
+https://www.youtube.com/watch?v=N3yUB7Ulxbs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HElx464Sif0/maxresdefault.jpg" group-title="體育",【TPVL 台灣職業排球聯盟】例行賽台鋼天鷹臺北伊斯特
 https://www.youtube.com/watch?v=HElx464Sif0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EFjaO5NiRA4/maxresdefault.jpg" group-title="體育",【Body Sports  名衍行銷運動頻道】男生組決賽華僑高中建國中學
-https://www.youtube.com/watch?v=EFjaO5NiRA4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/byjfC7Onvm0/maxresdefault.jpg" group-title="體育",【Body Sports  名衍行銷運動頻道】男生組決賽豐原高商福誠高中
+https://www.youtube.com/watch?v=byjfC7Onvm0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WW-pIFlR1_g/maxresdefault.jpg" group-title="體育",【日本B聯盟】TOYAMA GROUSES
 https://www.youtube.com/watch?v=WW-pIFlR1_g
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WfVTIVnmWB0/maxresdefault.jpg" group-title="體育",【日本B聯盟】YOKOHAMA B-CORS
-https://www.youtube.com/watch?v=WfVTIVnmWB0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dv-pmT25qZc/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -388,6 +386,8 @@ https://www.youtube.com/watch?v=T-q_NSfYb6A
 https://www.youtube.com/watch?v=qSXLiy5wS-Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜二月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=qrWp7zOrWAg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SK2Ri5uDjfQ/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
+https://www.youtube.com/watch?v=SK2Ri5uDjfQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ARzK4hsjH1Y/maxresdefault.jpg" group-title="音樂",【孤心旋律】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
 https://www.youtube.com/watch?v=ARzK4hsjH1Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WhrEyaA_Ptk/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
@@ -492,8 +492,6 @@ https://www.youtube.com/watch?v=7f7BaBMNbEs
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U-UiHlmOVUA/maxresdefault.jpg" group-title="政論",【全球大視野】亞洲最大室內滑雪地形公園亮相粵港澳大灣區冰雪新體驗
-https://www.youtube.com/watch?v=U-UiHlmOVUA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nk_Yb1BoJ6M/maxresdefault.jpg" group-title="政論",【全球大視野】美以空襲核設施伊反擊以及鄰國美軍基地布希號航母赴中東罕見三航艦齊聚
 https://www.youtube.com/watch?v=nk_Yb1BoJ6M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DZqPVwI27HU/maxresdefault.jpg" group-title="政論",【民視讚夯】緊急申請路權民眾黨發全國動員令明天凱道見護民眾黨神主牌黃國昌急修內規但書軍購卡關黃文啟將軍急到哽咽卓榮泰國會議員於心何忍
@@ -508,12 +506,12 @@ https://www.youtube.com/watch?v=8toOEHUzVPo
 https://www.youtube.com/watch?v=jHuUgeQxSvo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bal517WUE1Y/maxresdefault.jpg" group-title="政論",【新聞大白話】特報
 https://www.youtube.com/watch?v=Bal517WUE1Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZsTEoaSUmVU/maxresdefault.jpg" group-title="政論",【中時新聞網】藍竹縣長初選投票日黨部開票最新現場
+https://www.youtube.com/watch?v=ZsTEoaSUmVU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/68kumvCVyTU/maxresdefault.jpg" group-title="政論",【中時新聞網】京華城案一審重判蔡壁如蘇偉碩談檢方理解失準
 https://www.youtube.com/watch?v=68kumvCVyTU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ndOGRh1XNtY/maxresdefault.jpg" group-title="政論",【中天深喉嚨】國民黨新竹縣長初選直擊黨部開票最新
 https://www.youtube.com/watch?v=ndOGRh1XNtY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IrXjMMwVQFk/maxresdefault.jpg" group-title="政論",【中天深喉嚨】海大揚帆一甲子健走陳亭妃王世堅同台出席
-https://www.youtube.com/watch?v=IrXjMMwVQFk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/57k77zWA4oA/maxresdefault.jpg" group-title="政論",【57爆新聞】伊朗傳百萬名戰力備戰地面戰恐一觸即發
 https://www.youtube.com/watch?v=57k77zWA4oA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WHQWZIpatss/maxresdefault.jpg" group-title="政論",【頭條開講】美以空襲核設施伊反擊以及鄰國美軍基地布希號航母赴中東罕見三航艦齊聚

@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-28 13:47:53
+# Last Update: 2026-03-28 14:28:04
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛迷你劇場如果還有明天
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映志為人醫守護愛
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映國民漢字須知
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙愛的微光
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -46,6 +46,8 @@ https://www.youtube.com/watch?v=Diaaw_lVpQM
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BG1Ypx2uEQs/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】葉門胡塞參戰朝以南射彈荷姆茲改名變川普海峽
+https://www.youtube.com/watch?v=BG1Ypx2uEQs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -110,6 +112,8 @@ https://www.youtube.com/watch?v=cimbpAZUjzw
 https://www.youtube.com/watch?v=k0uJVhYX12Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】驚悚插瓶女大生駭人姦煮女房客孝子黑化奪父命道士謀財弒父妻麥當勞連環爆炸高鐵的致命恐嚇剖析犯罪者的內心世界揭露可怖的離奇情節探索案件隱藏的真相
 https://www.youtube.com/watch?v=TiOU3qHCqXk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Kg6mHzQgf00/maxresdefault.jpg" group-title="綜藝",【超級夜總會】詹雅雯崩潰投降我才是假的林琇琪魏小羽陳昭瑋逆天模仿連鐵粉都分不清播出
+https://www.youtube.com/watch?v=Kg6mHzQgf00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -304,18 +308,12 @@ https://www.youtube.com/watch?v=eITZNVGEQDs
 https://www.youtube.com/watch?v=dQhsDHoR2GA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JuA94LeKWio/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】鹿人店照常营业中请选择你的神兽有兽焉
 https://www.youtube.com/watch?v=JuA94LeKWio
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gJTXrSPssGQ/maxresdefault.jpg" group-title="體育",【公視體育】舞王世界公開賽國內排名積分賽
-https://www.youtube.com/watch?v=gJTXrSPssGQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Yoirataa53U/maxresdefault.jpg" group-title="體育",【HOP Sports】舞王世界公開賽國內積分排名賽
-https://www.youtube.com/watch?v=Yoirataa53U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r0TLT5pweJM/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=r0TLT5pweJM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/A1WL7zDDYBA/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟快刻立手機維修
 https://www.youtube.com/watch?v=A1WL7zDDYBA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V5wkKxH-nhw/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟中大幫昇玖國際不動產
 https://www.youtube.com/watch?v=V5wkKxH-nhw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0JV5xUKmJpg/maxresdefault.jpg" group-title="體育",【Body Sports  名衍行銷運動頻道】女生組決賽華僑高中內湖高中
-https://www.youtube.com/watch?v=0JV5xUKmJpg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dv-pmT25qZc/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -444,12 +442,8 @@ https://www.youtube.com/watch?v=jlzHCIZ5Xko
 https://www.youtube.com/watch?v=-ig3OSXNiDY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jg58I7d6Azg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=Jg58I7d6Azg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4Tp-XphnPk0/maxresdefault.jpg" group-title="音樂",【MEET48 Global】没有我的世界第五十五场
-https://www.youtube.com/watch?v=4Tp-XphnPk0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dvLwzh6z24k/maxresdefault.jpg" group-title="音樂",【MEET48 Global】白羊座生日冷餐会
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dvLwzh6z24k/maxresdefault.jpg" group-title="音樂",【MEET48 Global】我的太阳第四场
 https://www.youtube.com/watch?v=dvLwzh6z24k
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jqTGz_F9lV4/maxresdefault.jpg" group-title="音樂",【MEET48 Global】幻镜第八场
-https://www.youtube.com/watch?v=jqTGz_F9lV4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/al_thC5eIfo/maxresdefault.jpg" group-title="音樂",【MEET48 Global】遗忘的国度马明萱生日公演
 https://www.youtube.com/watch?v=al_thC5eIfo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
@@ -460,8 +454,6 @@ https://www.youtube.com/watch?v=HiI-7_jeKxo
 https://www.youtube.com/watch?v=KwR4PoaKRc4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nk_Yb1BoJ6M/maxresdefault.jpg" group-title="政論",【全球大視野】美以空襲核設施伊反擊以及鄰國美軍基地布希號航母赴中東罕見三航艦齊聚
 https://www.youtube.com/watch?v=nk_Yb1BoJ6M
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UFcp_rLrJSw/maxresdefault.jpg" group-title="政論",【民視讚夯】Live直播2026.03.2
-https://www.youtube.com/watch?v=UFcp_rLrJSw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1l4ieR7yePE/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現反核急轉返核柯文哲重判迫害
@@ -470,6 +462,8 @@ https://www.youtube.com/watch?v=1l4ieR7yePE
 https://www.youtube.com/watch?v=57k77zWA4oA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WHQWZIpatss/maxresdefault.jpg" group-title="政論",【頭條開講】美以空襲核設施伊反擊以及鄰國美軍基地布希號航母赴中東罕見三航艦齊聚
 https://www.youtube.com/watch?v=WHQWZIpatss
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wvrYq3za0jQ/maxresdefault.jpg" group-title="政論",【文茜的世界周報】| TVBS文茜的世界周報 T
+https://www.youtube.com/watch?v=wvrYq3za0jQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sBx5IUzdK_E/maxresdefault.jpg" group-title="政論",【萬事通事務所】孤島與原子台灣核武夢的誕生與死亡台灣核武張憲義中科院蔣介石蔣經國核不擴散冷戰台海安全地緣政治
 https://www.youtube.com/watch?v=sBx5IUzdK_E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cvTOL-PGqEg/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上

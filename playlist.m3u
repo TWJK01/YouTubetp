@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-29 16:29:20
+# Last Update: 2026-03-29 17:25:53
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊水返腳的春天
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊水返腳的春天
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -78,8 +78,6 @@ https://www.youtube.com/watch?v=LyQ-iWfoVg0
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】美國據報擬向中東派遣萬人地面部隊伊朗外長美以目的是實施種族滅絕中國商務部對美發起兩項貿易壁壘調查小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/T5Ykts6YNno/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
-https://www.youtube.com/watch?v=T5Ykts6YNno
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -110,8 +108,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V9J-sxtD07g/maxresdefault.jpg" group-title="綜藝",【204檔案】今日話題
-https://www.youtube.com/watch?v=V9J-sxtD07g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】驚悚插瓶女大生駭人姦煮女房客孝子黑化奪父命道士謀財弒父妻麥當勞連環爆炸高鐵的致命恐嚇剖析犯罪者的內心世界揭露可怖的離奇情節探索案件隱藏的真相
 https://www.youtube.com/watch?v=TiOU3qHCqXk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -312,8 +308,6 @@ https://www.youtube.com/watch?v=JuA94LeKWio
 https://www.youtube.com/watch?v=r0TLT5pweJM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-0AXGMil_Mw/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟老年獼猴東海童子軍
 https://www.youtube.com/watch?v=-0AXGMil_Mw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BaKy6KXPMoo/maxresdefault.jpg" group-title="體育",【MotoGP】Baseball Challe
-https://www.youtube.com/watch?v=BaKy6KXPMoo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dv-pmT25qZc/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo

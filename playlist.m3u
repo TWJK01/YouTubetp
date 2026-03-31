@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-31 14:56:41
+# Last Update: 2026-03-31 16:04:55
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映風月同天分秒版
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛醫生館
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙愛的微光
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映真善美故事館
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -42,12 +42,10 @@ https://www.youtube.com/watch?v=Sy4swkrbYe8
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oqsLIRJe4T4/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】中美領袖峰會前先登場鄭習會面謀求兩岸和平中東戰爭延燒衝擊油價原物料吃緊價格翻倍漲中天夜線中天新聞
-https://www.youtube.com/watch?v=oqsLIRJe4T4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xa1C261FKLA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】鄭習會月登場徐國勇轟敢叫習近平撤飛彈嗎鄭麗文赴中卓榮泰任何團體不得與對岸進行政治協議白宮稱川普要求海灣國家分擔伊朗戰爭費中天新聞
-https://www.youtube.com/watch?v=xa1C261FKLA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m9Xk4U8EDpc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】川普再威脅炸電廠與淡水廠以色列最大煉油廠遭伊朗攻擊
-https://www.youtube.com/watch?v=m9Xk4U8EDpc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mVzzp8W1HlE/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】傳伊朗摧毀阿聯酋一美軍秘密指揮中心約名美軍官生死不明停戰協議談不攏川普下達天最後通牒中天新聞
+https://www.youtube.com/watch?v=mVzzp8W1HlE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
+https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -114,9 +112,11 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kspobIQ7p2c/maxresdefault.jpg" group-title="綜藝",【204檔案】到底哪裡有鬼
+https://www.youtube.com/watch?v=kspobIQ7p2c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】驚悚插瓶女大生駭人姦煮女房客孝子黑化奪父命道士謀財弒父妻麥當勞連環爆炸高鐵的致命恐嚇剖析犯罪者的內心世界揭露可怖的離奇情節探索案件隱藏的真相
 https://www.youtube.com/watch?v=TiOU3qHCqXk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zZfm-j48CqU/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】習近平臣服睽違兩年大買美油美伊聯手斷中國油川普達成目標閃人
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zZfm-j48CqU/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】比亞迪市佔率腰斬威脅習錢袋子中國內捲沒稅可收經濟死亡循環
 https://www.youtube.com/watch?v=zZfm-j48CqU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
@@ -354,8 +354,6 @@ https://www.youtube.com/watch?v=T-q_NSfYb6A
 https://www.youtube.com/watch?v=qSXLiy5wS-Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜二月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=qrWp7zOrWAg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kGFzajM9tOo/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=kGFzajM9tOo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fscPhXg-qSM/maxresdefault.jpg" group-title="音樂",【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=fscPhXg-qSM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OYaiWcAgR9A/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
@@ -374,8 +372,6 @@ https://www.youtube.com/watch?v=7CMMuWeZksM
 https://www.youtube.com/watch?v=MM7AnZsBFA8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CDvUa-9K7rM/maxresdefault.jpg" group-title="音樂",【孤心旋律】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
 https://www.youtube.com/watch?v=CDvUa-9K7rM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bvTFHS6n_PI/maxresdefault.jpg" group-title="音樂",【水月琴音】無損音質熱門中文歌精選必聽流行歌曲古風音樂
-https://www.youtube.com/watch?v=bvTFHS6n_PI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/maxresdefault.jpg" group-title="音樂",【Cherry 葵】Nightcore Radio
 https://www.youtube.com/watch?v=tjne3WWB3kA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4FBW3mkdKOs/maxresdefault.jpg" group-title="音樂",【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日
@@ -452,26 +448,20 @@ https://www.youtube.com/watch?v=Jg58I7d6Azg
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rsJh0KvkbaQ/maxresdefault.jpg" group-title="政論",【全球大視野】美以空襲伊朗炸出蘑菇雲震撼畫面曝光伊再嗆川普美軍登哈格島將有去無回
-https://www.youtube.com/watch?v=rsJh0KvkbaQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uq7Tr5SyeUo/maxresdefault.jpg" group-title="政論",【全球大視野】傳伊朗摧毀阿聯酋一美軍秘密指揮中心約名美軍官生死不明停戰協議談不攏川普下達天最後通牒
+https://www.youtube.com/watch?v=uq7Tr5SyeUo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BH8DA8X4aYw/maxresdefault.jpg" group-title="政論",【94要客訴】柯文哲背信罪二審明年恐直接發監蔣萬安給的市府公文揭柯決策違法館長凱道抖音將國旗馬賽克李貞秀黨紀案白營不敢開除台美勁蜂四無人機掛彈秀穿甲火力
-https://www.youtube.com/watch?v=BH8DA8X4aYw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VFKcuDGfw5o/maxresdefault.jpg" group-title="政論",【94要客訴】柯文哲言詞辯論宣判影片全紀錄三立新聞網
 https://www.youtube.com/watch?v=VFKcuDGfw5o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tEOGLVtiGYo/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】羅智強徐巧芯現身嘉義喝咖啡力挺張啓楷
-https://www.youtube.com/watch?v=tEOGLVtiGYo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/A0LrJAAHUF0/maxresdefault.jpg" group-title="政論",【中時新聞網】司法首次柯文哲涉京華城案辯論宣判影音全公開播送
 https://www.youtube.com/watch?v=A0LrJAAHUF0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e8E1wVCqwdA/maxresdefault.jpg" group-title="政論",【57爆新聞】美以轟出蘑菇雲逼伊停戰中東陷僵局最大金主將進場徐俊相
-https://www.youtube.com/watch?v=e8E1wVCqwdA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vB0JnuVfayc/maxresdefault.jpg" group-title="政論",【頭條開講】美以空襲伊朗炸出蘑菇雲震撼畫面曝光伊再嗆川普美軍登哈格島將有去無回大新聞大爆卦
-https://www.youtube.com/watch?v=vB0JnuVfayc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/T1FZHumVU5w/maxresdefault.jpg" group-title="政論",【萬事通事務所】你家的塑膠袋去哪了荷莫茲海峽封鎖一個月九國連鎖崩盤台灣天倒數
-https://www.youtube.com/watch?v=T1FZHumVU5w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KqlfSdw7RwU/maxresdefault.jpg" group-title="政論",【觀點】'26.03.31
-https://www.youtube.com/watch?v=KqlfSdw7RwU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/L37pg_diVbM/maxresdefault.jpg" group-title="政論",【哏傳媒】談天說地論台灣
+https://www.youtube.com/watch?v=L37pg_diVbM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/krG29nlFiG0/maxresdefault.jpg" group-title="政論",【57爆新聞】川普陷兩難討戰爭費想退場中東要求戰到底再下通牒若協議破局將炸光伊朗能源
+https://www.youtube.com/watch?v=krG29nlFiG0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1rUwZvKH3VY/maxresdefault.jpg" group-title="政論",【頭條開講】傳伊朗摧毀阿聯酋一美軍秘密指揮中心約名美軍官生死不明停戰協議談不攏川普下達天最後通牒
+https://www.youtube.com/watch?v=1rUwZvKH3VY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cvTOL-PGqEg/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=cvTOL-PGqEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G_E-x6GL-L4/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場

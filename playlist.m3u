@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-31 16:04:55
+# Last Update: 2026-03-31 17:52:54
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛醫生館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映真善美故事館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -112,12 +112,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kspobIQ7p2c/maxresdefault.jpg" group-title="綜藝",【204檔案】到底哪裡有鬼
-https://www.youtube.com/watch?v=kspobIQ7p2c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】驚悚插瓶女大生駭人姦煮女房客孝子黑化奪父命道士謀財弒父妻麥當勞連環爆炸高鐵的致命恐嚇剖析犯罪者的內心世界揭露可怖的離奇情節探索案件隱藏的真相
 https://www.youtube.com/watch?v=TiOU3qHCqXk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zZfm-j48CqU/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】比亞迪市佔率腰斬威脅習錢袋子中國內捲沒稅可收經濟死亡循環
-https://www.youtube.com/watch?v=zZfm-j48CqU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -472,8 +468,6 @@ https://www.youtube.com/watch?v=6z6jdVt8-Cw
 https://www.youtube.com/watch?v=HZTQ87Vq2IA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/05LNKaj9Qic/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播
 https://www.youtube.com/watch?v=05LNKaj9Qic
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uTAXMNN3pg4/maxresdefault.jpg" group-title="購物",【桐瑛台南電視臺】「桐瑛台南電視臺」直播
-https://www.youtube.com/watch?v=uTAXMNN3pg4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_pZQ1Lk0xMA/maxresdefault.jpg" group-title="購物",【momo購物一台】購物一台頻道小時線上
 https://www.youtube.com/watch?v=_pZQ1Lk0xMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xbNWkUyxQGM/maxresdefault.jpg" group-title="購物",【momo購物二台】購物二台頻道小時線上

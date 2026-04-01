@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-04-01 16:09:57
+# Last Update: 2026-04-01 17:45:58
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛醫生館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映真善美故事館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -42,7 +42,9 @@ https://www.youtube.com/watch?v=Sy4swkrbYe8
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CZGrWHMH07w/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】川普證實伊朗總統求停火強硬回應不開放荷莫茲海峽就再轟中天新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fTNEsUXmK-o/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】逾半世紀首度載人重返月球阿提米絲二號繞月測試升空即時中文翻譯中天新聞
+https://www.youtube.com/watch?v=fTNEsUXmK-o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CZGrWHMH07w/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】川普稱伊朗新總統求停火嗆不開放荷姆茲海峽就將伊朗炸回石器時代中天新聞
 https://www.youtube.com/watch?v=CZGrWHMH07w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
@@ -82,8 +84,6 @@ https://www.youtube.com/watch?v=TsccmbyNk6g
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】特朗普將就伊朗問題發表全國講話伊朗發動多輪襲擊以色列中部十多人傷也門胡塞武裝稱向以色列南部發射導彈小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kkGybaFkew8/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞午夜新聞報道
-https://www.youtube.com/watch?v=kkGybaFkew8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -114,8 +114,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ULFibn-HEVY/maxresdefault.jpg" group-title="綜藝",【204檔案】愚人節
-https://www.youtube.com/watch?v=ULFibn-HEVY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TiOU3qHCqXk/maxresdefault.jpg" group-title="綜藝",【台灣大搜索】驚悚插瓶女大生駭人姦煮女房客孝子黑化奪父命道士謀財弒父妻麥當勞連環爆炸高鐵的致命恐嚇剖析犯罪者的內心世界揭露可怖的離奇情節探索案件隱藏的真相
 https://www.youtube.com/watch?v=TiOU3qHCqXk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -446,10 +444,10 @@ https://www.youtube.com/watch?v=Jg58I7d6Azg
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ltfFOP8UgbE/maxresdefault.jpg" group-title="政論",【全球大視野】川普證實伊朗總統求停火強硬回應不開放荷莫茲海峽就再轟中天新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDx2U69pl1w/maxresdefault.jpg" group-title="政論",【全球大視野】逾半世紀首度載人重返月球阿提米絲二號繞月測試升空即時中文翻譯
+https://www.youtube.com/watch?v=uDx2U69pl1w
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ltfFOP8UgbE/maxresdefault.jpg" group-title="政論",【全球大視野】川普稱伊朗新總統求停火嗆不開放荷姆茲海峽就將伊朗炸回石器時代中天新聞
 https://www.youtube.com/watch?v=ltfFOP8UgbE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ac5Mez3iiTg/maxresdefault.jpg" group-title="政論",【全球大視野】睽違多年人類再次奔月阿提米絲號發射倒數計時即時中文翻譯
-https://www.youtube.com/watch?v=Ac5Mez3iiTg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VFKcuDGfw5o/maxresdefault.jpg" group-title="政論",【94要客訴】柯文哲言詞辯論宣判影片全紀錄三立新聞網
@@ -458,7 +456,11 @@ https://www.youtube.com/watch?v=VFKcuDGfw5o
 https://www.youtube.com/watch?v=A0LrJAAHUF0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mfjV_r5mlQ4/maxresdefault.jpg" group-title="政論",【57爆新聞】有轉折川普稱伊朗求停火荷莫茲海峽必須完全恢復
 https://www.youtube.com/watch?v=mfjV_r5mlQ4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o--RIezJkcE/maxresdefault.jpg" group-title="政論",【頭條開講】川普證實伊朗總統求停火強硬回應不開放荷莫茲海峽就再轟中天新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ue19foujytI/maxresdefault.jpg" group-title="政論",【新聞龍捲風】逾半世紀首度載人重返月球阿提米絲二號繞月測試升空即時中文翻譯
+https://www.youtube.com/watch?v=ue19foujytI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o4ncZ5qRT-c/maxresdefault.jpg" group-title="政論",【頭條開講】逾半世紀首度載人重返月球阿提米絲二號繞月測試升空即時中文翻譯
+https://www.youtube.com/watch?v=o4ncZ5qRT-c
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o--RIezJkcE/maxresdefault.jpg" group-title="政論",【頭條開講】川普稱伊朗新總統求停火嗆不開放荷姆茲海峽就將伊朗炸回石器時代中天新聞
 https://www.youtube.com/watch?v=o--RIezJkcE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cvTOL-PGqEg/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=cvTOL-PGqEg

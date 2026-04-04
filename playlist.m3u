@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-04-04 09:33:23
+# Last Update: 2026-04-04 10:28:05
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -18,19 +18,23 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UtqTcErgjp8/maxresdefault.jpg" group-title="台灣",【民視新聞網】龍德宮媽祖南巡祈安遶境現場最新民視快新聞
+https://www.youtube.com/watch?v=UtqTcErgjp8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/auYwNjDmz1c/maxresdefault.jpg" group-title="台灣",【民視新聞網】豪雨狂襲苗線土石崩落砸車駕駛自行脫困就醫客運行駛中車窗突爆裂玻璃碎滿地乘客嚇壞綠島潛水客船擱淺船上人跳船幸全數平安上岸
+https://www.youtube.com/watch?v=auYwNjDmz1c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映以身相許幕後製作
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人文講堂
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙愛的微光
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3UUAq5K1iL4/maxresdefault.jpg" group-title="台灣",【東森新聞】連假竹苗大雷雨警報多區淹水傳災情苗線路上淹成河道土黃泥流覆蓋路段新竹太原地下道嚴重積淹水
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3UUAq5K1iL4/maxresdefault.jpg" group-title="台灣",【東森新聞】雨還沒停入夜再一波今煙囪雲雨灌竹苗缺水變淹水苗栗雨量狂灌多車泡水淹民宅
 https://www.youtube.com/watch?v=3UUAq5K1iL4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -46,8 +50,8 @@ https://www.youtube.com/watch?v=Sy4swkrbYe8
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6a1MtKhtfMQ/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】竹苗暴雨卓揆喊話速審預算中油扛住了吸收億油價凍漲索爾工人扛榔頭照抄襲戰鄭習會送啥鄭麗文討論好了何織羽報新聞中天新聞
-https://www.youtube.com/watch?v=6a1MtKhtfMQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RffFG8uiCng/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】介文汲栗正傑嚴震生天被擊落架美戰機出事伊朗羞辱懸賞活捉美飛官鄭麗文重磅見習近平談這事林嘉源辣晚報完整版中天新聞
+https://www.youtube.com/watch?v=RffFG8uiCng
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7TlwDu46xM0/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】川普進退失據美陷戰略災難美以伊何時停火中天新聞
 https://www.youtube.com/watch?v=7TlwDu46xM0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KhzIXw0PRPk/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】川普稱美軍戰機被擊落不影響談判伊朗正式告知不會談美伊談不攏川普不裝了準備釋放地獄戰火專家解析不斷更新中天電視
@@ -56,6 +60,8 @@ https://www.youtube.com/watch?v=KhzIXw0PRPk
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NFW3CCGpuwo/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】晚間整點新聞重點
+https://www.youtube.com/watch?v=NFW3CCGpuwo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -324,8 +330,8 @@ https://www.youtube.com/watch?v=lHObUUc6KoA
 https://www.youtube.com/watch?v=f0uDO_S3yQQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WQ2NiSi71Ck/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】星海飞驰险途历尽外海风云帷幕终落韩立重返天南凡人修仙传
 https://www.youtube.com/watch?v=WQ2NiSi71Ck
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zYopgSnayFE/maxresdefault.jpg" group-title="體育",【緯來體育台】北一女中南山高中準決賽
-https://www.youtube.com/watch?v=zYopgSnayFE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BX8DLRmI1js/maxresdefault.jpg" group-title="體育",【緯來體育台】東泰高中松山高中準決賽
+https://www.youtube.com/watch?v=BX8DLRmI1js
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wtd9mFw-pPI/maxresdefault.jpg" group-title="體育",【公視體育】台中向上台中戰狼年台灣社區棒球錦標賽
 https://www.youtube.com/watch?v=wtd9mFw-pPI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IK4aQwOBnBE/maxresdefault.jpg" group-title="體育",【getwin_sport】年台灣社區棒球錦標賽台中向上台中戰狼臺北市青年公園謝國城紀念棒球場
@@ -336,10 +342,10 @@ https://www.youtube.com/watch?v=r0TLT5pweJM
 https://www.youtube.com/watch?v=iSkc-D5EY9Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FfMgy0ujff4/maxresdefault.jpg" group-title="體育",【P.LEAGUE+】洋基工程璞園領航猿
 https://www.youtube.com/watch?v=FfMgy0ujff4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nTP3VKYGndA/maxresdefault.jpg" group-title="體育",【TPBL】例行賽福爾摩沙夢想家中信特攻
-https://www.youtube.com/watch?v=nTP3VKYGndA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k1busG2kJHo/maxresdefault.jpg" group-title="體育",【TPBL】例行賽全家海神台啤永豐雲豹
 https://www.youtube.com/watch?v=k1busG2kJHo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/W-y59rUfo1g/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽佳飛雅醫美
+https://www.youtube.com/watch?v=W-y59rUfo1g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SIBP7u0tDJY/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=SIBP7u0tDJY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dv-pmT25qZc/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -352,8 +358,6 @@ https://www.youtube.com/watch?v=yqYTyztFSw8
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pOBYQCkqYOg/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音四月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
-https://www.youtube.com/watch?v=pOBYQCkqYOg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YSWHtk1_UKQ/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=YSWHtk1_UKQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WlqXiPuwWtM/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
@@ -468,6 +472,8 @@ https://www.youtube.com/watch?v=jlzHCIZ5Xko
 https://www.youtube.com/watch?v=-ig3OSXNiDY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jg58I7d6Azg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=Jg58I7d6Azg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/d3XQ4iGhcUA/maxresdefault.jpg" group-title="音樂",【MEET48 Global】公演
+https://www.youtube.com/watch?v=d3XQ4iGhcUA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uFNdXAeYkT0/maxresdefault.jpg" group-title="音樂",【MEET48 Global】遗忘的国度孙嘉馥季度演出
 https://www.youtube.com/watch?v=uFNdXAeYkT0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
@@ -484,8 +490,6 @@ https://www.youtube.com/watch?v=HGrqGo85cVA
 https://www.youtube.com/watch?v=e5Ax1knBU5Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VFKcuDGfw5o/maxresdefault.jpg" group-title="政論",【94要客訴】柯文哲言詞辯論宣判影片全紀錄三立新聞網
 https://www.youtube.com/watch?v=VFKcuDGfw5o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-PZBLE6A_1E/maxresdefault.jpg" group-title="政論",【新聞大白話】特報
-https://www.youtube.com/watch?v=-PZBLE6A_1E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pOxfanaD2I0/maxresdefault.jpg" group-title="政論",【中時新聞網】白沙屯媽祖進香將登場精彩回顧小時不斷電
 https://www.youtube.com/watch?v=pOxfanaD2I0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X6noTxqGI0I/maxresdefault.jpg" group-title="政論",【中天深喉嚨】川普進退失據美陷戰略災難美以伊何時停火中天新聞
@@ -496,6 +500,34 @@ https://www.youtube.com/watch?v=t5bPdaUOqfk
 https://www.youtube.com/watch?v=8jvY2pW-b68
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z6KbckilQiI/maxresdefault.jpg" group-title="政論",【萬事通事務所】站理工男主打下中國萬工程師的全球戰爭掀開序幕黑貓中隊中國網友
 https://www.youtube.com/watch?v=Z6KbckilQiI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jOiPpGxnXds/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
+https://www.youtube.com/watch?v=jOiPpGxnXds
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JXR6CmDI4ak/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
+https://www.youtube.com/watch?v=JXR6CmDI4ak
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6z6jdVt8-Cw/maxresdefault.jpg" group-title="購物",【三聖電視台】「三聖電視台」直播
+https://www.youtube.com/watch?v=6z6jdVt8-Cw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HZTQ87Vq2IA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
+https://www.youtube.com/watch?v=HZTQ87Vq2IA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QuHKZCwYsAM/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播
+https://www.youtube.com/watch?v=QuHKZCwYsAM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xDDsT6fvtWE/maxresdefault.jpg" group-title="購物",【桐瑛台南電視臺】「桐瑛台南電視臺」直播
+https://www.youtube.com/watch?v=xDDsT6fvtWE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_pZQ1Lk0xMA/maxresdefault.jpg" group-title="購物",【momo購物一台】購物一台頻道小時線上
+https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xbNWkUyxQGM/maxresdefault.jpg" group-title="購物",【momo購物二台】購物二台頻道小時線上
+https://www.youtube.com/watch?v=xbNWkUyxQGM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lEXITHxcagI/maxresdefault.jpg" group-title="購物",【ViVa TV美好家庭購物】美好購物台線上看
+https://www.youtube.com/watch?v=lEXITHxcagI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7IyxOiGMLgw/maxresdefault.jpg" group-title="購物",【ViVa TV美好家庭購物】美好購物台線上看
+https://www.youtube.com/watch?v=7IyxOiGMLgw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ViJ3XiN6Q3M/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH47
+https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z50JFuNgvB0/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH46
+https://www.youtube.com/watch?v=Z50JFuNgvB0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Vlzn9qAHD4/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH34
+https://www.youtube.com/watch?v=_Vlzn9qAHD4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u0NYyH3ZesE/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH60
+https://www.youtube.com/watch?v=u0NYyH3ZesE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Lj8OWF6nzcg/maxresdefault.jpg" group-title="國會",【國會頻道】國會頻道２
 https://www.youtube.com/watch?v=Lj8OWF6nzcg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IvAXtzx5cUI/maxresdefault.jpg" group-title="國會",【國會頻道】程序委員會
@@ -738,8 +770,6 @@ https://www.youtube.com/watch?v=KOwpx5P9GCY
 https://www.youtube.com/watch?v=x-VO9ypuzDc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5KJe2gCTngA/maxresdefault.jpg" group-title="風景",【內政部國家公園署台江國家公園管理處】台江國家公園線上七股賞鳥亭黑琵影像
 https://www.youtube.com/watch?v=5KJe2gCTngA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9cU4NrBZ21c/maxresdefault.jpg" group-title="風景",【高雄】現場全國創意宋江陣頭大賽
-https://www.youtube.com/watch?v=9cU4NrBZ21c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/t674V9A7H68/maxresdefault.jpg" group-title="風景",【高雄】壽山動物園狐獴展區寿山動物園展示場
 https://www.youtube.com/watch?v=t674V9A7H68
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BnPoNatG-HE/maxresdefault.jpg" group-title="風景",【高雄】蓮池潭

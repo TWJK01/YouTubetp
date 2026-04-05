@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-04-05 07:58:27
+# Last Update: 2026-04-05 08:50:48
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -18,15 +18,17 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BcT8MLVCVTU/maxresdefault.jpg" group-title="台灣",【民視新聞網】費嫂來台代替費仔味全龍隊開球民視快新聞
+https://www.youtube.com/watch?v=BcT8MLVCVTU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映慈濟的故事
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映人文講堂
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映青春愛讀書
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -46,8 +48,6 @@ https://www.youtube.com/watch?v=hGJkDZDchYI
 https://www.youtube.com/watch?v=DYcSWhQTqwg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-8merAdXrMI/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】全新彩繪亮相宣導全民國防阿帕契黑鷹逢甲大學起飛離場中天新聞
 https://www.youtube.com/watch?v=-8merAdXrMI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CITgwj5PKwI/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】原林義雄宅列轉型正義場址賴清德出席揭牌儀式中天新聞
-https://www.youtube.com/watch?v=CITgwj5PKwI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZSOuCrVdUTU/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】苗栗頭屋豪大雨水淹米高水退了民眾趕緊清理家園中天新聞
 https://www.youtube.com/watch?v=ZSOuCrVdUTU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/I1Amf421_zw/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】阿提米絲號繞月任務距離月球目標僅剩路程中天新聞
@@ -60,6 +60,8 @@ https://www.youtube.com/watch?v=tEh4Y9wxUnM
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KI_eondW-W8/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】教宗良十四世主持彌撒發表復活節文告
+https://www.youtube.com/watch?v=KI_eondW-W8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/brRPMObQCF0/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】阿提米絲號啟航載四太空人繞月飛行
 https://www.youtube.com/watch?v=brRPMObQCF0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
@@ -338,12 +340,14 @@ https://www.youtube.com/watch?v=3IpujT9g8Qc
 https://www.youtube.com/watch?v=Z9Oy5vVhS_U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M7s-R3Mtwo4/maxresdefault.jpg" group-title="體育",【getwin_sport】年台灣社區棒球錦標賽盛樂地野球俱樂部力量河馬臺北市青年公園謝國城紀念棒球場
 https://www.youtube.com/watch?v=M7s-R3Mtwo4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LTYf8B7aSNc/maxresdefault.jpg" group-title="體育",【智林體育台】兆豐銀行迷你棒球春季大賽丨全國決賽丨東海河馬眼鏡蛇
-https://www.youtube.com/watch?v=LTYf8B7aSNc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nUlPyXOfeLo/maxresdefault.jpg" group-title="體育",【智林體育台】兆豐銀行迷你棒球春季大賽丨全國決賽丨好棒河馬藍暴龍
+https://www.youtube.com/watch?v=nUlPyXOfeLo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r0TLT5pweJM/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=r0TLT5pweJM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yRK8f_iq2cw/maxresdefault.jpg" group-title="體育",【P.LEAGUE+】臺北富邦勇士璞園領航猿
 https://www.youtube.com/watch?v=yRK8f_iq2cw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/N7N1l4UvQoM/maxresdefault.jpg" group-title="體育",【TPBL】例行賽臺北台新戰神台啤永豐雲豹
+https://www.youtube.com/watch?v=N7N1l4UvQoM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/flaB0Xfw_Bk/maxresdefault.jpg" group-title="體育",【TPBL】例行賽國王中信特攻
 https://www.youtube.com/watch?v=flaB0Xfw_Bk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WFzB39IpKZw/maxresdefault.jpg" group-title="體育",【日本B聯盟】KOSHIGAYA ALPHA
@@ -486,6 +490,8 @@ https://www.youtube.com/watch?v=wJIWiUhA-bc
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xm4rwyqSwQo/maxresdefault.jpg" group-title="政論",【全球大視野】川炸逼伊談急退場又錯中美會前習出兩手定調周錫瑋介文汲李大中重磅對談精彩完整全程中天電視網路論壇
+https://www.youtube.com/watch?v=xm4rwyqSwQo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lnL7JPmlhAk/maxresdefault.jpg" group-title="政論",【全球大視野】川普證實美軍救出受傷飛官與伊激烈交戰以襲伊最大石化廠伊嗆迎地獄之門
 https://www.youtube.com/watch?v=lnL7JPmlhAk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
@@ -494,8 +500,6 @@ https://www.youtube.com/watch?v=0UOnH10P4oY
 https://www.youtube.com/watch?v=te3gIBZC02A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VFKcuDGfw5o/maxresdefault.jpg" group-title="政論",【94要客訴】柯文哲言詞辯論宣判影片全紀錄三立新聞網
 https://www.youtube.com/watch?v=VFKcuDGfw5o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E-uUVqOHK-I/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】陳柏惟去大公司磨練宣布加入民進黨參選台中議員了綠傳徵召沈柏洋出戰綠這兩都有隱憂柯志恩勝選關鍵曝光
-https://www.youtube.com/watch?v=E-uUVqOHK-I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Y00v1gN3SDU/maxresdefault.jpg" group-title="政論",【新聞大白話】特報
 https://www.youtube.com/watch?v=Y00v1gN3SDU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0uRhttIg820/maxresdefault.jpg" group-title="政論",【中時新聞網】白沙屯媽祖進香將登場精彩回顧小時不斷電
@@ -540,6 +544,26 @@ https://www.youtube.com/watch?v=Z50JFuNgvB0
 https://www.youtube.com/watch?v=_Vlzn9qAHD4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u0NYyH3ZesE/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH60
 https://www.youtube.com/watch?v=u0NYyH3ZesE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Lj8OWF6nzcg/maxresdefault.jpg" group-title="國會",【國會頻道】國會頻道２
+https://www.youtube.com/watch?v=Lj8OWF6nzcg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IvAXtzx5cUI/maxresdefault.jpg" group-title="國會",【國會頻道】程序委員會
+https://www.youtube.com/watch?v=IvAXtzx5cUI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yUx5lB4mhZk/maxresdefault.jpg" group-title="國會",【國會頻道】黨團協商
+https://www.youtube.com/watch?v=yUx5lB4mhZk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DdUWlWZVOi8/maxresdefault.jpg" group-title="國會",【國會頻道】社會福利及衛生環境委員會
+https://www.youtube.com/watch?v=DdUWlWZVOi8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nkejc54RyDU/maxresdefault.jpg" group-title="國會",【國會頻道】經費稽核委員會
+https://www.youtube.com/watch?v=nkejc54RyDU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyHM5yvcLU4/maxresdefault.jpg" group-title="國會",【國會頻道】紀律委員會
+https://www.youtube.com/watch?v=KyHM5yvcLU4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Af0TFVbxvAQ/maxresdefault.jpg" group-title="國會",【國會頻道】外交及國防委員會
+https://www.youtube.com/watch?v=Af0TFVbxvAQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tDg3bJFYLzI/maxresdefault.jpg" group-title="國會",【國會頻道】立法院會議
+https://www.youtube.com/watch?v=tDg3bJFYLzI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xfikIGtkQeA/maxresdefault.jpg" group-title="國會",【國會頻道】經濟委員會
+https://www.youtube.com/watch?v=xfikIGtkQeA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cidl9JoRtGk/maxresdefault.jpg" group-title="國會",【國會頻道】財政委員會
+https://www.youtube.com/watch?v=Cidl9JoRtGk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ih-Kv8XPdcQ/maxresdefault.jpg" group-title="宗教",【中華傳統文化教育中心】世界電視台儒釋道教育與藝術文化的電視台
 https://www.youtube.com/watch?v=ih-Kv8XPdcQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/J5ZaPfMwKTk/maxresdefault.jpg" group-title="宗教",【修心時刻】藥師佛合輯健康延壽守護安穩的琉璃光華舒心版

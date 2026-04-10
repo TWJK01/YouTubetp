@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-04-10 19:39:57
+# Last Update: 2026-04-10 20:30:16
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映行動現場
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映風月同天
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映風月同天
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -198,8 +198,6 @@ https://www.youtube.com/watch?v=iT7RicpCeic
 https://www.youtube.com/watch?v=XNO0vjTNhzo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9e7p4F7myy8/maxresdefault.jpg" group-title="影劇",【CCTV电视剧】嘻嘻哈哈过新年二十年弹指一挥间小郭祝你自由马拉松武林外传另类喜剧戏说江湖
 https://www.youtube.com/watch?v=9e7p4F7myy8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7XLnuPNTgqc/maxresdefault.jpg" group-title="影劇",【老广一起睇】小时大院房客家第季经典第集连播粤语经典电视剧
-https://www.youtube.com/watch?v=7XLnuPNTgqc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/buBihktg9-g/maxresdefault.jpg" group-title="影劇",【GC影視】從無話不談到無話可說揭開中年夫妻冷暴力的殘酷真相蔣雯麗陳道明演技封神中國式離婚全集輪播
 https://www.youtube.com/watch?v=buBihktg9-g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZLjpn0vXRgo/maxresdefault.jpg" group-title="影劇",【GC影視】劉若英演技封神之作新結婚時代全集馬拉松相愛容易相處難演透了婚姻的無奈與真實
@@ -316,6 +314,8 @@ https://www.youtube.com/watch?v=r0TLT5pweJM
 https://www.youtube.com/watch?v=SIBP7u0tDJY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dv-pmT25qZc/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
 https://www.youtube.com/watch?v=Dv-pmT25qZc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1_cMX07w0c0/maxresdefault.jpg" group-title="體育",【WWE】Zuffa Boxing Q&
+https://www.youtube.com/watch?v=1_cMX07w0c0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-b4UEAGPBBQ/maxresdefault.jpg" group-title="體育",【WWE】Best of Wrestle
 https://www.youtube.com/watch?v=-b4UEAGPBBQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yRc2z0F_8uE/maxresdefault.jpg" group-title="體育",【WWE Vault】WrestleMania Wa
@@ -436,20 +436,6 @@ https://www.youtube.com/watch?v=jlzHCIZ5Xko
 https://www.youtube.com/watch?v=-ig3OSXNiDY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jg58I7d6Azg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=Jg58I7d6Azg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
-https://www.youtube.com/watch?v=WAUECPu9EOw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
-https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wWmUvzPuHBU/maxresdefault.jpg" group-title="政論",【全球大視野】美伊會談號登場巴基斯坦升級維安川普批伊朗違約停火後僅船通過荷姆茲海峽
-https://www.youtube.com/watch?v=wWmUvzPuHBU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
-https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ImAew2yj40w/maxresdefault.jpg" group-title="政論",【中時新聞網】白沙屯媽祖進香將登場精彩回顧小時不斷電
-https://www.youtube.com/watch?v=ImAew2yj40w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/98jFAWTC_gY/maxresdefault.jpg" group-title="政論",【57爆新聞】伊朗最高領袖聲明為父報仇荷莫茲海峽管理進入新階段
-https://www.youtube.com/watch?v=98jFAWTC_gY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f3w7avLmj70/maxresdefault.jpg" group-title="政論",【頭條開講】美伊會談號登場巴基斯坦升級維安川普批伊朗違約停火後僅船通過荷姆茲海峽
-https://www.youtube.com/watch?v=f3w7avLmj70
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jOiPpGxnXds/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=jOiPpGxnXds
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/h2JhNZbOtS4/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場

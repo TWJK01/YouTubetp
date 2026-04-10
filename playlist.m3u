@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-04-10 07:21:03
+# Last Update: 2026-04-10 09:03:23
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -8,12 +8,12 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=34Tdm973FXw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LzOTY4mZG00/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】台灣天氣即時監測
 https://www.youtube.com/watch?v=LzOTY4mZG00
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LTJ7Xvukum0/maxresdefault.jpg" group-title="台灣",【台視新聞】賴清德凌霄寶殿武龍宮參香
-https://www.youtube.com/watch?v=LTJ7Xvukum0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fvreSJOut4M/maxresdefault.jpg" group-title="台灣",【台視新聞】蔣萬安赴議會施政報告備詢
 https://www.youtube.com/watch?v=fvreSJOut4M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/631dCkga8k0/maxresdefault.jpg" group-title="台灣",【中視新聞】新庶民大頭家
+https://www.youtube.com/watch?v=631dCkga8k0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G92f_mo63KA/maxresdefault.jpg" group-title="台灣",【中視新聞】盼共推兩岸和平制度化鄭麗文北京記者會現場最新
 https://www.youtube.com/watch?v=G92f_mo63KA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gcqJF_yloCk/maxresdefault.jpg" group-title="台灣",【中視新聞】鄭習會今登場睽違年國共兩黨主席會面
@@ -26,8 +26,8 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/B8eckylRF2A/maxresdefault.jpg" group-title="台灣",【民視新聞網】發揮區域穩定關鍵支柱台灣關係法週年省思論壇民視快新聞
-https://www.youtube.com/watch?v=B8eckylRF2A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Wo9S3qMpjgM/maxresdefault.jpg" group-title="台灣",【民視新聞網】和平之旅鄭習會共軍實彈演習鄭麗文喊兩岸交流對話唯一政治基礎是九二共識反台獨民視快新聞
+https://www.youtube.com/watch?v=Wo9S3qMpjgM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ma9nY-FCCDQ/maxresdefault.jpg" group-title="台灣",【民視新聞網】寵物用藥新制引爭議防檢署召開會議研商杜文珍重申維護動物生命權醫療權保障動物醫院取得藥品民視快新聞
 https://www.youtube.com/watch?v=ma9nY-FCCDQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/T7-p3BMmsPo/maxresdefault.jpg" group-title="台灣",【民視新聞網】蔣萬安列席市議會施政報告並備質詢民視快新聞
@@ -38,28 +38,24 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映慈濟充滿愛
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇以身相許
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙愛的微光
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛劇以身相許
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qgn6FFm2lZk/maxresdefault.jpg" group-title="台灣",【鏡新聞】睽違十年國共再度面對面鄭習會今登場習近平當面嗆國土不可分國民黨軍購協商缺席鄭習會後將再封殺李洋遭藍白圍剿總預算不審還搞情勒大選鏡來講
-https://www.youtube.com/watch?v=qgn6FFm2lZk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0V4WfymM90I/maxresdefault.jpg" group-title="台灣",【鏡新聞】總統賴清德赴大灣凌霄寶殿武龍宮參香
-https://www.youtube.com/watch?v=0V4WfymM90I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G8QZAZja2Cg/maxresdefault.jpg" group-title="台灣",【鏡新聞】市長蔣萬安赴議會施政報告備詢
 https://www.youtube.com/watch?v=G8QZAZja2Cg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7ohS-6pBGSY/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】鄭習會後鄭麗文舉行中外記者會
-https://www.youtube.com/watch?v=7ohS-6pBGSY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9cBORfvJ-8M/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】鄭習會北京正式登場習近平人民大會堂見鄭麗文法官有備而來柯判決書附件有全彩附圖說明王偊菁主持三立新聞台
-https://www.youtube.com/watch?v=9cBORfvJ-8M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QsGswQvRmtU/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】鄭習會登場三立新聞美伊戰爭國際焦點地震氣象台湾
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pwR-r8pft3E/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】釋善意習近平提字多過鄭服裝色系相同閉門內容曝光卡天總預算動了韓下周喬神祕第五人徐國勇明確表態何織羽賴正鎧報新聞中天新聞
+https://www.youtube.com/watch?v=pwR-r8pft3E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u5S8Pld_rXg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】民進黨北市長難產王世堅最新回應中天新聞
+https://www.youtube.com/watch?v=u5S8Pld_rXg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WK45yXDpJKo/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】脫北潮年流失一個大安區綠批別躺平蔣萬安最新回應
 https://www.youtube.com/watch?v=WK45yXDpJKo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fUK1sHX6ugY/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】誓言為父復仇伊朗新領袖強硬表態宣布荷姆茲管控進入新階段伊朗倒過來對美下最後通牒川普嗆將更猛烈打擊中天電視
@@ -70,8 +66,8 @@ https://www.youtube.com/watch?v=0MYkgQxfJXc
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dbFXuRmyWiY/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】鄭習歷史性會面後鄭麗文北京中外記者會
-https://www.youtube.com/watch?v=dbFXuRmyWiY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JeDVG7yd_LU/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】鄭麗文參觀清華附中教育重點中學
+https://www.youtube.com/watch?v=JeDVG7yd_LU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -84,6 +80,8 @@ https://www.youtube.com/watch?v=w87VGpgd90U
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/maxresdefault.jpg" group-title="台灣",【寰宇全視界】寰宇新聞台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=5SH3FDMyMzg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GM8fQzPEmis/maxresdefault.jpg" group-title="台灣",【udn video】鄭習會今登場鄭麗文下午開記者會對外說明
+https://www.youtube.com/watch?v=GM8fQzPEmis
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人小時
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qhApzA9RSDo/maxresdefault.jpg" group-title="台灣",【三大一台】三大有線電視公司
@@ -336,6 +334,8 @@ https://www.youtube.com/watch?v=8OxUW3I5tts
 https://www.youtube.com/watch?v=ssxcAjVk-_4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lHObUUc6KoA/maxresdefault.jpg" group-title="少兒",【朱妮托尼 - 动画儿歌】禮貌俠好習慣兒歌幼兒公共禮儀律動朱妮托尼童話音樂劇小時中文兒歌
 https://www.youtube.com/watch?v=lHObUUc6KoA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nq27Jvoi2Vs/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】凡人修仙传新篇章定档月快来重温之前剧情准备迎接慕兰之战
+https://www.youtube.com/watch?v=nq27Jvoi2Vs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fbJMRwJB7Do/maxresdefault.jpg" group-title="體育",【公視體育】樂天桃猿統一獅中華職棒二軍例行賽
 https://www.youtube.com/watch?v=fbJMRwJB7Do
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r0TLT5pweJM/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
@@ -352,6 +352,8 @@ https://www.youtube.com/watch?v=yRc2z0F_8uE
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/79GeZVcqPTk/maxresdefault.jpg" group-title="音樂",【4kTQ-music】抖音最最最火抖音歌曲抖音最火四月熱門歌曲最火流行歌曲大陸流行歌曲
+https://www.youtube.com/watch?v=79GeZVcqPTk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RgWt86LdBYM/maxresdefault.jpg" group-title="音樂",【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=RgWt86LdBYM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YSWHtk1_UKQ/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
@@ -376,6 +378,8 @@ https://www.youtube.com/watch?v=knvMRLgucNs
 https://www.youtube.com/watch?v=rNl66pRRpSw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/T-q_NSfYb6A/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年三月最新歌曲最新華語單曲排行榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
 https://www.youtube.com/watch?v=T-q_NSfYb6A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jb00ImiAwls/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
+https://www.youtube.com/watch?v=Jb00ImiAwls
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xfS9K4ScMW4/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=xfS9K4ScMW4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hI60Fnalrlc/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
@@ -466,32 +470,22 @@ https://www.youtube.com/watch?v=jlzHCIZ5Xko
 https://www.youtube.com/watch?v=-ig3OSXNiDY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jg58I7d6Azg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=Jg58I7d6Azg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dM4EVuNNEtA/maxresdefault.jpg" group-title="政論",【壹電視NEXT TV】鄭習會登場習近平站步不耐煩鄭麗文擠巴士乾等分鐘秒開迷妹模式捧中國脫貧台派激賞習下鄭上鄭命所歸柯文哲萬字判決書大公開
-https://www.youtube.com/watch?v=dM4EVuNNEtA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ooFG_bzIC7U/maxresdefault.jpg" group-title="政論",【全球大視野】納坦雅胡拒絕停火恐面終身監禁伊朗總統放話衝突全面重啟何姆茲將再被封鄭習會登場台海新局川普羨慕眼紅
+https://www.youtube.com/watch?v=ooFG_bzIC7U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DM4cnkd3JRo/maxresdefault.jpg" group-title="政論",【全球大視野】誓言為父復仇伊朗新領袖強硬表態宣布荷姆茲管控進入新階段伊朗倒過來對美下最後通牒川普嗆將更猛烈打擊
 https://www.youtube.com/watch?v=DM4cnkd3JRo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jIWgI0qMSWQ/maxresdefault.jpg" group-title="政論",【民視讚夯】鄭習會登場各自發表談話軍購案停滯藍委人出席因鄭習會駱武昌是抓耙子王定宇藍版軍購就是沒黃國昌人氣崩壞三重辦活動忙動員
-https://www.youtube.com/watch?v=jIWgI0qMSWQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gZmuAy3SoPc/maxresdefault.jpg" group-title="政論",【94要客訴】鄭習會後鄭麗文舉行中外記者會三立新聞網
-https://www.youtube.com/watch?v=gZmuAy3SoPc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bmwLhKud_AQ/maxresdefault.jpg" group-title="政論",【94要客訴】主播陪你聊新聞三立新聞網
-https://www.youtube.com/watch?v=bmwLhKud_AQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tmmiotXnLow/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】現正中
-https://www.youtube.com/watch?v=tmmiotXnLow
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kb0GbFFCpNE/maxresdefault.jpg" group-title="政論",【94要客訴】春季例行賽傳說對決三立新聞網
+https://www.youtube.com/watch?v=kb0GbFFCpNE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wbjq78ThQmk/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】鄭習會全最新鄭麗文中外記者會完整公開
 https://www.youtube.com/watch?v=wbjq78ThQmk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-DUaB7DyW20/maxresdefault.jpg" group-title="政論",【新聞大白話】鄭習歷史性會面後鄭麗文北京中外記者會
-https://www.youtube.com/watch?v=-DUaB7DyW20
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e7IbISCDg9w/maxresdefault.jpg" group-title="政論",【新聞大白話】🔴LIVE：2026.04.1
 https://www.youtube.com/watch?v=e7IbISCDg9w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5YwdWlxvfV8/maxresdefault.jpg" group-title="政論",【中時新聞網】對鄭習會登場笑而不答賴清德赴武德宮參香祈福
-https://www.youtube.com/watch?v=5YwdWlxvfV8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KKPfl6te594/maxresdefault.jpg" group-title="政論",【中時新聞網】盼共推兩岸和平制度化鄭麗文北京記者會現場最新
 https://www.youtube.com/watch?v=KKPfl6te594
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ImAew2yj40w/maxresdefault.jpg" group-title="政論",【中時新聞網】白沙屯媽祖進香將登場精彩回顧小時不斷電
@@ -504,8 +498,6 @@ https://www.youtube.com/watch?v=BA2teD8K1wQ
 https://www.youtube.com/watch?v=1Hf1s_rjBPs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9JbPjglGOw0/maxresdefault.jpg" group-title="政論",【頭條開講】鄭習會全最新鄭麗文中外記者會完整公開
 https://www.youtube.com/watch?v=9JbPjglGOw0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kizifonxmKk/maxresdefault.jpg" group-title="政論",【少康戰情室】鄭習歷史性會面後鄭麗文北京中外記者會
-https://www.youtube.com/watch?v=kizifonxmKk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jOiPpGxnXds/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=jOiPpGxnXds
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/h2JhNZbOtS4/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
@@ -534,26 +526,6 @@ https://www.youtube.com/watch?v=Z50JFuNgvB0
 https://www.youtube.com/watch?v=_Vlzn9qAHD4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u0NYyH3ZesE/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH60
 https://www.youtube.com/watch?v=u0NYyH3ZesE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Lj8OWF6nzcg/maxresdefault.jpg" group-title="國會",【國會頻道】國會頻道２
-https://www.youtube.com/watch?v=Lj8OWF6nzcg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IvAXtzx5cUI/maxresdefault.jpg" group-title="國會",【國會頻道】程序委員會
-https://www.youtube.com/watch?v=IvAXtzx5cUI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yUx5lB4mhZk/maxresdefault.jpg" group-title="國會",【國會頻道】黨團協商
-https://www.youtube.com/watch?v=yUx5lB4mhZk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DdUWlWZVOi8/maxresdefault.jpg" group-title="國會",【國會頻道】社會福利及衛生環境委員會
-https://www.youtube.com/watch?v=DdUWlWZVOi8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nkejc54RyDU/maxresdefault.jpg" group-title="國會",【國會頻道】經費稽核委員會
-https://www.youtube.com/watch?v=nkejc54RyDU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyHM5yvcLU4/maxresdefault.jpg" group-title="國會",【國會頻道】紀律委員會
-https://www.youtube.com/watch?v=KyHM5yvcLU4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Af0TFVbxvAQ/maxresdefault.jpg" group-title="國會",【國會頻道】外交及國防委員會
-https://www.youtube.com/watch?v=Af0TFVbxvAQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tDg3bJFYLzI/maxresdefault.jpg" group-title="國會",【國會頻道】立法院會議
-https://www.youtube.com/watch?v=tDg3bJFYLzI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xfikIGtkQeA/maxresdefault.jpg" group-title="國會",【國會頻道】經濟委員會
-https://www.youtube.com/watch?v=xfikIGtkQeA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cidl9JoRtGk/maxresdefault.jpg" group-title="國會",【國會頻道】財政委員會
-https://www.youtube.com/watch?v=Cidl9JoRtGk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ih-Kv8XPdcQ/maxresdefault.jpg" group-title="宗教",【中華傳統文化教育中心】世界電視台儒釋道教育與藝術文化的電視台
 https://www.youtube.com/watch?v=ih-Kv8XPdcQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/J5ZaPfMwKTk/maxresdefault.jpg" group-title="宗教",【修心時刻】藥師佛合輯健康延壽守護安穩的琉璃光華舒心版

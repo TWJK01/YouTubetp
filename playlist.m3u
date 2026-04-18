@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-04-18 09:42:20
+# Last Update: 2026-04-18 10:35:33
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -20,6 +20,8 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D0D7amykarw/maxresdefault.jpg" group-title="台灣",【民視新聞網】噁超商茶葉蛋發霉牽絲民眾吃顆上吐下瀉中國官媒最愛台灣代表曝光鄭麗文榜首館長位居第二隨媽祖進香過程備受關照香燈腳訂製結緣品發送
+https://www.youtube.com/watch?v=D0D7amykarw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4fYqh_5ZFlo/maxresdefault.jpg" group-title="台灣",【民視新聞網】白沙屯媽祖北港進香第天回鑾苗栗粉紅超跑最新動態直擊民視快新聞
 https://www.youtube.com/watch?v=4fYqh_5ZFlo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
@@ -28,7 +30,7 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛全紀實
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙阿燕
 https://www.youtube.com/watch?v=QDxRJP-wfeI
@@ -44,16 +46,16 @@ https://www.youtube.com/watch?v=Rpt_qyYKdmU
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外版
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lAUYlSgox_Y/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】荷姆茲通了油價下跌股市漲川普開心將會習近平看閱兵下週國內汽柴油暫不調整粉紅超跑沒切道雙媽會落空簡至豪報新聞中天新聞
-https://www.youtube.com/watch?v=lAUYlSgox_Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eDpsYoCKvrs/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】苑舉正嚴震生栗正傑兩岸機會郭正亮爆時間點日艦穿台海中國火大拳沙特求救巴鐵戰機進駐張雅婷完整版中天新聞
+https://www.youtube.com/watch?v=eDpsYoCKvrs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GXT1lfu0MOQ/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】大甲媽遶境首日萬人搶鑽轎一級戰區民生地下道眾所矚目中天電視中天新聞
 https://www.youtube.com/watch?v=GXT1lfu0MOQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KqaMHwCmOxg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】以黎停火天國領袖白宮見川普稱伊朗同意濃縮鈾運國外伊朗外交部批說謊專家解析中天新聞
 https://www.youtube.com/watch?v=KqaMHwCmOxg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MuTruj1sQQU/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】雙媽會大甲媽白沙屯媽黃金交疊天中天新聞
 https://www.youtube.com/watch?v=MuTruj1sQQU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
-https://www.youtube.com/watch?v=MZhMxKNtOnA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bpl1k-3sZd0/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】晚間整點新聞重點
+https://www.youtube.com/watch?v=Bpl1k-3sZd0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -280,28 +282,26 @@ https://www.youtube.com/watch?v=tgjfs0HIjxk
 https://www.youtube.com/watch?v=ssxcAjVk-_4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MpKBBTFCQMg/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】凡人修仙传新篇章定档月快来重温之前剧情准备迎接慕兰之战
 https://www.youtube.com/watch?v=MpKBBTFCQMg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D_8ju8jhzTc/maxresdefault.jpg" group-title="體育",【漁夫大玩攝影】中信兄弟統一獅亞太副球場二軍例行賽
-https://www.youtube.com/watch?v=D_8ju8jhzTc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8mzs5atbGzM/maxresdefault.jpg" group-title="體育",【BE HEROES】第屆暨第屆例行賽六彰化璞園柏力力臺灣銀行
+https://www.youtube.com/watch?v=8mzs5atbGzM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r0TLT5pweJM/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=r0TLT5pweJM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Gp38ozwElT4/maxresdefault.jpg" group-title="體育",【GoHoops】淡水籃球主委盃中連託運行新凱濾材
+https://www.youtube.com/watch?v=Gp38ozwElT4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aaMnzouiJx8/maxresdefault.jpg" group-title="體育",【P.LEAGUE+】Taipei Fubon Br
 https://www.youtube.com/watch?v=aaMnzouiJx8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VUi3YoUwFT0/maxresdefault.jpg" group-title="體育",【P.LEAGUE+】臺北富邦勇士台鋼獵鷹
 https://www.youtube.com/watch?v=VUi3YoUwFT0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MpWpq7-SApU/maxresdefault.jpg" group-title="體育",【TPBL】例行賽台啤永豐雲豹中信特攻
 https://www.youtube.com/watch?v=MpWpq7-SApU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Tw0V5Smvqkc/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟宸新復健科診所
-https://www.youtube.com/watch?v=Tw0V5Smvqkc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/B6GO796Qdbk/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟埔派
-https://www.youtube.com/watch?v=B6GO796Qdbk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5jU8PDQ0OPA/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟星期三
-https://www.youtube.com/watch?v=5jU8PDQ0OPA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ms4sSWxx2UU/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】籃球聯盟市議員黃崇真
-https://www.youtube.com/watch?v=Ms4sSWxx2UU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ew4PD3Z4Rug/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】鮮爆便當
-https://www.youtube.com/watch?v=ew4PD3Z4Rug
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fQrcXfq2FSY/maxresdefault.jpg" group-title="體育",【Body Sports  名衍行銷運動頻道】南市永仁北市懷生
-https://www.youtube.com/watch?v=fQrcXfq2FSY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JCoL-TK1--o/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】籃球聯盟欣興電子
+https://www.youtube.com/watch?v=JCoL-TK1--o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nud6Ljr7Ehw/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】聯合軍高系音納
+https://www.youtube.com/watch?v=nud6Ljr7Ehw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9TvLaGK8YJo/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽鑫建築廣欣藥局耕重健身
+https://www.youtube.com/watch?v=9TvLaGK8YJo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rgb-bBr-ey4/maxresdefault.jpg" group-title="體育",【Body Sports  名衍行銷運動頻道】北市金華宜縣中華
+https://www.youtube.com/watch?v=rgb-bBr-ey4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SIBP7u0tDJY/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=SIBP7u0tDJY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dv-pmT25qZc/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -356,8 +356,6 @@ https://www.youtube.com/watch?v=C8_1hfBQPD0
 https://www.youtube.com/watch?v=hI60Fnalrlc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OYaiWcAgR9A/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=OYaiWcAgR9A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MM7AnZsBFA8/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=MM7AnZsBFA8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/maxresdefault.jpg" group-title="音樂",【Cherry 葵】Nightcore Radio
 https://www.youtube.com/watch?v=tjne3WWB3kA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4FBW3mkdKOs/maxresdefault.jpg" group-title="音樂",【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日
@@ -430,12 +428,12 @@ https://www.youtube.com/watch?v=jlzHCIZ5Xko
 https://www.youtube.com/watch?v=-ig3OSXNiDY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jg58I7d6Azg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=Jg58I7d6Azg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Tl2p_TSrPDU/maxresdefault.jpg" group-title="音樂",【MEET48 Global】我的太阳第七场
-https://www.youtube.com/watch?v=Tl2p_TSrPDU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qWivT0icBZM/maxresdefault.jpg" group-title="音樂",【MEET48 Global】焕新公演巡演北京站
-https://www.youtube.com/watch?v=qWivT0icBZM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TZLHgBwK4Mg/maxresdefault.jpg" group-title="音樂",【MEET48 Global】斗宿之诀第一百三十四场
-https://www.youtube.com/watch?v=TZLHgBwK4Mg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/twgZUU1mHSw/maxresdefault.jpg" group-title="音樂",【MEET48 Global】我的太阳第七场
+https://www.youtube.com/watch?v=twgZUU1mHSw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pXYE0AIJnY8/maxresdefault.jpg" group-title="音樂",【MEET48 Global】手牵手第十一场
+https://www.youtube.com/watch?v=pXYE0AIJnY8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/P17bln29gaI/maxresdefault.jpg" group-title="音樂",【MEET48 Global】赫兹共振公演
+https://www.youtube.com/watch?v=P17bln29gaI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qNGsCXR6Bs8/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】丙午年白沙屯媽祖回鑾萬人隨香直擊粉紅超跑白沙屯拱天宮粉紅超跑進香
 https://www.youtube.com/watch?v=qNGsCXR6Bs8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
@@ -452,8 +450,6 @@ https://www.youtube.com/watch?v=6PIWJhclAZg
 https://www.youtube.com/watch?v=TdVvj4mQwWA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6OhHVO7jVZo/maxresdefault.jpg" group-title="政論",【94要客訴】白沙屯媽祖北返現場最新狀況三立新聞網
 https://www.youtube.com/watch?v=6OhHVO7jVZo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K0DMYMbEDSQ/maxresdefault.jpg" group-title="政論",【新聞大白話】特報
-https://www.youtube.com/watch?v=K0DMYMbEDSQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/391RMuecGoM/maxresdefault.jpg" group-title="政論",【中時新聞網】白沙屯媽組徒步進香北返人潮擠爆
 https://www.youtube.com/watch?v=391RMuecGoM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DbsWr8J7Kg0/maxresdefault.jpg" group-title="政論",【新聞龍捲風】大甲媽遶境首日萬人搶鑽轎一級戰區民生地下道眾所矚目中天電視中天新聞

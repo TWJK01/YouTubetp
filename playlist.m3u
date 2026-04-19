@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-04-19 15:33:53
+# Last Update: 2026-04-19 16:34:37
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映青春愛讀書
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊月娘
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙阿燕
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊月娘
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -44,12 +44,8 @@ https://www.youtube.com/watch?v=bFhjvbX3IK0
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="台灣",【三立LIVE新聞】三立新聞海外版
 https://www.youtube.com/watch?v=hGJkDZDchYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/geWYETMoJ1A/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】鄭麗文和平之旅李鴻源隨團觀察分享國共重啟交流助台灣經濟穩定創和平契機中天新聞
-https://www.youtube.com/watch?v=geWYETMoJ1A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RrVS7BBo7Gg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】全台瘋媽祖信眾熱情鑽轎今晚駐駕西螺福興宮中天新聞
-https://www.youtube.com/watch?v=RrVS7BBo7Gg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DaJvYffwMNk/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】伊朗突鎖荷姆茲海峽射擊至少船美若未達成協議將恢復封鎖伊朗港口中天電視
-https://www.youtube.com/watch?v=DaJvYffwMNk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BL0XR-IbbQU/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】伊朗批川普全是謊言再次封鎖荷姆茲海峽川普將摧毀伊朗的每一座發電廠和橋樑中天新聞
+https://www.youtube.com/watch?v=BL0XR-IbbQU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -90,6 +86,8 @@ https://www.youtube.com/watch?v=LyQ-iWfoVg0
 https://www.youtube.com/watch?v=TsccmbyNk6g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】伊朗恢復對霍爾木茲海峽控制特朗普與伊交涉進行得很好達成協議或親赴伊斯蘭堡美伊周末或會談小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/62F3M3O1AT8/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
+https://www.youtube.com/watch?v=62F3M3O1AT8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -134,8 +132,6 @@ https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 https://www.youtube.com/watch?v=EVATvtQHjyg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WDtXIpA94f8/maxresdefault.jpg" group-title="綜藝",【寶島神很大】白沙屯媽祖即時動向實時更新白沙屯媽祖進香共訊
 https://www.youtube.com/watch?v=WDtXIpA94f8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2i92VA4SzTM/maxresdefault.jpg" group-title="綜藝",【靈異錯別字】全台瘋媽祖信眾熱情鑽轎今晚駐駕西螺福興宮
-https://www.youtube.com/watch?v=2i92VA4SzTM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eA99O9MT2uI/maxresdefault.jpg" group-title="綜藝",【灿星官方频道】ЛУЧШИЕ ФИЛЬМЫ И
 https://www.youtube.com/watch?v=eA99O9MT2uI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JPJFLo9r1gA/maxresdefault.jpg" group-title="影劇",【戲說台灣】白沙屯大甲媽接力遶境戲說一路陪你跟著媽祖走小時不間斷
@@ -202,8 +198,6 @@ https://www.youtube.com/watch?v=HKDuzWlyGts
 https://www.youtube.com/watch?v=6lKL5znyZkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jhqJrDcIHgM/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
 https://www.youtube.com/watch?v=jhqJrDcIHgM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/N4s5py0suqw/maxresdefault.jpg" group-title="影劇",【精选大剧】春秋霸业传兵行诡道平列国一代传奇霸春秋
-https://www.youtube.com/watch?v=N4s5py0suqw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c-_ZGwq9mtg/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
 https://www.youtube.com/watch?v=c-_ZGwq9mtg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VYXlTMBd4y8/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
@@ -332,6 +326,8 @@ https://www.youtube.com/watch?v=ssxcAjVk-_4
 https://www.youtube.com/watch?v=MpKBBTFCQMg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r0TLT5pweJM/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=r0TLT5pweJM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/O4JlpwXRcJQ/maxresdefault.jpg" group-title="體育",【The Savannah Bananas】2026 Banana Bal
+https://www.youtube.com/watch?v=O4JlpwXRcJQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SIBP7u0tDJY/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=SIBP7u0tDJY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dv-pmT25qZc/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -476,8 +472,8 @@ https://www.youtube.com/watch?v=qNGsCXR6Bs8
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C3mqqCv7eQo/maxresdefault.jpg" group-title="政論",【全球大視野】伊朗突鎖荷姆茲海峽射擊至少船美若未達成協議將恢復封鎖伊朗港口中天電視
-https://www.youtube.com/watch?v=C3mqqCv7eQo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eEZScTA8o3I/maxresdefault.jpg" group-title="政論",【全球大視野】伊朗批川普全是謊言再次封鎖荷姆茲海峽川普將摧毀伊朗的每一座發電廠和橋樑
+https://www.youtube.com/watch?v=eEZScTA8o3I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0MfMGPeOSqo/maxresdefault.jpg" group-title="政論",【94要客訴】大甲媽祖遶境進香現場最新情況三立新聞網
@@ -488,12 +484,8 @@ https://www.youtube.com/watch?v=v7V_2CAVKeM
 https://www.youtube.com/watch?v=Z3tsdvlZ6lA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/owiYf8Rl71E/maxresdefault.jpg" group-title="政論",【郭正亮頻道】小時不斷電為您呈現鄭勇開和平窗可歎賴不如扁
 https://www.youtube.com/watch?v=owiYf8Rl71E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m5fcUzSiWLw/maxresdefault.jpg" group-title="政論",【新聞龍捲風】全台瘋媽祖信眾熱情鑽轎今晚駐駕西螺福興宮
-https://www.youtube.com/watch?v=m5fcUzSiWLw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/p7gFIqgSbho/maxresdefault.jpg" group-title="政論",【頭條開講】伊朗突鎖荷姆茲海峽射擊至少船美若未達成協議將恢復封鎖伊朗港口
-https://www.youtube.com/watch?v=p7gFIqgSbho
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FYG91PN11WU/maxresdefault.jpg" group-title="政論",【文茜的世界周報】| TVBS文茜的世界周報 T
-https://www.youtube.com/watch?v=FYG91PN11WU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OETmEmLwXr4/maxresdefault.jpg" group-title="政論",【頭條開講】伊朗批川普全是謊言再次封鎖荷姆茲海峽川普將摧毀伊朗的每一座發電廠和橋樑
+https://www.youtube.com/watch?v=OETmEmLwXr4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jOiPpGxnXds/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=jOiPpGxnXds
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3PCSBfoXnsI/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場

@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-04-22 17:57:01
+# Last Update: 2026-04-22 19:13:43
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -72,6 +72,8 @@ https://www.youtube.com/watch?v=xLqt2p6Dowo
 https://www.youtube.com/watch?v=xKK5R-tA6lA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LyQ-iWfoVg0/maxresdefault.jpg" group-title="台灣",【全球財經台2】全球財經台
 https://www.youtube.com/watch?v=LyQ-iWfoVg0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rpS9eYbseek/maxresdefault.jpg" group-title="台灣",【BNE TV - 新西兰中文国际频道】伊朗边境开火又扣两船停火无限期特朗普就这三五天的事美阿联酋威胁改用人民币日本拟以国宾邀小马可仕双锁印太斯基要约普京乌重启俄油我爱纽西兰
+https://www.youtube.com/watch?v=rpS9eYbseek
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wUxJlo79GuE/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
 https://www.youtube.com/watch?v=wUxJlo79GuE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TsccmbyNk6g/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
@@ -446,8 +448,6 @@ https://www.youtube.com/watch?v=I3JR4giVOFA
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LJpPHFr48dg/maxresdefault.jpg" group-title="政論",【頭條開講】無視延長停火協議伊朗砲擊扣押商船川普爆料伊朗每日損失高達億美元
 https://www.youtube.com/watch?v=LJpPHFr48dg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jOiPpGxnXds/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
-https://www.youtube.com/watch?v=jOiPpGxnXds
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/02dD1q0yvLY/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
 https://www.youtube.com/watch?v=02dD1q0yvLY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WxZpACYX8p4/maxresdefault.jpg" group-title="購物",【三聖電視台】「三聖電視台」直播

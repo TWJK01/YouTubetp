@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-04-26 14:03:44
+# Last Update: 2026-04-26 15:37:50
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -30,9 +30,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映在台灣站起分版
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人間菩提
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映在台灣站起分版
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙阿燕
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -122,6 +122,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k0uJVhYX12Y/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=k0uJVhYX12Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RUqkNcKVI3I/maxresdefault.jpg" group-title="綜藝",【204檔案】于朦朧全省認養路燈目標座燈
+https://www.youtube.com/watch?v=RUqkNcKVI3I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -196,8 +198,6 @@ https://www.youtube.com/watch?v=HKDuzWlyGts
 https://www.youtube.com/watch?v=6lKL5znyZkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uq_dLjPSPUc/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
 https://www.youtube.com/watch?v=uq_dLjPSPUc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eUlsXRUnWEM/maxresdefault.jpg" group-title="影劇",【精选大剧】洪门风云孤身闯荡大上海入洪门义薄云天斗黑帮拳脚纵横商战权谋尽显男儿本色文章富大龙
-https://www.youtube.com/watch?v=eUlsXRUnWEM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rj70WJIjr-0/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
 https://www.youtube.com/watch?v=rj70WJIjr-0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VYXlTMBd4y8/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
@@ -282,8 +282,6 @@ https://www.youtube.com/watch?v=oW7nBjdel48
 https://www.youtube.com/watch?v=ATiJ3ihQuP8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SAVuhdZBHms/maxresdefault.jpg" group-title="少兒",【會說話的湯姆貓家族】第季超大合集快乐不停歇
 https://www.youtube.com/watch?v=SAVuhdZBHms
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Cbrd0Cfu6E/maxresdefault.jpg" group-title="少兒",【瑪莎與熊】瑪莎的旅遊
-https://www.youtube.com/watch?v=_Cbrd0Cfu6E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/es4GoPhS_8o/maxresdefault.jpg" group-title="少兒",【碰碰狐 鯊魚寶寶】鯊魚寶寶體操更多碰碰狐體操兒歌人氣歌曲卡通動畫
 https://www.youtube.com/watch?v=es4GoPhS_8o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IYY7nccH0m0/maxresdefault.jpg" group-title="少兒",【寶寶巴士】小哆哆的家務大挑戰更多熱門動畫合集安全警長啦咘啦哆
@@ -450,8 +448,6 @@ https://www.youtube.com/watch?v=jlzHCIZ5Xko
 https://www.youtube.com/watch?v=-ig3OSXNiDY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jg58I7d6Azg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=Jg58I7d6Azg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UWdlB6ja824/maxresdefault.jpg" group-title="音樂",【MEET48 Global】没有我的世界千秋乐第六十二场
-https://www.youtube.com/watch?v=UWdlB6ja824
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cMUEoviToUM/maxresdefault.jpg" group-title="政論",【壹電視NEXT TV】鎮瀾宮大甲媽繞境進香回鑾
 https://www.youtube.com/watch?v=cMUEoviToUM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞

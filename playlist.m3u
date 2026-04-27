@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-04-27 17:18:02
+# Last Update: 2026-04-27 19:11:54
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊月娘
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊月娘
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -78,8 +78,6 @@ https://www.youtube.com/watch?v=wUxJlo79GuE
 https://www.youtube.com/watch?v=TsccmbyNk6g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】特朗普撤離時跌倒是應要求趴下避險伊朗外長密集出訪將與普京磋商地區局勢美國據報已收到伊朗談判新方案小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vBiuJxvO0Sg/maxresdefault.jpg" group-title="台灣",【HOY 資訊台 × 有線新聞】有線新聞晚間新聞即時新聞港聞兩岸國際資訊
-https://www.youtube.com/watch?v=vBiuJxvO0Sg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="台灣",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/In_HXlgUt8w/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
@@ -252,6 +250,60 @@ https://www.youtube.com/watch?v=ldDt_RYPpzw
 https://www.youtube.com/watch?v=5hrhXygnPFc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BLag8MOBUg8/maxresdefault.jpg" group-title="少兒",【回歸線娛樂】真珠美人魚
 https://www.youtube.com/watch?v=BLag8MOBUg8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KbG88GiZmBI/maxresdefault.jpg" group-title="少兒",【YOYOTV】馬不停蹄金曲熱門卡通不間斷唱跳金曲兒歌
+https://www.youtube.com/watch?v=KbG88GiZmBI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ik6szdtfn8M/maxresdefault.jpg" group-title="少兒",【momokids親子台】這一家歡樂不間斷第五季家庭校園喜劇趣味短劇
+https://www.youtube.com/watch?v=Ik6szdtfn8M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QTvmIn4jzCg/maxresdefault.jpg" group-title="少兒",【momokids親子台】舞法天女朵法拉繁體中文朵蜜法蘇拉緹歌舞劇音樂劇
+https://www.youtube.com/watch?v=QTvmIn4jzCg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oPntQYFGwgY/maxresdefault.jpg" group-title="少兒",【momokids親子台】歡樂谷首合輯歡樂歌曲不間斷帶小孩塞車神曲小朋友跳舞兒歌童兒童律動幼兒舞蹈愛唱歌
+https://www.youtube.com/watch?v=oPntQYFGwgY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oW7nBjdel48/maxresdefault.jpg" group-title="少兒",【Bebefinn 繁體中文 - 兒歌】貝貝彬醫生遊戲痛痛歌更多好習慣養成經典兒歌台灣配音中文兒歌童謠連續播放繁體中文
+https://www.youtube.com/watch?v=oW7nBjdel48
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ATiJ3ihQuP8/maxresdefault.jpg" group-title="少兒",【寶貝多米-兒歌童謠-卡通動畫-經典故事】恐龍唱唱跳跳派對趣味兒歌和互動遊戲童謠寶貝多米
+https://www.youtube.com/watch?v=ATiJ3ihQuP8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SAVuhdZBHms/maxresdefault.jpg" group-title="少兒",【會說話的湯姆貓家族】第季超大合集快乐不停歇
+https://www.youtube.com/watch?v=SAVuhdZBHms
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/es4GoPhS_8o/maxresdefault.jpg" group-title="少兒",【碰碰狐 鯊魚寶寶】鯊魚寶寶體操更多碰碰狐體操兒歌人氣歌曲卡通動畫
+https://www.youtube.com/watch?v=es4GoPhS_8o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IYY7nccH0m0/maxresdefault.jpg" group-title="少兒",【寶寶巴士】小哆哆的家務大挑戰更多熱門動畫合集安全警長啦咘啦哆
+https://www.youtube.com/watch?v=IYY7nccH0m0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u74LMt_hqG8/maxresdefault.jpg" group-title="少兒",【貝樂虎兒歌-童謠歌曲】貝樂虎兒童熱門童謠不間斷歡樂小時小毛驢更多兒歌兒歌童謠卡通動畫貝樂虎
+https://www.youtube.com/watch?v=u74LMt_hqG8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YDtNnMzKuVc/maxresdefault.jpg" group-title="少兒",【貝樂虎-兒歌童謠-卡通動畫-經典故事】叢林探險開始啦貝樂虎動物兒歌幼兒音樂童謠串燒兩只老虎拔蘿蔔貝樂虎
+https://www.youtube.com/watch?v=YDtNnMzKuVc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4Ir1-e3iXbU/maxresdefault.jpg" group-title="少兒",【貝樂虎-兒歌童謠-卡通動畫-經典故事】貝樂虎醫生出動職業認知卡通動畫兒童游戲最新最火幼兒早教視頻
+https://www.youtube.com/watch?v=4Ir1-e3iXbU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Y3VePiefsns/maxresdefault.jpg" group-title="少兒",【小猪佩奇】最新视频粉红猪小妹动画
+https://www.youtube.com/watch?v=Y3VePiefsns
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GD1tj6SPVm4/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】Learn The Alpha
+https://www.youtube.com/watch?v=GD1tj6SPVm4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EorP0ZQxwBU/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】Colorful ABC Ad
+https://www.youtube.com/watch?v=EorP0ZQxwBU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K6nRE-OMNck/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】🎶 Five Colorful
+https://www.youtube.com/watch?v=K6nRE-OMNck
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9gvfD_L9FSI/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】Explore the Fun
+https://www.youtube.com/watch?v=9gvfD_L9FSI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E61jEDQKisg/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】🍓 Giligilis’ AB
+https://www.youtube.com/watch?v=E61jEDQKisg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cFHHTE6dyUA/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】Yummy Yummy Man
+https://www.youtube.com/watch?v=cFHHTE6dyUA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ef_4c0-vNQY/maxresdefault.jpg" group-title="少兒",【Kids Songs - Giligilis】🍓 Yummy Fruits
+https://www.youtube.com/watch?v=Ef_4c0-vNQY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Me0qdV9XQgQ/maxresdefault.jpg" group-title="少兒",【超級汽車-卡通動畫】警車守護朋友更多汽車兒歌合輯交通工具卡通超級汽車
+https://www.youtube.com/watch?v=Me0qdV9XQgQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_481iPm28Js/maxresdefault.jpg" group-title="少兒",【神奇鸡仔】兒歌童謠卡通動畫
+https://www.youtube.com/watch?v=_481iPm28Js
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TdVkGf7UoMQ/maxresdefault.jpg" group-title="少兒",【朱妮托尼 - 动画儿歌】動物們的便便动物儿歌好习惯养成朱妮托尼人气兒歌兒歌童謠卡通動畫朱妮托尼童話故事
+https://www.youtube.com/watch?v=TdVkGf7UoMQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3eOXHo0Bz20/maxresdefault.jpg" group-title="少兒",【朱妮托尼 - 动画儿歌】想拉臭臭的小恐龙小恐龙的妈妈在哪儿人气恐龙儿歌兒歌童謠卡通動畫朱妮托尼童話故事
+https://www.youtube.com/watch?v=3eOXHo0Bz20
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Pb3n5MErooo/maxresdefault.jpg" group-title="少兒",【朱妮托尼 - 动画儿歌】动物们的尾巴和耳朵不见了找找看在哪儿猜猜我是谁动物儿歌兒歌童謠朱妮托尼
+https://www.youtube.com/watch?v=Pb3n5MErooo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lUvpUbjuKPc/maxresdefault.jpg" group-title="少兒",【朱妮托尼 - 动画儿歌】经典儿歌动画合集启蒙益智卡通宝宝早教幼儿童谣朱妮托尼
+https://www.youtube.com/watch?v=lUvpUbjuKPc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rkXFBe0n2lU/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】从凡人少年到元婴老祖百年仙途终成正果凡人修仙传
+https://www.youtube.com/watch?v=rkXFBe0n2lU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r0TLT5pweJM/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=r0TLT5pweJM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SIBP7u0tDJY/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
@@ -268,110 +320,6 @@ https://www.youtube.com/watch?v=q8hw5oKCDp4
 https://www.youtube.com/watch?v=B7EliniYUrQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YSWHtk1_UKQ/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=YSWHtk1_UKQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WlqXiPuwWtM/maxresdefault.jpg" group-title="音樂",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音四月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
-https://www.youtube.com/watch?v=WlqXiPuwWtM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BYNWUMC2Np4/maxresdefault.jpg" group-title="音樂",【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=BYNWUMC2Np4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/99rLT2xf8T8/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=99rLT2xf8T8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fx9UIfXzKVw/maxresdefault.jpg" group-title="音樂",【心动 Radio】最孤單的夜裡有你留下的聲音超好聽中文原創情歌夜晚放鬆閱讀學習助眠
-https://www.youtube.com/watch?v=fx9UIfXzKVw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
-https://www.youtube.com/watch?v=augOnkJkrHY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/im8cGWRIbDs/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=im8cGWRIbDs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C_WIvq1Js04/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=C_WIvq1Js04
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/knvMRLgucNs/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=knvMRLgucNs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rNl66pRRpSw/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】四月新歌華語單曲排行週榜愛就一個字若月亮沒來花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋周杰倫抖音最最最火
-https://www.youtube.com/watch?v=rNl66pRRpSw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/30WS66WAyU4/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=30WS66WAyU4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b2ccimxHrts/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=b2ccimxHrts
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/biE_zsSkPUs/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=biE_zsSkPUs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hI60Fnalrlc/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=hI60Fnalrlc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OYaiWcAgR9A/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=OYaiWcAgR9A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MM7AnZsBFA8/maxresdefault.jpg" group-title="音樂",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=MM7AnZsBFA8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/maxresdefault.jpg" group-title="音樂",【Cherry 葵】Nightcore Radio
-https://www.youtube.com/watch?v=tjne3WWB3kA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4FBW3mkdKOs/maxresdefault.jpg" group-title="音樂",【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日
-https://www.youtube.com/watch?v=4FBW3mkdKOs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w4dlH_3uwKo/maxresdefault.jpg" group-title="音樂",【FOR FUN RADIO TIME Music channel】音樂不間斷讀書工作專屬音樂陪你每一天
-https://www.youtube.com/watch?v=w4dlH_3uwKo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IkmLXvBfVv0/maxresdefault.jpg" group-title="音樂",【The Good Life Radio x Sensual Musique】Deep House Radi
-https://www.youtube.com/watch?v=IkmLXvBfVv0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m52ynxt1mOo/maxresdefault.jpg" group-title="音樂",【The Good Life Radio x Sensual Musique】Chill Out Music
-https://www.youtube.com/watch?v=m52ynxt1mOo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9UMxZofMNbA/maxresdefault.jpg" group-title="音樂",【The Good Life Radio x Sensual Musique】Chillout Lounge
-https://www.youtube.com/watch?v=9UMxZofMNbA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/36YnV9STBqc/maxresdefault.jpg" group-title="音樂",【The Good Life Radio x Sensual Musique】The Good Life R
-https://www.youtube.com/watch?v=36YnV9STBqc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/njqkg8o4C84/maxresdefault.jpg" group-title="音樂",【Rock FM】Rock 90s ⚡  Bes
-https://www.youtube.com/watch?v=njqkg8o4C84
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Sn6nqruOB8/maxresdefault.jpg" group-title="音樂",【Rock FM】Pop Rock ⚡  Bes
-https://www.youtube.com/watch?v=2Sn6nqruOB8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VbTYnJshTas/maxresdefault.jpg" group-title="音樂",【Rock FM】Rock 2000s ⚡  B
-https://www.youtube.com/watch?v=VbTYnJshTas
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Nt27aBceerI/maxresdefault.jpg" group-title="音樂",【Rock FM】Rock Classics ⚡
-https://www.youtube.com/watch?v=Nt27aBceerI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0C4kZlNrhbI/maxresdefault.jpg" group-title="音樂",【Radio Mix】Radio 2000s Hit
-https://www.youtube.com/watch?v=0C4kZlNrhbI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ukyd5pBfJjM/maxresdefault.jpg" group-title="音樂",【Radio Mix】Radio 90s Mix
-https://www.youtube.com/watch?v=Ukyd5pBfJjM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WnCfvAMM9eY/maxresdefault.jpg" group-title="音樂",【Radio Mix】Radio 70s 80s M
-https://www.youtube.com/watch?v=WnCfvAMM9eY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b-bK2Vn3D38/maxresdefault.jpg" group-title="音樂",【Radio Mix】Best Radio 1 PO
-https://www.youtube.com/watch?v=b-bK2Vn3D38
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/x-JC7sJJUW8/maxresdefault.jpg" group-title="音樂",【Radio Mix】Radio POP Mix 2
-https://www.youtube.com/watch?v=x-JC7sJJUW8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hXyRD5vbKpo/maxresdefault.jpg" group-title="音樂",【Radio Mix】Dance Radio Mix
-https://www.youtube.com/watch?v=hXyRD5vbKpo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YDuz4mAtyf4/maxresdefault.jpg" group-title="音樂",【Too Music】The Good Time R
-https://www.youtube.com/watch?v=YDuz4mAtyf4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m2BnK_hf2qg/maxresdefault.jpg" group-title="音樂",【Too Music】Music Radio Mix
-https://www.youtube.com/watch?v=m2BnK_hf2qg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9hylBusqpX8/maxresdefault.jpg" group-title="音樂",【Too Music】Music Radio Ret
-https://www.youtube.com/watch?v=9hylBusqpX8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zjXupvypOmw/maxresdefault.jpg" group-title="音樂",【Too Music】Music Radio Pop
-https://www.youtube.com/watch?v=zjXupvypOmw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nHeXL2We4EE/maxresdefault.jpg" group-title="音樂",【Too Music】Today's Top Hit
-https://www.youtube.com/watch?v=nHeXL2We4EE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FVLNVecHzvI/maxresdefault.jpg" group-title="音樂",【Too Music】Music Radio 1 P
-https://www.youtube.com/watch?v=FVLNVecHzvI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3MOrgUjiigE/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Hits Radio 1 Li
-https://www.youtube.com/watch?v=3MOrgUjiigE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UWc_vMRGxDs/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Pop Hits Radio
-https://www.youtube.com/watch?v=UWc_vMRGxDs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r7eFY9YYTdE/maxresdefault.jpg" group-title="音樂",【Dark City Sounds】Hottest Hip Hop
-https://www.youtube.com/watch?v=r7eFY9YYTdE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6NycjnIej58/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
-https://www.youtube.com/watch?v=6NycjnIej58
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tTpGBsq_jUo/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
-https://www.youtube.com/watch?v=tTpGBsq_jUo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_rH7Zy0saGE/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
-https://www.youtube.com/watch?v=_rH7Zy0saGE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eL43EJy7TLs/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
-https://www.youtube.com/watch?v=eL43EJy7TLs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/59Tmi2HIAms/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲音楽最新最新曲邦楽最人気若者音楽邦楽最新
-https://www.youtube.com/watch?v=59Tmi2HIAms
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hx9bTlQPfHk/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】心響邦楽年最新優里米津玄師
-https://www.youtube.com/watch?v=hx9bTlQPfHk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7ek3BGu2nhg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
-https://www.youtube.com/watch?v=7ek3BGu2nhg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jlzHCIZ5Xko/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
-https://www.youtube.com/watch?v=jlzHCIZ5Xko
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-ig3OSXNiDY/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
-https://www.youtube.com/watch?v=-ig3OSXNiDY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jg58I7d6Azg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
-https://www.youtube.com/watch?v=Jg58I7d6Azg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
@@ -382,26 +330,34 @@ https://www.youtube.com/watch?v=TSZiQ03Cnpc
 https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Dnh7GGLH80/maxresdefault.jpg" group-title="政論",【頭條開講】美伊談判破裂伊朗外長飛奔俄羅斯普丁竭盡所能維護伊朗利益屢遭暗殺威脅川普只有具影響力者才會遇襲專家解析
 https://www.youtube.com/watch?v=2Dnh7GGLH80
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Lj8OWF6nzcg/maxresdefault.jpg" group-title="國會",【國會頻道】國會頻道２
-https://www.youtube.com/watch?v=Lj8OWF6nzcg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IvAXtzx5cUI/maxresdefault.jpg" group-title="國會",【國會頻道】程序委員會
-https://www.youtube.com/watch?v=IvAXtzx5cUI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yUx5lB4mhZk/maxresdefault.jpg" group-title="國會",【國會頻道】黨團協商
-https://www.youtube.com/watch?v=yUx5lB4mhZk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DdUWlWZVOi8/maxresdefault.jpg" group-title="國會",【國會頻道】社會福利及衛生環境委員會
-https://www.youtube.com/watch?v=DdUWlWZVOi8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nkejc54RyDU/maxresdefault.jpg" group-title="國會",【國會頻道】經費稽核委員會
-https://www.youtube.com/watch?v=nkejc54RyDU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyHM5yvcLU4/maxresdefault.jpg" group-title="國會",【國會頻道】紀律委員會
-https://www.youtube.com/watch?v=KyHM5yvcLU4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Af0TFVbxvAQ/maxresdefault.jpg" group-title="國會",【國會頻道】外交及國防委員會
-https://www.youtube.com/watch?v=Af0TFVbxvAQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tDg3bJFYLzI/maxresdefault.jpg" group-title="國會",【國會頻道】立法院會議
-https://www.youtube.com/watch?v=tDg3bJFYLzI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xfikIGtkQeA/maxresdefault.jpg" group-title="國會",【國會頻道】經濟委員會
-https://www.youtube.com/watch?v=xfikIGtkQeA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cidl9JoRtGk/maxresdefault.jpg" group-title="國會",【國會頻道】財政委員會
-https://www.youtube.com/watch?v=Cidl9JoRtGk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cijXch4LtEY/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
+https://www.youtube.com/watch?v=cijXch4LtEY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K6lBm0wGq5I/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
+https://www.youtube.com/watch?v=K6lBm0wGq5I
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/guKEQ90rnI4/maxresdefault.jpg" group-title="購物",【三聖電視台】「三聖電視台」直播
+https://www.youtube.com/watch?v=guKEQ90rnI4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HZTQ87Vq2IA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
+https://www.youtube.com/watch?v=HZTQ87Vq2IA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xb6ABLE4dV8/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播
+https://www.youtube.com/watch?v=xb6ABLE4dV8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ob_4nVDJ8ks/maxresdefault.jpg" group-title="購物",【桐瑛台南電視臺】「桐瑛台南電視臺」直播
+https://www.youtube.com/watch?v=Ob_4nVDJ8ks
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_pZQ1Lk0xMA/maxresdefault.jpg" group-title="購物",【momo購物一台】購物一台頻道小時線上
+https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xbNWkUyxQGM/maxresdefault.jpg" group-title="購物",【momo購物二台】購物二台頻道小時線上
+https://www.youtube.com/watch?v=xbNWkUyxQGM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lEXITHxcagI/maxresdefault.jpg" group-title="購物",【ViVa TV美好家庭購物】美好購物台線上看
+https://www.youtube.com/watch?v=lEXITHxcagI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7IyxOiGMLgw/maxresdefault.jpg" group-title="購物",【ViVa TV美好家庭購物】美好購物台線上看
+https://www.youtube.com/watch?v=7IyxOiGMLgw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ViJ3XiN6Q3M/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH47
+https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z50JFuNgvB0/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH46
+https://www.youtube.com/watch?v=Z50JFuNgvB0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Vlzn9qAHD4/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH34
+https://www.youtube.com/watch?v=_Vlzn9qAHD4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u0NYyH3ZesE/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH60
+https://www.youtube.com/watch?v=u0NYyH3ZesE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SagsXpM85hE/maxresdefault.jpg" group-title="宗教",【淨土宗】網路電視台南無阿彌陀佛
 https://www.youtube.com/watch?v=SagsXpM85hE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ih-Kv8XPdcQ/maxresdefault.jpg" group-title="宗教",【中華傳統文化教育中心】世界電視台儒釋道教育與藝術文化的電視台
@@ -424,54 +380,6 @@ https://www.youtube.com/watch?v=TvEARGJ950E
 https://www.youtube.com/watch?v=dVkQNH3IfME
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mH3S7BNKk28/maxresdefault.jpg" group-title="宗教",【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會
 https://www.youtube.com/watch?v=mH3S7BNKk28
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xPgo8dIHy7I/maxresdefault.jpg" group-title="教育",【ABC Learning English】English Convers
-https://www.youtube.com/watch?v=xPgo8dIHy7I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1D6fL5o4zwE/maxresdefault.jpg" group-title="教育",【ABC Learning English】Learn English T
-https://www.youtube.com/watch?v=1D6fL5o4zwE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4ayHSRrvWjs/maxresdefault.jpg" group-title="教育",【ABC Learning English】English Convers
-https://www.youtube.com/watch?v=4ayHSRrvWjs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vuTY4FDAbpA/maxresdefault.jpg" group-title="教育",【ABC Learning English】24 Hours Englis
-https://www.youtube.com/watch?v=vuTY4FDAbpA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Zrkf814SPbw/maxresdefault.jpg" group-title="教育",【學習粵語】Speak Cantonese
-https://www.youtube.com/watch?v=Zrkf814SPbw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oIWaTR3PgzE/maxresdefault.jpg" group-title="教育",【南非荷蘭語】Speak Afrikaans
-https://www.youtube.com/watch?v=oIWaTR3PgzE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wMMMHsCMa1A/maxresdefault.jpg" group-title="教育",【學習印地語】Speak Hindi 24/
-https://www.youtube.com/watch?v=wMMMHsCMa1A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Rgfbb1KJSTo/maxresdefault.jpg" group-title="教育",【學習菲律賓語】Speak Filipino
-https://www.youtube.com/watch?v=Rgfbb1KJSTo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ap34FN6M7ac/maxresdefault.jpg" group-title="教育",【學習烏爾都語】Speak Urdu 24/7
-https://www.youtube.com/watch?v=ap34FN6M7ac
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/85bR1SsXH6E/maxresdefault.jpg" group-title="教育",【學習德語】Speak German 24
-https://www.youtube.com/watch?v=85bR1SsXH6E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pUP9tWxK7SE/maxresdefault.jpg" group-title="教育",【學習土耳其語】Speak Turkish 2
-https://www.youtube.com/watch?v=pUP9tWxK7SE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EA3zW89fc_k/maxresdefault.jpg" group-title="教育",【學習阿拉伯語】Speak Arabic 24
-https://www.youtube.com/watch?v=EA3zW89fc_k
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IZYKZbdxVsM/maxresdefault.jpg" group-title="教育",【學習瑞典語】Speak Swedish 2
-https://www.youtube.com/watch?v=IZYKZbdxVsM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XWCc-x0Fki8/maxresdefault.jpg" group-title="教育",【學習希伯來語】Speak Hebrew 24
-https://www.youtube.com/watch?v=XWCc-x0Fki8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/t1KSmMPFjIk/maxresdefault.jpg" group-title="教育",【學習希臘語】Speak Greek 24/
-https://www.youtube.com/watch?v=t1KSmMPFjIk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/B6cDg3xnKss/maxresdefault.jpg" group-title="教育",【學習波蘭語】Speak Polish 24
-https://www.youtube.com/watch?v=B6cDg3xnKss
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OqwA-w3mMx0/maxresdefault.jpg" group-title="教育",【學習日文】Speak Japanese
-https://www.youtube.com/watch?v=OqwA-w3mMx0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rl4a_2C5FNw/maxresdefault.jpg" group-title="教育",【學習中文】Speak Chinese 2
-https://www.youtube.com/watch?v=rl4a_2C5FNw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SR7423E4vkc/maxresdefault.jpg" group-title="教育",【學習匈牙利語】Speak Hungarian
-https://www.youtube.com/watch?v=SR7423E4vkc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3nLnQxgUoOA/maxresdefault.jpg" group-title="教育",【學習芬蘭語】Speak Finnish 2
-https://www.youtube.com/watch?v=3nLnQxgUoOA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OnyBi7ZyXcs/maxresdefault.jpg" group-title="教育",【學習荷蘭語】Speak Dutch 24/
-https://www.youtube.com/watch?v=OnyBi7ZyXcs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WU6TGx4_yOE/maxresdefault.jpg" group-title="教育",【學習韓語】Speak Korean 24
-https://www.youtube.com/watch?v=WU6TGx4_yOE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PeGTZCZPmg8/maxresdefault.jpg" group-title="教育",【學習法語】Speak French 24
-https://www.youtube.com/watch?v=PeGTZCZPmg8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aLsfJi762ys/maxresdefault.jpg" group-title="教育",【學習波斯語】Speak Persian 2
-https://www.youtube.com/watch?v=aLsfJi762ys
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/215ahZ_0rTg/maxresdefault.jpg" group-title="風景",【台北】貓空指南宮猫空指南宮
 https://www.youtube.com/watch?v=215ahZ_0rTg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/34h_Cy_n0Ok/maxresdefault.jpg" group-title="風景",【台北】Jiantanshan Wei

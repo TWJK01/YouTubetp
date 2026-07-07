@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-07 19:47:31
+# Last Update: 2026-07-07 21:18:42
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R3eMTFf_vc0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】哥倫比亞集體流感未見好轉瑞士趁你病要你命中天電視
+https://www.youtube.com/watch?v=R3eMTFf_vc0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RN6Lw1VW3Z8/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】巴威將以強颱之姿掃過台灣暴風侵襲機率縣市破成颱風假機率曝中天電視
 https://www.youtube.com/watch?v=RN6Lw1VW3Z8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -420,10 +422,14 @@ https://www.youtube.com/watch?v=NUx7ZGImueU
 https://www.youtube.com/watch?v=pkLOXxMlt20
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eNz64BlXpyk/maxresdefault.jpg" group-title="政論",【全球大視野】哥倫比亞集體流感未見好轉瑞士趁你病要你命
+https://www.youtube.com/watch?v=eNz64BlXpyk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aoF-_Y-1ncA/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現完整版網友問答公噸致癌油流竄全台賴政府在裝睡郭正亮頻道
+https://www.youtube.com/watch?v=aoF-_Y-1ncA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uWiBV9bX3DM/maxresdefault.jpg" group-title="政論",【新聞龍捲風】巴威將以強颱之姿掃過台灣暴風侵襲機率縣市破成颱風假機率曝
 https://www.youtube.com/watch?v=uWiBV9bX3DM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Gzo0sDZ4Fcg/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動巴威颱風假放定了縣市戒備伊朗又射飛彈川普警告再談不攏就開打新聞大白話國民大會國民開小會
@@ -432,8 +438,6 @@ https://www.youtube.com/watch?v=Gzo0sDZ4Fcg
 https://www.youtube.com/watch?v=oXXrdLH1tew
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Es4UIA8Ncvc/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
 https://www.youtube.com/watch?v=Es4UIA8Ncvc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Fh3ittt0kcY/maxresdefault.jpg" group-title="購物",【三聖電視台】三聖電視台-直播
-https://www.youtube.com/watch?v=Fh3ittt0kcY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gd-Z4tuPcPA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
 https://www.youtube.com/watch?v=gd-Z4tuPcPA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iSbtIyrvuR4/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播

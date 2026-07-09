@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-09 20:42:56
+# Last Update: 2026-07-09 22:16:59
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sF7CjolxPw0/maxresdefault.jpg" group-title="台灣",【台灣地震監視】巴威颱風監視
@@ -36,9 +36,9 @@ https://www.youtube.com/watch?v=wGR5nlZE5VE
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇他的靈魂與他的書店
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映高僧傳
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映青春進行曲
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -50,6 +50,8 @@ https://www.youtube.com/watch?v=V1p33hqPrUk
 https://www.youtube.com/watch?v=E0zhe2gkXBs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cYYNvJ0_FCE/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】巴威強風圈大路徑擺盪颱風最新停班停課訊息北北基桃共同宣布號停止上班上課不斷更新中天新聞
 https://www.youtube.com/watch?v=cYYNvJ0_FCE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XHzUFjePW3k/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】強賽首場法國對上摩洛哥重演上屆強賽對決摩洛哥要復仇中天新聞
+https://www.youtube.com/watch?v=XHzUFjePW3k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4fORIUeuQ5w/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】北北基桃共同宣布號停止上班上課海警發布神山擋不住北北基宜恐被颱風核心輾過停班課訊息發布不斷更新中天新聞
 https://www.youtube.com/watch?v=4fORIUeuQ5w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -448,6 +450,8 @@ https://www.youtube.com/watch?v=NUx7ZGImueU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/240P17iCii4/maxresdefault.jpg" group-title="政論",【全球大視野】強賽首場法國對上摩洛哥重演上屆強賽對決摩洛哥要復仇
+https://www.youtube.com/watch?v=240P17iCii4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】強烈颱風巴威即時監測巴威颱風預計明晨發陸警三立新聞網
@@ -524,8 +528,6 @@ https://www.youtube.com/watch?v=MX-Bz3ykiUE
 https://www.youtube.com/watch?v=TvEARGJ950E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dVkQNH3IfME/maxresdefault.jpg" group-title="宗教",【生命電視台】小時時間生放送
 https://www.youtube.com/watch?v=dVkQNH3IfME
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qreJ6GRHGiM/maxresdefault.jpg" group-title="宗教",【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會遠東廣播
-https://www.youtube.com/watch?v=qreJ6GRHGiM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xPgo8dIHy7I/maxresdefault.jpg" group-title="教育",【ABC Learning English】English Convers
 https://www.youtube.com/watch?v=xPgo8dIHy7I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1D6fL5o4zwE/maxresdefault.jpg" group-title="教育",【ABC Learning English】24 Hours Englis

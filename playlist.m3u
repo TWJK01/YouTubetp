@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-11 16:51:14
+# Last Update: 2026-07-11 17:51:16
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sF7CjolxPw0/maxresdefault.jpg" group-title="台灣",【台灣地震監視】巴威颱風監視
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=quwqlazU-c8
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛迷你劇場日照大地
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映青春愛讀書
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -54,8 +54,6 @@ https://www.youtube.com/watch?v=wOWh-EoPO3I
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f2NYEe1wCdw/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】巴威強襲救災晚間整點最新掌握
-https://www.youtube.com/watch?v=f2NYEe1wCdw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YHdGPitwQY0/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】巴威颱風進逼氣象署示警恐掀公尺以上浪高各地鏡頭君直擊
 https://www.youtube.com/watch?v=YHdGPitwQY0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】巴威颱風動態網路獨家新聞小時台湾世界中時間配信中台
@@ -124,8 +122,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OX6264k1V8k/maxresdefault.jpg" group-title="綜藝",【204檔案】颱風走了
-https://www.youtube.com/watch?v=OX6264k1V8k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HXt0zQ4lmLA/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】不斷更新巴威外圍環流與角隅效應夾擊最兇雨區在竹苗巴威暴風圈縮小僅縣市維持陸上警戒
 https://www.youtube.com/watch?v=HXt0zQ4lmLA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -442,8 +438,6 @@ https://www.youtube.com/watch?v=ljEcXRLRCaU
 https://www.youtube.com/watch?v=1bdQSQ9CmGQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WX_MfpW45ek/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】新曲曲邦楽曲日本優里米津玄師
 https://www.youtube.com/watch?v=WX_MfpW45ek
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YTd1l3sTh8Q/maxresdefault.jpg" group-title="音樂",【MEET48 Global】胡晓慧一小部分我主题生日公演及作品展演
-https://www.youtube.com/watch?v=YTd1l3sTh8Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NUx7ZGImueU/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=NUx7ZGImueU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eEvMO8zGIeI/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
@@ -470,8 +464,6 @@ https://www.youtube.com/watch?v=rrjMaHT7xhM
 https://www.youtube.com/watch?v=Gzo0sDZ4Fcg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aC6YNHVHb_I/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=aC6YNHVHb_I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Kn7D0rcWX0g/maxresdefault.jpg" group-title="購物",【玉麟網路電視台】線上作伙來聽歌玉麟
-https://www.youtube.com/watch?v=Kn7D0rcWX0g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDqi6DmgJOg/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
 https://www.youtube.com/watch?v=QDqi6DmgJOg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gd-Z4tuPcPA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
@@ -630,8 +622,6 @@ https://www.youtube.com/watch?v=aGOFDlySzoQ
 https://www.youtube.com/watch?v=2KDE860OW_A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VgmWVBUsfGo/maxresdefault.jpg" group-title="風景",【雪霸國家公園 Shei-Pa National Park】雪霸國家公園汶水遊客中心小時
 https://www.youtube.com/watch?v=VgmWVBUsfGo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Isp6RQiuxNo/maxresdefault.jpg" group-title="風景",【雪霸國家公園 Shei-Pa National Park】雪霸國家公園觀霧遊憩區小時
-https://www.youtube.com/watch?v=Isp6RQiuxNo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XG5Hm6OMBtA/maxresdefault.jpg" group-title="風景",【交通部觀光署 參山風管處】梨山賓館梨山
 https://www.youtube.com/watch?v=XG5Hm6OMBtA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NhzycUzqwV8/maxresdefault.jpg" group-title="風景",【交通部觀光署 參山風管處】櫻緣丘桜園丘

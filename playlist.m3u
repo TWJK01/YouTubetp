@@ -1,13 +1,11 @@
 #EXTM3U
-# Last Update: 2026-07-11 20:03:02
+# Last Update: 2026-07-11 21:43:24
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sF7CjolxPw0/maxresdefault.jpg" group-title="台灣",【台灣地震監視】巴威颱風監視
 https://www.youtube.com/watch?v=sF7CjolxPw0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
 https://www.youtube.com/watch?v=KyT4qSK8lJo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OM80dyuMMxY/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】巴威颱風風雨實況
-https://www.youtube.com/watch?v=OM80dyuMMxY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dK_KZ6L6fzo/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮萬里溪堰塞湖
 https://www.youtube.com/watch?v=dK_KZ6L6fzo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ADZTiqEGT8g/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】台灣天氣即時監測
@@ -34,9 +32,9 @@ https://www.youtube.com/watch?v=wGR5nlZE5VE
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛全紀實
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映在台灣站起分版
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -216,8 +214,6 @@ https://www.youtube.com/watch?v=QF6VpFjkFjw
 https://www.youtube.com/watch?v=RGCaUT6-hqU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6DXopb8TmSI/maxresdefault.jpg" group-title="影劇",【CCTV电视剧】大圣归来经典再现版西游记带你感受原版魅力西游记
 https://www.youtube.com/watch?v=6DXopb8TmSI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ElJvIPq5t48/maxresdefault.jpg" group-title="影劇",【GC影視】楊廣奪位天下大亂瓦崗寨群雄集結誰能終結暴政陳銳鄭爽邵峰小時馬拉松
-https://www.youtube.com/watch?v=ElJvIPq5t48
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rTA4rE77Lsc/maxresdefault.jpg" group-title="影劇",【GC影視】神探狄人傑懸疑馬拉松陪你一起破案燒腦輪播狄大人帶你極限反殺
 https://www.youtube.com/watch?v=rTA4rE77Lsc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iYyvDEdQIYA/maxresdefault.jpg" group-title="影劇",【China Zone 古裝劇場】漢宮美人心計絕色女間諜愛上庶子皇帝傳奇皇后的逆襲人生林心如楊冪王麗坤羅晉馮紹峰
@@ -452,8 +448,6 @@ https://www.youtube.com/watch?v=FqW-qzOVPqI
 https://www.youtube.com/watch?v=KlmDMBwa-W8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/237-CTfrp5Y/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】沒放颱風假全台鏡頭君挺住第一線直擊巴威的級強風
 https://www.youtube.com/watch?v=237-CTfrp5Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MDsN9SxycpY/maxresdefault.jpg" group-title="政論",【中時新聞網】路徑又變巴威重建雙眼牆抵東北後突西拐影響恐擴大
-https://www.youtube.com/watch?v=MDsN9SxycpY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AzYNW53O-8E/maxresdefault.jpg" group-title="政論",【中天深喉嚨】沒放颱風假全台鏡頭君挺住第一線直擊巴威的級強風
 https://www.youtube.com/watch?v=AzYNW53O-8E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DAfMCUevWSM/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現力挺鐵拳執法毒油罰款不辦官矢板明夫真相郭正亮頻道
@@ -506,8 +500,6 @@ https://www.youtube.com/watch?v=ROCD0SZqMzM
 https://www.youtube.com/watch?v=x6XVbD7Ln78
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Lj8OWF6nzcg/maxresdefault.jpg" group-title="國會",【國會頻道】國會頻道２
 https://www.youtube.com/watch?v=Lj8OWF6nzcg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GrXQxFc0HMA/maxresdefault.jpg" group-title="宗教",【淨土宗】網路電視台南無阿彌陀佛
-https://www.youtube.com/watch?v=GrXQxFc0HMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ih-Kv8XPdcQ/maxresdefault.jpg" group-title="宗教",【中華傳統文化教育中心】世界電視台儒釋道教育與藝術文化的電視台
 https://www.youtube.com/watch?v=ih-Kv8XPdcQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qSFdYNm4zGE/maxresdefault.jpg" group-title="宗教",【修心時刻】綠度母心咒溫暖安定滿一切願的慈悲妙音

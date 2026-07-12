@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-12 14:51:18
+# Last Update: 2026-07-12 15:54:42
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -28,9 +28,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛真健康
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映青春愛讀書
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙姊姊向前衝
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映真善美故事館
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -38,6 +38,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QI-JgcIiOlU/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】川普演哪齣親赴北約峰會他們愛我真假催促北約國防衝刺才是真的解放軍核潛艦首射巨浪核武大王牌內幕中天新聞
+https://www.youtube.com/watch?v=QI-JgcIiOlU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HWhYidFBIHM/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】巴威剛走內湖測到度阿里山林鐵本線處樹倒土石崩仍停駛中天新聞
 https://www.youtube.com/watch?v=HWhYidFBIHM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sVRe9hfPWgU/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】巴威遠離午後對流轟天雷雨彈狂炸宜花萬里溪堰塞湖降黃色警戒大雨仍恐提前溢流中天新聞
@@ -46,8 +48,6 @@ https://www.youtube.com/watch?v=sVRe9hfPWgU
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OAssub2tDM0/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】超過一世紀聖家堂耶穌塔完工高第夢想終章
-https://www.youtube.com/watch?v=OAssub2tDM0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -112,6 +112,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BoW5WKfrB04/maxresdefault.jpg" group-title="綜藝",【204檔案】唉~
+https://www.youtube.com/watch?v=BoW5WKfrB04
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -184,12 +186,6 @@ https://www.youtube.com/watch?v=HKDuzWlyGts
 https://www.youtube.com/watch?v=6lKL5znyZkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ldx0f5_49kI/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
 https://www.youtube.com/watch?v=Ldx0f5_49kI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z5717Vq-7rQ/maxresdefault.jpg" group-title="影劇",【精选大剧】玲珑鉴宝师大结局鉴古玉知前朝旧事踏暗流斗四方豺狼乱世鉴宝人凭一身技艺对抗山河危局
-https://www.youtube.com/watch?v=z5717Vq-7rQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nAxvy_z5BLM/maxresdefault.jpg" group-title="影劇",【精选大剧】玲珑鉴宝师鉴古玉知前朝旧事踏暗流斗四方豺狼乱世鉴宝人凭一身技艺对抗山河危局
-https://www.youtube.com/watch?v=nAxvy_z5BLM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zVlFhcPnt48/maxresdefault.jpg" group-title="影劇",【精选大剧】蝴蝶劫一桩桩人命谜案一层层权钱黑幕六大连环重案直击官场情欲劫难
-https://www.youtube.com/watch?v=zVlFhcPnt48
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/agheq71MgcY/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
 https://www.youtube.com/watch?v=agheq71MgcY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/em4KcJCAp1E/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
@@ -314,6 +310,8 @@ https://www.youtube.com/watch?v=RNDwNP80TVc
 https://www.youtube.com/watch?v=Vouyc10V2-E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2gAYVuR3myk/maxresdefault.jpg" group-title="體育",【緯來體育台】2026.07.12｜LIVE
 https://www.youtube.com/watch?v=2gAYVuR3myk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JcdFD9Guvb8/maxresdefault.jpg" group-title="體育",【博斯體育台】網球迷動起來溫布頓網球錦標賽火熱開打男單決賽專屬聊天室快來和大家一起聊球賽聊球星
+https://www.youtube.com/watch?v=JcdFD9Guvb8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r0TLT5pweJM/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=r0TLT5pweJM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Sk3YNqe4fbM/maxresdefault.jpg" group-title="體育",【WCW】Story of The nW
@@ -432,22 +430,14 @@ https://www.youtube.com/watch?v=ljEcXRLRCaU
 https://www.youtube.com/watch?v=1bdQSQ9CmGQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WX_MfpW45ek/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】新曲曲邦楽曲日本優里米津玄師
 https://www.youtube.com/watch?v=WX_MfpW45ek
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Diq-w91BvPI/maxresdefault.jpg" group-title="音樂",【MEET48 Global】偶像研究计划组心的旅程第十五场
-https://www.youtube.com/watch?v=Diq-w91BvPI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zjG9PuIMVks/maxresdefault.jpg" group-title="音樂",【MEET48 Global】赫兹共振阙佳慧生日公演作品展演年度青春盛典第二阶段人气奖项作品入围结果公布
 https://www.youtube.com/watch?v=zjG9PuIMVks
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iJsGwxo97Qs/maxresdefault.jpg" group-title="音樂",【MEET48 Global】黎明之后第四场
-https://www.youtube.com/watch?v=iJsGwxo97Qs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NUx7ZGImueU/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=NUx7ZGImueU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FgWjltQDNUk/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】超過一世紀聖家堂耶穌塔完工高第夢想終章
-https://www.youtube.com/watch?v=FgWjltQDNUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eEvMO8zGIeI/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uxJ0KnqlkxY/maxresdefault.jpg" group-title="政論",【全球大視野】中國正式宣戰南海仲裁菲律賓大破防北京實際行動證實黃岩島主權川普關鍵盟友格雷厄姆驟逝完整版
-https://www.youtube.com/watch?v=uxJ0KnqlkxY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】巴威颱風即時監測巴威颱風重創山區新竹縣苗栗縣災情慘重地區日停班停課三立新聞網
@@ -474,8 +464,6 @@ https://www.youtube.com/watch?v=h6-4Q3GAWL4
 https://www.youtube.com/watch?v=gd-Z4tuPcPA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/maE5EOuh_Rg/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播
 https://www.youtube.com/watch?v=maE5EOuh_Rg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1KqSzWcBAgs/maxresdefault.jpg" group-title="購物",【桐瑛台南電視臺】「桐瑛台南電視臺」直播
-https://www.youtube.com/watch?v=1KqSzWcBAgs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xbNWkUyxQGM/maxresdefault.jpg" group-title="購物",【momo購物二台】購物二台頻道小時線上
 https://www.youtube.com/watch?v=xbNWkUyxQGM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rc8px6ti8fc/maxresdefault.jpg" group-title="購物",【ViVa TV美好家庭購物】美好購物台線上看

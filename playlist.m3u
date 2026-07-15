@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-15 15:22:54
+# Last Update: 2026-07-15 17:12:15
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇他的靈魂與他的書店
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙姊姊向前衝
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xVZu14IVvEg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】逼和談出重手川普放話下週轟炸伊朗發電廠與橋梁川普變陣搶荷姆茲控制權專家警告美恐陷無止盡消耗戰中天新聞
+https://www.youtube.com/watch?v=xVZu14IVvEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -100,10 +102,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NkLFvSB4Yqc/maxresdefault.jpg" group-title="綜藝",【204檔案】檔案正在
-https://www.youtube.com/watch?v=NkLFvSB4Yqc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zs6t9yoKBCw/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】中國算力成空轉爛尾砸破李強防線國師翻臉圍剿黨中央
-https://www.youtube.com/watch?v=zs6t9yoKBCw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -112,6 +110,8 @@ https://www.youtube.com/watch?v=6iu77C-6Y7k
 https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OxQQsIvJTTU/maxresdefault.jpg" group-title="綜藝",【KBS WORLD TV】KBS KOREA On-Ai
+https://www.youtube.com/watch?v=OxQQsIvJTTU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OxL_MrnaHOY/maxresdefault.jpg" group-title="影劇",【戲說台灣】有情人終成眷屬情人精選小時不間斷
 https://www.youtube.com/watch?v=OxL_MrnaHOY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/panxL8rRDIw/maxresdefault.jpg" group-title="影劇",【台視時光機】挑戰你的極限精彩類戲劇一次看個夠
@@ -418,10 +418,8 @@ https://www.youtube.com/watch?v=NUx7ZGImueU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TmUM2_WxatY/maxresdefault.jpg" group-title="政論",【全球大視野】南海頂配巡邏隊重擊菲破船警鈴大響中國蚊子間諜列陣美軍顫抖普丁派特務駐間諜天堂日本兩頭通吃還是雙頭空完整版
-https://www.youtube.com/watch?v=TmUM2_WxatY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c8cwOKByZok/maxresdefault.jpg" group-title="政論",【全球大視野】伊國會擬立法管制荷姆茲海峽油價站上美元川普號發表全國演說中天新聞
-https://www.youtube.com/watch?v=c8cwOKByZok
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/W1YyN6s2YOI/maxresdefault.jpg" group-title="政論",【全球大視野】逼和談出重手川普放話下週轟炸伊朗發電廠與橋梁川普變陣搶荷姆茲控制權專家警告美恐陷無止盡消耗戰
+https://www.youtube.com/watch?v=W1YyN6s2YOI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
@@ -430,8 +428,8 @@ https://www.youtube.com/watch?v=KlmDMBwa-W8
 https://www.youtube.com/watch?v=7gOo-gtmbxg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U23NkWWqWOI/maxresdefault.jpg" group-title="政論",【57爆新聞】東森晚安新聞林姓教授行凶前身影曝神情鎮定預藏藍波刀萬里溪堰塞湖最快明溢流萬榮鄉預防撤人周六前水氣仍多午後對流發展旺局部防雷擊短時強降雨
 https://www.youtube.com/watch?v=U23NkWWqWOI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-XYhkzaHPCM/maxresdefault.jpg" group-title="政論",【頭條開講】伊國會擬立法管制荷姆茲海峽油價站上美元川普號發表全國演說中天新聞
-https://www.youtube.com/watch?v=-XYhkzaHPCM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C_B3SOY4BBs/maxresdefault.jpg" group-title="政論",【頭條開講】逼和談出重手川普放話下週轟炸伊朗發電廠與橋梁川普變陣搶荷姆茲控制權專家警告美恐陷無止盡消耗戰
+https://www.youtube.com/watch?v=C_B3SOY4BBs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動藍營怒告卓揆瀆職徐巧芯質疑業者與綠關係匪淺川普嗆伊朗不談判就不留活口數百美軍機待命新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aC6YNHVHb_I/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上

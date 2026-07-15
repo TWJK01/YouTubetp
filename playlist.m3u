@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-15 17:12:15
+# Last Update: 2026-07-15 19:03:30
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8LDCuEdXFg8/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】拐氣年前就這樣阿根廷四強申請穿客場球衣對決英格蘭中天電視
+https://www.youtube.com/watch?v=8LDCuEdXFg8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xVZu14IVvEg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】逼和談出重手川普放話下週轟炸伊朗發電廠與橋梁川普變陣搶荷姆茲控制權專家警告美恐陷無止盡消耗戰中天新聞
 https://www.youtube.com/watch?v=xVZu14IVvEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
@@ -418,6 +420,8 @@ https://www.youtube.com/watch?v=NUx7ZGImueU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8e8NXhpKNt0/maxresdefault.jpg" group-title="政論",【全球大視野】拐氣年前就這樣阿根廷四強申請穿客場球衣對決英格蘭
+https://www.youtube.com/watch?v=8e8NXhpKNt0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/W1YyN6s2YOI/maxresdefault.jpg" group-title="政論",【全球大視野】逼和談出重手川普放話下週轟炸伊朗發電廠與橋梁川普變陣搶荷姆茲控制權專家警告美恐陷無止盡消耗戰
 https://www.youtube.com/watch?v=W1YyN6s2YOI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯

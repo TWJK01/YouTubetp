@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-18 16:51:37
+# Last Update: 2026-07-18 17:52:24
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=quwqlazU-c8
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛迷你劇場日照大地
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映青春愛讀書
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -308,10 +308,10 @@ https://www.youtube.com/watch?v=cH82dXChVG4
 https://www.youtube.com/watch?v=RNDwNP80TVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vouyc10V2-E/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】慕兰之战开播倒计时新篇章将至让我们重温韩立的漫漫仙途为大战做好准备凡人修仙传
 https://www.youtube.com/watch?v=Vouyc10V2-E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/12AvOez_c5Y/maxresdefault.jpg" group-title="體育",【緯來體育台】世界拉力錦標賽第九站愛沙尼亞站
-https://www.youtube.com/watch?v=12AvOez_c5Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
 https://www.youtube.com/watch?v=QkA0xpsBZ8Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JeFgOdozv2U/maxresdefault.jpg" group-title="體育",【WWE】Zuffa Boxing Me
+https://www.youtube.com/watch?v=JeFgOdozv2U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eFV2P6-mTlo/maxresdefault.jpg" group-title="體育",【WWE】Fanatics Games:
 https://www.youtube.com/watch?v=eFV2P6-mTlo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v5CIY2gBekg/maxresdefault.jpg" group-title="體育",【WWE】Best of Hell in
@@ -434,8 +434,6 @@ https://www.youtube.com/watch?v=zjH9gbZxFKk
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aC6YNHVHb_I/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=aC6YNHVHb_I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JZpZegBmYOY/maxresdefault.jpg" group-title="購物",【玉麟網路電視台】線上作伙來聽歌玉麟
-https://www.youtube.com/watch?v=JZpZegBmYOY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K_28Aga5Ono/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
 https://www.youtube.com/watch?v=K_28Aga5Ono
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FwWQQEkFG1U/maxresdefault.jpg" group-title="購物",【三聖電視台】三聖電視台-直播

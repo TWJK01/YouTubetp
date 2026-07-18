@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-18 14:46:33
+# Last Update: 2026-07-18 15:51:06
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映志為人醫守護愛
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映行動現場
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙姊姊向前衝
 https://www.youtube.com/watch?v=QDxRJP-wfeI
@@ -36,10 +36,10 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o-xW5obQ7EU/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】亂轟伊朗又喊中國介選是為習川二會鋪陳啥局美國肢解一拳打臉國中天電視
+https://www.youtube.com/watch?v=o-xW5obQ7EU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Tth0k-ZKHVM/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】歷史哥擂台中天電視
 https://www.youtube.com/watch?v=Tth0k-ZKHVM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/t6S-nFTRLB0/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】俄烏互襲商船重創糧食出口通道胡塞待命擬封紅海中東油路危險
-https://www.youtube.com/watch?v=t6S-nFTRLB0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -86,8 +86,6 @@ https://www.youtube.com/watch?v=ADDSmXoPDY8
 https://www.youtube.com/watch?v=9gx5EIyHmsw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1NQxaEKd-L0/maxresdefault.jpg" group-title="綜藝",【民視 超級冰冰Show】馬拉松大咖雲集金曲不斷
 https://www.youtube.com/watch?v=1NQxaEKd-L0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kYlUQBCXAgI/maxresdefault.jpg" group-title="綜藝",【華視綜藝頻道】週末最強大映後
-https://www.youtube.com/watch?v=kYlUQBCXAgI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0ePhPlTJbGo/maxresdefault.jpg" group-title="綜藝",【華視綜藝頻道】天才衝衝衝完整集數不間斷馬拉松曾國城徐乃麟張文綺徐凱希
 https://www.youtube.com/watch?v=0ePhPlTJbGo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OhA_G0s9pqw/maxresdefault.jpg" group-title="綜藝",【華視綜藝頻道】現代嘉慶君不間斷馬拉松豬哥亮陳亞蘭呂雪鳳
@@ -114,8 +112,6 @@ https://www.youtube.com/watch?v=6iu77C-6Y7k
 https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="綜藝",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dnt3FdybD3U/maxresdefault.jpg" group-title="綜藝",【下面一位】限時週末最強大
-https://www.youtube.com/watch?v=dnt3FdybD3U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OxQQsIvJTTU/maxresdefault.jpg" group-title="綜藝",【KBS WORLD TV】KBS KOREA On-Ai
 https://www.youtube.com/watch?v=OxQQsIvJTTU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OxL_MrnaHOY/maxresdefault.jpg" group-title="影劇",【戲說台灣】有情人終成眷屬情人精選小時不間斷
@@ -180,8 +176,6 @@ https://www.youtube.com/watch?v=4rFLnrnu-X0
 https://www.youtube.com/watch?v=6lKL5znyZkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ldx0f5_49kI/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
 https://www.youtube.com/watch?v=Ldx0f5_49kI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yB3fJJOUCPs/maxresdefault.jpg" group-title="影劇",【精选大剧】古龙经典武侠小说飞刀问情大结局小李飞刀李寻欢再出江湖古龙江湖续新章探花含泪执飞刀不恋红尘荣华梦只凭侠气镇江湖焦恩俊必看经典
-https://www.youtube.com/watch?v=yB3fJJOUCPs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Fg7dKzaGKic/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
 https://www.youtube.com/watch?v=Fg7dKzaGKic
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/agheq71MgcY/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
@@ -314,8 +308,6 @@ https://www.youtube.com/watch?v=cH82dXChVG4
 https://www.youtube.com/watch?v=RNDwNP80TVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vouyc10V2-E/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】慕兰之战开播倒计时新篇章将至让我们重温韩立的漫漫仙途为大战做好准备凡人修仙传
 https://www.youtube.com/watch?v=Vouyc10V2-E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9Ar5U7gL1Kg/maxresdefault.jpg" group-title="體育",【緯來體育台】世界拉力錦標賽第九站愛沙尼亞站
-https://www.youtube.com/watch?v=9Ar5U7gL1Kg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
 https://www.youtube.com/watch?v=QkA0xpsBZ8Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v5CIY2gBekg/maxresdefault.jpg" group-title="體育",【WWE】Best of Hell in
@@ -416,32 +408,20 @@ https://www.youtube.com/watch?v=ljEcXRLRCaU
 https://www.youtube.com/watch?v=1bdQSQ9CmGQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WX_MfpW45ek/maxresdefault.jpg" group-title="音樂",【Tokyo Sound Rank】新曲曲邦楽曲日本優里米津玄師
 https://www.youtube.com/watch?v=WX_MfpW45ek
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4bmmeoRHufI/maxresdefault.jpg" group-title="音樂",【MEET48 Global】穹顶之上第六场
-https://www.youtube.com/watch?v=4bmmeoRHufI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ga4CPR6QDek/maxresdefault.jpg" group-title="音樂",【MEET48 Global】手牵手第二十五场
-https://www.youtube.com/watch?v=Ga4CPR6QDek
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8WAQGBCUoO4/maxresdefault.jpg" group-title="音樂",【MEET48 Global】焕新公演赫兹共振龚晨美生日公演作品展演
-https://www.youtube.com/watch?v=8WAQGBCUoO4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NUx7ZGImueU/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=NUx7ZGImueU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eEvMO8zGIeI/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bw0jqN0CSqk/maxresdefault.jpg" group-title="政論",【全球大視野】中國忍年終亮牌仁愛礁夜斬美菲鏈殲壓軸碾壓日本六代機伊朗導彈雨破六國美軍陷危巴鐵攤牌死守沙特紅線完整版
-https://www.youtube.com/watch?v=bw0jqN0CSqk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7OOlNiX-d80/maxresdefault.jpg" group-title="政論",【全球大視野】美軍連天空襲已釀死伊朗必要時封鎖曼德海峽伊朗擬絕招運輸要道全封油價再飆漲
 https://www.youtube.com/watch?v=7OOlNiX-d80
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nIsvSfVgS40/maxresdefault.jpg" group-title="政論",【94要客訴】矢板明夫遇襲爆黑幫策畫跨境鎮壓中國想把台灣變香港萬港幣買凶刺殺副總統蕭美琴險成目標入籍台灣誓言抗中保台戳破台日親中派幻想絕不向暴政低頭
-https://www.youtube.com/watch?v=nIsvSfVgS40
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z_cCaxOBWpw/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現做不好就換掉我是人我反台毒郭正亮頻道
 https://www.youtube.com/watch?v=z_cCaxOBWpw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jM8uxOGPqMc/maxresdefault.jpg" group-title="政論",【朱學恒的萬事通事務所】台灣人淨遷出萬人你也想塊陶嗎但你真的算過完整的代價嗎
-https://www.youtube.com/watch?v=jM8uxOGPqMc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lKjVmVk95b0/maxresdefault.jpg" group-title="政論",【新聞龍捲風】花蓮萬里溪堰塞湖紅色警戒蓄水量達林保署即刻起隨時可能溢流中天新聞
 https://www.youtube.com/watch?v=lKjVmVk95b0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G7bdZ3nfjhk/maxresdefault.jpg" group-title="政論",【頭條開講】美軍連天空襲已釀死伊朗必要時封鎖曼德海峽伊朗擬絕招運輸要道全封油價再飆漲中天電視

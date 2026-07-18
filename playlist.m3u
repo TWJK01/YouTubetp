@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-18 21:44:26
+# Last Update: 2026-07-18 22:42:55
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -18,15 +18,17 @@ https://www.youtube.com/watch?v=baDV1O5EBP0
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KMMHw8rllic/maxresdefault.jpg" group-title="台灣",【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站
 https://www.youtube.com/watch?v=KMMHw8rllic
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法華經序中文版
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛早安新聞
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映在台灣站起分版
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛早安新聞
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -34,6 +36,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VBApb__0Esk/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】法國英格蘭都不想踢季軍戰獎金個人金靴獎都不如大力金盃吸引人中天電視
+https://www.youtube.com/watch?v=VBApb__0Esk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ctjp-KzMj4w/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中東戰火升級伊朗導彈轟美軍艦艇專家揭衝突關鍵在荷姆茲海峽警告川普一念之間恐擴大戰局中天新聞
 https://www.youtube.com/watch?v=ctjp-KzMj4w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KytgDYuFKhg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】花蓮萬里溪堰塞湖紅色警戒蓄水量達林保署即刻起隨時可能溢流中天新聞
@@ -54,6 +58,8 @@ https://www.youtube.com/watch?v=6IquAgfvYmc
 https://www.youtube.com/watch?v=LqIMxdJiztU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人小時
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XH3hbHc85ZQ/maxresdefault.jpg" group-title="台灣",【三大一台】三大有線電視公司
+https://www.youtube.com/watch?v=XH3hbHc85ZQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1I2iq41Akmo/maxresdefault.jpg" group-title="台灣",【東森財經股市】東森財經新聞小時線上台湾金融
 https://www.youtube.com/watch?v=1I2iq41Akmo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AEBeWMM1atA/maxresdefault.jpg" group-title="台灣",【東森財經股市】小時台湾金融時間放送
@@ -410,6 +416,8 @@ https://www.youtube.com/watch?v=NUx7ZGImueU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mm7HZlUBw4M/maxresdefault.jpg" group-title="政論",【全球大視野】法國英格蘭都不想踢季軍戰獎金個人金靴獎都不如大力金盃吸引人
+https://www.youtube.com/watch?v=mm7HZlUBw4M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Rh6A2oNbKcY/maxresdefault.jpg" group-title="政論",【全球大視野】中東戰火升級伊朗導彈轟美軍艦艇專家揭衝突關鍵在荷姆茲海峽警告川普一念之間恐擴大戰局
 https://www.youtube.com/watch?v=Rh6A2oNbKcY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯

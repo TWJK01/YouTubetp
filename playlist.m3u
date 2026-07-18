@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-18 22:42:55
+# Last Update: 2026-07-18 23:48:22
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛早安新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映青春愛讀書
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛早安新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙姊姊向前衝
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -36,12 +36,14 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VBApb__0Esk/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】法國英格蘭都不想踢季軍戰獎金個人金靴獎都不如大力金盃吸引人中天電視
-https://www.youtube.com/watch?v=VBApb__0Esk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/djt8rYZe_XY/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】蔣萬安今密會盧秀燕宜蘭揪新問題油卓榮泰批其他縣市沒用心查川普嗆伊朗下周會更慘世界盃季軍賽最新蘇貞蓉黃韵筑報新聞中天新聞
+https://www.youtube.com/watch?v=djt8rYZe_XY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ctjp-KzMj4w/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中東戰火升級伊朗導彈轟美軍艦艇專家揭衝突關鍵在荷姆茲海峽警告川普一念之間恐擴大戰局中天新聞
 https://www.youtube.com/watch?v=ctjp-KzMj4w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KytgDYuFKhg/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】花蓮萬里溪堰塞湖紅色警戒蓄水量達林保署即刻起隨時可能溢流中天新聞
 https://www.youtube.com/watch?v=KytgDYuFKhg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
+https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -312,8 +314,8 @@ https://www.youtube.com/watch?v=RNDwNP80TVc
 https://www.youtube.com/watch?v=Vouyc10V2-E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
 https://www.youtube.com/watch?v=QkA0xpsBZ8Q
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v5CIY2gBekg/maxresdefault.jpg" group-title="體育",【WWE】Best of Hell in
-https://www.youtube.com/watch?v=v5CIY2gBekg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RSxjwsaspvg/maxresdefault.jpg" group-title="體育",【WWE】Countdown to Sa
+https://www.youtube.com/watch?v=RSxjwsaspvg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ycms-CIs9IY/maxresdefault.jpg" group-title="體育",【WWE Vault】WWE Saturday Ni
 https://www.youtube.com/watch?v=ycms-CIs9IY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q8hw5oKCDp4/maxresdefault.jpg" group-title="音樂",【周杰倫】音樂時光機
@@ -416,8 +418,6 @@ https://www.youtube.com/watch?v=NUx7ZGImueU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mm7HZlUBw4M/maxresdefault.jpg" group-title="政論",【全球大視野】法國英格蘭都不想踢季軍戰獎金個人金靴獎都不如大力金盃吸引人
-https://www.youtube.com/watch?v=mm7HZlUBw4M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Rh6A2oNbKcY/maxresdefault.jpg" group-title="政論",【全球大視野】中東戰火升級伊朗導彈轟美軍艦艇專家揭衝突關鍵在荷姆茲海峽警告川普一念之間恐擴大戰局
 https://www.youtube.com/watch?v=Rh6A2oNbKcY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
@@ -434,8 +434,8 @@ https://www.youtube.com/watch?v=zjH9gbZxFKk
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aC6YNHVHb_I/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=aC6YNHVHb_I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K_28Aga5Ono/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
-https://www.youtube.com/watch?v=K_28Aga5Ono
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NoAwS61gp9k/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
+https://www.youtube.com/watch?v=NoAwS61gp9k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gd-Z4tuPcPA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
 https://www.youtube.com/watch?v=gd-Z4tuPcPA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tzecgF5Tf5c/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播

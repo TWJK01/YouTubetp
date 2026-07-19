@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-19 17:54:09
+# Last Update: 2026-07-19 18:58:44
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9gycfSlXEKc/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】澡盆之戰國際賭盤一面倒看好西班牙奪冠梅西能率阿根廷繼續上演逆轉秀中天電視
+https://www.youtube.com/watch?v=9gycfSlXEKc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZWu4A8K2G6s/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】伊最高領袖嗆給難忘教訓美發全球旅遊警示攻擊恐不限中東中天新聞
 https://www.youtube.com/watch?v=ZWu4A8K2G6s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/F8S-tx4Vkzw/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】藍民代絕食抗議遇大雨鄭麗文探視送毛巾又沒逼你吃毒油藍民代絕食抗議小時不斷電中天新聞
@@ -180,8 +182,6 @@ https://www.youtube.com/watch?v=4rFLnrnu-X0
 https://www.youtube.com/watch?v=6lKL5znyZkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ldx0f5_49kI/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
 https://www.youtube.com/watch?v=Ldx0f5_49kI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Fg7dKzaGKic/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
-https://www.youtube.com/watch?v=Fg7dKzaGKic
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/agheq71MgcY/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
 https://www.youtube.com/watch?v=agheq71MgcY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ODndCtNkSi4/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清修复未删减无静音版戏骨云集神仙打架陈宝国焦晃归亚蕾同台演绎教科级演技每个角色都有独特的魅力堪称必看经典
@@ -310,12 +310,10 @@ https://www.youtube.com/watch?v=cH82dXChVG4
 https://www.youtube.com/watch?v=RNDwNP80TVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vouyc10V2-E/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】慕兰之战开播倒计时新篇章将至让我们重温韩立的漫漫仙途为大战做好准备凡人修仙传
 https://www.youtube.com/watch?v=Vouyc10V2-E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4QHkLr7HiHk/maxresdefault.jpg" group-title="體育",【緯來體育台】2026.07.19｜LIVE
-https://www.youtube.com/watch?v=4QHkLr7HiHk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
 https://www.youtube.com/watch?v=QkA0xpsBZ8Q
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YRMRrQq5Mlk/maxresdefault.jpg" group-title="體育",【WWE】SummerSlam Kick
-https://www.youtube.com/watch?v=YRMRrQq5Mlk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FQX9KN4PcCk/maxresdefault.jpg" group-title="體育",【WWE】Best of SummerS
+https://www.youtube.com/watch?v=FQX9KN4PcCk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ycms-CIs9IY/maxresdefault.jpg" group-title="體育",【WWE Vault】WWE Saturday Ni
 https://www.youtube.com/watch?v=ycms-CIs9IY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q8hw5oKCDp4/maxresdefault.jpg" group-title="音樂",【周杰倫】音樂時光機
@@ -424,6 +422,8 @@ https://www.youtube.com/watch?v=NUx7ZGImueU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Y3f0L5fwgY/maxresdefault.jpg" group-title="政論",【全球大視野】澡盆之戰國際賭盤一面倒看好西班牙奪冠梅西能率阿根廷繼續上演逆轉秀
+https://www.youtube.com/watch?v=_Y3f0L5fwgY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/riBJ4iNIgmU/maxresdefault.jpg" group-title="政論",【全球大視野】伊最高領袖嗆給難忘教訓美發全球旅遊警示攻擊恐不限中東
 https://www.youtube.com/watch?v=riBJ4iNIgmU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯

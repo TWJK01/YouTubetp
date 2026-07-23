@@ -1,8 +1,8 @@
 #EXTM3U
-# Last Update: 2026-07-23 20:57:02
+# Last Update: 2026-07-23 22:02:54
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e5NIWVmWIjA/maxresdefault.jpg" group-title="台灣",【台灣地震監視】未命名颱風監視
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e5NIWVmWIjA/maxresdefault.jpg" group-title="台灣",【台灣地震監視】紅霞颱風監視
 https://www.youtube.com/watch?v=e5NIWVmWIjA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
 https://www.youtube.com/watch?v=KyT4qSK8lJo
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法華經序中文版
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映靜思妙蓮華
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映法華經序中文版
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映仁心慧語
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -462,10 +462,6 @@ https://www.youtube.com/watch?v=MHoyggBaFW4
 https://www.youtube.com/watch?v=wRdZ2t8Vd6k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tUvQg2HgIbs/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH46
 https://www.youtube.com/watch?v=tUvQg2HgIbs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/J3t9N0vciPI/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH34
-https://www.youtube.com/watch?v=J3t9N0vciPI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2IGZjBPTPT8/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH60
-https://www.youtube.com/watch?v=2IGZjBPTPT8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UQnVkK1kcDI/maxresdefault.jpg" group-title="國會",【國會頻道】經費稽核委員會
 https://www.youtube.com/watch?v=UQnVkK1kcDI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f-U9s-SMiMo/maxresdefault.jpg" group-title="國會",【國會頻道】修憲委員會

@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-22 23:57:59
+# Last Update: 2026-07-23 02:57:17
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛早安新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映好戲成雙姊姊向前衝
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛早安新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙姊姊向前衝
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -42,8 +42,6 @@ https://www.youtube.com/watch?v=G6nv4Z5GHjs
 https://www.youtube.com/watch?v=v0wASJrlQdw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q1Sghx-5Luo/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】凱道遊行動員韓國瑜允諾參加遊行成選舉轉折點中天新聞
 https://www.youtube.com/watch?v=Q1Sghx-5Luo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
-https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -76,8 +74,6 @@ https://www.youtube.com/watch?v=xLqt2p6Dowo
 https://www.youtube.com/watch?v=0jb04p09RaU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ai_SsuBkXLM/maxresdefault.jpg" group-title="台灣",【全球財經台2】全球財經台
 https://www.youtube.com/watch?v=ai_SsuBkXLM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TVAF3ZEj-mQ/maxresdefault.jpg" group-title="台灣",【POP Radio聯播網】撞新聞謝寒冰評論時事
-https://www.youtube.com/watch?v=TVAF3ZEj-mQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vNVp6bxkL1c/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
 https://www.youtube.com/watch?v=vNVp6bxkL1c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PiSwAy-blvA/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
@@ -108,6 +104,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GZTtzQ-kQfY/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】東森早安新聞川普警告伊朗若荷姆茲船隻遇襲將炸基礎設施中橫便道又坍方巨石墜路面毀護欄菲東熱帶低壓生成最快今增強為號颱紅霞
+https://www.youtube.com/watch?v=GZTtzQ-kQfY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -432,6 +430,8 @@ https://www.youtube.com/watch?v=HiI-7_jeKxo
 https://www.youtube.com/watch?v=4GSEGVqhMug
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ivEXBvGnekI/maxresdefault.jpg" group-title="政論",【94要客訴】紅霞強度恐達中颱路徑通過巴士海峽機率最高這天最接近台灣三立新聞網
+https://www.youtube.com/watch?v=ivEXBvGnekI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D5Gen-nHy9I/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】凱道遊行動員韓國瑜允諾參加遊行成選舉轉折點
@@ -442,16 +442,16 @@ https://www.youtube.com/watch?v=8X2VC8InekY
 https://www.youtube.com/watch?v=uOxZ_2beqYI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iefIuY1FqUA/maxresdefault.jpg" group-title="政論",【57爆新聞】東森早安新聞川普警告伊朗若荷姆茲船隻遇襲將炸基礎設施中橫便道又坍方巨石墜路面毀護欄菲東熱帶低壓生成最快今增強為號颱紅霞
 https://www.youtube.com/watch?v=iefIuY1FqUA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GZTtzQ-kQfY/maxresdefault.jpg" group-title="政論",【關鍵時刻】東森早安新聞川普警告伊朗若荷姆茲船隻遇襲將炸基礎設施中橫便道又坍方巨石墜路面毀護欄菲東熱帶低壓生成最快今增強為號颱紅霞
-https://www.youtube.com/watch?v=GZTtzQ-kQfY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eFMDZXkjozg/maxresdefault.jpg" group-title="政論",【頭條開講】川普狂言敢動船就炸德黑蘭電廠荷姆茲海峽大危機美伊大戰一觸即發
 https://www.youtube.com/watch?v=eFMDZXkjozg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動綠凱道前夕滅火黃國昌賴要姜至剛下台颱風紅霞估明生成恐有雙颱美軍陣亡總數增至人新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2gMkwFe3l0A/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
-https://www.youtube.com/watch?v=2gMkwFe3l0A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0QHeBIZRiCw/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
+https://www.youtube.com/watch?v=0QHeBIZRiCw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gd-Z4tuPcPA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
 https://www.youtube.com/watch?v=gd-Z4tuPcPA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_g9LqEbCcvg/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播
+https://www.youtube.com/watch?v=_g9LqEbCcvg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/md3W2tepITI/maxresdefault.jpg" group-title="購物",【桐瑛台南電視臺】「桐瑛台南電視臺」直播
 https://www.youtube.com/watch?v=md3W2tepITI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7__QARkZdNs/maxresdefault.jpg" group-title="購物",【momo購物一台】購物一台頻道小時線上

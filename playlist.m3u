@@ -1,7 +1,9 @@
 #EXTM3U
-# Last Update: 2026-07-23 15:51:24
+# Last Update: 2026-07-23 17:14:48
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e5NIWVmWIjA/maxresdefault.jpg" group-title="台灣",【台灣地震監視】未命名颱風監視
+https://www.youtube.com/watch?v=e5NIWVmWIjA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
 https://www.youtube.com/watch?v=KyT4qSK8lJo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dK_KZ6L6fzo/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮萬里溪堰塞湖
@@ -24,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇他的靈魂與他的書店
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙搜尋者
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -34,10 +36,14 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YTbmGULo4Xc/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】韓國瑜來了千軍萬馬來相見反毒油上凱道蔣萬安難道台灣人爛命一條絕食第六天中天新聞
+https://www.youtube.com/watch?v=YTbmGULo4Xc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GSHhf9SQ32M/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】傳美已通知以色列擴大對伊轟炸鎖定鎬山伊精準反擊美中情局據點疑俄國暗中協助中天新聞
+https://www.youtube.com/watch?v=GSHhf9SQ32M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yZrl80K83vE/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】超罕見未命名颱風生成氣象署發布海警中天新聞
 https://www.youtube.com/watch?v=yZrl80K83vE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vEx-qgFfKsQ/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】紅海新戰線開打葉門胡塞武裝襲沙國油輪川普嗆伊再攻擊船隻就炸橋梁發電廠中天新聞
-https://www.youtube.com/watch?v=vEx-qgFfKsQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
+https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -100,8 +106,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hkIXCsdS0CA/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】深圳突高規格安檢風聲鶴唳習近平砍馬興瑞只是前整肅序曲
-https://www.youtube.com/watch?v=hkIXCsdS0CA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -176,10 +180,6 @@ https://www.youtube.com/watch?v=4rFLnrnu-X0
 https://www.youtube.com/watch?v=6lKL5znyZkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ldx0f5_49kI/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
 https://www.youtube.com/watch?v=Ldx0f5_49kI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ArXk4Hwx9nc/maxresdefault.jpg" group-title="影劇",【精选大剧】年度爆款大剧法医侦探民国法医解剖寻蛛丝天才侦探联手深挖同谋破解尘封三十年灭门奇案
-https://www.youtube.com/watch?v=ArXk4Hwx9nc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s1JkXfpbPlM/maxresdefault.jpg" group-title="影劇",【精选大剧】年度爆款大剧法医侦探民国法医解剖寻蛛丝天才侦探联手深挖同谋破解尘封三十年灭门奇案
-https://www.youtube.com/watch?v=s1JkXfpbPlM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/I6rkTBDzOEk/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
 https://www.youtube.com/watch?v=I6rkTBDzOEk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/agheq71MgcY/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
@@ -392,8 +392,6 @@ https://www.youtube.com/watch?v=9hylBusqpX8
 https://www.youtube.com/watch?v=nHeXL2We4EE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FVLNVecHzvI/maxresdefault.jpg" group-title="音樂",【Too Music】Music Radio 1 P
 https://www.youtube.com/watch?v=FVLNVecHzvI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w4_WEqkJqgU/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Best Trending M
-https://www.youtube.com/watch?v=w4_WEqkJqgU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WNziNKf7j6s/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Hits Radio 1 Sl
 https://www.youtube.com/watch?v=WNziNKf7j6s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3MOrgUjiigE/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Hits Radio 1 Li
@@ -430,24 +428,22 @@ https://www.youtube.com/watch?v=NUx7ZGImueU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5Aq2L-ty3lo/maxresdefault.jpg" group-title="政論",【全球大視野】菲律賓南海鬧事設攔阻索又遭識破小馬可仕緊張美軍連晚轟炸伊朗胡塞逆天反擊鎳礦坑殺印尼高層急訪華致歉完整版
-https://www.youtube.com/watch?v=5Aq2L-ty3lo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Qrz-VUuZEhw/maxresdefault.jpg" group-title="政論",【全球大視野】紅海新戰線開打葉門胡塞武裝襲沙國油輪川普嗆伊再攻擊船隻就炸橋梁發電廠
-https://www.youtube.com/watch?v=Qrz-VUuZEhw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HmytZAW1OSU/maxresdefault.jpg" group-title="政論",【全球大視野】傳美已通知以色列擴大對伊轟炸鎖定鎬山伊精準反擊美中情局據點疑俄國暗中協助
+https://www.youtube.com/watch?v=HmytZAW1OSU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nABySp7dW9w/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】藍青年反毒油絕食破小時行動遭側翼抹黑怒喊告絕食第五天
-https://www.youtube.com/watch?v=nABySp7dW9w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZNp29QoQ5qI/maxresdefault.jpg" group-title="政論",【頭條開講】紅海新戰線開打葉門胡塞武裝襲沙國油輪川普嗆伊再攻擊船隻就炸橋梁發電廠
-https://www.youtube.com/watch?v=ZNp29QoQ5qI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
+https://www.youtube.com/watch?v=KlmDMBwa-W8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/omiIuIMbzEY/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】韓國瑜來了千軍萬馬來相見反毒油上凱道蔣萬安難道台灣人爛命一條絕食第六天
+https://www.youtube.com/watch?v=omiIuIMbzEY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/n86gDu3KQxU/maxresdefault.jpg" group-title="政論",【頭條開講】傳美已通知以色列擴大對伊轟炸鎖定鎬山伊精準反擊美中情局據點疑俄國暗中協助
+https://www.youtube.com/watch?v=n86gDu3KQxU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動颱風又挑週末來紅霞明逼近中聯油事件延燒苦茶油驗出苯駢芘超標黃仁勳華府無須拿槍指台灣的頭新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qBNZQMccyME/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=qBNZQMccyME
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0QHeBIZRiCw/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
 https://www.youtube.com/watch?v=0QHeBIZRiCw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6ZPkTkXxC5s/maxresdefault.jpg" group-title="購物",【三聖電視台】三聖電視台-直播
-https://www.youtube.com/watch?v=6ZPkTkXxC5s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gd-Z4tuPcPA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
 https://www.youtube.com/watch?v=gd-Z4tuPcPA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_g9LqEbCcvg/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播

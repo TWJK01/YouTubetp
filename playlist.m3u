@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-26 17:57:43
+# Last Update: 2026-07-26 19:13:24
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊人生二十甲
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊人生二十甲
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -104,8 +104,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mThSPi9-kKo/maxresdefault.jpg" group-title="綜藝",【204檔案】抱歉剛剛放了屁引起地震
-https://www.youtube.com/watch?v=mThSPi9-kKo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -130,8 +128,6 @@ https://www.youtube.com/watch?v=B7Kf45qZxmA
 https://www.youtube.com/watch?v=cudUOkO_hbo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AhWzXw6dIiQ/maxresdefault.jpg" group-title="影劇",【台視時光機】綜藝黃金年代年龍兄虎弟完整珍藏版
 https://www.youtube.com/watch?v=AhWzXw6dIiQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WHWOr4FBQmM/maxresdefault.jpg" group-title="影劇",【台視時光機】從街頭到教授流氓教授真實改編熱血人生小時精彩
-https://www.youtube.com/watch?v=WHWOr4FBQmM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qZ1sr-gvc54/maxresdefault.jpg" group-title="影劇",【中視經典戲劇】十里桃林三生約三世情緣永相隨小時不間斷經典戲劇看中視
 https://www.youtube.com/watch?v=qZ1sr-gvc54
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0SkMLgihOVM/maxresdefault.jpg" group-title="影劇",【中視經典戲劇】再世情緣傲嬌格格與俊美高僧跨時空的宿命因緣楊慶煌況明潔沈海蓉翁家明星雲大師原著

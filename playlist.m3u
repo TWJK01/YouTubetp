@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-26 16:09:12
+# Last Update: 2026-07-26 17:57:43
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映青春愛讀書
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊人生二十甲
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映真善美故事館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊人生二十甲
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -36,10 +36,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qcgxX1Ps86o/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】中國不是沒問題而是會解題十四五到十五五邊走邊改諸暨珍珠做到全球第一日本高端優勢受挑戰
-https://www.youtube.com/watch?v=qcgxX1Ps86o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f68iM2SeMt8/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】開火度硬闖伊朗港口封鎖線美軍擊癱第二艘商船槍擊後重返記協晚宴川普帶紅帽喊競選第四任專家解析不斷更新中天電視
-https://www.youtube.com/watch?v=f68iM2SeMt8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0YcDjjoVegw/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】川普下令停火內情曝恐準備升級攻擊規模伊朗控烏克蘭襲商船釀死傷揚言不會罷休中天電視
+https://www.youtube.com/watch?v=0YcDjjoVegw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -426,20 +424,18 @@ https://www.youtube.com/watch?v=NUx7ZGImueU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1sWCYuDrBW0/maxresdefault.jpg" group-title="政論",【全球大視野】開火度硬闖伊朗港口封鎖線美軍擊癱第二艘商船槍擊後重返記協晚宴川普帶紅帽喊競選第四任專家解析不斷更新
-https://www.youtube.com/watch?v=1sWCYuDrBW0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QQu-r-MSgrk/maxresdefault.jpg" group-title="政論",【全球大視野】川普下令停火內情曝恐準備升級攻擊規模伊朗控烏克蘭襲商船釀死傷揚言不會罷休
+https://www.youtube.com/watch?v=QQu-r-MSgrk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5FciBPiEves/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現上凱道人民抗官最有力郭正亮頻道
 https://www.youtube.com/watch?v=5FciBPiEves
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eXVDAJADRnc/maxresdefault.jpg" group-title="政論",【頭條開講】開火度硬闖伊朗港口封鎖線美軍擊癱第二艘商船槍擊後重返記協晚宴川普帶紅帽喊競選第四任專家解析不斷更新
-https://www.youtube.com/watch?v=eXVDAJADRnc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1bxM4lYLssM/maxresdefault.jpg" group-title="政論",【頭條開講】川普下令停火內情曝恐準備升級攻擊規模伊朗控烏克蘭襲商船釀死傷揚言不會罷休
+https://www.youtube.com/watch?v=1bxM4lYLssM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動逼我吃毒油上凱道吳子嘉曝警訊民進黨要倒大楣了拒川普停火方案伊朗揚言擴大戰火新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NzXWiBzHq9Q/maxresdefault.jpg" group-title="政論",【文茜的世界周報】| TVBS文茜的世界周報 T
-https://www.youtube.com/watch?v=NzXWiBzHq9Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qBNZQMccyME/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=qBNZQMccyME
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ak4r4-s7eUY/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場

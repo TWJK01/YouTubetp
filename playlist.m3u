@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-28 16:02:16
+# Last Update: 2026-07-28 18:09:11
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛醫生館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映真善美故事館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -38,6 +38,8 @@ https://www.youtube.com/watch?v=9Top3nWSVDw
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/StUFdl8h6tU/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】伊朗海巴爾破城者飛彈讓美軍頭痛烏軍襲裏海貨船俄伊戰線交錯中天新聞
+https://www.youtube.com/watch?v=StUFdl8h6tU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -104,8 +106,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8GXjPZS8US4/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】熊本巨震商場爆炸戰場化多人亡台灣中國連環強震地震連鎖啟動
-https://www.youtube.com/watch?v=8GXjPZS8US4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -434,8 +434,6 @@ https://www.youtube.com/watch?v=eEvMO8zGIeI
 https://www.youtube.com/watch?v=HiI-7_jeKxo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6xOuq2fdzjA/maxresdefault.jpg" group-title="政論",【全球大視野】伊朗海巴爾破城者飛彈讓美軍頭痛烏軍襲裏海貨船俄伊戰線交錯
 https://www.youtube.com/watch?v=6xOuq2fdzjA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/79V_eq8I9fo/maxresdefault.jpg" group-title="政論",【全球大視野】川普稱伊要求暫停空襲傳伊朗阿曼密談恢復航運青年運動想學伊封鎖荷姆茲波斯灣與紅海門戶恐將關閉
-https://www.youtube.com/watch?v=79V_eq8I9fo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
@@ -446,8 +444,6 @@ https://www.youtube.com/watch?v=n_N0d7UkYM4
 https://www.youtube.com/watch?v=VjvBeKpJj3s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UpBQfPYYcuA/maxresdefault.jpg" group-title="政論",【頭條開講】伊朗海巴爾破城者飛彈讓美軍頭痛烏軍襲裏海貨船俄伊戰線交錯
 https://www.youtube.com/watch?v=UpBQfPYYcuA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hOkt9tg-oTM/maxresdefault.jpg" group-title="政論",【頭條開講】川普稱伊要求暫停空襲傳伊朗阿曼密談恢復航運青年運動想學伊封鎖荷姆茲波斯灣與紅海門戶恐將關閉
-https://www.youtube.com/watch?v=hOkt9tg-oTM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動血洗點創史上第大聯電聯發科台達電慘跌停僅美國人挺伊朗戰爭開戰來最低新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qBNZQMccyME/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
@@ -576,8 +572,6 @@ https://www.youtube.com/watch?v=yn_8QwCWsyI
 https://www.youtube.com/watch?v=y6sBKPlIiAk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Br1w0sIvO3U/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角舊草嶺自行車隧道
 https://www.youtube.com/watch?v=Br1w0sIvO3U
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R1dzTS0xH3g/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角龍洞灣觀景台
-https://www.youtube.com/watch?v=R1dzTS0xH3g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HVcowpes0qA/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角永鎮濱海驛站
 https://www.youtube.com/watch?v=HVcowpes0qA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4VBfBgnhJUE/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角鼻頭服務區

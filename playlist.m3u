@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-29 15:49:19
+# Last Update: 2026-07-29 17:09:52
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="台灣",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇藍色艷陽天
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映高僧行誼
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v63HgMNrI5Y/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】傳陸製套肩射飛彈將到貨伊朗巴基斯坦否認中轉沙國首參戰美沙聯軍空襲伊拉克親伊朗民兵中天新聞
+https://www.youtube.com/watch?v=v63HgMNrI5Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -102,10 +104,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jeW67ddFKNM/maxresdefault.jpg" group-title="綜藝",【204檔案】中標
-https://www.youtube.com/watch?v=jeW67ddFKNM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/B4YAJb3S1TU/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】烏克蘭開炸伊朗澤倫斯基密會納坦雅胡兩大戰場融合中東點火
-https://www.youtube.com/watch?v=B4YAJb3S1TU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -434,18 +432,18 @@ https://www.youtube.com/watch?v=NUx7ZGImueU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/P2KS4dqXXRw/maxresdefault.jpg" group-title="政論",【全球大視野】以色列撂狠話單打伊朗要讓倒退年俄軍繞開中國聯印尼軍演真相曝光怒拒葛萊美亞洲獎掀歧視風暴完整版
-https://www.youtube.com/watch?v=P2KS4dqXXRw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OyBSm7MO3gM/maxresdefault.jpg" group-title="政論",【全球大視野】川普會納坦雅胡美方否認彈藥不足擬擴產伊朗襲美軍胡賽攻油輪油價飆升
-https://www.youtube.com/watch?v=OyBSm7MO3gM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3cYu5WvGGEU/maxresdefault.jpg" group-title="政論",【全球大視野】傳陸製套肩射飛彈將到貨伊朗巴基斯坦否認中轉沙國首參戰美沙聯軍空襲伊拉克親伊朗民兵
+https://www.youtube.com/watch?v=3cYu5WvGGEU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jeVzg-7TtNw/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現萊爾校長小編遊行前被查水表郭正亮頻道
+https://www.youtube.com/watch?v=jeVzg-7TtNw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Yt6fmin40f8/maxresdefault.jpg" group-title="政論",【57爆新聞】永旺死失聯高層致歉無人機深入內部首曝熊本永旺超音速衝擊波爆轟威力勘比福島永旺內部慘況曝光日本警方密錄器直擊
 https://www.youtube.com/watch?v=Yt6fmin40f8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a2t6_WS6d50/maxresdefault.jpg" group-title="政論",【頭條開講】川普會納坦雅胡美方否認彈藥不足擬擴產伊朗襲美軍胡賽攻油輪油價飆升
-https://www.youtube.com/watch?v=a2t6_WS6d50
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5W9WQjww0cY/maxresdefault.jpg" group-title="政論",【頭條開講】傳陸製套肩射飛彈將到貨伊朗巴基斯坦否認中轉沙國首參戰美沙聯軍空襲伊拉克親伊朗民兵
+https://www.youtube.com/watch?v=5W9WQjww0cY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動台股崩盤點失守萬點記憶體全倒國巨聯電跌停熊本強震永旺夢樂城爆炸新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qBNZQMccyME/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
@@ -514,12 +512,12 @@ https://www.youtube.com/watch?v=TvEARGJ950E
 https://www.youtube.com/watch?v=dVkQNH3IfME
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/l1knNxfGtRA/maxresdefault.jpg" group-title="宗教",【遠東良友】良友電台同行頻道良友电台同行频道遠東福音會遠東廣播
 https://www.youtube.com/watch?v=l1knNxfGtRA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PscPL-NKhX8/maxresdefault.jpg" group-title="教育",【ABC Learning English】24 Hours Englis
+https://www.youtube.com/watch?v=PscPL-NKhX8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wX6pMa1J1t8/maxresdefault.jpg" group-title="教育",【ABC Learning English】English Convers
 https://www.youtube.com/watch?v=wX6pMa1J1t8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s2-nK1SyLkU/maxresdefault.jpg" group-title="教育",【ABC Learning English】English Speakin
 https://www.youtube.com/watch?v=s2-nK1SyLkU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1D6fL5o4zwE/maxresdefault.jpg" group-title="教育",【ABC Learning English】24 Hours Englis
-https://www.youtube.com/watch?v=1D6fL5o4zwE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4ayHSRrvWjs/maxresdefault.jpg" group-title="教育",【ABC Learning English】English Convers
 https://www.youtube.com/watch?v=4ayHSRrvWjs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vuTY4FDAbpA/maxresdefault.jpg" group-title="教育",【ABC Learning English】24 Hours Englis

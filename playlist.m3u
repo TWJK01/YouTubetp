@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-08-02 17:57:25
+# Last Update: 2026-08-02 19:11:02
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊人生二十甲
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊人生二十甲
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -102,8 +102,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OswZVN5EBMM/maxresdefault.jpg" group-title="綜藝",【204檔案】是天災
-https://www.youtube.com/watch?v=OswZVN5EBMM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -308,10 +306,14 @@ https://www.youtube.com/watch?v=cH82dXChVG4
 https://www.youtube.com/watch?v=RNDwNP80TVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jscl0WA9hGI/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】这个夏天一起漫游暑期特别轮播
 https://www.youtube.com/watch?v=Jscl0WA9hGI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/x1wo1TQLVNo/maxresdefault.jpg" group-title="體育",【緯來體育台】2026.08.02｜LIVE
+https://www.youtube.com/watch?v=x1wo1TQLVNo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VHeyKCkErGw/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=VHeyKCkErGw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
 https://www.youtube.com/watch?v=QkA0xpsBZ8Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yISyZ3ya_Jc/maxresdefault.jpg" group-title="體育",【WWE】Countdown to Su
+https://www.youtube.com/watch?v=yISyZ3ya_Jc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dpS3PxR6fhw/maxresdefault.jpg" group-title="體育",【WWE Vault】SummerSlam Watc
 https://www.youtube.com/watch?v=dpS3PxR6fhw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q8hw5oKCDp4/maxresdefault.jpg" group-title="音樂",【周杰倫】音樂時光機

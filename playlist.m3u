@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-08-02 13:24:55
+# Last Update: 2026-08-02 14:57:40
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,20 +24,16 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映在台灣站起分版
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人間菩提
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映在台灣站起分版
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙搜尋者
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vzGBo4mmHf8/maxresdefault.jpg" group-title="台灣",【鏡新聞】藍白將有更緊密合作盧秀燕突現身民眾黨慶中共海警又擾台巡邏變封鎖海域成新威脅
-https://www.youtube.com/watch?v=vzGBo4mmHf8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HIYBcqABxJk/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】珍珠海岸國際音樂節國際眾星聚集全程中天電視
-https://www.youtube.com/watch?v=HIYBcqABxJk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6QHduDYnMH0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】川普擬恢復對伊朗動武美籲公民考慮離境伊揚言美若再攻擊將毀中東油氣設施中天電視
 https://www.youtube.com/watch?v=6QHduDYnMH0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -84,8 +80,6 @@ https://www.youtube.com/watch?v=PiSwAy-blvA
 https://www.youtube.com/watch?v=Ry--eMIjYLQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LqXVZ_hK3Xs/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
 https://www.youtube.com/watch?v=LqXVZ_hK3Xs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jKQxYqKDnLw/maxresdefault.jpg" group-title="綜藝",【三立娛樂星聞】安妞韓娛晚報韓國娛樂消息快速送到你手上
-https://www.youtube.com/watch?v=jKQxYqKDnLw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ADDSmXoPDY8/maxresdefault.jpg" group-title="綜藝",【中視經典綜藝】豬哥亮陳亞蘭萬秀豬王爆笑劇場小時馬拉松不間斷豬哥亮陳亞蘭呂雪鳳
 https://www.youtube.com/watch?v=ADDSmXoPDY8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9gx5EIyHmsw/maxresdefault.jpg" group-title="綜藝",【綜藝一級棒】小時歡樂不停播讓一級棒陪伴你的每時每刻
@@ -108,6 +102,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OswZVN5EBMM/maxresdefault.jpg" group-title="綜藝",【204檔案】是天災
+https://www.youtube.com/watch?v=OswZVN5EBMM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -184,10 +180,6 @@ https://www.youtube.com/watch?v=4rFLnrnu-X0
 https://www.youtube.com/watch?v=6lKL5znyZkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u98R2PX9tB0/maxresdefault.jpg" group-title="影劇",【緯來戲劇台】浪漫泰劇馬拉松裁定終身好久不見啊喵珍愛如血
 https://www.youtube.com/watch?v=u98R2PX9tB0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ndk08jANp2k/maxresdefault.jpg" group-title="影劇",【精选大剧】偃武汉末三国棋局开启群雄争霸烽烟起朝野交锋诡策生银枪一身持忠义乱世千秋铸盛名林更新陈道明邹兆龙古力娜扎
-https://www.youtube.com/watch?v=ndk08jANp2k
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zvsm-nRDmYo/maxresdefault.jpg" group-title="影劇",【精选大剧】偃武汉末三国棋局开启群雄争霸烽烟起朝野交锋诡策生银枪一身持忠义乱世千秋铸盛名林更新陈道明邹兆龙古力娜扎
-https://www.youtube.com/watch?v=zvsm-nRDmYo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/I6rkTBDzOEk/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
 https://www.youtube.com/watch?v=I6rkTBDzOEk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/agheq71MgcY/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
@@ -270,16 +262,14 @@ https://www.youtube.com/watch?v=cnxRAfxwWqo
 https://www.youtube.com/watch?v=ATiJ3ihQuP8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SAVuhdZBHms/maxresdefault.jpg" group-title="少兒",【會說話的湯姆貓家族】第季超大合集快乐不停歇
 https://www.youtube.com/watch?v=SAVuhdZBHms
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RgwnMg3Ub5U/maxresdefault.jpg" group-title="少兒",【瑪莎與熊】科學對決魔法
-https://www.youtube.com/watch?v=RgwnMg3Ub5U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/89JeNcuej-U/maxresdefault.jpg" group-title="少兒",【碰碰狐 鯊魚寶寶】快逃啊鯊魚們更多海一哥哥山米哥哥卡通動畫精選合集台灣配音中文兒歌童謠鯊魚寶寶碰碰狐
 https://www.youtube.com/watch?v=89JeNcuej-U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZFAAOy9hrTw/maxresdefault.jpg" group-title="少兒",【寶寶巴士】小小醫生更多照顧生病的警長熱門動畫合集安全警長啦咘啦哆
 https://www.youtube.com/watch?v=ZFAAOy9hrTw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uBRIu_CIeX4/maxresdefault.jpg" group-title="少兒",【Miliki Family 繁體中文 兒歌】夏令营大冒险一家儿歌和游戏歌曲
 https://www.youtube.com/watch?v=uBRIu_CIeX4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/S3MSockKs6k/maxresdefault.jpg" group-title="少兒",【小猪佩奇】最新视频粉红猪小妹动画
-https://www.youtube.com/watch?v=S3MSockKs6k
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3_eBWN0dpT8/maxresdefault.jpg" group-title="少兒",【小猪佩奇】最新视频粉红猪小妹动画
+https://www.youtube.com/watch?v=3_eBWN0dpT8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-DMSHUcernY/maxresdefault.jpg" group-title="少兒",【Kids Songs Giligilis】Counting Advent
 https://www.youtube.com/watch?v=-DMSHUcernY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b-pDXpq2Ing/maxresdefault.jpg" group-title="少兒",【Kids Songs Giligilis】🎵 Learn ABC & N
@@ -318,12 +308,6 @@ https://www.youtube.com/watch?v=cH82dXChVG4
 https://www.youtube.com/watch?v=RNDwNP80TVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jscl0WA9hGI/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】这个夏天一起漫游暑期特别轮播
 https://www.youtube.com/watch?v=Jscl0WA9hGI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dotLrOI8SsU/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽板橋先鋒
-https://www.youtube.com/watch?v=dotLrOI8SsU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ooI3nTlqUaA/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽默和饗醬
-https://www.youtube.com/watch?v=ooI3nTlqUaA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f2L_Lf7S6uY/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽極立全方位貸款中心
-https://www.youtube.com/watch?v=f2L_Lf7S6uY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VHeyKCkErGw/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=VHeyKCkErGw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -450,6 +434,8 @@ https://www.youtube.com/watch?v=gj_PjEmf-yw
 https://www.youtube.com/watch?v=W8mUTHxi3pE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動伊戰烏戰外溢埃及首次遭波及俄飛彈落波蘭和平計畫關鍵川普哈瑪斯同意全面解除武裝新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7aeb2E7h-9M/maxresdefault.jpg" group-title="政論",【文茜的世界周報】| TVBS文茜的世界周報 T
+https://www.youtube.com/watch?v=7aeb2E7h-9M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qBNZQMccyME/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=qBNZQMccyME
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bFcjxTqJFjI/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場

@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-08-07 17:43:31
+# Last Update: 2026-08-07 18:47:15
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/N2l449sHmLE/maxresdefault.jpg" group-title="台灣",【台灣地震監視】白海豚颱風監視
@@ -28,9 +28,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映銀髮白之歌相信
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映銀髮白之歌後導讀
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映銀髮白之歌相信
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -142,8 +142,6 @@ https://www.youtube.com/watch?v=qZ1sr-gvc54
 https://www.youtube.com/watch?v=0SkMLgihOVM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Zn_nwouK0pQ/maxresdefault.jpg" group-title="影劇",【中視經典戲劇】光陰的故事全集馬拉松回到自強一村找回眷村歲月最純真的感動
 https://www.youtube.com/watch?v=Zn_nwouK0pQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/beRlE8F7Ch8/maxresdefault.jpg" group-title="影劇",【華視戲劇頻道】全劇小時不斷電一起跟包公辦案
-https://www.youtube.com/watch?v=beRlE8F7Ch8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6ZowCmLBcMY/maxresdefault.jpg" group-title="影劇",【華視戲劇頻道】小時不斷電一起追劇來辦案
 https://www.youtube.com/watch?v=6ZowCmLBcMY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K2qsju6byIg/maxresdefault.jpg" group-title="影劇",【民視戲劇館】藍色水玲瓏民視戲劇馬拉松
@@ -444,8 +442,6 @@ https://www.youtube.com/watch?v=oLsQ3BYGn1I
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qBNZQMccyME/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=qBNZQMccyME
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cmAw_ek1uaU/maxresdefault.jpg" group-title="購物",【玉麟網路電視台】線上作伙來聽歌玉麟
-https://www.youtube.com/watch?v=cmAw_ek1uaU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CXXqtnTw71U/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
 https://www.youtube.com/watch?v=CXXqtnTw71U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gd-Z4tuPcPA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播

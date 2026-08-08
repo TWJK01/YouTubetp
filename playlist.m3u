@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-08-08 09:31:49
+# Last Update: 2026-08-08 10:25:37
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/N2l449sHmLE/maxresdefault.jpg" group-title="台灣",【台灣地震監視】白海豚颱風監視
@@ -24,22 +24,26 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=KMMHw8rllic
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZKyubyBIVfY/maxresdefault.jpg" group-title="台灣",【民視新聞網】中颱白海豚外圍環流殺到中部以北縣市大雨特報漢光號首納濱海打擊賴總統登艇視導演習宜蘭兩層樓住宅火警消防員救出驚魂黑狗
+https://www.youtube.com/watch?v=ZKyubyBIVfY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映草根菩提
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人文講堂
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙一路芬芳
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cgxE1qgKNvI/maxresdefault.jpg" group-title="台灣",【東森新聞】東森晚安新聞明天會放颱風假嗎縣市達停班課標準白海豚到家門口淡江大橋今晚時封閉熊本強震台灣送帳篷成搶手物資日網讚比政府還快
+https://www.youtube.com/watch?v=cgxE1qgKNvI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IAyRGoer2Xw/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】白海豚外圍環流發威淡水驚見巨型龍捲風慈濟遭詐積極追回善款石崇良請辭政院沒討論何織羽報新聞中天新聞
-https://www.youtube.com/watch?v=IAyRGoer2Xw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Rf0wedaJlWI/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】介文汲黃介正栗正傑川普防線崩沙土巴鐵三角伊朗嘲笑美軍日圓無底洞泰辱華爆俄黑寡婦產業鏈何橞瑢辣晚報完整版中天新聞
+https://www.youtube.com/watch?v=Rf0wedaJlWI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PWEYxd1Tn2k/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】川普認了部分彈藥吃緊伊朗揭海峽協議草案飛彈短缺空襲效果有限美最高將領私下尋求退場機制全球大視野
 https://www.youtube.com/watch?v=PWEYxd1Tn2k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mzNOkTLZHdc/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】白海豚颱風移動變慢北台迎狂風暴雨父親節假期風雨最劇中天新聞
@@ -48,6 +52,8 @@ https://www.youtube.com/watch?v=mzNOkTLZHdc
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
 https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BMe7o2xCYm8/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】晚間整點新聞重點
+https://www.youtube.com/watch?v=BMe7o2xCYm8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -110,6 +116,8 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VHCiea3A_8E/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】東森晚安新聞明天會放颱風假嗎縣市達停班課標準白海豚到家門口淡江大橋今晚時封閉熊本強震台灣送帳篷成搶手物資日網讚比政府還快
+https://www.youtube.com/watch?v=VHCiea3A_8E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -316,16 +324,12 @@ https://www.youtube.com/watch?v=Jscl0WA9hGI
 https://www.youtube.com/watch?v=_Bwz9KaB3BQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r0TLT5pweJM/maxresdefault.jpg" group-title="體育",【HOP Sports】小時台湾時間
 https://www.youtube.com/watch?v=r0TLT5pweJM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2r0tp39Sfxg/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟快刻立手機維修
-https://www.youtube.com/watch?v=2r0tp39Sfxg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M_b9dF6jKhk/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟瑞昱帝王蟹歐僻你恩
-https://www.youtube.com/watch?v=M_b9dF6jKhk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NzoiPIe1dtw/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟玄通營造球給楷翔
-https://www.youtube.com/watch?v=NzoiPIe1dtw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QRppKxuPW1g/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】手機行宜謙工程文化
-https://www.youtube.com/watch?v=QRppKxuPW1g
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VQ-uQESbsKg/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽森特克富盛國際開發
-https://www.youtube.com/watch?v=VQ-uQESbsKg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wBK8o9VKLpQ/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟新埔遠東化纖
+https://www.youtube.com/watch?v=wBK8o9VKLpQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xE6nih8Xafs/maxresdefault.jpg" group-title="體育",【MAX籃球聯盟】鈦威車業駿鵬汽車
+https://www.youtube.com/watch?v=xE6nih8Xafs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zbLbJbE3mJ0/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽殺庫瑪
+https://www.youtube.com/watch?v=zbLbJbE3mJ0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VHeyKCkErGw/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=VHeyKCkErGw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -446,10 +450,10 @@ https://www.youtube.com/watch?v=VncyBKZEG7c
 https://www.youtube.com/watch?v=SZtve48kWBk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/h6Jmdw2sko0/maxresdefault.jpg" group-title="政論",【新聞大白話】特報
-https://www.youtube.com/watch?v=h6Jmdw2sko0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MzwyRXrEnck/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現完整版網友問答台糖沒有義務通報致癌油還是因為台糖董事長後臺夠硬郭正亮頻道
 https://www.youtube.com/watch?v=MzwyRXrEnck
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/agsQmTiPnyg/maxresdefault.jpg" group-title="政論",【57爆新聞】東森晚安新聞明天會放颱風假嗎縣市達停班課標準白海豚到家門口淡江大橋今晚時封閉熊本強震台灣送帳篷成搶手物資日網讚比政府還快
+https://www.youtube.com/watch?v=agsQmTiPnyg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3UEMBvEcdEw/maxresdefault.jpg" group-title="政論",【新聞龍捲風】白海豚颱風移動變慢北台迎狂風暴雨父親節假期風雨最劇中天新聞
 https://www.youtube.com/watch?v=3UEMBvEcdEw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/T90DSn0k9xY/maxresdefault.jpg" group-title="政論",【頭條開講】川普認了部分彈藥吃緊伊朗揭海峽協議草案飛彈短缺空襲效果有限美最高將領私下尋求退場機制全球大視野

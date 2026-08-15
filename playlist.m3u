@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-08-14 23:16:18
+# Last Update: 2026-08-15 00:56:17
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=ADZTiqEGT8g
 https://www.youtube.com/watch?v=FOc1DGS9H0M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9iRAqBMakXY/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=9iRAqBMakXY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PU0HPY4Nrp4/maxresdefault.jpg" group-title="台灣",【中視新聞】蔣萬安赴羅東掃街助陣藍營集結力挺吳宗憲
+https://www.youtube.com/watch?v=PU0HPY4Nrp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -24,9 +26,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人間菩提
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙一路芬芳
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -36,8 +38,12 @@ https://www.youtube.com/watch?v=V1p33hqPrUk
 https://www.youtube.com/watch?v=E0zhe2gkXBs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jSyX1orfoLU/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】黃韵筑報新聞中天新聞
 https://www.youtube.com/watch?v=jSyX1orfoLU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DFDoptk0RMk/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】蔣萬安赴宜蘭挺吳宗憲喊話北宜共好中天新聞
+https://www.youtube.com/watch?v=DFDoptk0RMk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v88VarTj0aE/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】暫時拋棄太平洋美國華盛頓號急救林肯號川普健康堪憂位顧問共同會診中天電視
 https://www.youtube.com/watch?v=v88VarTj0aE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
+https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -292,6 +298,8 @@ https://www.youtube.com/watch?v=qG1pXe9PBOc
 https://www.youtube.com/watch?v=RNDwNP80TVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5ksCdVvarqk/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】夏日漫游记暑期特别轮播
 https://www.youtube.com/watch?v=5ksCdVvarqk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/26R2zxNZMRA/maxresdefault.jpg" group-title="體育",【HOP Sports】台灣超級盃慢速壘球全國錦標賽上午
+https://www.youtube.com/watch?v=26R2zxNZMRA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VHeyKCkErGw/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=VHeyKCkErGw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -398,6 +406,12 @@ https://www.youtube.com/watch?v=gytOQBjQEOs
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MynZUEzU8kA/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】蔣萬安赴宜蘭挺吳宗憲喊話北宜共好
+https://www.youtube.com/watch?v=MynZUEzU8kA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pn-t7g3LKWI/maxresdefault.jpg" group-title="政論",【中時新聞網】蔣萬安赴羅東掃街助陣藍營集結力挺吳宗憲
+https://www.youtube.com/watch?v=pn-t7g3LKWI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lK7yn1fiQ-g/maxresdefault.jpg" group-title="政論",【中天深喉嚨】蔣萬安赴宜蘭挺吳宗憲喊話北宜共好中天電視
+https://www.youtube.com/watch?v=lK7yn1fiQ-g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FXE7L66ELJ8/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現完整版網友問答立法院分製危機總預算協商韓國瑜怒批傅崐萁郭正亮頻道
 https://www.youtube.com/watch?v=FXE7L66ELJ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6jHoLEej7qM/maxresdefault.jpg" group-title="政論",【頭條開講】暫時拋棄太平洋美國華盛頓號急救林肯號川普健康堪憂位顧問共同會診
@@ -408,8 +422,8 @@ https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 https://www.youtube.com/watch?v=BOmYqiISGWI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qBNZQMccyME/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=qBNZQMccyME
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U-Qm7TPbyq0/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
-https://www.youtube.com/watch?v=U-Qm7TPbyq0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/S3crdMwbGQ0/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
+https://www.youtube.com/watch?v=S3crdMwbGQ0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hrGIZE_2ogE/maxresdefault.jpg" group-title="購物",【三聖電視台】三聖電視台-直播
 https://www.youtube.com/watch?v=hrGIZE_2ogE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gd-Z4tuPcPA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】蓁鑽台中電視臺
@@ -516,8 +530,6 @@ https://www.youtube.com/watch?v=o2kdcPhofNs
 https://www.youtube.com/watch?v=vMr_ka9RSjg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BFPYblkS1g8/maxresdefault.jpg" group-title="教育",【學習匈牙利語】Speak Hungarian
 https://www.youtube.com/watch?v=BFPYblkS1g8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zzTNTVXRNHM/maxresdefault.jpg" group-title="教育",【學習芬蘭語】Speak Finnish 2
-https://www.youtube.com/watch?v=zzTNTVXRNHM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Xt5Ij_t-_4o/maxresdefault.jpg" group-title="教育",【學習荷蘭語】Speak Dutch 24/
 https://www.youtube.com/watch?v=Xt5Ij_t-_4o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CL4PwM8IUEk/maxresdefault.jpg" group-title="教育",【學習韓語】Speak Korean 24

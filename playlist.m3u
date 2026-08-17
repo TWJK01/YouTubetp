@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-08-17 21:20:04
+# Last Update: 2026-08-17 22:18:19
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映志為人醫守護愛
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映靜思妙蓮華
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映志為人醫守護愛
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映高僧傳
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -378,6 +378,8 @@ https://www.youtube.com/watch?v=3MOrgUjiigE
 https://www.youtube.com/watch?v=UWc_vMRGxDs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r7eFY9YYTdE/maxresdefault.jpg" group-title="音樂",【Dark City Sounds】Hottest Hip Hop
 https://www.youtube.com/watch?v=r7eFY9YYTdE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ydRAfyJC3Xg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
+https://www.youtube.com/watch?v=ydRAfyJC3Xg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/I0-YJPaZX8Q/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=I0-YJPaZX8Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Zpj3iAHfayE/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
@@ -414,8 +416,6 @@ https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 https://www.youtube.com/watch?v=oR8_RSRsyts
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aYCWQ4Sn9DY/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
 https://www.youtube.com/watch?v=aYCWQ4Sn9DY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iD0sEOlBECY/maxresdefault.jpg" group-title="購物",【三聖電視台】三聖電視台-直播
-https://www.youtube.com/watch?v=iD0sEOlBECY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gd-Z4tuPcPA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】蓁鑽台中電視臺
 https://www.youtube.com/watch?v=gd-Z4tuPcPA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xBDdCzGHZwA/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播
@@ -496,16 +496,12 @@ https://www.youtube.com/watch?v=ozogaCsLgCs
 https://www.youtube.com/watch?v=KVgzLV88Uw8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7vP4PAqDIHI/maxresdefault.jpg" group-title="教育",【學習土耳其語】Speak Turkish 2
 https://www.youtube.com/watch?v=7vP4PAqDIHI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IO2RHFYspFk/maxresdefault.jpg" group-title="教育",【學習阿拉伯語】Speak Arabic 24
-https://www.youtube.com/watch?v=IO2RHFYspFk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qeybtDtMzXs/maxresdefault.jpg" group-title="教育",【學習瑞典語】Speak Swedish 2
 https://www.youtube.com/watch?v=qeybtDtMzXs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0khD-HGgYr8/maxresdefault.jpg" group-title="教育",【學習波蘭語】Speak Polish 24
 https://www.youtube.com/watch?v=0khD-HGgYr8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o2kdcPhofNs/maxresdefault.jpg" group-title="教育",【學習日文】🔴 24/7 Japanese
 https://www.youtube.com/watch?v=o2kdcPhofNs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Xt5Ij_t-_4o/maxresdefault.jpg" group-title="教育",【學習荷蘭語】Speak Dutch 24/
-https://www.youtube.com/watch?v=Xt5Ij_t-_4o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CL4PwM8IUEk/maxresdefault.jpg" group-title="教育",【學習韓語】Speak Korean 24
 https://www.youtube.com/watch?v=CL4PwM8IUEk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/215ahZ_0rTg/maxresdefault.jpg" group-title="風景",【台北】貓空指南宮猫空指南宮

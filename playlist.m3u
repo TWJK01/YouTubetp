@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-08-19 23:17:39
+# Last Update: 2026-08-20 00:56:09
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -10,10 +10,10 @@ https://www.youtube.com/watch?v=_-25RVVJANI
 https://www.youtube.com/watch?v=EsQOvbpEOPI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ADZTiqEGT8g/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】台灣天氣即時監測
 https://www.youtube.com/watch?v=ADZTiqEGT8g
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b6m1WDI_xg8/maxresdefault.jpg" group-title="台灣",【台視新聞】早安大頭條
-https://www.youtube.com/watch?v=b6m1WDI_xg8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9iRAqBMakXY/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=9iRAqBMakXY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gmfjPyEBnCM/maxresdefault.jpg" group-title="台灣",【中視新聞】北市有望普發萬蔣萬安議會專案報告
+https://www.youtube.com/watch?v=gmfjPyEBnCM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -22,14 +22,14 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=KMMHw8rllic
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
-https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛早安新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人間菩提
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛學漢醫
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙一路芬芳
 https://www.youtube.com/watch?v=QDxRJP-wfeI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fF8qr8CUyTc/maxresdefault.jpg" group-title="台灣",【鏡新聞】台指期結算台股跌掉日線迎戰大魔王會議紀要賺錢鏡來講
+https://www.youtube.com/watch?v=fF8qr8CUyTc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zBXbJgNrcWA/maxresdefault.jpg" group-title="台灣",【東森新聞】東森早安新聞明年財經五大政策聚焦減稅綠能亞資中心美財政部加碼回購美債道瓊回神上漲沙德爾颱風估下周三接近琉球海域今西南風低壓帶防大範圍豪大雨
@@ -54,8 +54,8 @@ https://www.youtube.com/watch?v=w87VGpgd90U
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LqIMxdJiztU/maxresdefault.jpg" group-title="台灣",【寰宇全視界】寰宇新聞台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=LqIMxdJiztU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LiFgIThAsts/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】台總統宣布擴大戰鬥加給軍公教加薪台灣查太子集團爆案外案新唐人全球晨報
-https://www.youtube.com/watch?v=LiFgIThAsts
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qjvOc31mYw4/maxresdefault.jpg" group-title="台灣",【CNEWS匯流新聞網】立法院第五會期第次全院委員會審查監察院第七屆監察委員
+https://www.youtube.com/watch?v=qjvOc31mYw4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="台灣",【新唐人亞太電視台】新唐人小時
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XH3hbHc85ZQ/maxresdefault.jpg" group-title="台灣",【三大一台】三大有線電視公司
@@ -72,8 +72,8 @@ https://www.youtube.com/watch?v=eA6Aczd3FZM
 https://www.youtube.com/watch?v=xLqt2p6Dowo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xYMPHCjyD-c/maxresdefault.jpg" group-title="台灣",【運通財經台】「運通財經台」直播
 https://www.youtube.com/watch?v=xYMPHCjyD-c
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G7akYuimF4Q/maxresdefault.jpg" group-title="台灣",【POP Radio聯播網】撞新聞謝寒冰評論時事
-https://www.youtube.com/watch?v=G7akYuimF4Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YMVk1JZtc9c/maxresdefault.jpg" group-title="台灣",【POP Radio聯播網】黃暐瀚專訪前彰化縣長卓伯源
+https://www.youtube.com/watch?v=YMVk1JZtc9c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vNVp6bxkL1c/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
 https://www.youtube.com/watch?v=vNVp6bxkL1c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PiSwAy-blvA/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
@@ -178,6 +178,8 @@ https://www.youtube.com/watch?v=6lKL5znyZkc
 https://www.youtube.com/watch?v=xTgz8X9_16w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PtFBCnhTQCg/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
 https://www.youtube.com/watch?v=PtFBCnhTQCg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kAFn4ugeWZU/maxresdefault.jpg" group-title="影劇",【精选大剧】庆历三年身居九重步步如弈坐看大宋风云起落宋仁宗于朝堂暗流之中守万里河山王凯朱亚文唐国强
+https://www.youtube.com/watch?v=kAFn4ugeWZU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u1GmrlZbROI/maxresdefault.jpg" group-title="影劇",【精选大剧】庆历三年身居九重步步如弈坐看大宋风云起落宋仁宗于朝堂暗流之中守万里河山王凯朱亚文唐国强
 https://www.youtube.com/watch?v=u1GmrlZbROI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/O4OUlDbPCi0/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
@@ -292,6 +294,8 @@ https://www.youtube.com/watch?v=qG1pXe9PBOc
 https://www.youtube.com/watch?v=RNDwNP80TVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yd-UKB-TlzY/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】夏日漫游记暑期特别轮播
 https://www.youtube.com/watch?v=yd-UKB-TlzY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/F_V1MeLdnkI/maxresdefault.jpg" group-title="體育",【公視體育】開幕式暨四年級男女決賽年第四屆北港媽祖盃全國桌球錦標賽
+https://www.youtube.com/watch?v=F_V1MeLdnkI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q2w1ZPHIpA0/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=Q2w1ZPHIpA0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -322,8 +326,6 @@ https://www.youtube.com/watch?v=itvBk3ZDV2s
 https://www.youtube.com/watch?v=VnqzUVYfJCQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jfPMPTrfi1c/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=jfPMPTrfi1c
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FDfWKJFpJPE/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】八月新歌華語單曲排行週榜愛就一個字若月亮沒來花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋周杰倫抖音最最最火
-https://www.youtube.com/watch?v=FDfWKJFpJPE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yB23SOE_55k/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=yB23SOE_55k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XHayC6UdiZE/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
@@ -414,6 +416,10 @@ https://www.youtube.com/watch?v=98ZMWWHpQ1Y
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TAQeI755wVY/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】賴政府帶頭霸凌警消吳宗憲與民眾黨力挺基層中天新聞
+https://www.youtube.com/watch?v=TAQeI755wVY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Oki6RfTFcbw/maxresdefault.jpg" group-title="政論",【中時新聞網】北市有望普發萬蔣萬安議會專案報告
+https://www.youtube.com/watch?v=Oki6RfTFcbw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vbA9wSCpNsE/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現總預算三讀府國務機要費全凍刪卓榮泰薪資凍結個月郭正亮頻道
 https://www.youtube.com/watch?v=vbA9wSCpNsE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jYaZt1ZD4AU/maxresdefault.jpg" group-title="政論",【57爆新聞】東森早安新聞明年財經五大政策聚焦減稅綠能亞資中心美財政部加碼回購美債道瓊回神上漲沙德爾颱風估下周三接近琉球海域今西南風低壓帶防大範圍豪大雨

@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-08-30 17:08:20
+# Last Update: 2026-08-30 20:25:45
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映好戲成雙稻香家味
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙稻香家味
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -34,8 +34,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/harVMcHXqxc/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】荷姆茲仍封閉伊朗拒執行與阿曼通航協議德黑蘭美先履約船隻須伊朗批准中天新聞
-https://www.youtube.com/watch?v=harVMcHXqxc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/A4CQ04l-h_s/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】納坦雅胡證實長子人身安全遭受重大威脅伊朗總統呼籲伊斯蘭國家共同保障地區安全專家解析中天新聞
+https://www.youtube.com/watch?v=A4CQ04l-h_s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -178,8 +178,6 @@ https://www.youtube.com/watch?v=Pke22oG1lRE
 https://www.youtube.com/watch?v=6lKL5znyZkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xTgz8X9_16w/maxresdefault.jpg" group-title="影劇",【緯來戲劇台】王牌經紀人蘿琳亞塑身衣馬拉松
 https://www.youtube.com/watch?v=xTgz8X9_16w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PtFBCnhTQCg/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
-https://www.youtube.com/watch?v=PtFBCnhTQCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/O4OUlDbPCi0/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
 https://www.youtube.com/watch?v=O4OUlDbPCi0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/et4SqnkNSFo/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
@@ -288,6 +286,8 @@ https://www.youtube.com/watch?v=X7jEUuSk4eA
 https://www.youtube.com/watch?v=Q2w1ZPHIpA0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
 https://www.youtube.com/watch?v=QkA0xpsBZ8Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jYCCtVAGfyc/maxresdefault.jpg" group-title="體育",【WWE】AAA OLA DE CALO
+https://www.youtube.com/watch?v=jYCCtVAGfyc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jy_Nv1GTTbQ/maxresdefault.jpg" group-title="體育",【WWE】Best of Interco
 https://www.youtube.com/watch?v=Jy_Nv1GTTbQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zm_LhcdSmeQ/maxresdefault.jpg" group-title="體育",【WWE Vault】Best of The Att
@@ -434,10 +434,10 @@ https://www.youtube.com/watch?v=dYpspgeXSaQ
 https://www.youtube.com/watch?v=Anr15FA9OCI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2f9NOSw-FqM/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
 https://www.youtube.com/watch?v=2f9NOSw-FqM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PfbJJd_ax2s/maxresdefault.jpg" group-title="國際",【YTN】호르무즈 해협 열리나…이란
+https://www.youtube.com/watch?v=PfbJJd_ax2s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5vkKJ4DeXE0/maxresdefault.jpg" group-title="國際",【YTN】부메랑처럼 미국으로 날아든
 https://www.youtube.com/watch?v=5vkKJ4DeXE0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZZsxL7t9AHQ/maxresdefault.jpg" group-title="國際",【YTN】"제재 풀면 호르무즈 전면
-https://www.youtube.com/watch?v=ZZsxL7t9AHQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/joiqI8Mp0y4/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'최대 200㎜' 심상찮은
@@ -450,6 +450,8 @@ https://www.youtube.com/watch?v=QK065RRBFVM
 https://www.youtube.com/watch?v=NfFY27pI4hA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6QZ_qc75ihU/maxresdefault.jpg" group-title="國際",【연합뉴스TV】24시간 현장을 전합니다 /
 https://www.youtube.com/watch?v=6QZ_qc75ihU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/14yownTvN_s/maxresdefault.jpg" group-title="國際",【JTBC News】네팔 대홍수 생존한 두산 현
+https://www.youtube.com/watch?v=14yownTvN_s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/N7JV3svwau4/maxresdefault.jpg" group-title="國際",【JTBC News】'빙하호 핵폭탄' 경고했던
 https://www.youtube.com/watch?v=N7JV3svwau4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JkmBOA_cqFs/maxresdefault.jpg" group-title="國際",【JTBC News】첫 '90년대생 장관' 나오
@@ -474,10 +476,8 @@ https://www.youtube.com/watch?v=vZ2ZimWwAkU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Irlg-dX15v8/maxresdefault.jpg" group-title="政論",【全球大視野】習近平下令全力搶救尼泊爾向中國求援北京啟動元首外交習接連參與上合金磚峰會加拿大鵝扳倒美國鷹中國怒斥川普完整版
-https://www.youtube.com/watch?v=Irlg-dX15v8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v8Dv6nSUoRI/maxresdefault.jpg" group-title="政論",【全球大視野】荷姆茲仍封閉伊朗拒執行與阿曼通航協議德黑蘭美先履約船隻須伊朗批准
-https://www.youtube.com/watch?v=v8Dv6nSUoRI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vHe_p5eMZ4M/maxresdefault.jpg" group-title="政論",【全球大視野】納坦雅胡證實長子人身安全遭受重大威脅伊朗總統呼籲伊斯蘭國家共同保障地區安全專家解析
+https://www.youtube.com/watch?v=vHe_p5eMZ4M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w_dqgeGTlpw/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
@@ -486,12 +486,10 @@ https://www.youtube.com/watch?v=w_dqgeGTlpw
 https://www.youtube.com/watch?v=KUv6poLq4aM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/S6qHtw_ctPw/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現完整版網友問答立委追問治水錢花哪裡賴清德別南部淹水就責備治水預算郭正亮頻道
 https://www.youtube.com/watch?v=S6qHtw_ctPw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R4Y_t1x9jwM/maxresdefault.jpg" group-title="政論",【頭條開講】荷姆茲仍封閉伊朗拒執行與阿曼通航協議德黑蘭美先履約船隻須伊朗批准
-https://www.youtube.com/watch?v=R4Y_t1x9jwM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1lF7leEPPBA/maxresdefault.jpg" group-title="政論",【頭條開講】納坦雅胡證實長子人身安全遭受重大威脅伊朗總統呼籲伊斯蘭國家共同保障地區安全專家解析中天新聞
+https://www.youtube.com/watch?v=1lF7leEPPBA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動尼泊爾西藏土石流增至死人數恐再上修三颱共舞颱風班朗生成沙德爾夾西南風南部雨彈炸新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7sBPHVQ8xqs/maxresdefault.jpg" group-title="政論",【文茜的世界周報】| TVBS文茜的世界周報 T
-https://www.youtube.com/watch?v=7sBPHVQ8xqs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oR8_RSRsyts/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=oR8_RSRsyts
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2XElnm42IIo/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場

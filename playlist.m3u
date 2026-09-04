@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-09-04 20:41:06
+# Last Update: 2026-09-04 22:44:25
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛早安新聞
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映證嚴上人說故事
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛早安新聞
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -34,6 +34,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_6VB4mdxi1E/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】臺北國際滑水公開賽登場週末免費接駁邀民眾觀賞中天電視
+https://www.youtube.com/watch?v=_6VB4mdxi1E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VbLxWM9LH44/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】韓國否認派兵荷姆茲海峽評估中白宮嚴正否認婚禮空襲針對平民中天電視
 https://www.youtube.com/watch?v=VbLxWM9LH44
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -288,6 +290,8 @@ https://www.youtube.com/watch?v=ikXkSxdbyM0
 https://www.youtube.com/watch?v=rQbP1woz89g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X7jEUuSk4eA/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】夏日漫游记暑期特别轮播
 https://www.youtube.com/watch?v=X7jEUuSk4eA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-OH48GFd0z0/maxresdefault.jpg" group-title="體育",【緯來體育台】上午賽事
+https://www.youtube.com/watch?v=-OH48GFd0z0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q2w1ZPHIpA0/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=Q2w1ZPHIpA0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -398,8 +402,6 @@ https://www.youtube.com/watch?v=dH43_QO9XA4
 https://www.youtube.com/watch?v=wGNhAVIzODg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X_sRCPzTNGE/maxresdefault.jpg" group-title="國際",【ANNnewsCH】朝最新情報厳選届朝
-https://www.youtube.com/watch?v=X_sRCPzTNGE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/j91b8IAAQ_U/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
 https://www.youtube.com/watch?v=j91b8IAAQ_U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/T6nPwmiANQs/maxresdefault.jpg" group-title="國際",【日テレNEWS】種子島屋久島地方線状降水帯発生日関東地方警報級大雨社会日
@@ -430,8 +432,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-2DkKpAKmXw/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=-2DkKpAKmXw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GGbmt9vhyTg/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=GGbmt9vhyTg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子

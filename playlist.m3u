@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-09-06 18:48:56
+# Last Update: 2026-09-06 21:00:46
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊幸福在我家
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊幸福在我家
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -284,8 +284,6 @@ https://www.youtube.com/watch?v=ikXkSxdbyM0
 https://www.youtube.com/watch?v=rQbP1woz89g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X7jEUuSk4eA/maxresdefault.jpg" group-title="少兒",【嗶哩嗶哩動畫Anime Made By Bilibili】夏日漫游记暑期特别轮播
 https://www.youtube.com/watch?v=X7jEUuSk4eA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1KyZMN5d6KA/maxresdefault.jpg" group-title="體育",【CBC籃球聯盟】籃球聯盟準時打卡下班
-https://www.youtube.com/watch?v=1KyZMN5d6KA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q2w1ZPHIpA0/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=Q2w1ZPHIpA0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QkA0xpsBZ8Q/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
@@ -314,6 +312,8 @@ https://www.youtube.com/watch?v=itvBk3ZDV2s
 https://www.youtube.com/watch?v=VnqzUVYfJCQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jfPMPTrfi1c/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=jfPMPTrfi1c
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HX763xx9rHE/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
+https://www.youtube.com/watch?v=HX763xx9rHE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yB23SOE_55k/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=yB23SOE_55k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XHayC6UdiZE/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
@@ -394,6 +394,8 @@ https://www.youtube.com/watch?v=dH43_QO9XA4
 https://www.youtube.com/watch?v=wGNhAVIzODg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2PyOse1KLuo/maxresdefault.jpg" group-title="國際",【ANNnewsCH】朝最新情報厳選届朝
+https://www.youtube.com/watch?v=2PyOse1KLuo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5kR9RJ5qmhs/maxresdefault.jpg" group-title="國際",【日テレNEWS】関東甲信東海地方線状降水帯半日前予測東京八丈町記録的短時間大雨速報社会日
 https://www.youtube.com/watch?v=5kR9RJ5qmhs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZM5tci5Phn4/maxresdefault.jpg" group-title="國際",【日テレNEWS】内閣改造自民党役員人事茂木敏充外相続投方向調整外交継続性重視国民民主玉木雄一郎代表再選政治日
@@ -402,8 +404,6 @@ https://www.youtube.com/watch?v=ZM5tci5Phn4
 https://www.youtube.com/watch?v=9ExpJJMhUQY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/T47F1vIEuqY/maxresdefault.jpg" group-title="國際",【日テレNEWS】米軍石油隻攻撃米艦艇対報復国際日
 https://www.youtube.com/watch?v=T47F1vIEuqY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WzGrBEZr2vE/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=WzGrBEZr2vE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b8uc6cKdnRg/maxresdefault.jpg" group-title="國際",【日テレNEWS】台風号進路厳重警戒那覇空港現在様子日
 https://www.youtube.com/watch?v=b8uc6cKdnRg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2PIdi3Xa7TY/maxresdefault.jpg" group-title="國際",【日テレNEWS】羽田空港日
@@ -424,8 +424,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PboVHCpCqos/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=PboVHCpCqos
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bzJfo-jjgbE/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=bzJfo-jjgbE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
@@ -438,22 +438,14 @@ https://www.youtube.com/watch?v=2f9NOSw-FqM
 https://www.youtube.com/watch?v=3UXTLTWrgl8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2OBOIjSQkik/maxresdefault.jpg" group-title="國際",【YTN】"곧 뜻밖의 사건 목격하게
 https://www.youtube.com/watch?v=2OBOIjSQkik
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KYBedR0xxUo/maxresdefault.jpg" group-title="國際",【YTN】"이란 모든 인프라 파괴".
-https://www.youtube.com/watch?v=KYBedR0xxUo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rZO8-hNdPPY/maxresdefault.jpg" group-title="國際",【연합뉴스TV】美 특사단, 푸틴과 3시간
-https://www.youtube.com/watch?v=rZO8-hNdPPY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CVygx5ZECUo/maxresdefault.jpg" group-title="國際",【연합뉴스TV】호르무즈 파병·우크라 미사일
-https://www.youtube.com/watch?v=CVygx5ZECUo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hQEkXopTO8k/maxresdefault.jpg" group-title="國際",【연합뉴스TV】절기 '백로' 초가을 날씨에
+https://www.youtube.com/watch?v=hQEkXopTO8k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7IQjQI54-vo/maxresdefault.jpg" group-title="國際",【연합뉴스TV】태풍 '크로반' 경로 왜 이
 https://www.youtube.com/watch?v=7IQjQI54-vo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DoOxfb27hTE/maxresdefault.jpg" group-title="國際",【연합뉴스TV】韓與
-https://www.youtube.com/watch?v=DoOxfb27hTE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VjUQ5z4rvyo/maxresdefault.jpg" group-title="國際",【연합뉴스TV】이란군 "美 항모·구축함에
 https://www.youtube.com/watch?v=VjUQ5z4rvyo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/goJffuMyG74/maxresdefault.jpg" group-title="國際",【연합뉴스TV】"과장선에서 막혀 있다? 알
-https://www.youtube.com/watch?v=goJffuMyG74
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6QZ_qc75ihU/maxresdefault.jpg" group-title="國際",【연합뉴스TV】24시간 현장을 전합니다 /
 https://www.youtube.com/watch?v=6QZ_qc75ihU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fzkyexuMhMg/maxresdefault.jpg" group-title="國際",【JTBC News】한동훈, 김승원 녹취 추가

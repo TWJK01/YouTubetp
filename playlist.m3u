@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-09-07 18:32:42
+# Last Update: 2026-09-07 21:52:11
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=KMMHw8rllic
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映志為人醫守護愛
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映日日素
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映志為人醫守護愛
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -308,6 +308,8 @@ https://www.youtube.com/watch?v=itvBk3ZDV2s
 https://www.youtube.com/watch?v=VnqzUVYfJCQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jfPMPTrfi1c/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=jfPMPTrfi1c
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/APOxxFSYFkA/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】九月熱門華語歌曲九月單曲排行週榜我會等總會有人跳楼机斷送青春愛錯人聽說你周杰倫王嘉爾周興哲林俊傑鄧紫棋抖音熱歌合集
+https://www.youtube.com/watch?v=APOxxFSYFkA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yB23SOE_55k/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=yB23SOE_55k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XHayC6UdiZE/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
@@ -388,6 +390,10 @@ https://www.youtube.com/watch?v=dH43_QO9XA4
 https://www.youtube.com/watch?v=wGNhAVIzODg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dNa8x2-D6Fc/maxresdefault.jpg" group-title="國際",【ANNnewsCH】朝最新情報厳選届朝
+https://www.youtube.com/watch?v=dNa8x2-D6Fc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MEjfyrxGQWg/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=MEjfyrxGQWg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IyzSIThd3Fc/maxresdefault.jpg" group-title="國際",【日テレNEWS】貨物機車両衝突人死亡国際日
 https://www.youtube.com/watch?v=IyzSIThd3Fc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5khRo902fjA/maxresdefault.jpg" group-title="國際",【日テレNEWS】千葉豪雨同場所冠水関東混乱計画運休休校生活影響社会日
@@ -396,8 +402,6 @@ https://www.youtube.com/watch?v=5khRo902fjA
 https://www.youtube.com/watch?v=hij2KJv63U4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dxUo0RCT9dI/maxresdefault.jpg" group-title="國際",【日テレNEWS】人以上死亡確認家族引渡遺体割未満身元特定難航国際日
 https://www.youtube.com/watch?v=dxUo0RCT9dI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RT9obYBZPGg/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=RT9obYBZPGg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b8uc6cKdnRg/maxresdefault.jpg" group-title="國際",【日テレNEWS】那覇空港日
 https://www.youtube.com/watch?v=b8uc6cKdnRg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2PIdi3Xa7TY/maxresdefault.jpg" group-title="國際",【日テレNEWS】羽田空港日
@@ -418,8 +422,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OhaeNvEDCNI/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=OhaeNvEDCNI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PU31hxm3QVc/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=PU31hxm3QVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子

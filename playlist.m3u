@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-09-09 16:58:50
+# Last Update: 2026-09-09 19:37:58
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映人間菩提
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙稻香家味
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -34,12 +34,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yqf2QU0StLk/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】補助遭砍蘇巧慧噤聲綠營側翼嗆蔣萬安驗美軍伊朗互轟石油設施川普半夜狂發迷因圖中天夜線中天新聞
-https://www.youtube.com/watch?v=yqf2QU0StLk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r6HMvdSppm8/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】國家機器動起來監院調查蔣萬安兒沈伯洋推出市長你給我聽好網友提可以先辭立委嗎赴陸未登錄要罰旅遊業反彈觀光署改口中天電視
-https://www.youtube.com/watch?v=r6HMvdSppm8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bipLRoDcHRM/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美軍擊毀艘伊朗油輪指控革命衛隊以彈道飛彈鎖定美艦伊朗揚言報復美軍警告科威特巴林船員撤離全球大視野
-https://www.youtube.com/watch?v=bipLRoDcHRM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XvMGLjeE4tU/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美伊互轟美炸伊油輪伊轟美船油價飆破美元中天新聞
+https://www.youtube.com/watch?v=XvMGLjeE4tU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -102,8 +98,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zouJ7lR29zk/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】貝森特喊我是莊家狂拉日圓狙擊人民幣人民幣取代日圓遭套利交易習近平捧錢給美國花
-https://www.youtube.com/watch?v=zouJ7lR29zk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -396,16 +390,16 @@ https://www.youtube.com/watch?v=dH43_QO9XA4
 https://www.youtube.com/watch?v=wGNhAVIzODg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eb8a2kzDlto/maxresdefault.jpg" group-title="國際",【日テレNEWS】上智大生殺害事件年父親現場献花解決私寿命社会日
+https://www.youtube.com/watch?v=eb8a2kzDlto
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vWZeYyYOsfc/maxresdefault.jpg" group-title="國際",【日テレNEWS】長引大雨危険警報関東夜天気急変厳重警戒社会日
+https://www.youtube.com/watch?v=vWZeYyYOsfc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bkWNqDesg70/maxresdefault.jpg" group-title="國際",【日テレNEWS】高市首相麻生副総裁会談内閣改造党役員人事意見交換政治日
 https://www.youtube.com/watch?v=bkWNqDesg70
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Hj0K_iiFzPo/maxresdefault.jpg" group-title="國際",【日テレNEWS】米軍石油隻攻撃側攻撃報復応酬激化国際日
 https://www.youtube.com/watch?v=Hj0K_iiFzPo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vgy2UDsNtms/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
 https://www.youtube.com/watch?v=Vgy2UDsNtms
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jVoPw-p_9GI/maxresdefault.jpg" group-title="國際",【日テレNEWS】上智大生殺害事件年父親現場献花解決私寿命社会日
-https://www.youtube.com/watch?v=jVoPw-p_9GI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cjMLC2M29bI/maxresdefault.jpg" group-title="國際",【日テレNEWS】記録的大雨土砂災害相次長雨蓄積型災害要警戒社会日
-https://www.youtube.com/watch?v=cjMLC2M29bI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2PIdi3Xa7TY/maxresdefault.jpg" group-title="國際",【日テレNEWS】羽田空港日
 https://www.youtube.com/watch?v=2PIdi3Xa7TY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/t9kwjZBLI-A/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新配信中日
@@ -476,14 +470,16 @@ https://www.youtube.com/watch?v=vZ2ZimWwAkU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9n4lGbcaC8A/maxresdefault.jpg" group-title="政論",【全球大視野】美軍擊毀艘伊朗油輪指控革命衛隊以彈道飛彈鎖定美艦伊朗揚言報復美軍警告科威特巴林船員撤離
-https://www.youtube.com/watch?v=9n4lGbcaC8A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c2MCRInRPVA/maxresdefault.jpg" group-title="政論",【全球大視野】美伊互轟美炸伊油輪伊轟美船油價飆破美元
+https://www.youtube.com/watch?v=c2MCRInRPVA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EmyDyDK8UAI/maxresdefault.jpg" group-title="政論",【94要客訴】蔣萬安昔靠條款闖立委初選才當選李柏毅咆哮醫護傷選情李文宗想認背信罪柯文哲躲不過牢獄竹北藍白不合一屍命中共擴權多線多地施壓台灣
-https://www.youtube.com/watch?v=EmyDyDK8UAI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ij-wS0PiRmA/maxresdefault.jpg" group-title="政論",【頭條開講】美軍擊毀艘伊朗油輪指控革命衛隊以彈道飛彈鎖定美艦伊朗揚言報復美軍警告科威特巴林船員撤離全球大視野
-https://www.youtube.com/watch?v=ij-wS0PiRmA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cb00YUaCUiE/maxresdefault.jpg" group-title="政論",【94要客訴】首款折疊登場價格曝光三立新聞網
+https://www.youtube.com/watch?v=cb00YUaCUiE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w_dqgeGTlpw/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
+https://www.youtube.com/watch?v=w_dqgeGTlpw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FZazDIrAwBo/maxresdefault.jpg" group-title="政論",【頭條開講】美伊互轟美炸伊油輪伊轟美船油價飆破美元
+https://www.youtube.com/watch?v=FZazDIrAwBo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動美伊戰火再升級美軍摧毀艘伊朗油輪德黑蘭枚飛彈反擊國家機器出手了監院爆查蔣得立新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oR8_RSRsyts/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
@@ -852,8 +848,6 @@ https://www.youtube.com/watch?v=5GTFLN9gZrc
 https://www.youtube.com/watch?v=rvc1klNIgQc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DliL9uMtPrI/maxresdefault.jpg" group-title="風景",【ervnsa】六十石山花東縱谷
 https://www.youtube.com/watch?v=DliL9uMtPrI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVF3oIfwyX8/maxresdefault.jpg" group-title="風景",【交通部觀光署澎湖國家風景區管理處】南海遊客中心碼頭
-https://www.youtube.com/watch?v=EVF3oIfwyX8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZcO5dbciNU4/maxresdefault.jpg" group-title="風景",【交通部觀光署澎湖國家風景區管理處】北寮風景區
 https://www.youtube.com/watch?v=ZcO5dbciNU4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BFjd2dS28rE/maxresdefault.jpg" group-title="風景",【交通部觀光署澎湖國家風景區管理處】隘門沙灘

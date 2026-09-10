@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-09-10 18:00:03
+# Last Update: 2026-09-10 20:46:11
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映經典劇坊幸福在我家
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇轉角那間心藥局
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映經典劇坊幸福在我家
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映高僧傳
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -566,10 +566,14 @@ https://www.youtube.com/watch?v=Lvs4gOledbc
 https://www.youtube.com/watch?v=rw8KvSZ1CSs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Pw_x8gmMPFg/maxresdefault.jpg" group-title="教育",【學習粵語】Speak Cantonese
 https://www.youtube.com/watch?v=Pw_x8gmMPFg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/URQnC6TuBUM/maxresdefault.jpg" group-title="教育",【南非荷蘭語】Speak Afrikaans
+https://www.youtube.com/watch?v=URQnC6TuBUM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E6W52KKD5PY/maxresdefault.jpg" group-title="教育",【學習印地語】Speak Hindi 24/
 https://www.youtube.com/watch?v=E6W52KKD5PY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ECohIwY6bCE/maxresdefault.jpg" group-title="教育",【學習菲律賓語】Speak Filipino
 https://www.youtube.com/watch?v=ECohIwY6bCE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ozogaCsLgCs/maxresdefault.jpg" group-title="教育",【學習烏爾都語】Speak Urdu 24/7
+https://www.youtube.com/watch?v=ozogaCsLgCs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xn0SlytWBM0/maxresdefault.jpg" group-title="教育",【學習德語】Speak German 24
 https://www.youtube.com/watch?v=xn0SlytWBM0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M6mnnR_-sV4/maxresdefault.jpg" group-title="教育",【學習土耳其語】Speak Turkish 2
@@ -656,8 +660,6 @@ https://www.youtube.com/watch?v=F_fv8VTt6L8
 https://www.youtube.com/watch?v=CWkEgrjBas0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q7wy94TiBBw/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角龍洞灣觀景台
 https://www.youtube.com/watch?v=q7wy94TiBBw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hfm0DhDJFmI/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角馬崗哨所
-https://www.youtube.com/watch?v=hfm0DhDJFmI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Br1w0sIvO3U/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角舊草嶺自行車隧道
 https://www.youtube.com/watch?v=Br1w0sIvO3U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HVcowpes0qA/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角永鎮濱海驛站

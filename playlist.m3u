@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-09-15 19:27:28
+# Last Update: 2026-09-15 22:39:12
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -18,9 +18,9 @@ https://www.youtube.com/watch?v=baDV1O5EBP0
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映靜思妙蓮華
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映綠色幸福學
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -302,6 +302,8 @@ https://www.youtube.com/watch?v=itvBk3ZDV2s
 https://www.youtube.com/watch?v=VnqzUVYfJCQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jfPMPTrfi1c/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=jfPMPTrfi1c
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/O1pk2FdzQqw/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】九月新歌華語單曲排行週榜愛就一個字若月亮沒來花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋周杰倫超好聽的中文歌單
+https://www.youtube.com/watch?v=O1pk2FdzQqw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yB23SOE_55k/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
 https://www.youtube.com/watch?v=yB23SOE_55k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XHayC6UdiZE/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
@@ -380,10 +382,10 @@ https://www.youtube.com/watch?v=dH43_QO9XA4
 https://www.youtube.com/watch?v=wGNhAVIzODg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VvPecg8RV8A/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=VvPecg8RV8A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cwxQ-o4OxcY/maxresdefault.jpg" group-title="國際",【日テレNEWS】人類滅実態大統領懸念一蹴国際日
 https://www.youtube.com/watch?v=cwxQ-o4OxcY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uQsnYCTeZjg/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=uQsnYCTeZjg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/x8wy_mb-lK4/maxresdefault.jpg" group-title="國際",【日テレNEWS】国会改革高市人事狙自民石井参院幹事長交代見通日党役員人事政治日
 https://www.youtube.com/watch?v=x8wy_mb-lK4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2PIdi3Xa7TY/maxresdefault.jpg" group-title="國際",【日テレNEWS】羽田空港日
@@ -404,8 +406,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LpcTlp8ukXU/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=LpcTlp8ukXU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dc_-V0PCqhg/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=dc_-V0PCqhg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
@@ -426,18 +428,16 @@ https://www.youtube.com/watch?v=0AlR-3qFi04
 https://www.youtube.com/watch?v=ht6U_k9Oj20
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jHE-hcOLHRk/maxresdefault.jpg" group-title="國際",【연합뉴스TV】유가·금리 폭탄에도 AI·반
+https://www.youtube.com/watch?v=jHE-hcOLHRk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TTDSTgPi2Is/maxresdefault.jpg" group-title="國際",【연합뉴스TV】서울 버스노사 파업 2시간
+https://www.youtube.com/watch?v=TTDSTgPi2Is
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gtGzkI8361w/maxresdefault.jpg" group-title="國際",【연합뉴스TV】美비상사태 선언 직전…디젤값
 https://www.youtube.com/watch?v=gtGzkI8361w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z8DetSdhZJw/maxresdefault.jpg" group-title="國際",【연합뉴스TV】2조원대 원유 밀매 자금 터
-https://www.youtube.com/watch?v=z8DetSdhZJw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k-RRIizPD1k/maxresdefault.jpg" group-title="國際",【연합뉴스TV】서울시내버스 노조 "자정까지
-https://www.youtube.com/watch?v=k-RRIizPD1k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UsUb-TsihTM/maxresdefault.jpg" group-title="國際",【연합뉴스TV】태풍 '두쥐안' 시속 144
 https://www.youtube.com/watch?v=UsUb-TsihTM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gd7gZBPKFCE/maxresdefault.jpg" group-title="國際",【연합뉴스TV】보복전에 비상 걸린 사우디…
 https://www.youtube.com/watch?v=gd7gZBPKFCE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cvSITVifIco/maxresdefault.jpg" group-title="國際",【연합뉴스TV】한동훈, 김승원 추가 폭로…
-https://www.youtube.com/watch?v=cvSITVifIco
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6QZ_qc75ihU/maxresdefault.jpg" group-title="國際",【연합뉴스TV】24시간 현장을 전합니다 /
 https://www.youtube.com/watch?v=6QZ_qc75ihU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SbYchHF8DDI/maxresdefault.jpg" group-title="國際",【JTBC News】'15분 시술' 눈 떠보니

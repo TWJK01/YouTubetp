@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-09-16 19:19:33
+# Last Update: 2026-09-16 22:35:26
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -20,9 +20,9 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -392,9 +392,11 @@ https://www.youtube.com/watch?v=dH43_QO9XA4
 https://www.youtube.com/watch?v=wGNhAVIzODg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K_xp2SRZwMA/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=K_xp2SRZwMA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-KMPGgBxk8M/maxresdefault.jpg" group-title="國際",【日テレNEWS】事故現場撮影中局報道墜落人死亡国際日
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/04VceGBbN-s/maxresdefault.jpg" group-title="國際",【ANNnewsCH】朝最新情報厳選届朝
+https://www.youtube.com/watch?v=04VceGBbN-s
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K1uTMeFePe0/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=K1uTMeFePe0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-KMPGgBxk8M/maxresdefault.jpg" group-title="國際",【日テレNEWS】交通事故現場取材中墜落死亡同僚深悲中放送米国際日
 https://www.youtube.com/watch?v=-KMPGgBxk8M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qbg1GSgAitw/maxresdefault.jpg" group-title="國際",【日テレNEWS】日内閣改造林総務相処遇革命的人事若手抜政治日
 https://www.youtube.com/watch?v=qbg1GSgAitw
@@ -416,8 +418,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DJNI1imfVfY/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=DJNI1imfVfY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rYgXg4V4rSg/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=rYgXg4V4rSg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
@@ -434,12 +436,10 @@ https://www.youtube.com/watch?v=_osJVI0R5s4
 https://www.youtube.com/watch?v=3F2_lMtkrc0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Mg_1dt4krMo/maxresdefault.jpg" group-title="國際",【연합뉴스TV】반경 440㎞ 몸 불리는 '
+https://www.youtube.com/watch?v=Mg_1dt4krMo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iDKS30cXFkQ/maxresdefault.jpg" group-title="國際",【연합뉴스TV】"이란전은 실패했을 뿐 아니
 https://www.youtube.com/watch?v=iDKS30cXFkQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/38ylRdiBkBE/maxresdefault.jpg" group-title="國際",【연합뉴스TV】예멘 후티반군 "사우디 얀부
-https://www.youtube.com/watch?v=38ylRdiBkBE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YZqihffaUF4/maxresdefault.jpg" group-title="國際",【연합뉴스TV】반경 440㎞ 몸 불리는 '
-https://www.youtube.com/watch?v=YZqihffaUF4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fcyyBwCgt5w/maxresdefault.jpg" group-title="國際",【연합뉴스TV】"사우디 F-15 전투기 격
 https://www.youtube.com/watch?v=fcyyBwCgt5w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IF2Bx0gRQns/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'최종 조율이라더니…' 알래

@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-09-23 18:10:43
+# Last Update: 2026-09-23 21:58:42
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -10,6 +10,8 @@ https://www.youtube.com/watch?v=SgRKSTXk5cc
 https://www.youtube.com/watch?v=_-25RVVJANI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EsQOvbpEOPI/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=EsQOvbpEOPI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E5Af7saXB6o/maxresdefault.jpg" group-title="台灣",【台視新聞】川習會再度登場川普親自接機
+https://www.youtube.com/watch?v=E5Af7saXB6o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9iRAqBMakXY/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=9iRAqBMakXY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
@@ -20,9 +22,9 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映靜思妙蓮華
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映農夫與他的田
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -30,14 +32,20 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TBoEiqAmAoM/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】分析習川會二人各懷鬼胎聚焦大場面習近平將施壓川普停止對台軍售專家解析中天新聞
-https://www.youtube.com/watch?v=TBoEiqAmAoM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bfqeGvGttic/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】罕見川普親自接機迎習近平元首禮遇年來首見主播譚若誼即時中文口譯中天新聞
+https://www.youtube.com/watch?v=bfqeGvGttic
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/33dVw9NTqH8/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】聯合國大會聚焦伊朗烏克蘭安全佩澤希齊揚澤倫斯基上台演說中文即時口譯中天新聞
+https://www.youtube.com/watch?v=33dVw9NTqH8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RxW18YVzoug/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】歷史性一刻川普打破慣例親自接機習近平中美關係迎來大轉折原音呈現
+https://www.youtube.com/watch?v=RxW18YVzoug
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0an9taQ7OYM/maxresdefault.jpg" group-title="台灣",【TVBS財經】財經小時台湾世界中時間配信中財經財經鈔能力金臨天下全球股市線上
 https://www.youtube.com/watch?v=0an9taQ7OYM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M5b68vunVPM/maxresdefault.jpg" group-title="台灣",【Focus全球新聞】川普破格迎習近平親自前往停機坪原音呈現
+https://www.youtube.com/watch?v=M5b68vunVPM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a1YWMrmwXQs/maxresdefault.jpg" group-title="台灣",【寰宇新聞】川普擬在選前減少戰事美伊戰爭恐延長至明年川普擬在選前減少戰事美伊戰爭恐延長至明年台
 https://www.youtube.com/watch?v=a1YWMrmwXQs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w87VGpgd90U/maxresdefault.jpg" group-title="台灣",【寰宇新聞】台灣台小時台湾時間配信中
@@ -56,6 +64,8 @@ https://www.youtube.com/watch?v=1I2iq41Akmo
 https://www.youtube.com/watch?v=AEBeWMM1atA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yAUQQ0DhPxI/maxresdefault.jpg" group-title="台灣",【寰宇財經新聞】寰宇新聞財經台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=yAUQQ0DhPxI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VBhcZpBmEPk/maxresdefault.jpg" group-title="台灣",【非凡電視】川習會再度登場川普親自接機
+https://www.youtube.com/watch?v=VBhcZpBmEPk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eA6Aczd3FZM/maxresdefault.jpg" group-title="台灣",【非凡電視】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導
 https://www.youtube.com/watch?v=eA6Aczd3FZM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xLqt2p6Dowo/maxresdefault.jpg" group-title="台灣",【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導
@@ -66,7 +76,9 @@ https://www.youtube.com/watch?v=xYMPHCjyD-c
 https://www.youtube.com/watch?v=vNVp6bxkL1c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PiSwAy-blvA/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
 https://www.youtube.com/watch?v=PiSwAy-blvA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ry--eMIjYLQ/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】習近平離京對美國進行國事訪問中國駐美大使中美合作共贏是主流大勢特朗普與委內瑞拉代總統會晤小时间鳳凰衛視
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UzA_y29sUqo/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】習近平乘機抵達美國特朗普親赴機場迎接舉行歡迎儀式習特會即將登場鳳凰衛視習近平特朗普訪美中國習特會美國
+https://www.youtube.com/watch?v=UzA_y29sUqo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ry--eMIjYLQ/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】習近平抵達安德魯斯基地特朗普親自迎接中國駐美大使中美合作共贏是主流大勢特朗普與委內瑞拉代總統會晤小时间鳳凰衛視
 https://www.youtube.com/watch?v=Ry--eMIjYLQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ta7uI13rb_E/maxresdefault.jpg" group-title="綜藝",【大陸尋奇】跨越五千年的歷史遺跡尋遍大陸各地奇風異俗人文軼事小時不斷電
 https://www.youtube.com/watch?v=ta7uI13rb_E
@@ -306,6 +318,8 @@ https://www.youtube.com/watch?v=itvBk3ZDV2s
 https://www.youtube.com/watch?v=VnqzUVYfJCQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jfPMPTrfi1c/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=jfPMPTrfi1c
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VsEYresQ0D0/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月必聽新歌華語單曲排行週榜離開我的依賴我會等别让爱凋落最後一頁會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋行进新歌
+https://www.youtube.com/watch?v=VsEYresQ0D0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hdKff2RuRK4/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月最新歌曲華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋九月強檔新曲
 https://www.youtube.com/watch?v=hdKff2RuRK4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BQdD8LQaZJo/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋九月新歌
@@ -386,14 +400,14 @@ https://www.youtube.com/watch?v=dH43_QO9XA4
 https://www.youtube.com/watch?v=wGNhAVIzODg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/W8QGRUFj-kE/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=W8QGRUFj-kE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_hwe3EfWbLU/maxresdefault.jpg" group-title="國際",【日テレNEWS】印旛沼堤防一部決壊浸水被害相次農家出荷日気象日
 https://www.youtube.com/watch?v=_hwe3EfWbLU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fci_suSWMQU/maxresdefault.jpg" group-title="國際",【日テレNEWS】高市首相日米同盟強示日米首脳会談目的達成政治日
 https://www.youtube.com/watch?v=fci_suSWMQU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_DTwEETle4s/maxresdefault.jpg" group-title="國際",【日テレNEWS】米中首脳会談焦点台湾問題貿易休戦延長下蹴合米報道国際日
 https://www.youtube.com/watch?v=_DTwEETle4s
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hsJx-onw-1U/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=hsJx-onw-1U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/T0IloE6SeAQ/maxresdefault.jpg" group-title="國際",【日テレNEWS】那覇空港日
 https://www.youtube.com/watch?v=T0IloE6SeAQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2PIdi3Xa7TY/maxresdefault.jpg" group-title="國際",【日テレNEWS】羽田空港日
@@ -414,8 +428,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0gQrfff8Fow/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=0gQrfff8Fow
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-QZBSVDzAfA/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=-QZBSVDzAfA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
@@ -424,6 +438,8 @@ https://www.youtube.com/watch?v=dYpspgeXSaQ
 https://www.youtube.com/watch?v=Anr15FA9OCI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2f9NOSw-FqM/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
 https://www.youtube.com/watch?v=2f9NOSw-FqM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GbPIj0IbcjA/maxresdefault.jpg" group-title="國際",【YTN】시진핑, 11년 만의 미국
+https://www.youtube.com/watch?v=GbPIj0IbcjA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D9vH0KKvlJs/maxresdefault.jpg" group-title="國際",【YTN】시진핑 향한 '심상찮은 기류
 https://www.youtube.com/watch?v=D9vH0KKvlJs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f5SjL8LevY0/maxresdefault.jpg" group-title="國際",【YTN】트럼프 초강수에 이란 '숨통
@@ -456,20 +472,24 @@ https://www.youtube.com/watch?v=hvVlyZ5GiE8
 https://www.youtube.com/watch?v=XWq5kBlakcQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lmXQcMhf6pU/maxresdefault.jpg" group-title="國際",【歡樂APM】每周更新唔好俾佢停愛回家小時馬拉松愛回家之開心速遞劉丹呂慧儀單立文滕麗名周嘉洛
 https://www.youtube.com/watch?v=lmXQcMhf6pU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-WqNPMbkcNk/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】川普破格迎習近平親自前往停機坪原音呈現
+https://www.youtube.com/watch?v=-WqNPMbkcNk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eEvMO8zGIeI/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0Qrf56guFo8/maxresdefault.jpg" group-title="政論",【全球大視野】分析習川會二人各懷鬼胎聚焦大場面習近平將施壓川普停止對台軍售專家解析
-https://www.youtube.com/watch?v=0Qrf56guFo8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/L2APz1kZ0GY/maxresdefault.jpg" group-title="政論",【全球大視野】罕見川普親自接機迎習近平元首禮遇年來首見主播譚若誼即時中文口譯
+https://www.youtube.com/watch?v=L2APz1kZ0GY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bmIbOtMMt3s/maxresdefault.jpg" group-title="政論",【全球大視野】聯合國大會聚焦伊朗烏克蘭安全佩澤希齊揚澤倫斯基上台演說中文即時口譯
 https://www.youtube.com/watch?v=bmIbOtMMt3s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/d-olpkQm6h0/maxresdefault.jpg" group-title="政論",【中時新聞網】川習會登場川普親接機習近平高規格元首禮遇年來首見
+https://www.youtube.com/watch?v=d-olpkQm6h0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XL3WauTR_ew/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現最鴨霸家族蘇貞昌重出江湖豪邁坐姿盯著李四川郭正亮頻道
 https://www.youtube.com/watch?v=XL3WauTR_ew
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AYQDW0ytKB8/maxresdefault.jpg" group-title="政論",【頭條開講】分析習川會二人各懷鬼胎聚焦大場面習近平將施壓川普停止對台軍售專家解析
-https://www.youtube.com/watch?v=AYQDW0ytKB8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jDZQwBPlXjc/maxresdefault.jpg" group-title="政論",【頭條開講】罕見川普親自接機迎習近平元首禮遇年來首見主播譚若誼即時中文口譯
+https://www.youtube.com/watch?v=jDZQwBPlXjc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vlzGer140Xw/maxresdefault.jpg" group-title="政論",【頭條開講】聯合國大會聚焦伊朗烏克蘭安全佩澤希齊揚澤倫斯基上台演說中文即時口譯
 https://www.youtube.com/watch?v=vlzGer140Xw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動洪申翰稱中華不是矮化陳以信賴當年可不是這樣說澤倫斯基拋能源停火若俄停手烏願暫停反擊新聞大白話國民大會國民開小會

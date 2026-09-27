@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-09-27 17:24:21
+# Last Update: 2026-09-27 20:44:49
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -20,9 +20,9 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛真健康
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙奔跑吧阿飛
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -30,10 +30,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zvMzYP02qBQ/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】川普證實有談到台灣沒聊太多習非常了解我的感受會後中美共管台灣外交部僅是中國意圖但無實際作為中天電視
-https://www.youtube.com/watch?v=zvMzYP02qBQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SOw_5cJYzxw/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】魔都奇遇這次是公園裡的政治家中天新聞
-https://www.youtube.com/watch?v=SOw_5cJYzxw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4AgRBZG2DV0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】黃仁勳蘇姿丰坐國宴主桌美中成果竟未提晶片管制雙方聲明大落差恐掀貿易紛爭中天新聞
+https://www.youtube.com/watch?v=4AgRBZG2DV0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中天新聞小時新聞台湾放送中天電視
@@ -178,8 +176,6 @@ https://www.youtube.com/watch?v=Pke22oG1lRE
 https://www.youtube.com/watch?v=6lKL5znyZkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SHfQ7YAtRYI/maxresdefault.jpg" group-title="影劇",【影视剧汇踪】都挺好全集不间断姚晨走出重男轻女的家庭独自打拼倪大红作天作地花式折腾儿女众星云集演绎中国式家庭姚晨倪大红郭京飞领衔主演
 https://www.youtube.com/watch?v=SHfQ7YAtRYI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MpqU3-oMGZo/maxresdefault.jpg" group-title="影劇",【精选大剧】康熙皇帝康熙智擒鳌拜
-https://www.youtube.com/watch?v=MpqU3-oMGZo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/O4OUlDbPCi0/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
 https://www.youtube.com/watch?v=O4OUlDbPCi0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/et4SqnkNSFo/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
@@ -314,8 +310,6 @@ https://www.youtube.com/watch?v=itvBk3ZDV2s
 https://www.youtube.com/watch?v=VnqzUVYfJCQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jfPMPTrfi1c/maxresdefault.jpg" group-title="音樂",【Hot TV】🔥🎵 #KJJadiDJ 🎧
 https://www.youtube.com/watch?v=jfPMPTrfi1c
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q6h8G7q8bdU/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】華語單曲排行週榜年九月必聽新歌全網催淚熱播總會有人我會等跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月全网洗脑神曲合集
-https://www.youtube.com/watch?v=Q6h8G7q8bdU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hdKff2RuRK4/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月最新歌曲華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋九月強檔新曲
 https://www.youtube.com/watch?v=hdKff2RuRK4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BQdD8LQaZJo/maxresdefault.jpg" group-title="音樂",【时间节拍 Melody】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋九月新歌
@@ -444,24 +438,20 @@ https://www.youtube.com/watch?v=rrH62dkrdB4
 https://www.youtube.com/watch?v=MDunWiO5ohg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C-Xj6AjTYVs/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=C-Xj6AjTYVs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/I5F_Nrrtzgc/maxresdefault.jpg" group-title="國際",【연합뉴스TV】"우크라와 '포로 송환' 비
+https://www.youtube.com/watch?v=I5F_Nrrtzgc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Im_zyA3JRTM/maxresdefault.jpg" group-title="國際",【연합뉴스TV】태풍 ‘수리개’ 찬 바람 몰
 https://www.youtube.com/watch?v=Im_zyA3JRTM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/taS_snt29EY/maxresdefault.jpg" group-title="國際",【연합뉴스TV】후티 반군 공세 '초비상'
 https://www.youtube.com/watch?v=taS_snt29EY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G1cvj5h15bU/maxresdefault.jpg" group-title="國際",【연합뉴스TV】"트럼프 거부에도 외교만이
 https://www.youtube.com/watch?v=G1cvj5h15bU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5e91XnEIyRY/maxresdefault.jpg" group-title="國際",【연합뉴스TV】與北
-https://www.youtube.com/watch?v=5e91XnEIyRY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KHHRFZJFdmg/maxresdefault.jpg" group-title="國際",【연합뉴스TV】DMZ 사고 '후폭풍' 대통
 https://www.youtube.com/watch?v=KHHRFZJFdmg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WvvaQeu4EyI/maxresdefault.jpg" group-title="國際",【연합뉴스TV】軍北
 https://www.youtube.com/watch?v=WvvaQeu4EyI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6QZ_qc75ihU/maxresdefault.jpg" group-title="國際",【연합뉴스TV】24시간 현장을 전합니다 /
 https://www.youtube.com/watch?v=6QZ_qc75ihU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Rq3mn-0OInY/maxresdefault.jpg" group-title="國際",【JTBC News】여자 핸드볼, 일본에 설욕하
-https://www.youtube.com/watch?v=Rq3mn-0OInY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FOgfpZNwDGc/maxresdefault.jpg" group-title="國際",【JTBC News】이 대통령, 미국·멕시코 순
-https://www.youtube.com/watch?v=FOgfpZNwDGc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/T-n9QBdA_ZU/maxresdefault.jpg" group-title="國際",【JTBC News】트럼프·시진핑 "2차대전 동
 https://www.youtube.com/watch?v=T-n9QBdA_ZU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XEM5_PIKJrs/maxresdefault.jpg" group-title="國際",【JTBC News】DMZ 현장조사 앞둔 군·유
@@ -478,10 +468,8 @@ https://www.youtube.com/watch?v=lmXQcMhf6pU
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nTvlLWK_N6k/maxresdefault.jpg" group-title="政論",【全球大視野】川普念念不忘中國皇后號商船中美二戰時期重要盟友高市早苗被冷落以色列聯合國大會演講恥辱一幕多國離席抗議伊朗笑了完整版
-https://www.youtube.com/watch?v=nTvlLWK_N6k
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EmTt9jAYj_4/maxresdefault.jpg" group-title="政論",【全球大視野】川普證實有談到台灣沒聊太多習非常了解我的感受會後中美共管台灣外交部僅是中國意圖但無實際作為
-https://www.youtube.com/watch?v=EmTt9jAYj_4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OnKTFp80foo/maxresdefault.jpg" group-title="政論",【全球大視野】黃仁勳蘇姿丰坐國宴主桌美中成果竟未提晶片管制雙方聲明大落差恐掀貿易紛爭
+https://www.youtube.com/watch?v=OnKTFp80foo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w_dqgeGTlpw/maxresdefault.jpg" group-title="政論",【94要客訴】時間地震速報監視網三立新聞網
@@ -490,14 +478,10 @@ https://www.youtube.com/watch?v=w_dqgeGTlpw
 https://www.youtube.com/watch?v=KUv6poLq4aM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FtfQznN2DLE/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現洋流掀風作浪司法雙標惡搞北市民調解疑藍白催票轉機郭正亮頻道
 https://www.youtube.com/watch?v=FtfQznN2DLE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-dWqx9Rrr_Q/maxresdefault.jpg" group-title="政論",【頭條開講】川普證實有談到台灣沒聊太多習非常了解我的感受會後中美共管台灣外交部僅是中國意圖但無實際作為全球大視野
-https://www.youtube.com/watch?v=-dWqx9Rrr_Q
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cPDVzKiYaIo/maxresdefault.jpg" group-title="政論",【頭條開講】魔都奇遇這次是公園裡的政治家中天新聞
-https://www.youtube.com/watch?v=cPDVzKiYaIo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sPWIFAHTb9s/maxresdefault.jpg" group-title="政論",【頭條開講】黃仁勳蘇姿丰坐國宴主桌美中成果竟未提晶片管制雙方聲明大落差恐掀貿易紛爭
+https://www.youtube.com/watch?v=sPWIFAHTb9s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動川普呲牙咧嘴習近平超淡定轟炸機飛過川習反應成對比才威脅殲滅傳伊朗開終戰條件新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/spIhTef3MSM/maxresdefault.jpg" group-title="政論",【文茜的世界周報】| TVBS文茜的世界周報 T
-https://www.youtube.com/watch?v=spIhTef3MSM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/POW3GGrAR9w/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=POW3GGrAR9w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DlhVC7gXQmE/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場

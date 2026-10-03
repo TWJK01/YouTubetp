@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-10-03 20:30:21
+# Last Update: 2026-10-03 23:28:30
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -20,9 +20,9 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映微塵見剎
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映衲履足跡
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映國民漢字須知
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -358,22 +358,24 @@ https://www.youtube.com/watch?v=WNziNKf7j6s
 https://www.youtube.com/watch?v=3MOrgUjiigE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UWc_vMRGxDs/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Pop Hits Radio
 https://www.youtube.com/watch?v=UWc_vMRGxDs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/49kh32l-RPA/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
-https://www.youtube.com/watch?v=49kh32l-RPA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/A8zcNlGe92M/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師
+https://www.youtube.com/watch?v=A8zcNlGe92M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a2fO1BSY_Hs/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
+https://www.youtube.com/watch?v=a2fO1BSY_Hs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1bdQSQ9CmGQ/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師
 https://www.youtube.com/watch?v=1bdQSQ9CmGQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wGNhAVIzODg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=wGNhAVIzODg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kHdEA3sW83Y/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=kHdEA3sW83Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7pgljA11C7k/maxresdefault.jpg" group-title="國際",【日テレNEWS】簗農水相個人政治活動発言控週刊誌報道公明党岡本三成新代表選出政治日
 https://www.youtube.com/watch?v=7pgljA11C7k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BDW-pV08XS8/maxresdefault.jpg" group-title="國際",【日テレNEWS】北日本広晴東日本雲広晴間週明台風号進路注意気象日
 https://www.youtube.com/watch?v=BDW-pV08XS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DReAIpBa7NU/maxresdefault.jpg" group-title="國際",【日テレNEWS】大統領移民政策不安感謝首脳会議中東情勢受石油備蓄億放出合意国際日
 https://www.youtube.com/watch?v=DReAIpBa7NU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EP4DvWtlB08/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=EP4DvWtlB08
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hjfqc60PbCk/maxresdefault.jpg" group-title="國際",【日テレNEWS】那覇空港日
 https://www.youtube.com/watch?v=hjfqc60PbCk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2PIdi3Xa7TY/maxresdefault.jpg" group-title="國際",【日テレNEWS】羽田空港日
@@ -394,8 +396,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aM6OxphY_z8/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=aM6OxphY_z8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wcHjp5QvGso/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=wcHjp5QvGso
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
@@ -408,8 +410,6 @@ https://www.youtube.com/watch?v=2f9NOSw-FqM
 https://www.youtube.com/watch?v=6QikOJBdeUs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LydrXstBrXA/maxresdefault.jpg" group-title="國際",【YTN】"우리 손으로 엄청난 문제
 https://www.youtube.com/watch?v=LydrXstBrXA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SMw4-TxlcXQ/maxresdefault.jpg" group-title="國際",【YTN】"어떤 것도 배제 안 해".
-https://www.youtube.com/watch?v=SMw4-TxlcXQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C-Xj6AjTYVs/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=C-Xj6AjTYVs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q5XJp_7XTBo/maxresdefault.jpg" group-title="國際",【연합뉴스TV】지뢰 사과하랬더니 탄도미사일
@@ -434,8 +434,6 @@ https://www.youtube.com/watch?v=6QZ_qc75ihU
 https://www.youtube.com/watch?v=STx_Rj8uD_A
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4Ahz2f9wUgI/maxresdefault.jpg" group-title="國際",【JTBC News】"한국 투자한다" 또 일방
 https://www.youtube.com/watch?v=4Ahz2f9wUgI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hb7QXet5Eug/maxresdefault.jpg" group-title="國際",【JTBC News】"이러고 싶어요?" 기자들에
-https://www.youtube.com/watch?v=hb7QXet5Eug
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hvVlyZ5GiE8/maxresdefault.jpg" group-title="國際",【Arirang TV】Live from KOREA
 https://www.youtube.com/watch?v=hvVlyZ5GiE8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XWq5kBlakcQ/maxresdefault.jpg" group-title="國際",【CNA】Breaking news o

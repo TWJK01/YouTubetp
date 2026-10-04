@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-10-03 23:28:30
+# Last Update: 2026-10-04 03:56:59
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -10,24 +10,30 @@ https://www.youtube.com/watch?v=SgRKSTXk5cc
 https://www.youtube.com/watch?v=_-25RVVJANI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EsQOvbpEOPI/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=EsQOvbpEOPI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gg8TWm2OXhA/maxresdefault.jpg" group-title="台灣",【台視新聞】沈伯洋草埔市場掃街
+https://www.youtube.com/watch?v=gg8TWm2OXhA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9iRAqBMakXY/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=9iRAqBMakXY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
 https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Rt2fsIAJB5c/maxresdefault.jpg" group-title="台灣",【民視新聞網】深入松山區拜訪鄉親沈伯洋草埔市場掃街直擊民視快新聞
+https://www.youtube.com/watch?v=Rt2fsIAJB5c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映衲履足跡
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映青春愛讀書
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映國民漢字須知
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙隨風隨緣
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4ZHL94ezYwg/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】川普月擬先赴東協再訪陸斥沈發文網軍出征灌爆蔣臉書電費突暴漲台電急校正反映折舊台電擬實施差別電價黃韵筑賴正鎧報新聞中天新聞
+https://www.youtube.com/watch?v=4ZHL94ezYwg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1jhZ0XOLOxw/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】習川會落幕專家分析兩人短暫各取所需非結構性休戰中天電視
 https://www.youtube.com/watch?v=1jhZ0XOLOxw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -300,6 +306,8 @@ https://www.youtube.com/watch?v=fnowh-gCdd4
 https://www.youtube.com/watch?v=B7EliniYUrQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XR60ZQp1XPY/maxresdefault.jpg" group-title="音樂",【4kTQ-music】十月新歌華語單曲排行週榜愛就一個字若月亮沒來花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋周杰倫超好聽的中文歌單
+https://www.youtube.com/watch?v=XR60ZQp1XPY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/itvBk3ZDV2s/maxresdefault.jpg" group-title="音樂",【心动 Radio】最孤單的夜裡有你留下的聲音超好聽中文原創情歌夜晚放鬆閱讀學習助眠
 https://www.youtube.com/watch?v=itvBk3ZDV2s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VnqzUVYfJCQ/maxresdefault.jpg" group-title="音樂",【JL Music Channel】Rainy Seoul Caf
@@ -358,24 +366,20 @@ https://www.youtube.com/watch?v=WNziNKf7j6s
 https://www.youtube.com/watch?v=3MOrgUjiigE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UWc_vMRGxDs/maxresdefault.jpg" group-title="音樂",【Radio Hits Music】Pop Hits Radio
 https://www.youtube.com/watch?v=UWc_vMRGxDs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/A8zcNlGe92M/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師
-https://www.youtube.com/watch?v=A8zcNlGe92M
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/a2fO1BSY_Hs/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
-https://www.youtube.com/watch?v=a2fO1BSY_Hs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1bdQSQ9CmGQ/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師
 https://www.youtube.com/watch?v=1bdQSQ9CmGQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wGNhAVIzODg/maxresdefault.jpg" group-title="音樂",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=wGNhAVIzODg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2KL98VzUYwY/maxresdefault.jpg" group-title="國際",【日テレNEWS】簗農水相個人政治活動発言控週刊誌報道公明党岡本三成新代表選出政治日
+https://www.youtube.com/watch?v=2KL98VzUYwY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rm62HbNLpiU/maxresdefault.jpg" group-title="國際",【日テレNEWS】大統領移民政策不安感謝首脳会議中東情勢受石油備蓄億放出合意国際日
+https://www.youtube.com/watch?v=rm62HbNLpiU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kHdEA3sW83Y/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
 https://www.youtube.com/watch?v=kHdEA3sW83Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7pgljA11C7k/maxresdefault.jpg" group-title="國際",【日テレNEWS】簗農水相個人政治活動発言控週刊誌報道公明党岡本三成新代表選出政治日
-https://www.youtube.com/watch?v=7pgljA11C7k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BDW-pV08XS8/maxresdefault.jpg" group-title="國際",【日テレNEWS】北日本広晴東日本雲広晴間週明台風号進路注意気象日
 https://www.youtube.com/watch?v=BDW-pV08XS8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DReAIpBa7NU/maxresdefault.jpg" group-title="國際",【日テレNEWS】大統領移民政策不安感謝首脳会議中東情勢受石油備蓄億放出合意国際日
-https://www.youtube.com/watch?v=DReAIpBa7NU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hjfqc60PbCk/maxresdefault.jpg" group-title="國際",【日テレNEWS】那覇空港日
 https://www.youtube.com/watch?v=hjfqc60PbCk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2PIdi3Xa7TY/maxresdefault.jpg" group-title="國際",【日テレNEWS】羽田空港日
@@ -412,10 +416,10 @@ https://www.youtube.com/watch?v=6QikOJBdeUs
 https://www.youtube.com/watch?v=LydrXstBrXA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C-Xj6AjTYVs/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=C-Xj6AjTYVs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xhGRi3RDkw8/maxresdefault.jpg" group-title="國際",【연합뉴스TV】美 외교·안교 수뇌부, 대이
+https://www.youtube.com/watch?v=xhGRi3RDkw8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q5XJp_7XTBo/maxresdefault.jpg" group-title="國際",【연합뉴스TV】지뢰 사과하랬더니 탄도미사일
 https://www.youtube.com/watch?v=Q5XJp_7XTBo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LICO8Azt_6g/maxresdefault.jpg" group-title="國際",【연합뉴스TV】"미중회담 때 이례적 휴식
-https://www.youtube.com/watch?v=LICO8Azt_6g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WLDMOYpiMLU/maxresdefault.jpg" group-title="國際",【연합뉴스TV】"나 다시  돌아갈래애"…'
 https://www.youtube.com/watch?v=WLDMOYpiMLU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/n8tHN-qvZ0k/maxresdefault.jpg" group-title="國際",【연합뉴스TV】아시안게임 남자 축구팀 우승
@@ -448,6 +452,8 @@ https://www.youtube.com/watch?v=HiI-7_jeKxo
 https://www.youtube.com/watch?v=1fSnn-8tBaA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DnLJWAf8fZQ/maxresdefault.jpg" group-title="政論",【94要客訴】洋流來松山沈伯洋草埔市場掃街時間日地點三民公園延伸段廣場三立新聞網
+https://www.youtube.com/watch?v=DnLJWAf8fZQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XYSkOnlFads/maxresdefault.jpg" group-title="政論",【94要客訴】三立新聞海外版放送三立新聞網
 https://www.youtube.com/watch?v=XYSkOnlFads
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m7tTHiR7mmg/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現川習會綠恐慌洋流幻象破滅藍白團結自強郭正亮頻道
@@ -458,8 +464,8 @@ https://www.youtube.com/watch?v=q9pxN4TcMFs
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/POW3GGrAR9w/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=POW3GGrAR9w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VZ5o6lIgZ3Q/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
-https://www.youtube.com/watch?v=VZ5o6lIgZ3Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u3tPx_IinPI/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
+https://www.youtube.com/watch?v=u3tPx_IinPI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wajs0WUBQHQ/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】蓁鑽台中電視臺
 https://www.youtube.com/watch?v=wajs0WUBQHQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R1lIIl1CqF8/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播

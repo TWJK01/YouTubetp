@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-10-09 20:29:34
+# Last Update: 2026-10-10 00:27:11
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -10,8 +10,12 @@ https://www.youtube.com/watch?v=SgRKSTXk5cc
 https://www.youtube.com/watch?v=_-25RVVJANI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EsQOvbpEOPI/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=EsQOvbpEOPI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HHdvT9rV0oc/maxresdefault.jpg" group-title="台灣",【台視新聞】光耀國慶幸福台中雙十國慶升旗典禮
+https://www.youtube.com/watch?v=HHdvT9rV0oc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9iRAqBMakXY/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=9iRAqBMakXY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8_79Fm_vjZw/maxresdefault.jpg" group-title="台灣",【中視新聞】巨幅國旗登場為中華民國慶生台中市長盧秀燕出席升旗典禮
+https://www.youtube.com/watch?v=8_79Fm_vjZw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="台灣",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="台灣",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -20,18 +24,34 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=KMMHw8rllic
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/60vQtxzYj6w/maxresdefault.jpg" group-title="台灣",【民視新聞網】冠軍少棒領唱陸空展旗台中市雙十國慶升旗典禮直擊民視快新聞
+https://www.youtube.com/watch?v=60vQtxzYj6w
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dpK_YQtSqaM/maxresdefault.jpg" group-title="台灣",【民視新聞網】洋流席捲沈伯洋隊湖光市場掃街拜票民視快新聞
+https://www.youtube.com/watch?v=dpK_YQtSqaM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/B2IEZf2zk_0/maxresdefault.jpg" group-title="台灣",【民視新聞網】雙十國慶大會即將登場總統府前現場直擊民視快新聞
+https://www.youtube.com/watch?v=B2IEZf2zk_0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映青春愛讀書
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映名人書房
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映真善美故事館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映好戲成雙隨風隨緣
 https://www.youtube.com/watch?v=QDxRJP-wfeI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xett2vksgFA/maxresdefault.jpg" group-title="台灣",【鏡新聞】沈伯洋國慶拚陸戰赴內湖湖光市場掃街拜票
+https://www.youtube.com/watch?v=xett2vksgFA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/297SgO-hcO8/maxresdefault.jpg" group-title="台灣",【東森新聞】東森早安新聞雙十國慶大花東有雨低溫探度國慶大會亮點黑鷹吊掛演練防災士梯隊遊行
+https://www.youtube.com/watch?v=297SgO-hcO8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KZVqWrF8nvQ/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】賴清德國慶演說三大主軸曝光族群團結藍移師升旗選戰燒進立院毒品專案報告國軍人力拉警報孫怡琳報新聞中天新聞
+https://www.youtube.com/watch?v=KZVqWrF8nvQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HuLkr5KzVW8/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】歡慶雙十國慶直擊全台升旗典禮中天新聞
+https://www.youtube.com/watch?v=HuLkr5KzVW8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/novFoJZM6SA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】中華民國年國慶全紀錄總統府前直擊主播張良晧劉又嘉中天電視
+https://www.youtube.com/watch?v=novFoJZM6SA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ctnOs1t_nCQ/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】機場驚傳爆炸葉門叛軍放話鎖定空域川普竟脫口讓伊朗摧毀洛杉磯急澄清被誤解了中天電視
 https://www.youtube.com/watch?v=ctnOs1t_nCQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -184,6 +204,8 @@ https://www.youtube.com/watch?v=hTyMTl29tRE
 https://www.youtube.com/watch?v=h3A3Yo2GGiU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m-VZoEJI5VI/maxresdefault.jpg" group-title="影劇",【Studio886】海派甜心楊丞琳羅志祥經典台劇
 https://www.youtube.com/watch?v=m-VZoEJI5VI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/i5njDkxhsmU/maxresdefault.jpg" group-title="影劇",【精选大剧】大明王朝之嘉靖皇帝宫女谋弑嘉靖皇帝未果严嵩由此崛起掌权张居正扶持戚继光硬抗严嵩一剧看明白大明嘉靖史倪大红于震
+https://www.youtube.com/watch?v=i5njDkxhsmU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/O4OUlDbPCi0/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡天花板国产谍战剧全程高能美剧节奏悬念重重一起重温吴秀波成名之作沉浸式体验百纳独播剧场
 https://www.youtube.com/watch?v=O4OUlDbPCi0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/et4SqnkNSFo/maxresdefault.jpg" group-title="影劇",【百纳经典独播剧场】马拉松高清不卡孙红雷和姚晨假扮夫妻演绎一曲险象环生的谍战情缘百纳独播剧场
@@ -318,12 +340,16 @@ https://www.youtube.com/watch?v=fnowh-gCdd4
 https://www.youtube.com/watch?v=B7EliniYUrQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="音樂",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hgeiThuc8yE/maxresdefault.jpg" group-title="音樂",【4kTQ-music】十月新歌華語單曲排行週榜愛就一個字若月亮沒來花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋周杰倫超好聽的中文歌單
+https://www.youtube.com/watch?v=hgeiThuc8yE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s6B0rSVjFbs/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=s6B0rSVjFbs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aL9M6yKliY0/maxresdefault.jpg" group-title="音樂",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=aL9M6yKliY0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/itvBk3ZDV2s/maxresdefault.jpg" group-title="音樂",【心动 Radio】最孤單的夜裡有你留下的聲音超好聽中文原創情歌夜晚放鬆閱讀學習助眠
 https://www.youtube.com/watch?v=itvBk3ZDV2s
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/di8wwM86NXU/maxresdefault.jpg" group-title="音樂",【福建音樂Melody TG】台語情歌精選那些年最感動的旋律字幕卡拉練唱好聽到停不下來
+https://www.youtube.com/watch?v=di8wwM86NXU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/p4j3eusnZhs/maxresdefault.jpg" group-title="音樂",【福建音樂Melody TG】精華歌曲必點男女對唱情歌為什麼以前的歌總是這麼痛雨水我問你女人的一生戀戀沙崙站最後火車站享受這份屬於你的寧靜
 https://www.youtube.com/watch?v=p4j3eusnZhs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/69s-LgOGnEE/maxresdefault.jpg" group-title="音樂",【福建音樂Melody TG】豪記年度點播排行必點台語金曲陳隨意林琇琪心愛嘸倘哮喬幼女人的一生
@@ -398,8 +424,6 @@ https://www.youtube.com/watch?v=-RogqxfnBdg
 https://www.youtube.com/watch?v=e_EhDul2wO0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ugnc2YGUs1U/maxresdefault.jpg" group-title="國際",【日テレNEWS】東日本不正大人休日倶楽部個人情報漏可能性国際日
 https://www.youtube.com/watch?v=ugnc2YGUs1U
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Y9gs07Q_TQQ/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=Y9gs07Q_TQQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tOSSPHG21Eo/maxresdefault.jpg" group-title="國際",【日テレNEWS】高市首相本人適切説明重要簗農水相予算発言政治日
 https://www.youtube.com/watch?v=tOSSPHG21Eo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Kv7g8crIddY/maxresdefault.jpg" group-title="國際",【日テレNEWS】那覇空港日
@@ -422,8 +446,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8OaifkHIuxI/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=8OaifkHIuxI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cGhoMqgciW4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=cGhoMqgciW4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
@@ -436,8 +460,6 @@ https://www.youtube.com/watch?v=2f9NOSw-FqM
 https://www.youtube.com/watch?v=kA3kl0sgfbc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4aafE4_wqqE/maxresdefault.jpg" group-title="國際",【YTN】일상 덮친 공습 "전쟁 범죄
 https://www.youtube.com/watch?v=4aafE4_wqqE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fY6Ko2FSL6g/maxresdefault.jpg" group-title="國際",【YTN】파키스탄·튀르키예 이어 시리
-https://www.youtube.com/watch?v=fY6Ko2FSL6g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ggmXgKJkL_A/maxresdefault.jpg" group-title="國際",【연합뉴스TV】美與野
@@ -466,6 +488,8 @@ https://www.youtube.com/watch?v=hvVlyZ5GiE8
 https://www.youtube.com/watch?v=XWq5kBlakcQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/epnsBNpSZUE/maxresdefault.jpg" group-title="國際",【歡樂APM】一次五十集看到飽唔好俾佢停愛回家小時馬拉松愛回家之開心速遞劉丹呂慧儀單立文滕麗名周嘉洛
 https://www.youtube.com/watch?v=epnsBNpSZUE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GEQV-4buk-Y/maxresdefault.jpg" group-title="政論",【台灣ON AIR】週末不斷線精彩一次看許貴雅主持三立新聞台
+https://www.youtube.com/watch?v=GEQV-4buk-Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eEvMO8zGIeI/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
@@ -474,20 +498,28 @@ https://www.youtube.com/watch?v=HiI-7_jeKxo
 https://www.youtube.com/watch?v=lkhQhDiTG-g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XYSkOnlFads/maxresdefault.jpg" group-title="政論",【94要客訴】三立新聞海外版放送三立新聞網
-https://www.youtube.com/watch?v=XYSkOnlFads
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/flJPLwW5BKY/maxresdefault.jpg" group-title="政論",【哏傳媒】談天說地論台灣
-https://www.youtube.com/watch?v=flJPLwW5BKY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eXkxjUIVy-g/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】歡慶雙十國慶直擊全台升旗典禮
+https://www.youtube.com/watch?v=eXkxjUIVy-g
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pN5os4RYOSE/maxresdefault.jpg" group-title="政論",【大新聞大爆卦】中華民國年國慶全紀錄總統府前直擊主播張良晧劉又嘉
+https://www.youtube.com/watch?v=pN5os4RYOSE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mFCHTgfUJl4/maxresdefault.jpg" group-title="政論",【中時新聞網】巨幅國旗登場為中華民國慶生台中市長盧秀燕出席升旗典禮
+https://www.youtube.com/watch?v=mFCHTgfUJl4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/odhnpwK3kr4/maxresdefault.jpg" group-title="政論",【中天深喉嚨】歡慶雙十國慶直擊全台升旗典禮
+https://www.youtube.com/watch?v=odhnpwK3kr4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7d9m_cJuhUU/maxresdefault.jpg" group-title="政論",【中天深喉嚨】中華民國年國慶全紀錄總統府前直擊主播張良晧劉又嘉
+https://www.youtube.com/watch?v=7d9m_cJuhUU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Xvr_8egHwgw/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現完整版網友問答洋流變毒流沈伯洋不承認卻在偷換概念改變立場郭正亮頻道
 https://www.youtube.com/watch?v=Xvr_8egHwgw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BsYMaI5G7NY/maxresdefault.jpg" group-title="政論",【57爆新聞】東森早安新聞雙十國慶大花東有雨低溫探度國慶大會亮點黑鷹吊掛演練防災士梯隊遊行
+https://www.youtube.com/watch?v=BsYMaI5G7NY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NRSREx_wRJs/maxresdefault.jpg" group-title="政論",【頭條開講】機場驚傳爆炸葉門叛軍放話鎖定空域川普竟脫口讓伊朗摧毀洛杉磯急澄清被誤解了
 https://www.youtube.com/watch?v=NRSREx_wRJs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動蔣萬安宣布遷址松山機場喊打造兆園區俄大規模空襲烏克蘭釀死上百人傷新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-4_2AxMpUhc/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=-4_2AxMpUhc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wbN48QrYFKo/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
-https://www.youtube.com/watch?v=wbN48QrYFKo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TWNkF6Bc_WY/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
+https://www.youtube.com/watch?v=TWNkF6Bc_WY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wajs0WUBQHQ/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】蓁鑽台中電視臺
 https://www.youtube.com/watch?v=wajs0WUBQHQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xU3LDDScMKc/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播
@@ -806,8 +838,6 @@ https://www.youtube.com/watch?v=QiTGi9lTEog
 https://www.youtube.com/watch?v=WtPbAgNVgiY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sqWrdNNAlrA/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳第三漁港漁村生活
 https://www.youtube.com/watch?v=sqWrdNNAlrA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nFd4550YnEQ/maxresdefault.jpg" group-title="風景",【斯爾本科技有限公司】南方澳進安宮天上聖母寶石珊瑚媽祖大門媽祖文化江夏路第三漁港跨海大橋遊覽車香客紀錄自動巡航
-https://www.youtube.com/watch?v=nFd4550YnEQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X_fchztvqI0/maxresdefault.jpg" group-title="風景",【東部海岸】東海岸三仙台三仙台風景区
 https://www.youtube.com/watch?v=X_fchztvqI0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fv1yFousBvc/maxresdefault.jpg" group-title="風景",【東部海岸】東海岸綠島帆船鼻緑島帆船鼻大草原

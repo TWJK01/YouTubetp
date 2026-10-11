@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-10-11 19:52:46
+# Last Update: 2026-10-11 23:24:09
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=KMMHw8rllic
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映立德路號
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -380,14 +380,14 @@ https://www.youtube.com/watch?v=WNziNKf7j6s
 https://www.youtube.com/watch?v=3MOrgUjiigE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ewui09W_s1I/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=Ewui09W_s1I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Zd2tICk5Aqc/maxresdefault.jpg" group-title="國際",【日テレNEWS】攻撃犯行声明独自分析正体誰物流影響国際日
 https://www.youtube.com/watch?v=Zd2tICk5Aqc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RF6hny9qSG0/maxresdefault.jpg" group-title="國際",【日テレNEWS】予算発言音声続発言裏側元支援者証言日
 https://www.youtube.com/watch?v=RF6hny9qSG0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rDsjMRdhIxw/maxresdefault.jpg" group-title="國際",【日テレNEWS】大統領新大統領選燃料世界的高騰招批判国際日
 https://www.youtube.com/watch?v=rDsjMRdhIxw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HuBx2Y0Z4ms/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=HuBx2Y0Z4ms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Kv7g8crIddY/maxresdefault.jpg" group-title="國際",【日テレNEWS】那覇空港日
 https://www.youtube.com/watch?v=Kv7g8crIddY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2PIdi3Xa7TY/maxresdefault.jpg" group-title="國際",【日テレNEWS】羽田空港日
@@ -408,8 +408,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kRdDfQebFCw/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=kRdDfQebFCw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b5bNkmBrfMw/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=b5bNkmBrfMw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
@@ -422,24 +422,18 @@ https://www.youtube.com/watch?v=2f9NOSw-FqM
 https://www.youtube.com/watch?v=1II3r-0YWlo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9Svq3rAFVZY/maxresdefault.jpg" group-title="國際",【YTN】중동 전쟁 결국 걷잡을 수
 https://www.youtube.com/watch?v=9Svq3rAFVZY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sQ2lCToHqt8/maxresdefault.jpg" group-title="國際",【YTN】"트럼프, 제정신 아니다".
-https://www.youtube.com/watch?v=sQ2lCToHqt8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q8LBsR6df7k/maxresdefault.jpg" group-title="國際",【연합뉴스TV】12명 숨졌는데 또 "쾅"…
+https://www.youtube.com/watch?v=q8LBsR6df7k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hFYBUrDBHbk/maxresdefault.jpg" group-title="國際",【연합뉴스TV】후티 반군 공격에 사우디 공
 https://www.youtube.com/watch?v=hFYBUrDBHbk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zfw8ICQYi8c/maxresdefault.jpg" group-title="國際",【연합뉴스TV】트럼프 "새 대통령 필요"
 https://www.youtube.com/watch?v=zfw8ICQYi8c
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qigG1TRgZI8/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'김지용 저격' 임은정 감찰
-https://www.youtube.com/watch?v=qigG1TRgZI8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RiEmaQGmpK0/maxresdefault.jpg" group-title="國際",【연합뉴스TV】"국대 떠나라" ‘은퇴 논의
-https://www.youtube.com/watch?v=RiEmaQGmpK0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-pxruuDx9e0/maxresdefault.jpg" group-title="國際",【연합뉴스TV】오만만서 봉쇄 돌파 화물선
 https://www.youtube.com/watch?v=-pxruuDx9e0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4RYCU4LCAHI/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'두 계절' 오가는 이번 주
 https://www.youtube.com/watch?v=4RYCU4LCAHI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C7vbGcKYZWc/maxresdefault.jpg" group-title="國際",【연합뉴스TV】장모 살해 후 아내 납치…2
-https://www.youtube.com/watch?v=C7vbGcKYZWc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6QZ_qc75ihU/maxresdefault.jpg" group-title="國際",【연합뉴스TV】24시간 현장을 전합니다 /
 https://www.youtube.com/watch?v=6QZ_qc75ihU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0hX563LnGjI/maxresdefault.jpg" group-title="國際",【JTBC News】'경유 딜' 비판하자 발끈…

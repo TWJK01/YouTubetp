@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-10-17 19:59:14
+# Last Update: 2026-10-17 22:06:34
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映名人書房
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映衲履足跡
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映真善美故事館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映國民漢字須知
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -302,8 +302,6 @@ https://www.youtube.com/watch?v=dt6dEz1rDzo
 https://www.youtube.com/watch?v=s1Ylmj87gXY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q2w1ZPHIpA0/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=Q2w1ZPHIpA0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MoLdLTyyYM8/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Greatest
-https://www.youtube.com/watch?v=MoLdLTyyYM8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/S2i8yNTNgEw/maxresdefault.jpg" group-title="體育",【BattleBots】🔴 LIVE Battlebo
 https://www.youtube.com/watch?v=S2i8yNTNgEw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pxOZsW-dtkM/maxresdefault.jpg" group-title="體育",【WWE】Best of Tiffany
@@ -382,14 +380,14 @@ https://www.youtube.com/watch?v=WNziNKf7j6s
 https://www.youtube.com/watch?v=3MOrgUjiigE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1tUyFK1L-Nc/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=1tUyFK1L-Nc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YUHxnUBvUlU/maxresdefault.jpg" group-title="國際",【日テレNEWS】鳥取倉吉市出席女性視点防災聴講皇室日
 https://www.youtube.com/watch?v=YUHxnUBvUlU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MgBlEaSsBlY/maxresdefault.jpg" group-title="國際",【日テレNEWS】高市首相自衛隊追悼式参列戦車砲弾破裂事故人政治日
 https://www.youtube.com/watch?v=MgBlEaSsBlY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OY1np9OkpHM/maxresdefault.jpg" group-title="國際",【日テレNEWS】報道官日解任米国際日
 https://www.youtube.com/watch?v=OY1np9OkpHM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/22QX-0BUPBg/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=22QX-0BUPBg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OkjlkJD4x7Y/maxresdefault.jpg" group-title="國際",【日テレNEWS】高値中旬戻豊漁去年比倍脂抜群日
 https://www.youtube.com/watch?v=OkjlkJD4x7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RNNeHnfDc5A/maxresdefault.jpg" group-title="國際",【日テレNEWS】日本三名瀑袋田滝茨城県久慈郡大子町日
@@ -412,8 +410,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ln9tkVIz2FQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=ln9tkVIz2FQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IgXvys8yB-g/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=IgXvys8yB-g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
@@ -426,8 +424,6 @@ https://www.youtube.com/watch?v=2f9NOSw-FqM
 https://www.youtube.com/watch?v=j6OfEJicPa0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FtFPXJUAUfM/maxresdefault.jpg" group-title="國際",【YTN】우크라 압박하려다 '역풍'?
 https://www.youtube.com/watch?v=FtFPXJUAUfM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0rBhiQrugFk/maxresdefault.jpg" group-title="國際",【YTN】러시아 숨구멍 끊어버린 프랑
-https://www.youtube.com/watch?v=0rBhiQrugFk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HTgmMnFbQCM/maxresdefault.jpg" group-title="國際",【연합뉴스TV】"이란, 후티에 사우디 어디

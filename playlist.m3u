@@ -1,19 +1,19 @@
 #EXTM3U
-# Last Update: 2026-10-21 17:50:15
+# Last Update: 2026-10-21 21:08:43
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DdK-8EN3pak/maxresdefault.jpg" group-title="台灣",【台灣地震監視】薔琵颱風監視
 https://www.youtube.com/watch?v=DdK-8EN3pak
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
 https://www.youtube.com/watch?v=KyT4qSK8lJo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ggnduJpuY8E/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】薔琵颱風風雨實況
+https://www.youtube.com/watch?v=ggnduJpuY8E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e46VX0H-aCA/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=e46VX0H-aCA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SgRKSTXk5cc/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】台灣天氣即時監測
 https://www.youtube.com/watch?v=SgRKSTXk5cc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_-25RVVJANI/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮萬里溪堰塞湖
 https://www.youtube.com/watch?v=_-25RVVJANI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/i7Fu6OA7d88/maxresdefault.jpg" group-title="台灣",【台視新聞】發布海警薔琵颱風最新動態
-https://www.youtube.com/watch?v=i7Fu6OA7d88
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xX7AVVIN-Dc/maxresdefault.jpg" group-title="台灣",【台視新聞】薔琵颱風最新動態各地風雨
 https://www.youtube.com/watch?v=xX7AVVIN-Dc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9iRAqBMakXY/maxresdefault.jpg" group-title="台灣",【台視新聞】台小時線上台湾
@@ -26,15 +26,15 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=KMMHw8rllic
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="台灣",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lhIXi8B6MII/maxresdefault.jpg" group-title="台灣",【民視新聞網】強颱薔琵海上警報發布氣象署最新說明民視快新聞
-https://www.youtube.com/watch?v=lhIXi8B6MII
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/02Bww-PLu5E/maxresdefault.jpg" group-title="台灣",【民視新聞網】薔琵颱風最新颱風路徑動態監控小時不間斷民視新聞
 https://www.youtube.com/watch?v=02Bww-PLu5E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="台灣",【民視新聞網】民視新聞小時新聞台湾
+https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛劇今天愛上我
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映高僧行誼
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映真善美故事館
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -42,10 +42,12 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jKDaE-n6mvU/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美伊協議遭打臉伊朗拒讓步赫格塞斯秘訪以色列密談再度轟炸伊朗中天新聞
+https://www.youtube.com/watch?v=jKDaE-n6mvU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G-CffxyC1dE/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】怪獸級強颱薔琵更往西靠近台氣象署發布海警縣市颱風假宣告聽牌暴風侵襲率近中天新聞
 https://www.youtube.com/watch?v=G-CffxyC1dE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M4IzC-lc4is/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】美伊協議遭打臉伊總統見巴基斯坦參謀長強調解除制裁是伊美對話前提中天新聞
-https://www.youtube.com/watch?v=M4IzC-lc4is
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
+https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="台灣",【TVBS NEWS】新聞台小時台湾世界中時間配信中
@@ -112,10 +114,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-aALI9RfNes/maxresdefault.jpg" group-title="綜藝",【204檔案】真的太恐怖
-https://www.youtube.com/watch?v=-aALI9RfNes
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/B-TnHGZcJr4/maxresdefault.jpg" group-title="綜藝",【關鍵時刻】李在明拆軍機場蓋園區惹毛川普美軍頁新戰爭準則台海首日即參戰
-https://www.youtube.com/watch?v=B-TnHGZcJr4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
@@ -316,8 +314,6 @@ https://www.youtube.com/watch?v=b3kJiy4_KRg
 https://www.youtube.com/watch?v=dt6dEz1rDzo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s1Ylmj87gXY/maxresdefault.jpg" group-title="少兒",【Disney Channel】🔴LIVE 24/7! Wiz
 https://www.youtube.com/watch?v=s1Ylmj87gXY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e2h45U1znC8/maxresdefault.jpg" group-title="體育",【緯來體育台】2026.10.21｜LIVE
-https://www.youtube.com/watch?v=e2h45U1znC8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CeFqPyTkErM/maxresdefault.jpg" group-title="體育",【WCW】WCW Halloween H
 https://www.youtube.com/watch?v=CeFqPyTkErM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pxOZsW-dtkM/maxresdefault.jpg" group-title="體育",【WWE】Best of Tiffany
@@ -396,16 +392,14 @@ https://www.youtube.com/watch?v=WNziNKf7j6s
 https://www.youtube.com/watch?v=3MOrgUjiigE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iLDZ9asNQng/maxresdefault.jpg" group-title="國際",【日テレNEWS】米中間選挙最新世論調査氏支持率過去最低民主党国際日
+https://www.youtube.com/watch?v=iLDZ9asNQng
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hRL2JM8-q4U/maxresdefault.jpg" group-title="國際",【日テレNEWS】企業自治体続緊急高市首相呼何社会日
 https://www.youtube.com/watch?v=hRL2JM8-q4U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cOLgqWP_Cj4/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
 https://www.youtube.com/watch?v=cOLgqWP_Cj4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UKE12CNyDWQ/maxresdefault.jpg" group-title="國際",【日テレNEWS】武部農水相収支報告書訂正公共事業受注承知政治日
 https://www.youtube.com/watch?v=UKE12CNyDWQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yHbUkWI6ymw/maxresdefault.jpg" group-title="國際",【日テレNEWS】秋田子吉川氾濫特別警報越水氾濫発生気象日
-https://www.youtube.com/watch?v=yHbUkWI6ymw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6GUcrOgHehk/maxresdefault.jpg" group-title="國際",【日テレNEWS】米特使露大統領会談最新和平案提示予定戦闘終結向米報道国際日
-https://www.youtube.com/watch?v=6GUcrOgHehk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IRsuH-NC6V4/maxresdefault.jpg" group-title="國際",【日テレNEWS】日本三名瀑袋田滝茨城県久慈郡大子町日
 https://www.youtube.com/watch?v=IRsuH-NC6V4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2PIdi3Xa7TY/maxresdefault.jpg" group-title="國際",【日テレNEWS】羽田空港日
@@ -442,10 +436,6 @@ https://www.youtube.com/watch?v=norWvlGAwec
 https://www.youtube.com/watch?v=8JB5jVyfqUI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hvTPIulXuKU/maxresdefault.jpg" group-title="國際",【YTN】'김정은 대역' 새로운 의혹
 https://www.youtube.com/watch?v=hvTPIulXuKU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_K-s3ckE-k0/maxresdefault.jpg" group-title="國際",【YTN】튀르키예·파키스탄 이어 영국
-https://www.youtube.com/watch?v=_K-s3ckE-k0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/drCoHiNJobI/maxresdefault.jpg" group-title="國際",【YTN】시속 200km '초강력 태
-https://www.youtube.com/watch?v=drCoHiNJobI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KT5-TyoZcnc/maxresdefault.jpg" group-title="國際",【연합뉴스TV】제대로 열린 슈퍼태풍 '참피
@@ -482,10 +472,8 @@ https://www.youtube.com/watch?v=Dfw6BuIbDpw
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="政論",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KfE5e4Mmtag/maxresdefault.jpg" group-title="政論",【全球大視野】法國暴亂有錢華人竟變箭靶馬克宏直接擺爛高市次拜鬼北京重拳訓斥美艦闖仙賓礁想打了就跑解放軍亮劍反制完整版
-https://www.youtube.com/watch?v=KfE5e4Mmtag
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MKNTKA3vD3M/maxresdefault.jpg" group-title="政論",【全球大視野】美伊協議遭打臉伊總統見巴基斯坦參謀長強調解除制裁是伊美對話前提
-https://www.youtube.com/watch?v=MKNTKA3vD3M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LwP1lgUvNJo/maxresdefault.jpg" group-title="政論",【全球大視野】美伊協議遭打臉伊朗拒讓步赫格塞斯秘訪以色列密談再度轟炸伊朗
+https://www.youtube.com/watch?v=LwP1lgUvNJo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="政論",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XYSkOnlFads/maxresdefault.jpg" group-title="政論",【94要客訴】三立新聞海外版放送三立新聞網
@@ -498,8 +486,8 @@ https://www.youtube.com/watch?v=KUv6poLq4aM
 https://www.youtube.com/watch?v=u5FQSKlkoqU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zHMrivJMz2I/maxresdefault.jpg" group-title="政論",【新聞龍捲風】怪獸級強颱薔琵更往西靠近台氣象署發布海警縣市颱風假宣告聽牌暴風侵襲率近
 https://www.youtube.com/watch?v=zHMrivJMz2I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tXC0pBgle_E/maxresdefault.jpg" group-title="政論",【頭條開講】美伊協議遭打臉伊總統見巴基斯坦參謀長強調解除制裁是伊美對話前提
-https://www.youtube.com/watch?v=tXC0pBgle_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VXgFOxeNW7Q/maxresdefault.jpg" group-title="政論",【頭條開講】美伊協議遭打臉伊朗拒讓步赫格塞斯秘訪以色列密談再度轟炸伊朗
+https://www.youtube.com/watch?v=VXgFOxeNW7Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動薔琵颱風路徑西修最快今晚海警明下午陸警北台灣紫爆氣象粉專點名地有望連放天新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1A5LZjrtnUg/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上

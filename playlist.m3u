@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-10-26 20:50:50
+# Last Update: 2026-10-27 00:11:19
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hg4nYb3jE9A/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=hg4nYb3jE9A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映靜思妙蓮華
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映高僧傳
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -400,10 +400,10 @@ https://www.youtube.com/watch?v=WNziNKf7j6s
 https://www.youtube.com/watch?v=3MOrgUjiigE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KGgzfuHz8T0/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=KGgzfuHz8T0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4pD0A6IWwLc/maxresdefault.jpg" group-title="國際",【日テレNEWS】強雨風元台風影響列島迫強寒気冬足音気象日
 https://www.youtube.com/watch?v=4pD0A6IWwLc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pSmOOvIc8eQ/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=pSmOOvIc8eQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZD-H0Hajgzg/maxresdefault.jpg" group-title="國際",【日テレNEWS】不正攻撃者約億円要求熊谷要求応社会日
 https://www.youtube.com/watch?v=ZD-H0Hajgzg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sAMPIB-we7M/maxresdefault.jpg" group-title="國際",【日テレNEWS】攻撃被害相次高市首相来週中緊急対策取指示政治日
@@ -428,8 +428,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2vcpaaZzhu4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=2vcpaaZzhu4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IsgIYUFJN0s/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=IsgIYUFJN0s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
@@ -438,32 +438,28 @@ https://www.youtube.com/watch?v=dYpspgeXSaQ
 https://www.youtube.com/watch?v=Anr15FA9OCI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2f9NOSw-FqM/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
 https://www.youtube.com/watch?v=2f9NOSw-FqM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/W8Srq5Ir6Os/maxresdefault.jpg" group-title="國際",【YTN】"전 세계 공황급 충격받을
+https://www.youtube.com/watch?v=W8Srq5Ir6Os
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DYG8tXnIUF4/maxresdefault.jpg" group-title="國際",【YTN】"이란 공격에 이스라엘 존폐
 https://www.youtube.com/watch?v=DYG8tXnIUF4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZcpTWKMOQFE/maxresdefault.jpg" group-title="國際",【YTN】북한군, 서부선전서 자주포
 https://www.youtube.com/watch?v=ZcpTWKMOQFE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LSBuDrM5qMw/maxresdefault.jpg" group-title="國際",【YTN】벼랑 끝 몰린 트럼프, 결국
-https://www.youtube.com/watch?v=LSBuDrM5qMw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hJIaBeQjAVY/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'보조금 뿌린다'…좌파 룰라
+https://www.youtube.com/watch?v=hJIaBeQjAVY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZLlv2iuZie8/maxresdefault.jpg" group-title="國際",【연합뉴스TV】뉴욕증시, 앤트로픽 IPO
+https://www.youtube.com/watch?v=ZLlv2iuZie8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Axg4hmojZ7o/maxresdefault.jpg" group-title="國際",【연합뉴스TV】미군, 이란 재공격 준비 완
 https://www.youtube.com/watch?v=Axg4hmojZ7o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vTjOApQj55I/maxresdefault.jpg" group-title="國際",【연합뉴스TV】KIA, 삼성 잡고 PO 1
-https://www.youtube.com/watch?v=vTjOApQj55I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cu1kBmNZt44/maxresdefault.jpg" group-title="國際",【연합뉴스TV】선거 앞두고 급해진 미국?
-https://www.youtube.com/watch?v=Cu1kBmNZt44
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BhfxFQkM_EY/maxresdefault.jpg" group-title="國際",【연합뉴스TV】30호 '참피', 400㎜
 https://www.youtube.com/watch?v=BhfxFQkM_EY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HQUMRUaTRyo/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'방위 동맹' 3개국, 이란
-https://www.youtube.com/watch?v=HQUMRUaTRyo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aErGabburEg/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'北 122㎜' 자주포, 남
-https://www.youtube.com/watch?v=aErGabburEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6QZ_qc75ihU/maxresdefault.jpg" group-title="國際",【연합뉴스TV】24시간 현장을 전합니다 /
 https://www.youtube.com/watch?v=6QZ_qc75ihU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wqyJ20psrV4/maxresdefault.jpg" group-title="國際",【JTBC News】더불어민주당 '민티07' 생
+https://www.youtube.com/watch?v=wqyJ20psrV4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BheMiMO4_Lo/maxresdefault.jpg" group-title="國際",【JTBC News】주진우 '황제 레슨' 폭로하
 https://www.youtube.com/watch?v=BheMiMO4_Lo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bA09FVnytfQ/maxresdefault.jpg" group-title="國際",【JTBC News】겁주려고? CCTV 보니 '
-https://www.youtube.com/watch?v=bA09FVnytfQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WXNkD29x3H0/maxresdefault.jpg" group-title="國際",【JTBC News】"지독하게 무능한 대통령"
 https://www.youtube.com/watch?v=WXNkD29x3H0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hvVlyZ5GiE8/maxresdefault.jpg" group-title="國際",【Arirang TV】Live from KOREA
@@ -486,6 +482,8 @@ https://www.youtube.com/watch?v=XYSkOnlFads
 https://www.youtube.com/watch?v=w_dqgeGTlpw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KUv6poLq4aM/maxresdefault.jpg" group-title="政論",【94要客訴】薔琵颱風暴風圈最新動態全台風雨雷達即時連線全天候防災監測台湾台風接近中気象三立新聞網
 https://www.youtube.com/watch?v=KUv6poLq4aM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/80BE2LDOEoc/maxresdefault.jpg" group-title="政論",【哏傳媒】小時不斷電為您呈現突襲搜索美麗島司法手段消滅爆料吳子嘉被查水表拒交保郭正亮頻道
+https://www.youtube.com/watch?v=80BE2LDOEoc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TZ4hp4XTJdA/maxresdefault.jpg" group-title="政論",【頭條開講】大選前夜的豪賭以色列最大規模軍演封鎖失效美航母戰群再壓波斯灣
 https://www.youtube.com/watch?v=TZ4hp4XTJdA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="政論",【少康戰情室】政經說政論小時互動薔琵剛踏進門全台已死傷颱風恐滯留打轉縣市達停班停課標準新聞大白話國民大會國民開小會

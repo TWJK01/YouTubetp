@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-10-28 19:16:26
+# Last Update: 2026-10-28 23:49:21
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hg4nYb3jE9A/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=hg4nYb3jE9A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映日日素
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映農夫與他的田
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -70,8 +70,6 @@ https://www.youtube.com/watch?v=eA6Aczd3FZM
 https://www.youtube.com/watch?v=xLqt2p6Dowo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xYMPHCjyD-c/maxresdefault.jpg" group-title="台灣",【運通財經台】「運通財經台」直播
 https://www.youtube.com/watch?v=xYMPHCjyD-c
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vNVp6bxkL1c/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
-https://www.youtube.com/watch?v=vNVp6bxkL1c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PiSwAy-blvA/maxresdefault.jpg" group-title="台灣",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
 https://www.youtube.com/watch?v=PiSwAy-blvA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ry--eMIjYLQ/maxresdefault.jpg" group-title="台灣",【鳳凰衛視PhoenixTV】西班牙高鐵相撞致多人死傷車上有中國公民特朗普批准巴西落敗候選人來美以色列大選內塔尼亞胡領先但未過半小时间鳳凰衛視
@@ -392,10 +390,10 @@ https://www.youtube.com/watch?v=WNziNKf7j6s
 https://www.youtube.com/watch?v=3MOrgUjiigE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ITfn82VrK4I/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=ITfn82VrK4I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aPfUGroNnDk/maxresdefault.jpg" group-title="國際",【日テレNEWS】中間選挙政治広告費過去最高大統領選上回日本円約兆億円国際日
 https://www.youtube.com/watch?v=aPfUGroNnDk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YNhnHR4j1no/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=YNhnHR4j1no
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zMlNJkjEMq8/maxresdefault.jpg" group-title="國際",【日テレNEWS】衆院比例代表議席削減案自民維新国民党合意参議院過半数確保安保文書年末結論政治日
 https://www.youtube.com/watch?v=zMlNJkjEMq8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MdWnRsheIQs/maxresdefault.jpg" group-title="國際",【日テレNEWS】脅迫実質閉鎖情報提供報奨金総額約億円開設時間件社会日
@@ -422,8 +420,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fEQr1h2IspU/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=fEQr1h2IspU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e3QDTkq8VlU/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=e3QDTkq8VlU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eAa2_4yQJuo/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】集団停止犯人特定億円懸賞金専門家指摘痕跡
 https://www.youtube.com/watch?v=eAa2_4yQJuo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
@@ -440,28 +438,14 @@ https://www.youtube.com/watch?v=uMzfDAYOoo0
 https://www.youtube.com/watch?v=pIspNwz2Y4k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zncCUOu6euw/maxresdefault.jpg" group-title="國際",【YTN】과반 붕괴 네타냐후의 최후…
 https://www.youtube.com/watch?v=zncCUOu6euw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dplmFmVpJyo/maxresdefault.jpg" group-title="國際",【YTN】소셜미디어, 모바일 인터넷
-https://www.youtube.com/watch?v=dplmFmVpJyo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GHnuGG4xVQE/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'부실수사' 경찰관 법정 선
-https://www.youtube.com/watch?v=GHnuGG4xVQE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7na9hYGQHfI/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'북극항로·석유 수송' 대러
-https://www.youtube.com/watch?v=7na9hYGQHfI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4ZEg0dvor8M/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'13시간 마라톤' 투표지
+https://www.youtube.com/watch?v=4ZEg0dvor8M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/unzntNTH9kk/maxresdefault.jpg" group-title="國際",【연합뉴스TV】반경 290km 31호 태풍
 https://www.youtube.com/watch?v=unzntNTH9kk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uvt-XmKXsO4/maxresdefault.jpg" group-title="國際",【연합뉴스TV】美중간선거 '사전투표 3,2
-https://www.youtube.com/watch?v=uvt-XmKXsO4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/odDcDvq994Q/maxresdefault.jpg" group-title="國際",【연합뉴스TV】트럼프 "이란 전쟁, 내가
-https://www.youtube.com/watch?v=odDcDvq994Q
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6lslZdJnwHY/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'환아 사망' 압수수색 일파
-https://www.youtube.com/watch?v=6lslZdJnwHY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zS8vZ6cNTKQ/maxresdefault.jpg" group-title="國際",【연합뉴스TV】'최대 20㎜' 가을비에 영
 https://www.youtube.com/watch?v=zS8vZ6cNTKQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fURlR626VwY/maxresdefault.jpg" group-title="國際",【연합뉴스TV】與 조희대 국정조사 12월
-https://www.youtube.com/watch?v=fURlR626VwY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ooIW0vcU-6Q/maxresdefault.jpg" group-title="國際",【연합뉴스TV】美美
-https://www.youtube.com/watch?v=ooIW0vcU-6Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6QZ_qc75ihU/maxresdefault.jpg" group-title="國際",【연합뉴스TV】24시간 현장을 전합니다 /
 https://www.youtube.com/watch?v=6QZ_qc75ihU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LUCCYu0qWsA/maxresdefault.jpg" group-title="國際",【JTBC News】윤 "집행도 안 할" 구색용
@@ -472,8 +456,6 @@ https://www.youtube.com/watch?v=BZNs2Dz40VY
 https://www.youtube.com/watch?v=j0aPEBJaf6E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/puTkGTRV9Vs/maxresdefault.jpg" group-title="國際",【JTBC News】'오세훈 2심 무죄' 판사,
 https://www.youtube.com/watch?v=puTkGTRV9Vs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DvQN2PEcsOU/maxresdefault.jpg" group-title="國際",【JTBC News】네타냐후 '운명의 날'…이스
-https://www.youtube.com/watch?v=DvQN2PEcsOU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hvVlyZ5GiE8/maxresdefault.jpg" group-title="國際",【Arirang TV】Live from KOREA
 https://www.youtube.com/watch?v=hvVlyZ5GiE8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-PWMxjBgr0k/maxresdefault.jpg" group-title="國際",【CNA】CNA 24/7 LIVE:
@@ -500,10 +482,6 @@ https://www.youtube.com/watch?v=AK5i3H-oVjc
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HZip6-X3AQw/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=HZip6-X3AQw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OU4q8QM6Vqo/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
-https://www.youtube.com/watch?v=OU4q8QM6Vqo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KqfqKI1CvMM/maxresdefault.jpg" group-title="購物",【三聖電視台】三聖台灣民俗布袋戲網路節目
-https://www.youtube.com/watch?v=KqfqKI1CvMM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KCMV3j9k5jY/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】蓁鑽台中電視臺
 https://www.youtube.com/watch?v=KCMV3j9k5jY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iPMD2q8V2kk/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播

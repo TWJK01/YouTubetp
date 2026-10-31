@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-10-31 19:00:44
+# Last Update: 2026-10-31 22:59:02
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hg4nYb3jE9A/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=hg4nYb3jE9A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映大愛全紀實
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映映照人生
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映大愛全紀實
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -112,8 +112,6 @@ https://www.youtube.com/watch?v=rIXYTUnP9Q4
 https://www.youtube.com/watch?v=OxQQsIvJTTU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/42ZZhNbgeK4/maxresdefault.jpg" group-title="綜藝",【真相觀察】周深罗大佑林子祥任贤齐汪明荃钟镇涛姜育恒等重温华语乐坛黄金年代不间断
 https://www.youtube.com/watch?v=42ZZhNbgeK4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dmH9tSLLn_I/maxresdefault.jpg" group-title="影劇",【戲說台灣】老戲迷集合那些年追過的民俗奇談靈異故事全放送小時不間斷
-https://www.youtube.com/watch?v=dmH9tSLLn_I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IANprWnVoaM/maxresdefault.jpg" group-title="影劇",【台視時光機】陳亞蘭經典神話鉅作降妖伏魔慈悲救世精彩全集馬拉松
 https://www.youtube.com/watch?v=IANprWnVoaM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sGdUaM5pJ9Y/maxresdefault.jpg" group-title="影劇",【台視時光機】高清重現神機妙算劉伯溫全集馬拉松震撼登場
@@ -300,8 +298,8 @@ https://www.youtube.com/watch?v=dt6dEz1rDzo
 https://www.youtube.com/watch?v=s1Ylmj87gXY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CeFqPyTkErM/maxresdefault.jpg" group-title="體育",【WCW】WCW Halloween H
 https://www.youtube.com/watch?v=CeFqPyTkErM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VAJdCtTE-qw/maxresdefault.jpg" group-title="體育",【WWE】Best of WWE Str
-https://www.youtube.com/watch?v=VAJdCtTE-qw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TgwgkfwFIec/maxresdefault.jpg" group-title="體育",【WWE】Countdown to NX
+https://www.youtube.com/watch?v=TgwgkfwFIec
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q4McLFyVl0o/maxresdefault.jpg" group-title="體育",【WWE Vault】Monsters Week W
 https://www.youtube.com/watch?v=Q4McLFyVl0o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q8hw5oKCDp4/maxresdefault.jpg" group-title="音樂",【周杰倫】音樂時光機
@@ -402,10 +400,10 @@ https://www.youtube.com/watch?v=WNziNKf7j6s
 https://www.youtube.com/watch?v=3MOrgUjiigE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jpvk2w9g0n8/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=Jpvk2w9g0n8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjxUF_D7blQ/maxresdefault.jpg" group-title="國際",【日テレNEWS】格差是正訴激戦州急進左派候補支持拡大中間選挙焦点氏氏姿国際日
 https://www.youtube.com/watch?v=AjxUF_D7blQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5IxIb5dYbBo/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=5IxIb5dYbBo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LlrLvl5qD_g/maxresdefault.jpg" group-title="國際",【日テレNEWS】大規模災害時首都機能継続副首都整備推進本部事務局発足政治日
 https://www.youtube.com/watch?v=LlrLvl5qD_g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pKMo2aE8tFo/maxresdefault.jpg" group-title="國際",【日テレNEWS】不明届人生存確認日本人人連絡取使捜索赤外線生存者確認列車追突事故国際日
@@ -432,8 +430,8 @@ https://www.youtube.com/watch?v=oW2Gb8YoGAg
 https://www.youtube.com/watch?v=s2CxZ7N25i0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KVvvNoIjHhA/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=KVvvNoIjHhA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KLxdW3zDaGs/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=KLxdW3zDaGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
@@ -446,8 +444,6 @@ https://www.youtube.com/watch?v=2f9NOSw-FqM
 https://www.youtube.com/watch?v=P8wZ_9kIaTM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KnC9XetRaqk/maxresdefault.jpg" group-title="國際",【YTN】"2차 세계대전 이후 처음"
 https://www.youtube.com/watch?v=KnC9XetRaqk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6e-dOOTWSbA/maxresdefault.jpg" group-title="國際",【YTN】'속수무책'으로 뚫린 세계
-https://www.youtube.com/watch?v=6e-dOOTWSbA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qGxd_KEDQeQ/maxresdefault.jpg" group-title="國際",【연합뉴스TV】28번 현장 유세…80세 대
@@ -658,8 +654,6 @@ https://www.youtube.com/watch?v=XSD5ptYisw8
 https://www.youtube.com/watch?v=xxMRjVwCQ3o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xwAWSh35uuw/maxresdefault.jpg" group-title="風景",【新北】淡水漁人碼頭觀光
 https://www.youtube.com/watch?v=xwAWSh35uuw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_C_WhefP9Y8/maxresdefault.jpg" group-title="風景",【紅樹林有線電視】市淡水區景點淡水渡船頭淡水河夕陽觀音山港淡水老街河岸淡水渡船乗場
-https://www.youtube.com/watch?v=_C_WhefP9Y8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yn_8QwCWsyI/maxresdefault.jpg" group-title="風景",【紅樹林有線電視】市淡水區即時路況車流淡水竹圍雙向紅樹林往水源街二段與淡金路口
 https://www.youtube.com/watch?v=yn_8QwCWsyI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8XZAoMWB8t4/maxresdefault.jpg" group-title="風景",【necoast nsa】玩樂東北角外澳沙灘

@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-11-08 17:30:23
+# Last Update: 2026-11-08 21:36:04
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hg4nYb3jE9A/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=hg4nYb3jE9A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映日日素
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映日日素
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映法華經序中文版
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="台灣",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -104,8 +104,6 @@ https://www.youtube.com/watch?v=v8MUGB4vst8
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="綜藝",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RdgGNO3xJrY/maxresdefault.jpg" group-title="綜藝",【204檔案】很嚴重
-https://www.youtube.com/watch?v=RdgGNO3xJrY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xyCB4q1wM_o/maxresdefault.jpg" group-title="綜藝",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=xyCB4q1wM_o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Xz5nXSzKQLI/maxresdefault.jpg" group-title="綜藝",【非凡大探索】台中美食篇不間斷
@@ -318,8 +316,8 @@ https://www.youtube.com/watch?v=jAkix1CqezE
 https://www.youtube.com/watch?v=dt6dEz1rDzo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s1Ylmj87gXY/maxresdefault.jpg" group-title="少兒",【Disney Channel】🔴LIVE 24/7! Wiz
 https://www.youtube.com/watch?v=s1Ylmj87gXY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DCQ7bDOxRL8/maxresdefault.jpg" group-title="體育",【籃海運動】週末籃球聯賽眾星雲集艾樂蛋糕
-https://www.youtube.com/watch?v=DCQ7bDOxRL8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bkDWGVUW-sw/maxresdefault.jpg" group-title="體育",【getwin_sport】年第六屆世界盃棒球賽中華巴拿馬
+https://www.youtube.com/watch?v=bkDWGVUW-sw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w6FT1c6P7hQ/maxresdefault.jpg" group-title="體育",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=w6FT1c6P7hQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m-ERLKjVKTY/maxresdefault.jpg" group-title="體育",【WWE Vault】Epics, Bangers
@@ -420,14 +418,16 @@ https://www.youtube.com/watch?v=3MOrgUjiigE
 https://www.youtube.com/watch?v=4xKQcLax56Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4XqiNFJuNsU/maxresdefault.jpg" group-title="國際",【ANNnewsCH】朝最新情報厳選届朝
+https://www.youtube.com/watch?v=4XqiNFJuNsU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NwtnKYpRfBs/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=NwtnKYpRfBs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jGHLhb-0m1s/maxresdefault.jpg" group-title="國際",【日テレNEWS】自民党消費減税関連法案採決棄権議員理由回答求原発事故想定政府防災訓練住民避難手順確認政治日
 https://www.youtube.com/watch?v=jGHLhb-0m1s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uiRVXfW2vZo/maxresdefault.jpg" group-title="國際",【日テレNEWS】日本標的北朝鮮集団会話入手攻撃裏側身近広社会日
 https://www.youtube.com/watch?v=uiRVXfW2vZo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XWHawV9NW9s/maxresdefault.jpg" group-title="國際",【日テレNEWS】人事新報道官打診共和党歴史的大敗厳審判国際日
 https://www.youtube.com/watch?v=XWHawV9NW9s
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GqwUlvvkrDA/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=GqwUlvvkrDA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oLZECnf1-g0/maxresdefault.jpg" group-title="國際",【日テレNEWS】日本三名瀑袋田滝茨城県久慈郡大子町日
 https://www.youtube.com/watch?v=oLZECnf1-g0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EeHqLegqSqU/maxresdefault.jpg" group-title="國際",【日テレNEWS】那覇空港日
@@ -450,8 +450,8 @@ https://www.youtube.com/watch?v=s2CxZ7N25i0
 https://www.youtube.com/watch?v=e2pgLUmaxGs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="國際",【NHK WORLD-JAPAN】LIVE: NHK WORLD
 https://www.youtube.com/watch?v=IimtbuqYIE8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6UTp4V00cls/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】最新月日
-https://www.youtube.com/watch?v=6UTp4V00cls
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/F-e3JSif8bE/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】朝最新情報月日
+https://www.youtube.com/watch?v=F-e3JSif8bE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u7kCTaCX_J4/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】新宿駅前現在様子
 https://www.youtube.com/watch?v=u7kCTaCX_J4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYpspgeXSaQ/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
@@ -468,14 +468,14 @@ https://www.youtube.com/watch?v=tg93PBW3B98
 https://www.youtube.com/watch?v=imjglISPWRw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4TLtQiGapMw/maxresdefault.jpg" group-title="國際",【연합뉴스TV】"수도 리야드 한복판 뚫렸다
+https://www.youtube.com/watch?v=4TLtQiGapMw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tyGSDMBeY2o/maxresdefault.jpg" group-title="國際",【연합뉴스TV】美韓
 https://www.youtube.com/watch?v=tyGSDMBeY2o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6pVrvQ3NJ8k/maxresdefault.jpg" group-title="國際",【연합뉴스TV】서울 영하권 추위에 '첫눈'
 https://www.youtube.com/watch?v=6pVrvQ3NJ8k
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NB_t04g-BUs/maxresdefault.jpg" group-title="國際",【연합뉴스TV】선거 참패 트럼프, 대이란
 https://www.youtube.com/watch?v=NB_t04g-BUs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/L-HoqiYrRSI/maxresdefault.jpg" group-title="國際",【연합뉴스TV】입동 지나자 영하권 추위…서
-https://www.youtube.com/watch?v=L-HoqiYrRSI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6QZ_qc75ihU/maxresdefault.jpg" group-title="國際",【연합뉴스TV】24시간 현장을 전합니다 /
 https://www.youtube.com/watch?v=6QZ_qc75ihU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qlZDpZximFg/maxresdefault.jpg" group-title="國際",【JTBC News】삼성 라이온즈, 12년 만에

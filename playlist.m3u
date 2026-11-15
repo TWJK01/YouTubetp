@@ -1,9 +1,11 @@
 #EXTM3U
-# Last Update: 2026-11-14 20:19:06
+# Last Update: 2026-11-15 00:39:10
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="台灣",【TTV LIVE 台視直播】台視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/maxresdefault.jpg" group-title="台灣",【台灣地震監視】台灣地震監視
 https://www.youtube.com/watch?v=KyT4qSK8lJo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OaOT7LBr0zQ/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
+https://www.youtube.com/watch?v=OaOT7LBr0zQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SgRKSTXk5cc/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】台灣天氣即時監測
 https://www.youtube.com/watch?v=SgRKSTXk5cc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_-25RVVJANI/maxresdefault.jpg" group-title="台灣",【台灣颱風論壇】花蓮萬里溪堰塞湖
@@ -20,7 +22,7 @@ https://www.youtube.com/watch?v=KMMHw8rllic
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hg4nYb3jE9A/maxresdefault.jpg" group-title="台灣",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=hg4nYb3jE9A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映名人書房
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛一臺全球現正播映證嚴上人說故事
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="台灣",【大愛電視】大愛二臺全球現正播映人間菩提
 https://www.youtube.com/watch?v=QDxRJP-wfeI
@@ -30,6 +32,8 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="台灣",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wHLNIH_d-vo/maxresdefault.jpg" group-title="台灣",【中天新聞CtiNews】蔣萬安安心大遊行激出八萬人大洋流今最終場許淑華為東發號挨告蘇巧慧神像斷牙專家示警蘇貞蓉黃韵筑報新聞中天新聞
+https://www.youtube.com/watch?v=wHLNIH_d-vo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HnhRUYF4Og4/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】黃仁勳下台內幕曝光桃色風暴背後竟藏華府權鬥盧比歐聯手對中鷹派斬斷川普連結中天電視
 https://www.youtube.com/watch?v=HnhRUYF4Og4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="台灣",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -420,14 +424,14 @@ https://www.youtube.com/watch?v=3MOrgUjiigE
 https://www.youtube.com/watch?v=4xKQcLax56Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-RogqxfnBdg/maxresdefault.jpg" group-title="音樂",【KING AMUSEMENT CREATIVE】時間日
 https://www.youtube.com/watch?v=-RogqxfnBdg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/foimSX-XjZ8/maxresdefault.jpg" group-title="國際",【日テレNEWS】完全復旧国際日
+https://www.youtube.com/watch?v=foimSX-XjZ8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nLl1PP2t_2Q/maxresdefault.jpg" group-title="國際",【日テレNEWS】石破元首相国結集重要大国間外交潮流中自民党合同会議推進法案了承政治日
+https://www.youtube.com/watch?v=nLl1PP2t_2Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gjvQeQgcy_0/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
+https://www.youtube.com/watch?v=gjvQeQgcy_0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/33tHrsziExs/maxresdefault.jpg" group-title="國際",【日テレNEWS】全米航空機一時地上待機命令欠航遅延約万人足止国際日
 https://www.youtube.com/watch?v=33tHrsziExs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qO6wFO_ildY/maxresdefault.jpg" group-title="國際",【日テレNEWS】石破元首相国結集重要大国間外交潮流中自民党合同会議推進法案了承政治日
-https://www.youtube.com/watch?v=qO6wFO_ildY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o_Pxapyk93I/maxresdefault.jpg" group-title="國際",【日テレNEWS】最新生活情報月日日
-https://www.youtube.com/watch?v=o_Pxapyk93I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rElE457Dq0o/maxresdefault.jpg" group-title="國際",【日テレNEWS】完全復旧国際日
-https://www.youtube.com/watch?v=rElE457Dq0o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KJK6CbUYKEo/maxresdefault.jpg" group-title="國際",【日テレNEWS】日本三名瀑袋田滝茨城県久慈郡大子町日
 https://www.youtube.com/watch?v=KJK6CbUYKEo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dNlpbgnLTbU/maxresdefault.jpg" group-title="國際",【日テレNEWS】那覇空港日
@@ -460,12 +464,10 @@ https://www.youtube.com/watch?v=dYpspgeXSaQ
 https://www.youtube.com/watch?v=Anr15FA9OCI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2f9NOSw-FqM/maxresdefault.jpg" group-title="國際",【TBS NEWS DIG Powered by JNN】羽田空港第現在様子
 https://www.youtube.com/watch?v=2f9NOSw-FqM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z9ILU9zJhzU/maxresdefault.jpg" group-title="國際",【YTN】우크라 내부서 '대국민 투표
+https://www.youtube.com/watch?v=Z9ILU9zJhzU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/otwZTNz50wY/maxresdefault.jpg" group-title="國際",【YTN】젠슨 황 사임 뒤 이번엔 앨
 https://www.youtube.com/watch?v=otwZTNz50wY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qfDrdV0SoqM/maxresdefault.jpg" group-title="國際",【YTN】9·11 테러 이후 또 벌어
-https://www.youtube.com/watch?v=qfDrdV0SoqM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7QtAbPbLA3c/maxresdefault.jpg" group-title="國際",【YTN】트럼프 "주저하지 않겠다".
-https://www.youtube.com/watch?v=7QtAbPbLA3c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aZyD6EPl6KU/maxresdefault.jpg" group-title="國際",【YTN】대한민국 24시간 뉴스채널
 https://www.youtube.com/watch?v=aZyD6EPl6KU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z3TjlPJ36Dg/maxresdefault.jpg" group-title="國際",【연합뉴스TV】젠슨 황 "앨리스와 '적절한
@@ -512,8 +514,8 @@ https://www.youtube.com/watch?v=INWke64gHEA
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3RRR02WOoSY/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=3RRR02WOoSY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BSRGMeRrTiY/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
-https://www.youtube.com/watch?v=BSRGMeRrTiY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WluCwBtEQEY/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
+https://www.youtube.com/watch?v=WluCwBtEQEY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6E37kskILBE/maxresdefault.jpg" group-title="購物",【三聖電視台】三聖台灣民俗布袋戲網路節目
 https://www.youtube.com/watch?v=6E37kskILBE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KCMV3j9k5jY/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】蓁鑽台中電視臺
@@ -848,6 +850,8 @@ https://www.youtube.com/watch?v=JhQuR77AR7U
 https://www.youtube.com/watch?v=ZdqHgQwvZOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wTHhv7M0vCI/maxresdefault.jpg" group-title="風景",【東部海岸】Taitung Green I
 https://www.youtube.com/watch?v=wTHhv7M0vCI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TKSmhthJbDo/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】2026-11-15 Taiw
+https://www.youtube.com/watch?v=TKSmhthJbDo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BUJJaW0vkJs/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】台東鯉魚山
 https://www.youtube.com/watch?v=BUJJaW0vkJs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LSkq-wHMxQY/maxresdefault.jpg" group-title="風景",【Amazing Taitung 台東就醬玩】台東南橫埡口
